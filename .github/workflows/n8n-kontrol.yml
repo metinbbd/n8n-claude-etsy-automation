@@ -1,0 +1,18 @@
+name: n8n kurulum kontrolu
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: n8n hesabini kontrol et (salt okuma)
+        env:
+          N8N_API_KEY: ${{ secrets.N8N_API_KEY }}
+        run: python3 scripts/n8n_check.py

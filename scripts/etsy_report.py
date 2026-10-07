@@ -11,22 +11,16 @@ Akis:
 Depo herkese acik oldugu icin rapor icerigi LOGA YAZILMAZ, dosyaya kaydedilmez.
 """
 import argparse
-import hashlib
 import html
-import json
 import os
 import re
 import sys
-import time
-import urllib.error
-import urllib.request
 import uuid
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 
-BASE = os.environ.get("N8N_BASE_URL", "https://metinbbd.app.n8n.cloud").rstrip("/")
-API_KEY = os.environ.get("N8N_API_KEY", "")
-MAIL_TO = "selinmetin13@gmail.com"
+from n8n_common import RaporHatasi, deploy, list_all, secret_path, send_mail, webhook
+
 WORKFLOW_NAME = "Etsy Gunluk Rapor (salt okuma)"
 ETSY_CRED_NAME = "Etsy OAuth2"
 ETSY = "https://openapi.etsy.com/v3/application"
@@ -36,57 +30,6 @@ DAYS_FETCHED = 35
 AYLAR_TR = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz",
             "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
 GUNLER_TR = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"]
-
-
-class RaporHatasi(Exception):
-    pass
-
-
-# ---------------------------------------------------------------- n8n API
-
-def n8n(method, path, body=None):
-    req = urllib.request.Request(
-        f"{BASE}/api/v1{path}",
-        data=json.dumps(body).encode() if body is not None else None,
-        method=method,
-        headers={"X-N8N-API-KEY": API_KEY, "Accept": "application/json",
-                 "Content-Type": "application/json"},
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            return json.loads(r.read() or b"{}")
-    except urllib.error.HTTPError as e:
-        detail = e.read().decode(errors="replace")[:300]
-        raise RaporHatasi(f"n8n API {method} {path.split('?')[0]} -> HTTP {e.code}: {detail}")
-
-
-def list_all(path):
-    items, cursor = [], None
-    while True:
-        sep = "&" if "?" in path else "?"
-        data = n8n("GET", f"{path}{sep}limit=250" + (f"&cursor={cursor}" if cursor else ""))
-        items += data.get("data", [])
-        cursor = data.get("nextCursor")
-        if not cursor:
-            return items
-
-
-def webhook(path, payload, attempts=6):
-    url = f"{BASE}/webhook/{path}"
-    for i in range(attempts):
-        req = urllib.request.Request(
-            url, data=json.dumps(payload).encode(), method="POST",
-            headers={"Content-Type": "application/json"})
-        try:
-            with urllib.request.urlopen(req, timeout=120) as r:
-                return json.loads(r.read() or b"{}")
-        except urllib.error.HTTPError as e:
-            # Yeni aktiflesen webhook birkac saniye 404 verebilir.
-            if e.code == 404 and i < attempts - 1:
-                time.sleep(5)
-                continue
-            detail = e.read().decode(errors="replace")[:300]
-            raise RaporHatasi(f"n8n is akisi HTTP {e.code} dondu: {detail}")
 
 
 # ------------------------------------------------- Etsy anahtari (x-api-key)
@@ -158,11 +101,6 @@ def find_etsy_setup(workflows, credentials):
 
 # ------------------------------------------------------ n8n is akisi tanimi
 
-def secret_path(kind):
-    digest = hashlib.sha256(f"etsy-rapor:{kind}:{API_KEY}".encode()).hexdigest()[:40]
-    return f"etsy-rapor-{kind}-{digest}"
-
-
 SANITIZE_JS = r"""
 // Alici kisisel bilgileri (isim, e-posta, adres, mesaj, alici id) burada atilir.
 const shop = $('Etsy magaza').first().json;
@@ -212,7 +150,7 @@ return [{ json: {
 """
 
 
-def build_workflow(cred_id, api_key, gmail_cred):
+def build_workflow(cred_id, api_key):
     etsy_auth = {
         "authentication": "genericCredentialType",
         "genericAuthType": "oAuth2Api",
@@ -281,28 +219,6 @@ def build_workflow(cred_id, api_key, gmail_cred):
         "Etsy siparisler": {"main": [[{"node": "Kisisel bilgiyi temizle", "type": "main", "index": 0}]]},
         "Kisisel bilgiyi temizle": {"main": [[{"node": "Ozet dondur", "type": "main", "index": 0}]]},
     }
-    if gmail_cred:
-        nodes += [
-            {"id": str(uuid.uuid5(uuid.NAMESPACE_URL, "mail-webhook")), "name": "Webhook mail",
-             "type": "n8n-nodes-base.webhook", "typeVersion": 2, "position": [0, 240],
-             "webhookId": str(uuid.uuid5(uuid.NAMESPACE_URL, secret_path("mail"))),
-             "parameters": {"httpMethod": "POST", "path": secret_path("mail"),
-                            "responseMode": "responseNode", "options": {}}},
-            {"id": str(uuid.uuid5(uuid.NAMESPACE_URL, "gmail")), "name": "Gmail gonder",
-             "type": "n8n-nodes-base.gmail", "typeVersion": 2.1, "position": [220, 240],
-             "parameters": {"resource": "message", "operation": "send",
-                            "sendTo": MAIL_TO,  # alici sabit; disaridan degistirilemez
-                            "subject": "={{ $json.body.subject }}",
-                            "emailType": "html",
-                            "message": "={{ $json.body.html }}",
-                            "options": {"appendAttribution": False}},
-             "credentials": {"gmailOAuth2": {"id": gmail_cred["id"], "name": gmail_cred["name"]}}},
-            {"id": str(uuid.uuid5(uuid.NAMESPACE_URL, "mail-yanit")), "name": "Mail tamam",
-             "type": "n8n-nodes-base.respondToWebhook", "typeVersion": 1.1, "position": [440, 240],
-             "parameters": {"respondWith": "json", "responseBody": '{"ok": true}', "options": {}}},
-        ]
-        connections["Webhook mail"] = {"main": [[{"node": "Gmail gonder", "type": "main", "index": 0}]]}
-        connections["Gmail gonder"] = {"main": [[{"node": "Mail tamam", "type": "main", "index": 0}]]}
     return {
         "name": WORKFLOW_NAME,
         "nodes": nodes,
@@ -322,18 +238,6 @@ def assert_read_only(wf):
                 raise RaporHatasi(f"Guvenlik: {node['name']} salt okuma degil!")
             if p.get("sendBody"):
                 raise RaporHatasi(f"Guvenlik: {node['name']} govde gonderiyor!")
-
-
-def deploy(wf):
-    assert_read_only(wf)
-    existing = [w for w in list_all("/workflows") if w.get("name") == WORKFLOW_NAME]
-    if existing:
-        wf_id = existing[0]["id"]
-        n8n("PUT", f"/workflows/{wf_id}", wf)
-    else:
-        wf_id = n8n("POST", "/workflows", wf)["id"]
-    n8n("POST", f"/workflows/{wf_id}/activate")
-    return wf_id
 
 
 # ----------------------------------------------------------------- rapor
@@ -412,8 +316,8 @@ def build_report(data, now=None):
         f"<th style='text-align:left;padding:6px 10px;background:#f6f1ea'>{x}</th>" for x in c) + "</tr>"
     table = "<table style='border-collapse:collapse;width:100%;font-size:14px'>"
 
-    parts = [f"<div style='font-family:Arial,sans-serif;max-width:640px;color:#222'>",
-             f"<h2 style='color:#d5641c;margin-bottom:4px'>Etsy günlük satış raporu</h2>",
+    parts = ["<div style='font-family:Arial,sans-serif;max-width:640px;color:#222'>",
+             "<h2 style='color:#d5641c;margin-bottom:4px'>Etsy günlük satış raporu</h2>",
              f"<div style='color:#666'>{e(shop.get('name') or '')} · Dün: {tarih(yday)}</div>",
              "<h3>Dün</h3>", table,
              th("", "Dün", "Önceki gün", "Geçen hafta aynı gün"),
@@ -477,8 +381,6 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-mail", action="store_true", help="Mail gonderme (sadece test)")
     args = ap.parse_args()
-    if not API_KEY:
-        raise RaporHatasi("N8N_API_KEY secret'i tanimli degil.")
 
     workflows = list_all("/workflows")
     credentials = list_all("/credentials")
@@ -490,10 +392,10 @@ def main():
                           "(keystring:shared_secret) ekleyin.")
     print("Etsy baglantisi bulundu. x-api-key formati:",
           "keystring:shared_secret ✓" if ":" in api_key else "SADECE keystring (Etsy reddedebilir)")
-    gmail = next((c for c in credentials if c.get("type") == "gmailOAuth2"), None)
-    print("Gmail baglantisi:", "bulundu ✓" if gmail else "YOK")
 
-    deploy(build_workflow(cred_id, api_key, gmail))
+    wf = build_workflow(cred_id, api_key)
+    assert_read_only(wf)
+    deploy(wf, workflows)
     print("n8n is akisi guncel ve aktif.")
 
     min_created = int((datetime.now(IST) - timedelta(days=DAYS_FETCHED)).timestamp())
@@ -514,12 +416,8 @@ def main():
 
     if args.no_mail:
         print("Test modu: mail gonderilmedi.")
-    elif not gmail:
-        raise RaporHatasi(
-            "Rapor hazir ama mail gonderilemedi: n8n'de Gmail baglantisi yok. "
-            "n8n → Credentials → Add credential → 'Gmail OAuth2' → Sign in with Google.")
     else:
-        webhook(secret_path("mail"), {"subject": subject, "html": body})
+        send_mail(subject, body, credentials, workflows)
         print("Rapor maili gonderildi.")
     if error:
         raise error

@@ -8,6 +8,8 @@ from datetime import datetime, timedelta
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
 os.environ.setdefault("N8N_API_KEY", "test-key")
 import etsy_report as er  # noqa: E402
+import n8n_common  # noqa: E402
+
 
 NOW = datetime(2026, 10, 8, 9, 5, tzinfo=er.IST)
 PII = ["Ayse Yilmaz", "ayse@example.com", "Ataturk Cad", "Kadikoy", "buyer note", "987654"]
@@ -74,9 +76,10 @@ class Test(unittest.TestCase):
             f.write(body)
 
     def test_workflow_is_read_only(self):
-        wf = er.build_workflow("1", "key:secret", {"id": "2", "name": "Gmail"})
+        wf = er.build_workflow("1", "key:secret")
         er.assert_read_only(wf)
-        mail = next(n for n in wf["nodes"] if n["type"] == "n8n-nodes-base.gmail")
+        mailer = n8n_common.build_mailer({"id": "2", "name": "Gmail"})
+        mail = next(n for n in mailer["nodes"] if n["type"] == "n8n-nodes-base.gmail")
         self.assertEqual(mail["parameters"]["sendTo"], "selinmetin13@gmail.com")
         wf["nodes"][1]["parameters"]["method"] = "DELETE"
         with self.assertRaises(er.RaporHatasi):

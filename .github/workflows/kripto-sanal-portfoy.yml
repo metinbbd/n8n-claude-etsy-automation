@@ -1,0 +1,41 @@
+name: Kripto sanal portfoy (SAHTE para)
+
+on:
+  schedule:
+    - cron: "10 6 * * *"   # 06:10 UTC = 09:10 Istanbul
+  workflow_dispatch:
+    inputs:
+      mail:
+        description: "Raporu mail olarak gonder"
+        type: boolean
+        default: true
+
+# Sadece bu depoya portfoy durumunu ve raporu yazmak icin. Borsa hesabi/anahtari YOK.
+permissions:
+  contents: write
+
+concurrency:
+  group: kripto-sanal-portfoy
+  cancel-in-progress: false
+
+jobs:
+  portfoy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - name: Testler (sahte veriyle)
+        run: python3 -m unittest discover -s tests -v
+      - name: Portfoyu guncelle ve rapor hazirla
+        env:
+          N8N_API_KEY: ${{ secrets.N8N_API_KEY }}
+        run: python3 scripts/kripto_portfoy.py ${{ (github.event_name == 'workflow_dispatch' && !inputs.mail) && '--no-mail' || '' }}
+      - name: Portfoy durumunu ve raporu depoya kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/kripto raporlar/kripto
+          git diff --cached --quiet && exit 0
+          git commit -m "Kripto sanal portfoy: $(TZ=Europe/Istanbul date +%Y-%m-%d)"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && exit 0; sleep 5; done
+          exit 1

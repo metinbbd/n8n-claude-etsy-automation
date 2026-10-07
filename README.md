@@ -28,3 +28,25 @@ GitHub → **Actions** → **Etsy gunluk satis raporu** → **Run workflow**.
 - `scripts/etsy_report.py` – n8n is akisini kurar, veriyi alir, raporu hazirlar.
 - `scripts/n8n_check.py` – n8n hesabini salt okuma olarak kontrol eder.
 - `tests/` – sahte veriyle testler.
+
+## 2) Kripto sanal portfoy (SAHTE para)
+
+Her sabah **09:10 (Istanbul)** calisir. **Borsa hesabi yok, API anahtari yok,
+gercek emir yok.** Sadece Binance'in herkese acik fiyat verisini okur.
+
+- Baslangic: **200 USDT** (sahte), 10 coin: BTC ETH SOL BNB XRP ADA DOGE AVAX LINK DOT
+- **3x kaldirac**, izole teminat, **long ve short**
+- Kurallar: EMA20/EMA50 trendi + RSI ile sinyal; her pozisyona toplam degerin
+  %10'u teminat; stop 2×ATR (%3–15), hedef stop mesafesinin 2 kati; trend
+  bozulunca kapanir. Gun icinde stop/hedef/likidasyon saatlik fiyatlarla kontrol edilir.
+- Ucret %0,05 (islem basina); fonlama 8 saatte %0,01 (tahmini).
+- GitHub sunuculari Binance vadeli API'sine erisemedigi icin (ABD kisitlamasi)
+  fiyatlar Binance **spot** verisinden alinir; fark cok kucuktur.
+
+Her sabah "**hareket VAR / YOK**" raporu mail olarak gelir ve depoya da kaydedilir:
+- Son rapor: [`raporlar/kripto/SON_RAPOR.md`](raporlar/kripto/SON_RAPOR.md)
+- Gecmis raporlar: `raporlar/kripto/`
+- Portfoy durumu: `data/kripto/portfoy.json`
+
+Portfoyu sifirlamak icin `data/kripto/portfoy.json` dosyasini silmek yeterli.
+Bu bir yatirim tavsiyesi degildir.

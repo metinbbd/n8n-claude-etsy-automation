@@ -107,6 +107,21 @@ class Test(unittest.TestCase):
         self.assertAlmostEqual(trade["cikis"], pos["hedef"])
         self.assertLess(trade["net"], (pos["hedef"] - price) * pos["miktar"])  # ucret+fonlama dustu
 
+    def test_max_positions(self):
+        st = kp.new_state()
+        m = {}
+        for i, c in enumerate(kp.COINS):
+            d = daily([0.02 - i * 0.0005, -0.01])
+            m[c] = {"daily": d, "hourly": hourly([(d[-1]["c"],) * 2], NOW - kp.HOUR - 600_000)}
+        moves, prices, inds = kp.step(st, m, NOW)
+        longs = [c for c in kp.COINS if inds[c]["signal"] == "LONG"]
+        self.assertGreater(len(longs), kp.MAX_POSITIONS)
+        self.assertEqual(len(st["pozisyonlar"]), kp.MAX_POSITIONS)
+        strongest = sorted(longs, key=lambda c: -inds[c]["guc"])[:kp.MAX_POSITIONS]
+        self.assertEqual(set(st["pozisyonlar"]), set(strongest))
+        _, md, _ = kp.build_report(st, moves, prices, inds, NOW)
+        self.assertIn("sırada", md)
+
 
 if __name__ == "__main__":
     unittest.main()

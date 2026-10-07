@@ -37,7 +37,7 @@ gercek emir yok.** Sadece Binance'in herkese acik fiyat verisini okur.
 - Baslangic: **200 USDT** (sahte), 10 coin: BTC ETH SOL BNB XRP ADA DOGE AVAX LINK DOT
 - **3x kaldirac**, izole teminat, **long ve short**
 - Kurallar: EMA20/EMA50 trendi + RSI ile sinyal; her pozisyona toplam degerin
-  %10'u teminat; stop 2×ATR (%3–15), hedef stop mesafesinin 2 kati; trend
+  %10'u teminat (ayni anda en fazla 5 pozisyon, sinyal fazlaysa en guclu trendler); stop 2×ATR (%3–15), hedef stop mesafesinin 2 kati; trend
   bozulunca kapanir. Gun icinde stop/hedef/likidasyon saatlik fiyatlarla kontrol edilir.
 - Ucret %0,05 (islem basina); fonlama 8 saatte %0,01 (tahmini).
 - GitHub sunuculari Binance vadeli API'sine erisemedigi icin (ABD kisitlamasi)

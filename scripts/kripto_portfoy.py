@@ -10,7 +10,8 @@
 Kurallar (gunluk mumlara gore, her sabah):
   LONG  : EMA20 > EMA50, fiyat > EMA20 ve RSI 50-70
   SHORT : EMA20 < EMA50, fiyat < EMA20 ve RSI 30-50
-  Teminat: toplam degerin %10'u (coin basina en fazla 1 pozisyon)
+  Teminat: toplam degerin %10'u (coin basina en fazla 1 pozisyon, toplam en fazla 5;
+           sinyal fazlaysa trendi en guclu olanlar secilir)
   Stop  : 2 x ATR (en az %3, en fazla %15) · Hedef: stop mesafesinin 2 kati
   Trend bozulursa (fiyat EMA20'nin ters tarafina gecerse) pozisyon kapanir.
   Gun icinde stop/hedef/likidasyon saatlik mumlarla kontrol edilir.
@@ -32,6 +33,7 @@ MMR = 0.005           # bakim teminati orani (likidasyon hesabi)
 FUNDING = 0.0001      # 8 saatlik tahmini fonlama: long oder, short alir
 MARGIN_PCT = 0.10
 MIN_MARGIN = 5.0
+MAX_POSITIONS = 5     # ayni anda en fazla 5 pozisyon (riski dagitmak icin)
 HOUR = 3600_000
 IST = timezone(timedelta(hours=3))
 DATA_API = "https://data-api.binance.vision/api/v3/klines"
@@ -113,6 +115,7 @@ def analyze(daily):
     else:
         signal = "BEKLE"
     return {"close": close, "prev": closes[-2], "ema20": e20, "ema50": e50, "rsi": r,
+            "guc": abs(e20 / e50 - 1),
             "atr": atr(daily), "signal": signal,
             "trend": "yukarı" if e20 > e50 else "aşağı"}
 
@@ -230,11 +233,15 @@ def step(state, market, now_ms):
 
     closed_today = {h["coin"] for h in state["hareketler"]
                     if h["gun"] == today and "kapandı" in h["islem"]}
-    for coin in COINS:
-        ind = inds[coin]
-        if (ind and ind["signal"] != "BEKLE" and coin not in state["pozisyonlar"]
-                and coin not in closed_today):
-            open_position(state, coin, ind["signal"], prices[coin], ind, ts, prices, today)
+    candidates = sorted(
+        (c for c in COINS if inds[c] and inds[c]["signal"] != "BEKLE"
+         and c not in state["pozisyonlar"] and c not in closed_today),
+        key=lambda c: -inds[c]["guc"])
+    for coin in candidates:
+        if len(state["pozisyonlar"]) >= MAX_POSITIONS:
+            break
+        open_position(state, coin, inds[coin]["signal"], prices[coin], inds[coin], ts, prices,
+                      today)
 
     state["son_kontrol"] = ts
     value = equity(state, prices)
@@ -303,15 +310,25 @@ def build_report(state, moves, prices, inds, now_ms):
         blocks += [("h", "Açık pozisyonlar"), ("p", "Açık pozisyon yok.")]
 
     srow = []
+    closed_today = {m["coin"] for m in moves if "kapandı" in m["islem"]}
     for coin in COINS:
         ind = inds.get(coin)
         if not ind:
-            srow.append([coin, fiyat(prices[coin]), "—", "—", "—", "veri yetersiz"])
+            srow.append([coin, fiyat(prices[coin]), "—", "—", "—", "veri yetersiz", "—"])
             continue
+        if coin in state["pozisyonlar"]:
+            durum = f"{state['pozisyonlar'][coin]['yon']} açık"
+        elif ind["signal"] == "BEKLE":
+            durum = "—"
+        elif coin in closed_today:
+            durum = "bugün kapandı, yarın bakılır"
+        else:
+            durum = f"sırada (en fazla {MAX_POSITIONS} pozisyon)"
         srow.append([coin, fiyat(prices[coin]), sgn((ind["close"] / ind["prev"] - 1) * 100, 1) + "%",
-                     ind["trend"], num(ind["rsi"], 0), ind["signal"]])
+                     ind["trend"], num(ind["rsi"], 0), ind["signal"], durum])
     blocks += [("h", "Günlük sinyaller"),
-               ("table", ["Coin", "Fiyat", "Dünkü değişim", "Trend", "RSI", "Sinyal"], srow)]
+               ("table", ["Coin", "Fiyat", "Dünkü değişim", "Trend", "RSI", "Sinyal", "Durum"],
+                srow)]
 
     trades = state["islemler"]
     if trades:
@@ -320,7 +337,7 @@ def build_report(state, moves, prices, inds, now_ms):
                    ("p", f"{len(trades)} işlem · kazanan %{num(wins / len(trades) * 100, 0)} · "
                          f"toplam {sgn(sum(t['net'] for t in trades))} USDT")]
     blocks.append(("small", "Kurallar: EMA20/EMA50 trendi + RSI ile LONG/SHORT; teminat toplam "
-                            "değerin %10'u, 3x kaldıraç; stop 2×ATR (%3–15), hedef 2×stop; trend "
+                            "değerin %10'u, 3x kaldıraç, en fazla 5 pozisyon (sinyal fazlaysa en güçlü trendler); stop 2×ATR (%3–15), hedef 2×stop; trend "
                             "bozulunca kapanır. Ücret %0,05; fonlama 8 saatte %0,01 (tahmini). "
                             "Bu bir yatırım tavsiyesi değildir."))
     title = f"Kripto sanal portföy – {day.strftime('%d.%m.%Y')}"

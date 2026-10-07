@@ -1,0 +1,32 @@
+name: Etsy gunluk satis raporu
+
+on:
+  schedule:
+    - cron: "5 6 * * *"   # 06:05 UTC = 09:05 Istanbul (GitHub birkac dakika gecikebilir)
+  workflow_dispatch:
+    inputs:
+      mail:
+        description: "Raporu mail olarak gonder"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: etsy-gunluk-rapor
+  cancel-in-progress: false
+
+jobs:
+  rapor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Testler (sahte veriyle)
+        run: python3 -m unittest discover -s tests -v
+      - name: Raporu hazirla ve gonder (Etsy'ye sadece okuma istegi)
+        env:
+          N8N_API_KEY: ${{ secrets.N8N_API_KEY }}
+          ETSY_API_KEY: ${{ secrets.ETSY_API_KEY }}
+        run: python3 scripts/etsy_report.py ${{ (github.event_name == 'workflow_dispatch' && !inputs.mail) && '--no-mail' || '' }}

@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Testler (sahte veriyle)
         run: python3 -m unittest discover -s tests -v
       - name: Raporu hazirla ve gonder (Etsy'ye sadece okuma istegi)

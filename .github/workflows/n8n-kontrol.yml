@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: n8n hesabini kontrol et (salt okuma)
         env:
           N8N_API_KEY: ${{ secrets.N8N_API_KEY }}

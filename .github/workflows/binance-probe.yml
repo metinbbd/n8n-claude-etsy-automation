@@ -1,0 +1,16 @@
+name: binance erisim testi (gecici)
+on: workflow_dispatch
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - run: |
+          for u in "https://fapi.binance.com/fapi/v1/klines?symbol=BTCUSDT&interval=1d&limit=2" \
+                   "https://fapi.binance.com/fapi/v1/fundingRate?symbol=BTCUSDT&limit=2" \
+                   "https://api.binance.com/api/v3/klines?symbol=BTCUSDT&interval=1d&limit=2" \
+                   "https://data-api.binance.vision/api/v3/klines?symbol=BTCUSDT&interval=1d&limit=2"; do
+            echo "$u -> $(curl -sS -o /tmp/b -w '%{http_code}' "$u") $(head -c 120 /tmp/b)"
+          done

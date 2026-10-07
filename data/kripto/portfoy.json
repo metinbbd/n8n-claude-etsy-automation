@@ -1,0 +1,116 @@
+{
+ "baslangic_bakiye": 200.0,
+ "bakiye": 199.85004499999997,
+ "pozisyonlar": {
+  "AVAX": {
+   "yon": "LONG",
+   "giris": 11.236,
+   "miktar": 5.339978640085439,
+   "teminat": 20.0,
+   "stop": 9.909468747035005,
+   "hedef": 13.889062505929992,
+   "likidasyon": 7.546846666666667,
+   "acilis": 1791406800000,
+   "ucret": 0.03,
+   "fonlama": 0.0
+  },
+  "LINK": {
+   "yon": "LONG",
+   "giris": 13.365,
+   "miktar": 4.489337822671156,
+   "teminat": 20.0,
+   "stop": 11.819707861724211,
+   "hedef": 16.455584276551576,
+   "likidasyon": 8.976825,
+   "acilis": 1791406800000,
+   "ucret": 0.03,
+   "fonlama": 0.0
+  },
+  "DOT": {
+   "yon": "LONG",
+   "giris": 1.112,
+   "miktar": 53.92985611510791,
+   "teminat": 19.99,
+   "stop": 0.9455244635446234,
+   "hedef": 1.4449510729107535,
+   "likidasyon": 0.7468933333333334,
+   "acilis": 1791406800000,
+   "ucret": 0.029985,
+   "fonlama": 0.0
+  },
+  "SOL": {
+   "yon": "LONG",
+   "giris": 116.2,
+   "miktar": 0.5160929432013769,
+   "teminat": 19.99,
+   "stop": 107.0154001567127,
+   "hedef": 134.56919968657462,
+   "likidasyon": 78.04766666666667,
+   "acilis": 1791406800000,
+   "ucret": 0.029985,
+   "fonlama": 0.0
+  },
+  "ADA": {
+   "yon": "LONG",
+   "giris": 0.2553,
+   "miktar": 234.90011750881314,
+   "teminat": 19.99,
+   "stop": 0.22303267155078413,
+   "hedef": 0.3198346568984318,
+   "likidasyon": 0.1714765,
+   "acilis": 1791406800000,
+   "ucret": 0.029985,
+   "fonlama": 0.0
+  }
+ },
+ "hareketler": [
+  {
+   "gun": "2026-10-08",
+   "ts": 1791406800000,
+   "coin": "AVAX",
+   "islem": "LONG açıldı",
+   "fiyat": 11.236,
+   "teminat": 20.0
+  },
+  {
+   "gun": "2026-10-08",
+   "ts": 1791406800000,
+   "coin": "LINK",
+   "islem": "LONG açıldı",
+   "fiyat": 13.365,
+   "teminat": 20.0
+  },
+  {
+   "gun": "2026-10-08",
+   "ts": 1791406800000,
+   "coin": "DOT",
+   "islem": "LONG açıldı",
+   "fiyat": 1.112,
+   "teminat": 19.99
+  },
+  {
+   "gun": "2026-10-08",
+   "ts": 1791406800000,
+   "coin": "SOL",
+   "islem": "LONG açıldı",
+   "fiyat": 116.2,
+   "teminat": 19.99
+  },
+  {
+   "gun": "2026-10-08",
+   "ts": 1791406800000,
+   "coin": "ADA",
+   "islem": "LONG açıldı",
+   "fiyat": 0.2553,
+   "teminat": 19.99
+  }
+ ],
+ "islemler": [],
+ "gecmis": [
+  {
+   "gun": "2026-10-08",
+   "deger": 199.85
+  }
+ ],
+ "son_kontrol": 1791406800000
+}

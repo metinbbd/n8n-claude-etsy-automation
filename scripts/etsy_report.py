@@ -502,7 +502,10 @@ def main():
         data = webhook(secret_path("veri"), {"min_created": min_created})
         if not isinstance(data, dict) or "orders" not in data:
             raise RaporHatasi("n8n'den beklenmeyen yanit geldi (Etsy hatasi olabilir).")
-        print(f"Etsy verisi alindi ({len(data['orders'])} siparis kaydi, son {DAYS_FETCHED} gun).")
+        shop = data.get("shop") or {}
+        print(f"Etsy verisi alindi ({len(data['orders'])} siparis kaydi, son {DAYS_FETCHED} gun; "
+              f"magaza bilgisi {'geldi' if shop.get('currency') else 'GELMEDI'}; "
+              f"magazada {'daha once satis var' if shop.get('sold_total') else 'henuz satis yok'}).")
         subject, body = build_report(data)
     except RaporHatasi as e:
         error = e

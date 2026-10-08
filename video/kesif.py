@@ -31,6 +31,11 @@ def run(cmd, **kw):
     return subprocess.run(cmd, check=True, capture_output=True, text=True, **kw)
 
 
+STRONG_PEOPLE = re.compile(r"\b(interview|briefing|conference|press|panel|webinar|q&a|"
+                           r"town hall|testimony|hearing|ceremony|live shots?|podcast|"
+                           r"this week @nasa|nasa science live|space to ground)\b", re.I)
+
+
 def search(query, pages=2):
     items = []
     for page in range(1, pages + 1):
@@ -81,13 +86,24 @@ def main(config_path, out_dir):
                           "insan_suphesi": bool(PEOPLE.search(text)), "sorgu": query,
                           "href": it.get("href")})
     print(f"{len(cands)} benzersiz video bulundu")
-    ok = [c for c in cands if not c["insan_suphesi"]]
+    skip = set(cfg.get("atla", []))
+    if cfg.get("onceki"):
+        try:
+            skip |= {c["id"] for c in json.load(open(cfg["onceki"])) if c.get("tablo")}
+        except OSError:
+            pass
+    if cfg.get("supheliler_dahil"):
+        ok = [c for c in cands if not STRONG_PEOPLE.search(c["baslik"] + " " + c["id"])]
+    else:
+        ok = [c for c in cands if not c["insan_suphesi"]]
+    ok = [c for c in ok if c["id"] not in skip]
     limit = cfg.get("tablo_limiti", 50)
     for c in ok[:limit]:
         try:
-            files = get_json(c["href"])
+            files = get_json(urllib.parse.quote(c["href"], safe=":/~%"))
             mp4s = [f for f in files if f.endswith(".mp4")]
-            c["dosyalar"] = {f.rsplit("~", 1)[-1]: f.replace("http://", "https://") for f in mp4s}
+            c["dosyalar"] = {f.rsplit("~", 1)[-1]: urllib.parse.quote(
+                f.replace("http://", "https://"), safe=":/~%") for f in mp4s}
             small = next((c["dosyalar"][k] for k in ("mobile.mp4", "small.mp4", "medium.mp4",
                                                      "large.mp4", "orig.mp4")
                           if k in c["dosyalar"]), None)

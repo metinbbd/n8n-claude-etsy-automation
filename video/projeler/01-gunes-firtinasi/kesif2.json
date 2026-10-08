@@ -1,0 +1,24 @@
+{
+  "aramalar": [
+    "aurora",
+    "aurora australis",
+    "northern lights",
+    "earth at night space station",
+    "city lights from space",
+    "magnetosphere",
+    "earth magnetic field",
+    "radiation belts",
+    "coronal mass ejection",
+    "coronagraph",
+    "Parker Solar Probe",
+    "Solar Orbiter",
+    "prominence eruption",
+    "sunrise from space station",
+    "space weather",
+    "heliosphere"
+  ],
+  "supheliler_dahil": true,
+  "onceki": "/tmp/onceki/adaylar.json",
+  "tablo_limiti": 80,
+  "muzik_adaylari": []
+}

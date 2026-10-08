@@ -6,6 +6,9 @@ on:
       proje:
         description: "video/projeler altindaki proje klasoru"
         required: true
+      tur:
+        description: "kesif dosyasi (kesif, kesif2, ...)"
+        default: "kesif"
 
 permissions:
   contents: write
@@ -28,9 +31,10 @@ jobs:
         shell: bash
         run: |
           set -o pipefail
-          mkdir -p /tmp/kesif
-          python3 video/kesif.py "video/projeler/${{ inputs.proje }}/kesif.json" /tmp/kesif 2>&1 | tee /tmp/kesif/kayit.txt
+          mkdir -p /tmp/kesif /tmp/onceki
+          git fetch -q origin medya-onizleme && git show "origin/medya-onizleme:kesif/${{ inputs.proje }}/adaylar.json" > /tmp/onceki/adaylar.json 2>/dev/null || true
+          python3 video/kesif.py "video/projeler/${{ inputs.proje }}/${{ inputs.tur }}.json" /tmp/kesif 2>&1 | tee /tmp/kesif/kayit.txt
       - name: Onizleme dalina kaydet
         if: always()
         run: |
-          video/onizleme_kaydet.sh /tmp/kesif "kesif/${{ inputs.proje }}" "Kesif - ${{ inputs.proje }}"
+          video/onizleme_kaydet.sh /tmp/kesif "kesif/${{ inputs.proje }}/${{ inputs.tur }}" "Kesif - ${{ inputs.proje }} ${{ inputs.tur }}"

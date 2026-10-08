@@ -162,7 +162,12 @@ def main(config_path, out_dir):
                 tmp = "/tmp/kesif.mp4"
                 req = urllib.request.Request(small, headers={"User-Agent": "Mozilla/5.0"})
                 with urllib.request.urlopen(req, timeout=300) as r, open(tmp, "wb") as f:
-                    f.write(r.read())
+                    got = 0
+                    while chunk := r.read(1 << 20):
+                        f.write(chunk)
+                        got += len(chunk)
+                        if got > 300 << 20:
+                            raise RuntimeError("onizleme dosyasi cok buyuk (>300 MB)")
                 info = probe(tmp)
                 c["sure"] = info["sure"]
                 if info["sure"] < 3:

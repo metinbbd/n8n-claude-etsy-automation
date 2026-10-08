@@ -3,12 +3,12 @@
   super().__init__("LSTM", *args, **kwargs)
 /home/runner/.local/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
   WeightNorm.apply(module, name, dim)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 /home/runner/.local/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
   warnings.warn(
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-   anlatim + aralar: 11.08 dk; kaynakca ile 11.31 dk
+   anlatim + aralar: 11.48 dk; kaynakca ile 11.71 dk
 2/6 Altyazilar
-   154 Turkce altyazi; en uzun satir 42 karakter
+   151 Turkce altyazi; en uzun satir 42 karakter; okuma hizi maks 17.6 kar/sn, 18 ustu 0 adet
 3/6 Klipler
   indiriliyor: A
   indiriliyor: ART
@@ -42,16 +42,16 @@ Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF
   indiriliyor: X54
   indiriliyor: XF
   indiriliyor: Y5
-  bolum 0: 6 parca, 43.4 sn, hiz carpani 0.89x
-  bolum 1: 10 parca, 77.2 sn, hiz carpani 1.09x
-  bolum 2: 8 parca, 56.5 sn, hiz carpani 0.83x
-  bolum 3: 9 parca, 101.4 sn, hiz carpani 1.11x
-  bolum 4: 10 parca, 78.6 sn, hiz carpani 1.22x
-  bolum 5: 5 parca, 63.5 sn, hiz carpani 1.08x
-  bolum 6: 11 parca, 107.3 sn, hiz carpani 0.79x
-  bolum 7: 14 parca, 104.9 sn, hiz carpani 1.10x
-  bolum 8: 4 parca, 32.0 sn, hiz carpani 1.03x
+  bolum 0: 6 parca, 44.4 sn, hiz carpani 0.88x
+  bolum 1: 10 parca, 79.7 sn, hiz carpani 1.06x
+  bolum 2: 8 parca, 58.6 sn, hiz carpani 0.80x
+  bolum 3: 9 parca, 105.5 sn, hiz carpani 1.07x
+  bolum 4: 10 parca, 81.7 sn, hiz carpani 1.18x
+  bolum 5: 5 parca, 65.7 sn, hiz carpani 1.04x
+  bolum 6: 11 parca, 111.0 sn, hiz carpani 0.77x
+  bolum 7: 14 parca, 109.2 sn, hiz carpani 1.00x
+  bolum 8: 4 parca, 33.0 sn, hiz carpani 1.00x
 4/6 Muzik ve ses karisimi
 5/6 Birlestirme
 6/6 YouTube paketi
-   video: 11.31 dk, 762 MB
+   video: 11.71 dk, 791 MB

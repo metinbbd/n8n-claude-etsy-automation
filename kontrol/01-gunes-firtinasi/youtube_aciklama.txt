@@ -9,14 +9,14 @@ Güneş'in yüzeyindeki bükülmüş manyetik alanlar koptuğunda, milyarlarca t
 
 Bölümler:
 00:00 Huzursuz Yıldızımız
-00:43 Ateş ve Manyetizmadan Bir Küre
-02:00 Güneş Lekeleri ve Güneş Döngüsü
-02:57 Patlamalar ve Püskürmeler
-04:38 Dünya'ya Yolculuk
-05:57 Işık Perdeleri
-07:00 Güneş Vurduğunda
-08:47 Yıldızımızı İzlemek
-10:32 Bir Yıldızla Yaşamak
+00:44 Ateş ve Manyetizmadan Bir Küre
+02:04 Güneş Lekeleri ve Güneş Döngüsü
+03:02 Patlamalar ve Püskürmeler
+04:48 Dünya'ya Yolculuk
+06:09 Işık Perdeleri
+07:15 Güneş Vurduğunda
+09:06 Yıldızımızı İzlemek
+10:55 Bir Yıldızla Yaşamak
 
 Türkçe altyazı mevcuttur (CC).
 
@@ -47,14 +47,14 @@ When twisted magnetic fields on the Sun snap, billions of tons of plasma are hur
 
 Chapters:
 00:00 Our Restless Star
-00:43 A Ball of Fire and Magnetism
-02:00 Sunspots and the Solar Cycle
-02:57 Flares and Eruptions
-04:38 The Journey to Earth
-05:57 Curtains of Light
-07:00 When the Sun Strikes
-08:47 Watching Our Star
-10:32 Living With a Star
+00:44 A Ball of Fire and Magnetism
+02:04 Sunspots and the Solar Cycle
+03:02 Flares and Eruptions
+04:48 The Journey to Earth
+06:09 Curtains of Light
+07:15 When the Sun Strikes
+09:06 Watching Our Star
+10:55 Living With a Star
 
 Credits & licenses:
 Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS)
@@ -89,4 +89,4 @@ solar storm, güneş fırtınası, solar flare, coronal mass ejection, aurora, k
   taklit etmiyor; bu yuzden "Hayir" uygundur. Bu etiket para kazanmayi etkilemez.
 - Para kazanma icin: videolari aralikli yukleyin (or. haftada 1-2), her videoda kendi basliginizi
   ve aciklamanizi kisisellestirin, yorumlara cevap verin.
-- Sure: 11:18
+- Sure: 11:42

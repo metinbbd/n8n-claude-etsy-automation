@@ -1,751 +1,728 @@
 1
-00:00:06,000 --> 00:00:09,971
-150 milyon kilometre
-ötede, yıldızımız huzursuz.
+00:00:06,000 --> 00:00:10,138
+150 milyon kilometre ötede,
+yıldızımız huzursuz.
 
 2
-00:00:10,051 --> 00:00:16,072
+00:00:10,218 --> 00:00:16,387
 Yüzeyinin altında bükülmüş manyetik
 alanlar dev bir enerji biriktiriyor.
 
 3
-00:00:16,152 --> 00:00:19,813
-Bu alanlar sonunda
-koptuğunda, Güneş milyarlarca
+00:00:16,467 --> 00:00:18,776
+Bu alanlar sonunda koptuğunda,
 
 4
-00:00:19,893 --> 00:00:23,379
-ton aşırı ısınmış gazı uzaya fırlatıyor.
+00:00:18,856 --> 00:00:23,843
+Güneş milyarlarca ton aşırı
+ısınmış gazı uzaya fırlatıyor.
 
 5
-00:00:23,459 --> 00:00:25,667
+00:00:23,923 --> 00:00:26,139
 Bir güneş fırtınası doğuyor.
 
 6
-00:00:25,817 --> 00:00:29,651
-Birkaç gün içinde Dünya'ya
-ulaşabiliyor; gökyüzümüzü ışıkla
+00:00:26,289 --> 00:00:28,971
+Birkaç gün içinde Dünya'ya ulaşabiliyor;
 
 7
-00:00:29,731 --> 00:00:33,883
-boyuyor ve modern dünyanın
-dayandığı teknolojiyi sınıyor.
+00:00:29,051 --> 00:00:34,668
+gökyüzümüzü ışıkla boyuyor ve modern
+dünyanın dayandığı teknolojiyi sınıyor.
 
 8
-00:00:33,963 --> 00:00:36,674
-Bu, o fırtınaların
-hikâyesi: Nasıl oluştukları,
+00:00:34,748 --> 00:00:37,549
+Bu, o fırtınaların hikâyesi:
+Nasıl oluştukları,
 
 9
-00:00:36,754 --> 00:00:41,095
+00:00:37,629 --> 00:00:42,090
 nasıl yolculuk ettikleri ve onları
 izlemeyi nasıl öğrendiğimiz.
 
 10
-00:00:43,445 --> 00:00:45,925
-Güneş, Güneş Sistemi'ndeki
-tüm kütlenin yüzde
+00:00:44,440 --> 00:00:49,811
+Güneş Sistemi'ndeki kütlenin
+yüzde 99'undan fazlası Güneş'te.
 
 11
-00:00:46,005 --> 00:00:48,706
-doksan dokuzundan fazlasını barındırıyor.
+00:00:49,891 --> 00:00:54,411
+Çekirdeğinin derinliklerinde,
+15 milyon santigrat derecede hidrojen
 
 12
-00:00:48,786 --> 00:00:53,120
-Çekirdeğinin derinliklerinde, 15
-milyon santigrat derecede hidrojen
-
-13
-00:00:53,200 --> 00:00:58,115
+00:00:54,491 --> 00:00:59,598
 helyuma dönüşüyor ve günlerimizi
 aydınlatan enerjiyi açığa çıkarıyor.
 
-14
-00:00:58,195 --> 00:01:03,493
+13
+00:00:59,678 --> 00:01:05,177
 Bu enerjinin yüzeye kadar
 ulaşması binlerce yıl sürüyor.
 
+14
+00:01:05,257 --> 00:01:10,154
+Sonra ışık olarak, Dünya'ya sekiz
+dakikadan biraz fazla sürede ulaşıyor.
+
 15
-00:01:03,573 --> 00:01:05,615
-Ardından ışık olarak
-Dünya'ya olan mesafeyi
-
-16
-00:01:05,695 --> 00:01:08,336
-sekiz dakikadan biraz
-fazla bir sürede aşıyor.
-
-17
-00:01:08,416 --> 00:01:13,190
+00:01:10,234 --> 00:01:15,117
 Görünen yüzeyi yaklaşık
 5.500 derecede parlıyor.
 
+16
+00:01:15,197 --> 00:01:20,102
+Ama onun üzerindeki, korona denen
+ince dış atmosfer çok daha sıcak;
+
+17
+00:01:20,182 --> 00:01:22,561
+bir milyon dereceden fazla.
+
 18
-00:01:13,270 --> 00:01:16,889
-Ama onun üzerindeki, korona
-denen ince dış atmosfer
+00:01:22,641 --> 00:01:24,729
+Koronanın tam olarak nasıl ısındığı,
 
 19
-00:01:16,969 --> 00:01:20,459
-çok daha sıcak; bir
-milyon dereceden fazla.
+00:01:24,809 --> 00:01:28,853
+güneş biliminin büyük gizemlerinden
+biri olmaya devam ediyor.
 
 20
-00:01:20,539 --> 00:01:23,462
-Koronanın tam olarak nasıl
-ısındığı, güneş biliminin
-
-21
-00:01:23,542 --> 00:01:26,511
-büyük gizemlerinden biri
-olmaya devam ediyor.
-
-22
-00:01:26,591 --> 00:01:29,438
+00:01:28,933 --> 00:01:31,835
 Ama Güneş sakin ve katı bir küre değil.
 
-23
-00:01:29,518 --> 00:01:32,568
+21
+00:01:31,915 --> 00:01:35,101
 Plazmadan oluşuyor; o kadar
 sıcak bir gaz ki atomları
 
-24
-00:01:32,648 --> 00:01:35,852
+22
+00:01:35,181 --> 00:01:38,510
 parçalanıp elektrik yüklü
 parçacıklara dönüşmüş.
 
-25
-00:01:35,932 --> 00:01:39,875
+23
+00:01:38,590 --> 00:01:42,667
 Hareket eden yüklü parçacıklar
 da manyetik alanlar oluşturur.
 
-26
-00:01:39,955 --> 00:01:44,562
+24
+00:01:42,747 --> 00:01:47,551
 Üstelik Güneş, ekvatorunda
 kutuplarına göre daha hızlı dönüyor.
 
-27
-00:01:44,642 --> 00:01:49,169
-Zamanla bu dengesiz dönüş, manyetik
-alan çizgilerini gerip büküyor;
+25
+00:01:47,631 --> 00:01:52,343
+Zamanla bu dengesiz dönüş,
+manyetik alan çizgilerini gerip büküyor;
 
-28
-00:01:49,249 --> 00:01:53,195
+26
+00:01:52,423 --> 00:01:56,511
 tıpkı giderek daha sıkı
 sarılan lastik bantlar gibi.
 
-29
-00:01:53,275 --> 00:01:55,731
-Bu karmakarışık alanlar
-yüzeyi delip çıktığı
+27
+00:01:56,591 --> 00:02:02,284
+Bu karmaşık alanlar yüzeyi deldiği yerde,
+görebildiğimiz bir iz bırakır.
 
-30
-00:01:55,811 --> 00:01:58,832
-yerlerde, görebildiğimiz bir iz bırakıyor.
-
-31
-00:02:00,682 --> 00:02:04,342
+28
+00:02:04,134 --> 00:02:07,955
 Güneş lekeleri, Güneş'in yüzünde
 koyu lekeler gibi görünür.
 
-32
-00:02:04,422 --> 00:02:09,966
+29
+00:02:08,035 --> 00:02:13,758
 Bunlar, güçlü manyetik alanların aşağıdan
 gelen ısı akışını engellediği bölgelerdir.
 
-33
-00:02:10,046 --> 00:02:15,647
+30
+00:02:13,838 --> 00:02:19,675
 Yaklaşık 4 bin derecede, çevrelerinden
 daha soğuk oldukları için koyu görünürler;
 
-34
-00:02:15,727 --> 00:02:20,725
+31
+00:02:19,755 --> 00:02:24,946
 yine de tek başlarına görülseler
 dolunaydan daha parlak olurlardı.
 
-35
-00:02:20,805 --> 00:02:24,314
+32
+00:02:25,026 --> 00:02:28,626
 Pek çok güneş lekesi Dünya'nın
 tamamından daha büyüktür.
 
-36
-00:02:24,394 --> 00:02:30,636
+33
+00:02:28,706 --> 00:02:35,256
 Sayıları, yaklaşık 11 yıl süren ve güneş
 döngüsü denen bir ritimle artıp azalır.
 
-37
-00:02:30,716 --> 00:02:35,020
+34
+00:02:35,336 --> 00:02:39,718
 Güneş minimumunda, Güneş haftalarca
 tek bir leke bile göstermeyebilir.
 
-38
-00:02:35,100 --> 00:02:38,472
+35
+00:02:39,798 --> 00:02:43,299
 Güneş maksimumunda ise
 lekelerle kaplanabilir ve
 
-39
-00:02:38,552 --> 00:02:42,662
-tüm manyetik alanı ters
-döner; kuzey güneye dönüşür.
+36
+00:02:43,379 --> 00:02:47,628
+tüm manyetik alanı ters döner;
+kuzey güneye dönüşür.
 
-40
-00:02:42,742 --> 00:02:45,621
-2024'te bilim insanları, Güneş'in mevcut
+37
+00:02:47,708 --> 00:02:49,490
+2024'te bilim insanları,
 
-41
-00:02:45,701 --> 00:02:49,623
-döngüsünün maksimum
+38
+00:02:49,570 --> 00:02:54,906
+Güneş'in mevcut döngüsünün maksimum
 evresine girdiğini açıkladı.
 
+39
+00:02:54,986 --> 00:03:00,853
+Güneş ne kadar aktifleşirse,
+manyetik alanları da o kadar sık patlar.
+
+40
+00:03:02,703 --> 00:03:07,392
+Bükülmüş manyetik alan çizgileri
+aniden kopup yeniden birleştiğinde,
+
+41
+00:03:07,472 --> 00:03:10,647
+biriktirdikleri enerjiyi bir anda salar.
+
 42
-00:02:49,703 --> 00:02:55,337
-Güneş ne kadar aktifleşirse, manyetik
-alanları da o kadar sık patlar.
-
-43
-00:02:57,187 --> 00:03:00,606
-Bükülmüş manyetik alan
-çizgileri aniden kopup yeniden
-
-44
-00:03:00,686 --> 00:03:04,687
-birleştiğinde, biriktirdikleri
-enerjiyi bir anda salar.
-
-45
-00:03:04,767 --> 00:03:08,353
+00:03:10,727 --> 00:03:14,480
 Sonuç bir güneş patlamasıdır:
 radyo dalgalarından X
 
-46
-00:03:08,433 --> 00:03:12,612
+43
+00:03:14,560 --> 00:03:18,913
 ışınlarına kadar tüm tayfta
 yoğun bir ışık parlaması.
 
-47
-00:03:12,692 --> 00:03:15,815
-Büyük bir patlama, aynı
-anda patlayan milyonlarca
+44
+00:03:18,993 --> 00:03:22,224
+Büyük bir patlama,
+aynı anda patlayan milyonlarca
 
-48
-00:03:15,895 --> 00:03:19,403
+45
+00:03:22,304 --> 00:03:25,918
 hidrojen bombası kadar
 enerji açığa çıkarabilir.
 
-49
-00:03:19,483 --> 00:03:25,550
+46
+00:03:25,998 --> 00:03:32,323
 Patlamalar güçlerine göre sınıflandırılır;
 en güçlüleri X sınıfı patlamalardır.
 
-50
-00:03:25,630 --> 00:03:30,522
+47
+00:03:32,403 --> 00:03:37,509
 Ölçülmüş en büyük patlama
 Kasım 2003'te gerçekleşti.
 
-51
-00:03:30,602 --> 00:03:35,437
+48
+00:03:37,589 --> 00:03:42,564
 O kadar yoğundu ki onu kaydetmek için
 yapılmış cihazların sınırlarını aştı.
 
-52
-00:03:35,517 --> 00:03:40,388
+49
+00:03:42,644 --> 00:03:47,721
 Patlama ışık olduğu için radyasyonu
 Dünya'ya yaklaşık sekiz dakikada
 
-53
-00:03:40,468 --> 00:03:45,935
+50
+00:03:47,801 --> 00:03:53,479
 ulaşır ve gezegenin Güneş'e bakan
 yüzünde radyo iletişimini bozabilir.
 
-54
-00:03:46,015 --> 00:03:49,075
-Çoğu zaman bir patlamaya çok
-daha büyük bir şey eşlik eder.
+51
+00:03:53,559 --> 00:03:56,854
+Çoğu zaman patlamaya daha
+büyük bir şey eşlik eder.
 
-55
-00:03:49,155 --> 00:03:54,031
+52
+00:03:56,934 --> 00:04:02,031
 Yüzeyin üzerinde manyetik alanlar,
 günlerce koronada asılı kalan
 
-56
-00:03:54,111 --> 00:03:59,438
+53
+00:04:02,111 --> 00:04:07,658
 ve uzantı denen devasa parlak
 plazma kemerleri de yükseltebilir.
 
-57
-00:03:59,518 --> 00:04:04,152
+54
+00:04:07,738 --> 00:04:12,560
 Onları taşıyan manyetik yapı bozulduğunda,
 onlar da uzaya fırlatılabilir.
 
-58
-00:04:04,232 --> 00:04:09,374
+55
+00:04:12,640 --> 00:04:17,983
 Koronal kütle atımı ya da kısaca
 CME, Güneş'in dış atmosferi olan
 
-59
-00:04:09,454 --> 00:04:15,127
+56
+00:04:18,063 --> 00:04:23,940
 koronadan fırlatılan devasa bir
 plazma ve manyetik alan bulutudur.
 
-60
-00:04:15,207 --> 00:04:19,472
+57
+00:04:24,020 --> 00:04:28,370
 Tek bir püskürme bir milyar
 ton madde taşıyabilir.
 
-61
-00:04:19,552 --> 00:04:24,400
+58
+00:04:28,450 --> 00:04:33,551
 En hızlıları saniyede yaklaşık 3 bin
 kilometre hızla dışarı doğru fırlar.
 
-62
-00:04:24,480 --> 00:04:29,276
+59
+00:04:33,631 --> 00:04:38,580
 Genişledikçe bir CME, Güneş'in
 kendisinden bile büyük hale gelebilir.
 
-63
-00:04:29,356 --> 00:04:33,069
+60
+00:04:38,660 --> 00:04:42,500
 Bu püskürmelerin çoğu zararsız
 bir şekilde uzaya doğru yol alır.
 
-64
-00:04:33,149 --> 00:04:36,281
+61
+00:04:42,580 --> 00:04:45,853
 Ama bazen biri doğrudan bize doğru gelir.
 
-65
-00:04:38,631 --> 00:04:41,951
-Sakin günlerde bile
-Güneş, güneş rüzgârı denen
+62
+00:04:48,203 --> 00:04:51,706
+Sakin günlerde bile Güneş,
+güneş rüzgârı denen
 
-66
-00:04:42,031 --> 00:04:45,653
+63
+00:04:51,786 --> 00:04:55,582
 yüklü parçacık akışını
 sürekli dışarı verir.
 
+64
+00:04:55,662 --> 00:04:59,448
+Dünya'nın yanından saatte yaklaşık
+1,5 milyon km hızla geçer.
+
+65
+00:04:59,528 --> 00:05:03,374
+Koronal kütle atımı ise bu rüzgârın
+içindeki bir fırtına gibidir;
+
+66
+00:05:03,454 --> 00:05:06,239
+uzayı yararak ilerleyen bir şok cephesi.
+
 67
-00:04:45,733 --> 00:04:49,342
-Bu akış Dünya'nın yanından saatte
-yaklaşık 1,5 milyon kilometre hızla geçer.
-
-68
-00:04:49,422 --> 00:04:52,596
-Koronal kütle atımı ise bu
-rüzgârın içindeki bir fırtına
-
-69
-00:04:52,676 --> 00:04:55,894
-gibidir; uzayı yararak
-ilerleyen bir şok cephesi.
-
-70
-00:04:55,974 --> 00:05:00,461
+00:05:06,319 --> 00:05:10,973
 Hızına bağlı olarak, Dünya'ya
 kadar olan 150 milyon kilometreyi
 
-71
-00:05:00,541 --> 00:05:05,623
+68
+00:05:11,053 --> 00:05:16,306
 15 saat gibi kısa bir sürede
 aşabilir ya da birkaç gün sürebilir.
 
-72
-00:05:05,703 --> 00:05:08,644
+69
+00:05:16,386 --> 00:05:19,401
 Neyse ki gezegenimizin bir kalkanı var.
 
-73
-00:05:08,794 --> 00:05:13,205
+70
+00:05:19,551 --> 00:05:25,293
 Dünya'nın erimiş demir çekirdeği
-gezegeni saran bir manyetik
+gezegeni saran bir manyetik alan üretir;
 
-74
-00:05:13,285 --> 00:05:17,622
-alan üretir; manyetosfer
-denen koruyucu bir kabarcık.
+71
+00:05:25,373 --> 00:05:28,933
+manyetosfer denen koruyucu bir kabarcık.
 
-75
-00:05:17,702 --> 00:05:21,712
+72
+00:05:29,013 --> 00:05:33,168
 Çoğu zaman güneş rüzgârını
 etrafımızdan saptırır.
 
-76
-00:05:21,792 --> 00:05:27,099
+73
+00:05:33,248 --> 00:05:38,684
 Ama güçlü bir CME çarptığında,
 manyetosfer sıkışır ve sarsılır.
 
-77
-00:05:27,179 --> 00:05:32,088
+74
+00:05:38,764 --> 00:05:43,966
 Bulutun manyetik alanı
 Dünya'nınkiyle ters yönde ise ikisi
 
-78
-00:05:32,168 --> 00:05:37,356
+75
+00:05:44,046 --> 00:05:49,516
 birleşebilir ve enerji manyetik
 çevremize akmaya başlar.
 
-79
-00:05:37,436 --> 00:05:39,982
+76
+00:05:49,596 --> 00:05:52,248
 İşte bu bir jeomanyetik fırtınadır.
 
-80
-00:05:40,132 --> 00:05:44,008
-Dünya'nın gece tarafında
-manyetosfer, Ay'ın yörüngesinin
+77
+00:05:52,398 --> 00:05:54,995
+Dünya'nın gece tarafında manyetosfer,
 
-81
-00:05:44,088 --> 00:05:47,849
-çok ötesine uzanan uzun
-bir kuyruk gibi gerilir.
+78
+00:05:55,075 --> 00:06:00,293
+Ay'ın yörüngesinin çok ötesine
+uzanan uzun bir kuyruk gibi gerilir.
 
-82
-00:05:47,929 --> 00:05:50,694
+79
+00:06:00,373 --> 00:06:03,229
 Fırtına sırasında bu
 kuyruk enerji biriktirir,
 
-83
-00:05:50,774 --> 00:05:55,395
+80
+00:06:03,309 --> 00:06:08,057
 sonra aniden geri çekilerek
 parçacıkları gezegene doğru fırlatır.
 
-84
-00:05:57,245 --> 00:06:01,167
+81
+00:06:09,907 --> 00:06:13,921
 Bir güneş fırtınasının en güzel
 işareti kutup ışıklarıdır.
 
-85
-00:06:01,247 --> 00:06:04,968
+82
+00:06:14,001 --> 00:06:17,867
 Dünya'nın manyetik alanının
 yönlendirdiği yüklü parçacıklar,
 
-86
-00:06:05,048 --> 00:06:08,395
+83
+00:06:17,947 --> 00:06:21,408
 kutuplara yakın bölgelerde
 üst atmosfere yağar.
 
-87
-00:06:08,475 --> 00:06:12,757
+84
+00:06:21,488 --> 00:06:25,993
 Orada oksijen ve azotla
 çarpışarak onları parlatırlar.
 
-88
-00:06:12,837 --> 00:06:18,262
+85
+00:06:26,073 --> 00:06:31,851
 Oksijen yeşil ve kırmızı ışık saçarken,
 azot mavi ve mor tonlar katar.
 
+86
+00:06:31,931 --> 00:06:35,743
+Kutup ışıkları iki kutbun
+çevresinde aynı anda belirir:
+
+87
+00:06:35,823 --> 00:06:41,853
+kuzey ışıkları ve güney ışıkları, dünyanın
+iki ucunda birbirinin ayna görüntüsü.
+
+88
+00:06:41,933 --> 00:06:44,294
+Yörüngeden bakınca kutup ışıkları,
+
 89
-00:06:18,342 --> 00:06:23,033
-Kutup ışıkları iki kutbun çevresinde
-aynı anda belirir: kuzey ışıkları
+00:06:44,374 --> 00:06:49,339
+yüzlerce kilometre yüksekliğinde
+canlı perdeler gibi dalgalanır.
 
 90
-00:06:23,113 --> 00:06:27,913
-ve güney ışıkları, dünyanın iki
-ucunda birbirinin ayna görüntüsü.
-
-91
-00:06:27,993 --> 00:06:31,577
-Yörüngeden bakınca kutup
-ışıkları, yüzlerce kilometre
-
-92
-00:06:31,657 --> 00:06:35,138
-yüksekliğinde canlı
-perdeler gibi dalgalanır.
-
-93
-00:06:35,218 --> 00:06:39,686
+00:06:49,419 --> 00:06:54,051
 Güçlü fırtınalar sırasında kutup
 bölgelerinin çok ötesine yayılırlar.
 
-94
-00:06:39,766 --> 00:06:44,684
+91
+00:06:54,131 --> 00:06:59,216
 Mayıs 2024'te, son 20 yılın
 en güçlü jeomanyetik fırtınası
 
-95
-00:06:44,764 --> 00:06:49,357
+92
+00:06:59,296 --> 00:07:04,030
 gökyüzünü Florida ve
 Meksika'ya kadar aydınlattı.
 
-96
-00:06:49,437 --> 00:06:53,112
+93
+00:07:04,110 --> 00:07:07,923
 Milyonlarca insan kutup
 ışıklarını ilk kez gördü.
 
-97
-00:06:53,192 --> 00:06:58,368
+94
+00:07:08,003 --> 00:07:13,282
 Ama böyle bir güzellik yaratan
 fırtınalar gerçek hasara da yol açabilir.
 
-98
-00:07:00,718 --> 00:07:06,797
+95
+00:07:15,632 --> 00:07:22,011
 1 Eylül 1859'da İngiliz gökbilimci
 Richard Carrington güneş lekelerini
 
-99
-00:07:06,877 --> 00:07:12,791
+96
+00:07:22,091 --> 00:07:28,273
 çizerken Güneş'te parlayan iki
 parlak beyaz ışık noktası gördü.
 
-100
-00:07:12,871 --> 00:07:15,783
+97
+00:07:28,353 --> 00:07:31,476
 Bu, kaydedilen ilk güneş patlamasıydı.
 
-101
-00:07:15,863 --> 00:07:18,995
+98
+00:07:31,556 --> 00:07:34,739
 Bir günden kısa bir süre sonra
 püskürme Dünya'ya ulaştı.
 
-102
-00:07:19,075 --> 00:07:22,167
-Kutup ışıkları Karayipler'in
-üzerinde parladı; bazı yerlerde
+99
+00:07:34,819 --> 00:07:37,859
+Kutup ışıkları Karayipler'de bile görüldü;
 
-103
-00:07:22,247 --> 00:07:25,842
-insanlar geceleri o ışıkta kitap
-okuyabilecek kadar parlaktı.
+100
+00:07:37,939 --> 00:07:41,949
+bazı yerlerde ışığında
+gece kitap okunabiliyordu.
 
-104
-00:07:25,922 --> 00:07:30,003
+101
+00:07:42,029 --> 00:07:46,311
 Avrupa ve Kuzey Amerika'daki
 telgraf sistemleri çöktü.
 
-105
-00:07:30,083 --> 00:07:34,678
-Bazı telgrafçıları elektrik
-çarptı; bazı hatlar ise pilleri
+102
+00:07:46,391 --> 00:07:51,149
+Bazı telgrafçıları elektrik çarptı;
+bazı hatlar ise pilleri
 
-106
-00:07:34,758 --> 00:07:39,803
+103
+00:07:51,229 --> 00:07:56,436
 sökülmesine rağmen fırtınanın
 gücüyle çalışmaya devam etti.
 
-107
-00:07:39,883 --> 00:07:44,488
+104
+00:07:56,516 --> 00:08:01,335
 1859'da dünyanın kaybedecek
 pek bir teknolojisi yoktu.
 
-108
-00:07:44,568 --> 00:07:47,033
+105
+00:08:01,415 --> 00:08:03,883
 Bugün ise durum çok farklı.
 
-109
-00:07:47,183 --> 00:07:53,266
+106
+00:08:04,033 --> 00:08:10,368
 Mart 1989'da bir jeomanyetik fırtına,
 Kanada'nın Quebec eyaletindeki elektrik
 
-110
-00:07:53,346 --> 00:07:56,547
+107
+00:08:10,448 --> 00:08:13,783
 şebekesini yaklaşık 90 saniyede çökertti;
 
-111
-00:07:56,627 --> 00:08:00,519
+108
+00:08:13,863 --> 00:08:17,898
 6 milyon insan dokuz
 saat elektriksiz kaldı.
 
-112
-00:08:00,599 --> 00:08:05,277
+109
+00:08:17,978 --> 00:08:22,762
 2022'de küçük bir fırtına bile
 Dünya'nın üst atmosferini ısıtıp
 
-113
-00:08:05,357 --> 00:08:10,636
+110
+00:08:22,842 --> 00:08:28,230
 genişletti ve yeni fırlatılmış
 onlarca uyduyu yörüngeden düşürdü.
 
-114
-00:08:10,716 --> 00:08:15,214
+111
+00:08:28,310 --> 00:08:33,001
 Güçlü fırtınalar GPS navigasyonunu,
 uydu haberleşmesini ve
 
-115
-00:08:15,294 --> 00:08:20,952
+112
+00:08:33,081 --> 00:08:38,963
 kutupların üzerinden uçan uçakların
 radyo bağlantılarını bozabilir.
 
-116
-00:08:21,032 --> 00:08:23,321
+113
+00:08:39,043 --> 00:08:41,457
 Astronotlar da risk altında.
 
-117
-00:08:23,471 --> 00:08:29,091
+114
+00:08:41,607 --> 00:08:47,357
 Dünya'nın manyetik alanının korumasının
 dışında, Ay'a ya da Mars'a giden yolda,
 
-118
-00:08:29,171 --> 00:08:32,554
+115
+00:08:47,437 --> 00:08:50,900
 bir güneş parçacığı
 patlaması birkaç saat içinde
 
-119
-00:08:32,634 --> 00:08:36,179
+116
+00:08:50,980 --> 00:08:54,597
 tehlikeli bir radyasyon
 dozuna yol açabilir.
 
-120
-00:08:36,259 --> 00:08:39,323
+117
+00:08:54,677 --> 00:08:57,819
 Temmuz 2012'de ise
 Carrington olayı kadar güçlü
 
-121
-00:08:39,403 --> 00:08:42,917
+118
+00:08:57,899 --> 00:09:01,490
 bir püskürme Dünya'nın
 yörüngesini yarıp geçti.
 
-122
-00:08:42,997 --> 00:08:45,632
+119
+00:09:01,570 --> 00:09:04,315
 Onu yaklaşık dokuz günle ıskaladık.
 
-123
-00:08:47,982 --> 00:08:52,837
+120
+00:09:06,665 --> 00:09:11,760
 Bu yüzden artık bir uzay aracı
 filosu Güneş'i gece gündüz izliyor.
 
-124
-00:08:52,917 --> 00:08:57,036
+121
+00:09:11,840 --> 00:09:16,118
 NASA'nın Güneş Dinamikleri
 Gözlemevi Güneş'i birçok dalga
 
-125
-00:08:57,116 --> 00:09:02,127
+122
+00:09:16,198 --> 00:09:21,384
 boyunda izliyor ve her 12 saniyede
 bir yeni görüntü kaydediyor.
 
-126
-00:09:02,207 --> 00:09:07,510
+123
+00:09:21,464 --> 00:09:27,008
 Avrupa ve ABD'nin ortak gözlemevi
 SOHO, 1995'ten beri izlemede;
 
-127
-00:09:07,590 --> 00:09:11,185
+124
+00:09:27,088 --> 00:09:30,847
 Güneş'in parlak diskini
 kapatarak koronadan
 
-128
-00:09:11,265 --> 00:09:14,540
+125
+00:09:30,927 --> 00:09:34,332
 akan püskürmeleri görünür kılıyor.
 
-129
-00:09:14,620 --> 00:09:18,481
+126
+00:09:34,412 --> 00:09:38,436
 NASA'nın Parker Güneş Sondası
 ise tarihte Güneş'e en
 
-130
-00:09:18,561 --> 00:09:23,176
+127
+00:09:38,516 --> 00:09:43,307
 çok yaklaşan uzay aracı oldu
 ve koronanın içinden geçti.
 
-131
-00:09:23,256 --> 00:09:27,186
-En yakın noktasında
-saatte yaklaşık 700 bin
+128
+00:09:43,387 --> 00:09:49,932
+En yakın noktasında saatte yaklaşık
+700 bin kilometre hızla geçiyor;
 
-132
-00:09:27,266 --> 00:09:32,578
-kilometre hızla geçiyor;
+129
+00:09:50,012 --> 00:09:53,110
 insan yapımı en hızlı nesne.
 
-133
-00:09:32,658 --> 00:09:39,314
-Avrupa Uzay Ajansı'nın NASA ile ortaklaşa
-geliştirdiği Solar Orbiter, gezegenlerin
+130
+00:09:53,190 --> 00:09:59,031
+Avrupa Uzay Ajansı'nın NASA ile
+ortaklaşa geliştirdiği Solar Orbiter,
 
-134
-00:09:39,394 --> 00:09:42,517
-düzleminin dışına çıktı ve 2025'te bize
+131
+00:09:59,111 --> 00:10:03,064
+gezegenlerin düzleminin
+dışına çıktı ve 2025'te
 
-135
-00:09:42,597 --> 00:09:46,745
-Güneş'in kutuplarının
+132
+00:10:03,144 --> 00:10:07,890
+bize Güneş'in kutuplarının
 ilk görüntülerini verdi.
 
-136
-00:09:46,825 --> 00:09:50,896
+133
+00:10:07,970 --> 00:10:12,102
 Kutuplar, Güneş'in manyetik
 döngüsünün belirlendiği yer olabilir.
 
+134
+00:10:12,182 --> 00:10:16,639
+Daha yakında ise Dünya'dan yaklaşık
+1,5 milyon kilometre uzakta,
+
+135
+00:10:16,719 --> 00:10:19,616
+bizimle Güneş'in arasında konumlanmış uzay
+
+136
+00:10:19,696 --> 00:10:23,468
+araçları güneş rüzgârını
+bize ulaşmadan ölçüyor.
+
 137
-00:09:50,976 --> 00:09:56,311
-Daha yakında ise Dünya'dan yaklaşık 1,5
-milyon kilometre uzakta, bizimle Güneş'in
+00:10:23,548 --> 00:10:26,778
+Bu araçlar tahmincilere,
+bir fırtınanın manyetik bulutu
 
 138
-00:09:56,391 --> 00:10:01,708
-arasında konumlanmış uzay araçları
-güneş rüzgârını bize ulaşmadan ölçüyor.
-
-139
-00:10:01,788 --> 00:10:04,879
-Bu araçlar tahmincilere, bir
-fırtınanın manyetik bulutu
-
-140
-00:10:04,959 --> 00:10:08,384
+00:10:26,858 --> 00:10:30,417
 bize ulaşmadan bir saate
 kadar önceden uyarı veriyor.
 
-141
-00:10:08,464 --> 00:10:11,780
+139
+00:10:30,497 --> 00:10:33,941
 Bu süre, elektrik şirketlerinin
 şebekelerini korumasına
 
-142
-00:10:11,860 --> 00:10:15,132
+140
+00:10:34,021 --> 00:10:37,402
 ve uydu operatörlerinin
 hazırlanmasına yetiyor.
 
-143
-00:10:15,212 --> 00:10:18,608
+141
+00:10:37,482 --> 00:10:41,050
 Uzay havası tahmincileri
 jeomanyetik fırtınaları G1
 
-144
-00:10:18,688 --> 00:10:23,079
+142
+00:10:41,130 --> 00:10:45,720
 (zayıf) ile G5 (aşırı) arasında
 bir ölçekle derecelendirir.
 
+143
+00:10:45,800 --> 00:10:50,672
+Dünya'daki hava tahminleri gibi
+bu tahminler de her yıl gelişiyor;
+
+144
+00:10:50,752 --> 00:10:53,979
+ama Güneş hâlâ bizi şaşırtabiliyor.
+
 145
-00:10:23,159 --> 00:10:26,753
-Dünya'daki hava tahminleri
-gibi bu tahminler de her
-
-146
-00:10:26,833 --> 00:10:31,035
-yıl gelişiyor; ama Güneş
-hâlâ bizi şaşırtabiliyor.
-
-147
-00:10:32,885 --> 00:10:36,311
+00:10:55,829 --> 00:10:59,367
 Güneş bize ışık, sıcaklık ve
 yaşamın ta kendisini veriyor.
 
-148
-00:10:36,391 --> 00:10:39,266
+146
+00:10:59,447 --> 00:11:02,416
 Ama aynı zamanda hareketli
 ve şiddetli bir yıldız;
 
-149
-00:10:39,346 --> 00:10:42,434
+147
+00:11:02,496 --> 00:11:05,671
 ve biz onun dış atmosferinin
 içinde yaşıyoruz.
 
-150
-00:10:42,514 --> 00:10:48,098
+148
+00:11:05,751 --> 00:11:11,563
 Gece göğünde dans eden her kutup
 ışığı bu bağı bize hatırlatıyor.
 
+149
+00:11:11,643 --> 00:11:15,816
+Bir sonraki büyük güneş fırtınası
+gelecek mi? Asıl soru: ne zaman?
+
+150
+00:11:15,896 --> 00:11:19,599
+Ve huzursuz yıldızımızı gözleyen
+uzay araçları sayesinde,
+
 151
-00:10:48,178 --> 00:10:49,804
-Bir sonraki büyük güneş fırtınasının gelip
-
-152
-00:10:49,884 --> 00:10:52,204
-gelmeyeceği değil, ne
-zaman geleceği sorusu var.
-
-153
-00:10:52,284 --> 00:10:54,530
-Ve huzursuz yıldızımızı gözleyen uzay
-
-154
-00:10:54,610 --> 00:10:58,039
-araçları sayesinde, onun
-geldiğini göreceğiz.
+00:11:19,679 --> 00:11:21,939
+onun geldiğini göreceğiz.

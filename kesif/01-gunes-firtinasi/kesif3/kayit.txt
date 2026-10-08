@@ -1,0 +1,83 @@
+0 benzersiz video bulundu
+SVS: 178 sonuc
+  ✓ svs15077 [B-Roll] 24.3s kaynak=3840x2160  Alaskan Aurora Time Lapse
+  ✗ svs15001: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs31383 [Hyperwall Visual] 41.0s kaynak=1920x1080  Water Droplet Science with Astronaut Don Pettit on the ISS
+  ✓ svs31375 [Visualization] 88.0s kaynak=1920x1080  ISS views Aurora from the November 11-13, 2025 Geomagnetic S
+  ✓ svs14954 [Produced Video] 81.4s kaynak=1080x1920  NASA's Illuminate Series (2026)
+  ✗ svs14944: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14907 [Produced Video] 106.4s kaynak=3840x2160  What is space weather?
+  ✓ svs14872 [Produced Video] 66.1s kaynak=1080x1920  NASA's Black Marble: Stories from the Night Sky
+  ✗ svs14863: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14839: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14835 [Produced Video] 4.9s kaynak=1920x1080  What Happened During the Biggest Geomagnetic Storm in Over 2
+  ✓ svs14706 [Produced Video] 61.0s kaynak=1080x1920  NASA's Illuminate Series (2024)
+  ✓ svs14683 [Produced Video] 89.7s kaynak=1920x1080  NASA, NOAA Announce That the Sun Has Reached the Solar Maxim
+  ✗ svs14696: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14690 [Produced Video] 355.1s kaynak=1920x1080  Ten Years at Mars with NASA’s MAVEN Mission
+  ✓ svs14639 [Produced Video] 61.9s kaynak=1080x1920  Helio Big Year: How Sonifications Connect to Performance Art
+  ✓ svs31281 [Hyperwall Visual] 49.6s kaynak=1920x1080  Aurora Australis as seen from ISS
+  ✗ svs14542: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14468: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14206: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs13687 [Produced Video] 26.4s kaynak=1920x1080  NASA Spacecraft Uncover Mystery Behind Auroral Beads
+  ✓ svs13502 [Produced Video] 10.8s kaynak=1920x1080  AGU 2019 — Postcards from the edge of space: New images, new
+  ✓ svs13028 [Produced Video] 10.0s kaynak=1280x720  Parker Solar Probe Media Telecons
+  ✓ svs12963 [Produced Video] 44.9s kaynak=1024x768  Airglow Imagery
+  ✓ svs12532 [Produced Video] 179.2s kaynak=1920x1080  Welcome to the Ionosphere
+  ✓ svs12457 [Produced Video] 42.4s kaynak=1920x1080  AGU Ionosphere Press Conference
+  ✓ svs11794 [Produced Video] 103.7s kaynak=1920x1080  MMS L-2 Prelaunch News Conference
+  ✓ svs30179 [Hyperwall Visual] 45.8s kaynak=1280x720  ISS Timelapse: Aurora Australis
+  ✓ svs15043 [Produced Video] 138.6s kaynak=720x480  STORIE Launch and Install on the Space Station
+  ✓ svs15011 [Produced Video] 58.9s kaynak=1800x1800  NASA Experiment to Track Space ‘Doughnut’ Encircling Earth
+  ✓ svs14956 [Produced Video] 5.3s kaynak=1920x1080  Space Weather Effects Animations
+  ✓ svs14949 [Produced Video] 143.3s kaynak=1920x1080  NASA Monitors Space Weather 24/7
+  ✓ svs14925 [Produced Video] 113.2s kaynak=1080x1920  Intense Solar Storm Delays ESCAPADE Launch
+  ✓ svs5375 [Visualization] 32.0s kaynak=1920x1080  Carrington Class Coronal Mass Ejection - ENLIL Simulation of
+  ✗ svs14874: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14869: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs5555 [Visualization] 60.0s kaynak=1920x1080  TRACERS through Earth's Polar Cusps
+  ✓ svs14779 [Produced Video] 55.9s kaynak=1080x1920  NASA's Illuminate Series (2025)
+  ✓ svs5435 [Visualization] 96.0s kaynak=1920x1080  Geomagnetic and Atmospheric Response to May 2024 Solar Storm
+  ✓ svs5214 [Visualization] 118.8s kaynak=1280x720  Geomagnetic Storm Causes Satellite Loss for Fulldome
+  ✓ svs5193 [Visualization] 97.6s kaynak=1920x1080  Geomagnetic Storm Causes Satellite Loss
+  ✓ svs12986 [Produced Video] 7.0s kaynak=1280x720  Mars Proton Aurora
+  ✓ svs4480 [Visualization] 27.0s kaynak=1920x1080  Prompt Electron Acceleration in the Radiation Belts
+  ✓ svs5514 [Visualization] 48.0s kaynak=2048x2048  Solar Storm Excites Martian Magnetosphere for Fulldome
+  ✓ svs5502 [Visualization] 36.3s kaynak=1920x1080  Solar Storm Excites Martian Magnetosphere
+  ✓ svs14802 [Produced Video] 25.6s kaynak=1920x1080  Earth to Space: A National Symphony Orchestra Concert
+  ✓ svs5136 [Visualization] 83.6s kaynak=1920x1080  STEREO-A Returns by Earth
+  ✓ svs14126 [Produced Video] 26.0s kaynak=1920x1080  SDO Video Toolkit
+  ✓ svs13860 [Produced Video] 15.9s kaynak=1920x1080  Animation of USPS Stamps Featuring NASA's Solar Dynamic Obse
+  ✓ svs20338 [Animation] 10.7s kaynak=3840x2160  SunRISE Beauty Pass
+  ✗ svs13778: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs13714 [Produced Video] 14.9s kaynak=1920x1080  Solar Cycle 25 Is Here. NASA, NOAA Scientists Explain What T
+  ✓ svs5648 [Visualization] 100.0s kaynak=1920x1080  The Moon Passes In and Out of Earth's Magnetosphere
+  ✓ svs5643 [Visualization] 66.7s kaynak=1920x1080  The Ring Current in Earth's Magnetosphere
+  ✓ svs14983 [Produced Video] 489.0s kaynak=1920x1080  “Cosmic Echoes” Audio Activation
+  ✓ svs5623 [Visualization] 80.6s kaynak=1920x1080  The Moon Passes Through Earth's Magnetotail
+  ✓ svs5644 [Visualization] 80.6s kaynak=2048x2048  The Moon Passes Through Earth's Magnetotail for Fulldome
+  ✓ svs5622 [Visualization] 100.0s kaynak=1920x1080  Artemis II: Sending Humans Beyond the Magnetosphere
+  ✓ svs5617 [Visualization] 80.6s kaynak=1920x1080  ESCAPADE Visits the Distant Magnetotail
+  ✓ svs14884 [Produced Video] 81.4s kaynak=1920x1080  NASA Supercomputer Probes Tangled Magnetospheres of Merging 
+  ✓ svs5609 [Visualization] 90.0s kaynak=1920x1080  Heliophysics Satellite Fleet - 2026
+  ✓ svs5503 [Visualization] 48.0s kaynak=1920x1080  ESCAPADE Theoretical Flight Through Active Mars Magnetospher
+  ✓ svs14926 [Produced Video] 116.0s kaynak=1920x1080  ESCAPADE Launch
+  ✗ svs14666: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14920: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14915 [Produced Video] 12.0s kaynak=3840x2160  ESCAPADE Trajectory Animations
+  ✓ svs14918 [Produced Video] 45.5s kaynak=1920x1080  ESCAPADE Prepares for Flight (2025)
+  ✓ svs14892 [Produced Video] 48.0s kaynak=1920x1080  Solar Wind Animations
+  ✗ svs14876: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14957 [B-Roll] 120.5s kaynak=1920x1080  IMAP Arrives at L1
+  ✓ svs14921 [Produced Video] 22.1s kaynak=1920x1080  IMAP Testing and Integration at NASA’s Kennedy Space Center
+  ✓ svs5577 [Animation] 26.7s kaynak=2048x2048  SDO Sun This Week
+  ✓ svs14865 [Produced Video] 5.9s kaynak=960x1024  The Closest Images Ever Taken of the Sun’s Atmosphere
+  ✓ svs5534 [Visualization] 408.9s kaynak=1920x1080  Parker Solar Probe - Extended Mission
+  ✗ svs14783: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14741 [Produced Video] 341.6s kaynak=1920x1080  Parker Solar Probe: Humanity’s Closest Encounter with the Su
+  ✓ svs5443 [Visualization] 80.6s kaynak=1920x1080  Heliophysics Sentinels 2024
+  ✓ svs14736 [Produced Video] 87.5s kaynak=1920x1080  NASA's #3point8 Challenge
+  ✗ svs14722: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs5428 [Visualization] 68.4s kaynak=1920x1080  Parker Solar Probe Towards its Ultimate Perihelion
+[]

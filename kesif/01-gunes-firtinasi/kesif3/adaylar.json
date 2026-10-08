@@ -1,0 +1,2818 @@
+[
+ {
+  "id": "svs15077",
+  "svs": 15077,
+  "baslik": "Alaskan Aurora Time Lapse",
+  "tur": "B-Roll",
+  "tarih": "2026-08-18",
+  "aciklama": "This time lapse of the aurora borealis, or the northern lights, was captured in Great Kobuk Valley National Park in Alaska on September 16, 2025.",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Videographer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015077/15077_AuroraTimelapse_4K_YouTube.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 1,
+  "sure": 24.3,
+  "tablo": "tablolar/svs15077.jpg"
+ },
+ {
+  "id": "svs15001",
+  "svs": 15001,
+  "baslik": "On Tour Around the Globe with PACE",
+  "tur": "Produced Video",
+  "tarih": "2026-04-21",
+  "aciklama": "Music: \"Swells,\" \"Aurora Borealis,\" \"Birth,\" \"Stormlights,\" \"Cumulonimbus,\" \"Rippling Rain,\" \"Spiral Galaxy,\" Universal Production MusicComplete transcript available. || PACE_Tour_Thumb.png (1280x720) [905.2 KB] || PACE_Tour_Thumb_print.jpg (1024x576) [146.5 KB] || PACE_Tour_Thumb_searchweb.png (320x180) [82.3 KB] || PACE_Tour_Thumb_thm.png (80x40) [7.0 KB] || PACE_Tour_h264.mp4 (1920x1080) [610.3",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: ",
+   "Visualizer: ",
+   "Scientist: ",
+   "Narrator: ",
+   "Writer: ",
+   "Editor: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015001/PACE_Tour_h264.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 1
+ },
+ {
+  "id": "svs31383",
+  "svs": 31383,
+  "baslik": "Water Droplet Science with Astronaut Don Pettit on the ISS",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-04-01",
+  "aciklama": "NASA astronaut Don Pettit demonstrates electrostatic forces using charged water droplets and a knitting needle made of Teflon.",
+  "sorgu": "aurora",
+  "insan_suphesi": true,
+  "krediler": [
+   "Animator: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031383/pettit-electrostatic-displays-1080pa.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 41.0,
+  "tablo": "tablolar/svs31383.jpg"
+ },
+ {
+  "id": "svs31375",
+  "svs": 31375,
+  "baslik": "ISS views Aurora from the November 11-13, 2025 Geomagnetic Storm",
+  "tur": "Visualization",
+  "tarih": "2026-03-26",
+  "aciklama": "This timelapse series of photos were taken from the ISS on November 12, 2026",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Video editor: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031375/ISS_20251112_071350-20251112_073549_1080p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 88.0,
+  "tablo": "tablolar/svs31375.jpg"
+ },
+ {
+  "id": "svs31374",
+  "svs": 31374,
+  "baslik": "Aurora Mosaic from the Geomagnetic Storm of November 11-13, 2025",
+  "tur": "Visualization",
+  "tarih": "2026-03-26",
+  "aciklama": "A mosaic of Day/Night Band (DNB) images from the the Visible Infrared Imaging Radiometer (VIIRS) on the NOAA-20/JPSS-1 satellite showing a ring of bright auroral light extending south past 50N latitude.",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: "
+  ]
+ },
+ {
+  "id": "svs31347",
+  "svs": 31347,
+  "baslik": "Astronaut Don Pettit’s Photos from Space",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-03-03",
+  "aciklama": "hyperwall hwshows for photos from https://www.nasa.gov/gallery/astronaut-don-pettits-photos-from-space/",
+  "sorgu": "aurora",
+  "insan_suphesi": true,
+  "krediler": [
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs14954",
+  "svs": 14954,
+  "baslik": "NASA's Illuminate Series (2026)",
+  "tur": "Produced Video",
+  "tarih": "2026-01-23",
+  "aciklama": "NASA's Illuminate is a video series about out-of-this-world images that shine light on our Sun and solar system. || ",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Support: ",
+   "Writer: ",
+   "Narrator: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014954/IlluminateSmilingSun_OnScreenCaptions_H264.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 8,
+  "sure": 81.4,
+  "tablo": "tablolar/svs14954.jpg"
+ },
+ {
+  "id": "svs14944",
+  "svs": 14944,
+  "baslik": "Black Aurora Rocket Instrument Testing at NASA Goddard",
+  "tur": "Produced Video",
+  "tarih": "2026-01-06",
+  "aciklama": "NASA’s Black and Diffuse Aurora Science Surveyor sounding rocket mission has completed its testing campaign at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, ahead of its launch. Sounding rocket missions like this one are suborbital rockets that fly scientific instruments into near-Earth space for short, approximately 15-minute flights. The mission will study so-called “black auroras,”",
+  "sorgu": "aurora",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Videographer: ",
+   "Writer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014944/14944_BADASS_InstrumentVacuumTest_1080_YouTube.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 5
+ },
+ {
+  "id": "svs14927",
+  "svs": 14927,
+  "baslik": "The Sun Unleashes Six November X-class Flares",
+  "tur": "Produced Video",
+  "tarih": "2025-11-19",
+  "aciklama": "A blended composite image highlighting all six X-class flares from November 2025. The main image shows 131 Angstrom light, a subset of extreme ultraviolet light. The inset images show a variety of 131 and blends of 131, 171, and 304 Angstrom light. Credit: NASA/SDO/Scott Wiessinger || November_XFlares_All_6_Inset_Multi.jpg (7000x7000) [7.0 MB] || ",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: "
+  ]
+ },
+ {
+  "id": "svs14907",
+  "svs": 14907,
+  "baslik": "What is space weather?",
+  "tur": "Produced Video",
+  "tarih": "2025-09-30",
+  "aciklama": "Though it is almost 100 million miles away from Earth, the Sun influences our daily lives in ways you may not realize.A farmer stops their planting operations due to poor GPS signal for their autonomous tractor. A power grid manager changes the configuration of their network to ensure a blackout doesn’t occur due to voltage instability. A pilot switches to back-up communication equipment due to lo",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Editor: ",
+   "Narrator: ",
+   "Writer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014907/14907_SpaceWeatherLowRes.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 2,
+  "sure": 106.4,
+  "tablo": "tablolar/svs14907.jpg"
+ },
+ {
+  "id": "svs14872",
+  "svs": 14872,
+  "baslik": "NASA's Black Marble: Stories from the Night Sky",
+  "tur": "Produced Video",
+  "tarih": "2025-08-01",
+  "aciklama": "What can we learn from Earth’s nightlights? How does satellite data reveal powerful insights into our world after dark? From the steady glow of growing cities to the sudden darkness caused by natural disasters, nighttime imagery helps scientists track changes across the globe. From the quiet of rural towns to the bustle of urban streets, human activity shapes the planet’s nighttime presence. Wildf",
+  "sorgu": "aurora",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Project support: ",
+   "Scientist: ",
+   "Narrator: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014872/25_07_BLACK_MARBLE_SOCIAL_FINALCUT.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 2,
+  "sure": 66.1,
+  "tablo": "tablolar/svs14872.jpg"
+ },
+ {
+  "id": "svs14863",
+  "svs": 14863,
+  "baslik": "Quickshot: New NASA Mission Launching Soon To Study Earth’s Space Weather Shield",
+  "tur": "Produced Video",
+  "tarih": "2025-07-17",
+  "aciklama": "Scroll down page for advisory with suggested questions and anchor intro. You will also find the associated cut b-roll and pre-recorded soundbites below.Click here for more information about TRACERS || Live_Shot_Banner_TRACERS_final.jpg (1800x720) [256.8 KB] || Live_Shot_Banner_TRACERS_final_print.jpg (1024x409) [150.1 KB] || Live_Shot_Banner_TRACERS_final_searchweb.png (320x180) [82.8 KB] || Live_",
+  "sorgu": "aurora",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Editor: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014863/David_Miles_University_of_Iowa.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 7
+ },
+ {
+  "id": "svs14839",
+  "svs": 14839,
+  "baslik": "Webb Captures Jupiter’s Aurora",
+  "tur": "Produced Video",
+  "tarih": "2025-05-12",
+  "aciklama": "NASA’s James Webb Space Telescope has captured a spectacular light show on Jupiter — an enormous display of auroras unlike anything seen on Earth. These infrared observations reveal unexpected activity in Jupiter’s atmosphere, challenging what scientists thought they knew about the planet’s magnetic field and particle interactions. Combined with ultraviolet data from Hubble, the results have raise",
+  "sorgu": "aurora",
+  "insan_suphesi": true,
+  "krediler": [
+   "Writer: ",
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014839/JUPITER_1080_WIDE.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3
+ },
+ {
+  "id": "svs14835",
+  "svs": 14835,
+  "baslik": "What Happened During the Biggest Geomagnetic Storm in Over 20 Years",
+  "tur": "Produced Video",
+  "tarih": "2025-05-09",
+  "aciklama": "On May 10, 2024, the first G5 or “severe” geomagnetic storm in over two decades hit Earth. The event did not cause any catastrophic damages, but it did produce surprising effects on Earth. The storm, which has been called the best-documented geomagnetic storm in history, spread auroras to unusually low latitudes and produced effects spanning from the ground to near-Earth space. Data captured durin",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Scientist: ",
+   "Cinematographer: ",
+   "Data visualizer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014835/BillDunford_May2024Aurora2_H264.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 5,
+  "sure": 4.9,
+  "tablo": "tablolar/svs14835.jpg"
+ },
+ {
+  "id": "svs14706",
+  "svs": 14706,
+  "baslik": "NASA's Illuminate Series (2024)",
+  "tur": "Produced Video",
+  "tarih": "2024-11-08",
+  "aciklama": "NASA's Illuminate is a video series about out-of-this-world images that shine light on our Sun and solar system. || ",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014706/Illuminate_SOHOComet_OnScreenCaptions_YouTube.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 10,
+  "sure": 61.0,
+  "tablo": "tablolar/svs14706.jpg"
+ },
+ {
+  "id": "svs31319",
+  "svs": 31319,
+  "baslik": "2025 NASA Science Calendar",
+  "tur": "Hyperwall Visual",
+  "tarih": "2024-10-23",
+  "aciklama": "Images from the 2025 NASA Science Calendar",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs14683",
+  "svs": 14683,
+  "baslik": "NASA, NOAA Announce That the Sun Has Reached the Solar Maximum Period",
+  "tur": "Produced Video",
+  "tarih": "2024-10-15",
+  "aciklama": "In a teleconference with reporters on Tuesday, October 15, 2024, representatives from NASA, the National Oceanic and Atmospheric Agency (NOAA), and the Solar Cycle Prediction Panel announced the Sun has reached its solar maximum period.The solar cycle is the natural cycle of the Sun as it transitions between low and high activity. Roughly every 11 years, at the height of the solar cycle, the Sun’s",
+  "sorgu": "aurora",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Writer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014683/011_Artemis_Animations.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 8,
+  "sure": 89.7,
+  "tablo": "tablolar/svs14683.jpg"
+ },
+ {
+  "id": "svs14696",
+  "svs": 14696,
+  "baslik": "NASA + Smithsonian and Greenhouse Gases",
+  "tur": "Produced Video",
+  "tarih": "2024-10-08",
+  "aciklama": "Full 8K resolution. Optimized for Earth Information Center display at the National Museum of Natural History (Smithsonian).Universal Production Music France: \"Human Endeavor\" by Oliver Grim, Koka Media; \"Accuracy\" by Laurent Levesque.Universal Production Music: \"Feelings of Pride\" by Kathryn Louise Maclennan, Label-Aurora Production Music.This video can be freely shared and downloaded. While the v",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Writer: ",
+   "Director of photography: ",
+   "Videographer: ",
+   "Editor: ",
+   "Visualizer: ",
+   "Scientist: ",
+   "Intern: ",
+   "Technical support: ",
+   "Support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014696/Smithsonian_GHG_v5_h.264.mp4",
+   "w": 7680,
+   "h": 2160
+  },
+  "dosya_sayisi": 3
+ },
+ {
+  "id": "svs14690",
+  "svs": 14690,
+  "baslik": "Ten Years at Mars with NASA’s MAVEN Mission",
+  "tur": "Produced Video",
+  "tarih": "2024-09-23",
+  "aciklama": "During its first decade at Mars, MAVEN has helped to explain how the Red Planet evolved from warm and wet into the cold, dry world we see today. Complete transcript available.Universal Production Music: “Executive Deceit” by Samuel Karl Bohn [PRS], Chalk Music [PRS]; “Quasar” by Ross Stephen Gilmartin [PRS], Chappell Recorded Music Library Ltd [PRS]; “Modular Odyssey” and “Synthology” by Laetitia ",
+  "sorgu": "aurora",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Scientist: ",
+   "Public affairs: ",
+   "Narrator: ",
+   "Data visualizer: ",
+   "Animator: ",
+   "Graphic designer: ",
+   "Support: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014690/14690_MAVEN_10th_Anniversary_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 355.1,
+  "tablo": "tablolar/svs14690.jpg"
+ },
+ {
+  "id": "svs14639",
+  "svs": 14639,
+  "baslik": "Helio Big Year: How Sonifications Connect to Performance Art",
+  "tur": "Produced Video",
+  "tarih": "2024-07-26",
+  "aciklama": "The Sun can put on spectacular shows in the sky. From Earth, we watch the dance between the Sun and Moon during eclipses, see the mesmerizing motion of the aurora, witness a tapestry of colors during sunrise and sunset, and sometimes even spot the bright flashes of sprites. All of these unique occurrences have inspired performance art — from dance, to music, to theater, and beyond.In June 2024, th",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Scientist: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014639/HARP_MartinArcher.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 3,
+  "sure": 61.9,
+  "tablo": "tablolar/svs14639.jpg"
+ },
+ {
+  "id": "svs5238",
+  "svs": 5238,
+  "baslik": "Our Active Ionosphere",
+  "tur": "Visualization",
+  "tarih": "2024-06-27",
+  "aciklama": "In this view of Earth on October 7, 2019, just past sunset, GOLD observed an X-shaped structure in the equatorial ionization anomaly. || GOLD_O5S_20191007.00034_print.jpg (1024x576) [76.3 KB] || GOLD_O5S_20191007 [0 Item(s)] || GOLD_O5S_20191007_1080p4.mp4 (1920x1080) [1.8 MB] || ",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Scientist: ",
+   "Writer: ",
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs31281",
+  "svs": 31281,
+  "baslik": "Aurora Australis as seen from ISS",
+  "tur": "Hyperwall Visual",
+  "tarih": "2024-05-07",
+  "aciklama": "The photographs used to make this video were taken on August 17, 2022 from 19:13:45 to 19:33:41 GMT from the International Space Station (ISS). This image sequence begins over the the Southern Ocean halfway between Africa and Antarctica. Green and Red Aurora Australis is visible throughout the time series. Towards the end, Australia comes into view and the yellow night lights of Perth and smaller ",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Image processing: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031281/ISS067_20220817_aurora_1080p25.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 49.6,
+  "tablo": "tablolar/svs31281.jpg"
+ },
+ {
+  "id": "svs14542",
+  "svs": 14542,
+  "baslik": "EZIE – Electrojet Zeeman Imaging Explorer",
+  "tur": "Produced Video",
+  "tarih": "2024-03-05",
+  "aciklama": "Slated to launch in 2025, NASA’s Electrojet Zeeman Imaging Explorer (EZIE) will be the first mission to image the magnetic fingerprint of the auroral electrojets — intense electric currents flowing high above Earth’s poles that are central to the electrical circuit coupling the planet’s magnetosphere to its atmosphere.Led by the Johns Hopkins Applied Physics Laboratory (APL), EZIE will use a trio ",
+  "sorgu": "aurora",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014500/a014542/EZIE_Website_AnimationWithLogo.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 7
+ },
+ {
+  "id": "svs14468",
+  "svs": 14468,
+  "baslik": "Test, Test, and Retest – Hubble’s Servicing Mission 1 (Frank Cepollina)",
+  "tur": "Produced Video",
+  "tarih": "2023-12-11",
+  "aciklama": "Embark on a cosmic odyssey with Frank Cepollina, a driving force behind the success of Hubble's Servicing Mission 1. Discover firsthand accounts of his instrumental role in the mission, revealing the innovative solutions and relentless determination that revitalized the Hubble Space Telescope. Join us in exploring the transformative impact of Cepollina's leadership during Servicing Mission 1, over",
+  "sorgu": "aurora",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Camera operator: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014400/a014468/14468_CEPI_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3
+ },
+ {
+  "id": "svs14206",
+  "svs": 14206,
+  "baslik": "Chasing Sprites in Electric Skies",
+  "tur": "Produced Video",
+  "tarih": "2022-10-27",
+  "aciklama": "Paul Smith is a night-sky fanatic and photographer. His obsession is sprites: immense jolts of light that flicker high above thunderstorms. Last October, he guided NASA scientist Dr. Burcu Kosar through the backroads of Oklahoma to catch one herself. Although she’d studied sprites for more than 15 years, she hadn’t yet chased one.Image credits: Paul Smith, Frankie Lucena, Panagiotis Tsouras, Thoma",
+  "sorgu": "aurora space station",
+  "insan_suphesi": true,
+  "krediler": [
+   "Scientist: ",
+   "Producer: ",
+   "Photographer: ",
+   "Videographer: ",
+   "Writer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014206/Spritacular_QA_Twitter.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 10
+ },
+ {
+  "id": "svs13687",
+  "svs": 13687,
+  "baslik": "NASA Spacecraft Uncover Mystery Behind Auroral Beads",
+  "tur": "Produced Video",
+  "tarih": "2020-08-14",
+  "aciklama": "A special type of aurora, draped east-west across the night sky like a glowing pearl necklace, is helping scientists better understand the science of auroras and their powerful drivers out in space. Known as auroral beads, these lights often show up just before large auroral displays, which are caused by electrical storms in space called substorms. Until now, scientists weren’t sure if auroral bea",
+  "sorgu": "aurora space station",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013600/a013687/13687_AuroralBeads_Twitter.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 8,
+  "sure": 26.4,
+  "tablo": "tablolar/svs13687.jpg"
+ },
+ {
+  "id": "svs13502",
+  "svs": 13502,
+  "baslik": "AGU 2019 — Postcards from the edge of space: New images, new phenomena, and new insights",
+  "tur": "Produced Video",
+  "tarih": "2019-12-10",
+  "aciklama": "In a Dec. 10 press event at the fall meeting of the American Geophysical Union in San Francisco, California, three scientists presented new images of the ionosphere, the dynamic region where Earth’s atmosphere meets space. Home to astronauts and everyday technology like radio and GPS, the ionosphere constantly responds to changes from space above and Earth below.The collection of images presented ",
+  "sorgu": "aurora space station",
+  "insan_suphesi": true,
+  "krediler": [
+   "Scientist: ",
+   "Writer: ",
+   "Producer: ",
+   "Support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013500/a013502/14_MIGHTI_Time-lapse.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 11,
+  "sure": 10.8,
+  "tablo": "tablolar/svs13502.jpg"
+ },
+ {
+  "id": "svs13028",
+  "svs": 13028,
+  "baslik": "Parker Solar Probe Media Telecons",
+  "tur": "Produced Video",
+  "tarih": "2018-08-08",
+  "aciklama": "This is a resource page for the media teleconferences on August 8, 2018. || ",
+  "sorgu": "aurora space station",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Speaker: ",
+   "Scientist: ",
+   "Engineer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013028/4K_4167_Big_CME.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 3,
+  "sure": 10.0,
+  "tablo": "tablolar/svs13028.jpg"
+ },
+ {
+  "id": "svs12963",
+  "svs": 12963,
+  "baslik": "Airglow Imagery",
+  "tur": "Produced Video",
+  "tarih": "2018-06-02",
+  "aciklama": "Airglow occurs when atoms and molecules in the upper atmosphere, excited by sunlight, emit light in order to shed their excess energy. The phenomenon is similar to auroras, but where auroras are driven by high-energy particles originating from the solar wind, airglow is sparked by day-to-day solar radiation. Airglow carries information on the upper atmosphere’s temperature, density, and compositio",
+  "sorgu": "aurora space station",
+  "insan_suphesi": false,
+  "krediler": [
+   "Support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012900/a012963/Airglow_milkyway_iss_20111229.mp4",
+   "w": 1024,
+   "h": 768
+  },
+  "dosya_sayisi": 14,
+  "sure": 44.9,
+  "tablo": "tablolar/svs12963.jpg"
+ },
+ {
+  "id": "svs12532",
+  "svs": 12532,
+  "baslik": "Welcome to the Ionosphere",
+  "tur": "Produced Video",
+  "tarih": "2017-11-07",
+  "aciklama": "Music credit: Foxy Trot by Luis Enriquez Bacalov Complete transcript available.Watch this video on the NASA Goddard YouTube channel. || ionosphere_thumb.jpg (1920x1080) [69.9 KB] || ionosphere_thumb_searchweb.png (320x180) [57.3 KB] || ionosphere_thumb_thm.png (80x40) [6.3 KB] || APPLE_TV-12532_Welcome_to_the_ionosphere_bsideV4_appletv.webm (1280x720) [24.0 MB] || APPLE_TV-12532_Welcome_to_the_ion",
+  "sorgu": "aurora space station",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Producer: ",
+   "Narrator: ",
+   "Project support: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012500/a012532/YOUTUBE_1080-12532_Welcome_to_the_ionosphere_bsideV4_youtube_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 4,
+  "sure": 179.2,
+  "tablo": "tablolar/svs12532.jpg"
+ },
+ {
+  "id": "svs12457",
+  "svs": 12457,
+  "baslik": "AGU Ionosphere Press Conference",
+  "tur": "Produced Video",
+  "tarih": "2016-12-14",
+  "aciklama": "The ionosphere is a layer of charged particles in Earth’s atmosphere that extends from about 50 to 360 miles above the surface of Earth. Processes in the ionosphere also create bright swaths of color in the sky, known as airglow. Credit: NASA GSFC || AGUIonosphereV4_1.jpg (1280x960) [109.7 KB] || ",
+  "sorgu": "aurora space station",
+  "insan_suphesi": true,
+  "krediler": [],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012400/a012457/IRIGOLDscan.GOLDview_O+ion.HD1080i_p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 5,
+  "sure": 42.4,
+  "tablo": "tablolar/svs12457.jpg"
+ },
+ {
+  "id": "svs11794",
+  "svs": 11794,
+  "baslik": "MMS L-2 Prelaunch News Conference",
+  "tur": "Produced Video",
+  "tarih": "2015-03-10",
+  "aciklama": "On March 12 from Cape Canaveral Florida, NASA is scheduled to launch the Magnetospheric Multiscale, or MMS, mission, which will provide unprecedented detail on a phenomenon called magnetic reconnection. The process of reconnection involves the explosive release of energy when the magnetic fields around Earth connect and disconnect. These fields help protect Earth from harmful effects of solar stor",
+  "sorgu": "aurora space station",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a020000/a020200/a020214/MMS_LD_Final_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 1,
+  "sure": 103.7,
+  "tablo": "tablolar/svs11794.jpg"
+ },
+ {
+  "id": "svs30179",
+  "svs": 30179,
+  "baslik": "ISS Timelapse: Aurora Australis",
+  "tur": "Hyperwall Visual",
+  "tarih": "2013-10-17",
+  "aciklama": "The photographs used to make this video were taken on September 17, 2011 from 17:22:27 to 17:37:21 GMT from the International Space Station (ISS). This image sequence begins over the Indian Ocean halfway between Madagascar and Antarctica. Aurora Australis is present for the first 2/3rds of the video, then Australis comes into view. Yellow lights near the coast show the presence of cities, while in",
+  "sorgu": "aurora space station",
+  "insan_suphesi": false,
+  "krediler": [
+   "Project support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a030100/a030179/iss029_aurora_20110917_720p.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 4,
+  "sure": 45.8,
+  "tablo": "tablolar/svs30179.jpg"
+ },
+ {
+  "id": "svs15043",
+  "svs": 15043,
+  "baslik": "STORIE Launch and Install on the Space Station",
+  "tur": "Produced Video",
+  "tarih": "2026-05-22",
+  "aciklama": "NASA’s STORIE (Storm Time O+ Ring current Imaging Evolution) mission launched at 6:05 p.m. EDT on Friday, May 15, 2026, aboard a SpaceX Falcon 9 rocket from Launch Complex 40 at Cape Canaveral Space Force Station in Florida. Learn more: https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/ || ",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015043/15043_STORIEinstall_YouTube_720x480.mp4",
+   "w": 720,
+   "h": 480
+  },
+  "dosya_sayisi": 2,
+  "sure": 138.6,
+  "tablo": "tablolar/svs15043.jpg"
+ },
+ {
+  "id": "svs15011",
+  "svs": 15011,
+  "baslik": "NASA Experiment to Track Space ‘Doughnut’ Encircling Earth",
+  "tur": "Produced Video",
+  "tarih": "2026-05-01",
+  "aciklama": "NASA is launching a new experiment to track charged particles in a \"space doughnut\" that encircles our planet. Installed on the exterior of the International Space Station, the new experiment will study the ring current — a doughnut-shaped swarm of particles that can surge when a solar blast hits Earth, disrupting our satellites in space and power systems on the ground.",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Writer: ",
+   "Talent: ",
+   "Videographer: ",
+   "Teleprompter operator: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a015000/a015011/video_linear.mp4",
+   "w": 1800,
+   "h": 1800
+  },
+  "dosya_sayisi": 6,
+  "sure": 58.9,
+  "tablo": "tablolar/svs15011.jpg"
+ },
+ {
+  "id": "svs15013",
+  "svs": 15013,
+  "baslik": "STORIE Prepares for Launch at Kennedy Space Center",
+  "tur": "Produced Video",
+  "tarih": "2026-05-01",
+  "aciklama": "NASA’s STORIE (Storm Time O+ Ring current Imaging Evolution) instrument is shown here installed on the Space Test Program – Houston 11 (STP-H11) payload, a partnership between the U.S. Space Force and NASA, at the Space Station Processing Facility at NASA's Kennedy Space Center in Florida. It is covered in blanketing material to protect STORIE from the space environment. After launch, the STP-H11 ",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Writer: "
+  ]
+ },
+ {
+  "id": "svs14956",
+  "svs": 14956,
+  "baslik": "Space Weather Effects Animations",
+  "tur": "Produced Video",
+  "tarih": "2026-01-26",
+  "aciklama": "Solar flares, coronal mass ejections, solar particle events, and the solar wind form the recipe for space weather that affects life on Earth and astronauts in space. A farmer stops their planting operations due to poor GPS signal for their autonomous tractor. A power grid manager changes the configuration of their network to ensure a blackout doesn’t occur due to voltage instability. A pilot switc",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014956/14956_RadioWaveReflection_NoAltitude_1080_YouTube.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 11,
+  "sure": 5.3,
+  "tablo": "tablolar/svs14956.jpg"
+ },
+ {
+  "id": "svs14949",
+  "svs": 14949,
+  "baslik": "NASA Monitors Space Weather 24/7",
+  "tur": "Produced Video",
+  "tarih": "2026-01-09",
+  "aciklama": "Our Sun creates conditions in space, called space weather, that can affect our technologies both in space and on Earth — from GPS satellites to airplanes to power grids.",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Narrator: ",
+   "Writer: ",
+   "Videographer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014949/14949_M2M_ElizabethJuelfs_1080_YouTube.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 8,
+  "sure": 143.3,
+  "tablo": "tablolar/svs14949.jpg"
+ },
+ {
+  "id": "svs14925",
+  "svs": 14925,
+  "baslik": "Intense Solar Storm Delays ESCAPADE Launch",
+  "tur": "Produced Video",
+  "tarih": "2025-11-14",
+  "aciklama": "NASA’s ESCAPADE mission launched on Nov. 13, 2025!But it wasn’t without any hiccups — or maybe a series of violent burps? — from the Sun!The launch of ESCAPADE, our next mission to Mars, was delayed by a day due to the most powerful geomagnetic storm of 2025. The storm was caused by multiple flares and eruptions known as coronal mass ejections heading toward Earth.With the help of NASA satellites ",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Videographer: ",
+   "Writer: ",
+   "Talent: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014925/14925_ESCAPADEreel_NoCaptions_1080_YouTube.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 2,
+  "sure": 113.2,
+  "tablo": "tablolar/svs14925.jpg"
+ },
+ {
+  "id": "svs5375",
+  "svs": 5375,
+  "baslik": "Carrington Class Coronal Mass Ejection - ENLIL Simulation of A Series of CMEs",
+  "tur": "Visualization",
+  "tarih": "2025-08-07",
+  "aciklama": "A series of visualizations of the simulation of a series of CMEs between July 2012 and August 2012, including a carrington class coronal mass ejection that hit STEREO-A.",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005300/a005375/enlil_BMag_anicamA_1080p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 5,
+  "sure": 32.0,
+  "tablo": "tablolar/svs5375.jpg"
+ },
+ {
+  "id": "svs14874",
+  "svs": 14874,
+  "baslik": "STORIE Thermal Vacuum Test at NASA Goddard Space Flight Center",
+  "tur": "Produced Video",
+  "tarih": "2025-07-28",
+  "aciklama": "NASA’s STORIE mission, or Storm Time O+ Ring current Imaging Evolution, has completed its design, build, and testing campaign at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, ahead of its six-month mission onboard the International Space Station (ISS). From its unique vantage point on the ISS, STORIE will use its onboard neutral atom imager to provide an “inside out” view of Earth’s r",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Photographer: ",
+   "Videographer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014874/14874_061025_TVAC-Part2_1080_YouTube.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 4
+ },
+ {
+  "id": "svs14869",
+  "svs": 14869,
+  "baslik": "STORIE Fit Test at NASA Goddard Space Flight Center",
+  "tur": "Produced Video",
+  "tarih": "2025-07-18",
+  "aciklama": "NASA’s STORIE mission, or Storm Time O+ Ring current Imaging Evolution, has completed its design, build, and testing campaign at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, ahead of its mission onboard the International Space Station (ISS). From its unique vantage point on the ISS, STORIE will use neutral atom imaging to provide an “inside out” view of Earth’s ring current – a regio",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Videographer: ",
+   "Photographer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014869/14869_053025_STORIE_Fit-Test_1080p.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2
+ },
+ {
+  "id": "svs5555",
+  "svs": 5555,
+  "baslik": "TRACERS through Earth's Polar Cusps",
+  "tur": "Visualization",
+  "tarih": "2025-07-15",
+  "aciklama": "Visualization of the orbit of the twin TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) satellites that will explore the process of magnetic reconnection in Earth's polar regions and its effects on our atmosphere.",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Data visualizer: ",
+   "Producer: ",
+   "Scientist: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005555/Geospace2025.TRACERS-alt.GEI.RE.noslate_CRTT.HD1080_p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 60.0,
+  "tablo": "tablolar/svs5555.jpg"
+ },
+ {
+  "id": "svs14779",
+  "svs": 14779,
+  "baslik": "NASA's Illuminate Series (2025)",
+  "tur": "Produced Video",
+  "tarih": "2025-02-11",
+  "aciklama": "NASA's Illuminate is a video series about out-of-this-world images that shine light on our Sun and solar system. || ",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Visualizer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014779/Illuminate_Inflows_NoCaptions.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 16,
+  "sure": 55.9,
+  "tablo": "tablolar/svs14779.jpg"
+ },
+ {
+  "id": "svs5435",
+  "svs": 5435,
+  "baslik": "Geomagnetic and Atmospheric Response to May 2024 Solar Storm",
+  "tur": "Visualization",
+  "tarih": "2024-12-12",
+  "aciklama": "This visualization shows the Earth's magnetosphere being hit by a geomagnetic storm. The MAGE model simulates real events that happened throughout May 10-11, 2024.White orbit trails: All satellites orbiting Earth during the stormOrange orbits: Proposed orbits for six GDC spacecraftOrange-to-purple lines: Magnetic field lines around EarthBlue trails: Solar wind velocity tracersGreen clouds: Electri",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Technical support: ",
+   "Scientist: ",
+   "Writer: ",
+   "Project support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005435/multiField_3-31-2025a_magnetosphere_pc_anim_satellitesNoGDC_1080p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 5,
+  "sure": 96.0,
+  "tablo": "tablolar/svs5435.jpg"
+ },
+ {
+  "id": "svs5214",
+  "svs": 5214,
+  "baslik": "Geomagnetic Storm Causes Satellite Loss for Fulldome",
+  "tur": "Visualization",
+  "tarih": "2024-02-08",
+  "aciklama": "In February 2022, a Coronal Mass Ejection led to 38 commercial satellites being lost. Solar plasma from a geomagnetic storm heated the atmosphere, causing denser gases to expand into the satellites’ orbit, which increased atmospheric drag on the satellites and caused them to de-orbit. Johns Hopkins APL-led Center for Geospace Storms (CGS) is building a Multiscale Atmosphere-Geospace Environment (M",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Technical support: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a001700/a001703/4559_Kepler_Neptune_Twitter_720.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 3,
+  "sure": 118.8,
+  "tablo": "tablolar/svs5214.jpg"
+ },
+ {
+  "id": "svs5193",
+  "svs": 5193,
+  "baslik": "Geomagnetic Storm Causes Satellite Loss",
+  "tur": "Visualization",
+  "tarih": "2023-12-11",
+  "aciklama": "In February 2022, a Coronal Mass Ejection led to 38 commercial satellites being lost. Solar plasma from a geomagnetic storm heated the atmosphere, causing denser gases to expand into the satellites’ orbit, which increased atmospheric drag on the satellites and caused them to de-orbit. Johns Hopkins APL-led Center for Geospace Storms (CGS) is building a Multiscale Atmosphere-Geospace Environment (M",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Technical support: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005193/multiField_2-7-2025b_magnetosphere_pc_anim_satellites_1080p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 4,
+  "sure": 97.6,
+  "tablo": "tablolar/svs5193.jpg"
+ },
+ {
+  "id": "svs31248",
+  "svs": 31248,
+  "baslik": "How Do Space Weather Effects & Solar Storms Affect Earth?",
+  "tur": "Hyperwall Visual",
+  "tarih": "2023-09-29",
+  "aciklama": "Technological and infrastructure affected by space weather events. || space-weather-effects_print.jpg (1024x953) [307.6 KB] || space-weather-effects.png (3480x3240) [8.3 MB] || space-weather-effects_searchweb.png (320x180) [77.3 KB] || space-weather-effects_thm.png (80x40) [6.2 KB] || how-do-space-weather-effects-solar-storms-affect-earth.hwshow [320 bytes] || ",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs12986",
+  "svs": 12986,
+  "baslik": "Mars Proton Aurora",
+  "tur": "Produced Video",
+  "tarih": "2018-07-23",
+  "aciklama": "On Earth, the northern and southern lights occur when the solar wind (electrically charged particles from the Sun) follow our planet's geomagnetic field lines to the poles and collide with the upper atmosphere. Mars lacks a global magnetic field, so instead the solar wind piles up in front of Mars in a bow shock, which blocks charged particles from reaching the bulk of the atmosphere. However, in ",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Scientist: ",
+   "Illustrator: ",
+   "Animator: ",
+   "Science writer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012900/a012986/TWITTER_720_MAVEN_062618_h264_test1_twitter_720.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 2,
+  "sure": 7.0,
+  "tablo": "tablolar/svs12986.jpg"
+ },
+ {
+  "id": "svs4480",
+  "svs": 4480,
+  "baslik": "Prompt Electron Acceleration in the Radiation Belts",
+  "tur": "Visualization",
+  "tarih": "2016-08-15",
+  "aciklama": "Electrons gyrating along the lines of Earth's magnetic field make another orbit around Earth and strike the Van Allen Probe A AGAIN! || PromptAccel_EventCloseup_SlowOblique.slate_RigRHS.HD1080i.0540_print.jpg (1024x576) [139.2 KB] || PromptAccel_EventCloseup_SlowOblique.slate_RigRHS.HD1080i.0540_searchweb.png (320x180) [90.9 KB] || PromptAccel_EventCloseup_SlowOblique.slate_RigRHS.HD1080i.0540_thm",
+  "sorgu": "geomagnetic storm",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Technical support: ",
+   "Producer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a004400/a004480/PromptAccel.HD1080i_p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 27.0,
+  "tablo": "tablolar/svs4480.jpg"
+ },
+ {
+  "id": "svs31354",
+  "svs": 31354,
+  "baslik": "PUNCH",
+  "tur": "Animation",
+  "tarih": "2025-06-13",
+  "aciklama": "NASA’s PUNCH Releases Its First Images of Huge Eruptions from Sun",
+  "sorgu": "coronal mass ejection",
+  "insan_suphesi": false,
+  "krediler": [
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs5514",
+  "svs": 5514,
+  "baslik": "Solar Storm Excites Martian Magnetosphere for Fulldome",
+  "tur": "Visualization",
+  "tarih": "2025-04-07",
+  "aciklama": "On September 13, 2017, a coronal mass ejection from the Sun arrived at Mars. This data visualization shows how solar-wind-induced currents and magnetic fields combine with Mars' relatively weak and irregular native crustal magnetic fields to contribute to Mars’ \"hybrid\" magnetosphere.",
+  "sorgu": "coronal mass ejection",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Producer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005514/marsMagnetosphere_VelTracersExtended_2-21-2025a_jmag_normal_flightA_dome_2048p30_update.mp4",
+   "w": 2048,
+   "h": 2048
+  },
+  "dosya_sayisi": 9,
+  "sure": 48.0,
+  "tablo": "tablolar/svs5514.jpg"
+ },
+ {
+  "id": "svs5502",
+  "svs": 5502,
+  "baslik": "Solar Storm Excites Martian Magnetosphere",
+  "tur": "Visualization",
+  "tarih": "2025-04-07",
+  "aciklama": "On September 13, 2017, a coronal mass ejection from the Sun arrived at Mars. This data visualization shows how solar-wind-induced currents (green colors) and magnetic fields (pink lines) combine with Mars' relatively weak and irregular native crustal magnetic fields to contribute to Mars’ \"hybrid\" magnetosphere.",
+  "sorgu": "coronal mass ejection",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Producer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005502/marsMagnetosphere_pickups_10-21-2025b_jmag_slow_side_noAnnotation_1080p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 9,
+  "sure": 36.3,
+  "tablo": "tablolar/svs5502.jpg"
+ },
+ {
+  "id": "svs14802",
+  "svs": 14802,
+  "baslik": "Earth to Space: A National Symphony Orchestra Concert",
+  "tur": "Produced Video",
+  "tarih": "2025-03-28",
+  "aciklama": "Explore the vastness of space with music inspired by the planets, stars, and beyond! In anticipation of the upcoming voyage of Artemis II, the National Symphony Orchestra celebrates the discoveries and beauty of space through music and images produced by NASA. Explore this page to learn more about the visuals used in the Kennedy Center's 2025 Earth to Space Festival NSO Family Concert.",
+  "sorgu": "coronal mass ejection",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012000/a012045/BARON_SERVICE-NASAONAIR-Maven_mars_atmosphere_1920_MASTER_baron.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 18,
+  "sure": 25.6,
+  "tablo": "tablolar/svs14802.jpg"
+ },
+ {
+  "id": "svs5136",
+  "svs": 5136,
+  "baslik": "STEREO-A Returns by Earth",
+  "tur": "Visualization",
+  "tarih": "2023-08-22",
+  "aciklama": "The Solar Terrestrial Relations Observatory (STEREO) mission was launched on October 25, 2006, with the purpose of tracing the flow of energy and matter from the Sun to Earth. The STEREO mission began with two spacecraft: STEREO-A and STEREO-B. Each was launched into Sun-orbiting trajectories - STEREO-A moving ahead of Earth, and STEREO-B moving behind Earth (STEREO's Routes to Solar Orbits). In m",
+  "sorgu": "coronal mass ejection",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Writer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005136/STEREOflyby.STEREOflybyMarker.HD1080_p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 6,
+  "sure": 83.6,
+  "tablo": "tablolar/svs5136.jpg"
+ },
+ {
+  "id": "svs14126",
+  "svs": 14126,
+  "baslik": "SDO Video Toolkit",
+  "tur": "Produced Video",
+  "tarih": "2022-04-01",
+  "aciklama": "The Trebuchet eruption (upper left) as seen in the SDO AIA 304 angstrom filter. This is probably one of the more popular views of the event.4k source files || New_Trebuchet_mkII.00300_print.jpg (1024x576) [336.5 KB] || New_Trebuchet_mkII.00300_print_searchweb.png (320x180) [95.4 KB] || New_Trebuchet_mkII.00300_print_thm.png (80x40) [6.2 KB] || New_Trebuchet_mkII.mp4 (1920x1080) [32.4 MB] || New_Tr",
+  "sorgu": "coronal mass ejection",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Visualizer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014126/Eclipse_Masked.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 19,
+  "sure": 26.0,
+  "tablo": "tablolar/svs14126.jpg"
+ },
+ {
+  "id": "svs13860",
+  "svs": 13860,
+  "baslik": "Animation of USPS Stamps Featuring NASA's Solar Dynamic Observatory",
+  "tur": "Produced Video",
+  "tarih": "2021-06-17",
+  "aciklama": "The U.S. Postal Service illuminates the light and warmth of our nearest star by highlighting these stunning images of the Sun on stamps. These images come from NASA’s Solar Dynamics Observatory, a spacecraft launched in February 2010 to keep a constant watch on the Sun.The Sun is the only star that humans are able to observe in great detail, making it a vital source of information about the univer",
+  "sorgu": "coronal mass ejection",
+  "insan_suphesi": true,
+  "krediler": [
+   "Animator: ",
+   "Producer: ",
+   "Writer: ",
+   "Data visualizer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013800/a013860/SDO_stamps_V07_final_sound_Twitter.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 15.9,
+  "tablo": "tablolar/svs13860.jpg"
+ },
+ {
+  "id": "svs20338",
+  "svs": 20338,
+  "baslik": "SunRISE Beauty Pass",
+  "tur": "Animation",
+  "tarih": "2020-12-08",
+  "aciklama": "A coronal mass ejection (CME) erupts from the Sun and sends Type II radio bursts ahead of it. SunRISE measures the radio bursts and transmits the data to NASA’s Deep Space Network. Type II radio bursts are the earliest indicators of shocks from a solar eruption and can provide information on solar energetic particle (SEP) events. || SUNRISE-shot1_v06_4k_30fps_ProRes422.00240_print.jpg (1024x576) [",
+  "sorgu": "coronal mass ejection",
+  "insan_suphesi": false,
+  "krediler": [
+   "Scientist: ",
+   "Animator: ",
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a020000/a020300/a020338/SUNRISE-shot1_v06_4k_30fps_h264.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 7,
+  "sure": 10.7,
+  "tablo": "tablolar/svs20338.jpg"
+ },
+ {
+  "id": "svs13778",
+  "svs": 13778,
+  "baslik": "Solar Activity Continues to Rise with 'Anemone' Eruption",
+  "tur": "Produced Video",
+  "tarih": "2020-12-03",
+  "aciklama": "Short video showing the solar flare and subsequent prominence eruption and \"arcade\" of loops.Credit: NASA/GSFC/SDOMusic: \"Beautiful Awesome\" from Universal Production MusicWatch this video on the NASA Goddard YouTube channel.Complete transcript available. || Anemone_Eruption_131-171_Blend.jpg (1920x1080) [281.9 KB] || Anemone_Eruption_131-171_Blend_searchweb.png (180x320) [78.6 KB] || Anemone_Erup",
+  "sorgu": "coronal mass ejection",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Visualizer: ",
+   "Science writer: ",
+   "Video editor: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013700/a013778/13778_Anemone_Eruption_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 8
+ },
+ {
+  "id": "svs13714",
+  "svs": 13714,
+  "baslik": "Solar Cycle 25 Is Here. NASA, NOAA Scientists Explain What This Means",
+  "tur": "Produced Video",
+  "tarih": "2020-09-15",
+  "aciklama": "Solar Cycle 25 has begun. The Solar Cycle 25 Prediction Panel announced solar minimum occurred in December 2019, marking the transition into a new solar cycle. In a press event, experts from the panel, NASA, and NOAA discussed the analysis and Solar Cycle 25 prediction, and how the rise to the next solar maximum and subsequent upswing in space weather will impact our lives and technology on Earth.",
+  "sorgu": "coronal mass ejection",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013700/a013714/GatewayCLPS.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 8,
+  "sure": 14.9,
+  "tablo": "tablolar/svs13714.jpg"
+ },
+ {
+  "id": "svs5648",
+  "svs": 5648,
+  "baslik": "The Moon Passes In and Out of Earth's Magnetosphere",
+  "tur": "Visualization",
+  "tarih": "2026-07-02",
+  "aciklama": "The Moon orbits Earth at a distance of more than 200,000 miles. Earth's magnetosphere, the protective magnetic bubble that surrounds us, is shaped like a tadpole. The Sun-facing side of the magnetosphere does not reach the distance of the Moon's orbit, but the tail extends far beyond it. This visualization shows how the Moon moves in and out of the magnetosphere.",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Data visualizer: ",
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005648/moonGamera_Moon_6-25-2026a_moon_wind_1080p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 100.0,
+  "tablo": "tablolar/svs5648.jpg"
+ },
+ {
+  "id": "svs5643",
+  "svs": 5643,
+  "baslik": "The Ring Current in Earth's Magnetosphere",
+  "tur": "Visualization",
+  "tarih": "2026-05-12",
+  "aciklama": "The ring current is a dynamic, doughnut-shaped region around Earth where charged particles flow in opposite directions along magnetic field lines, creating electrical currents. During a solar storm, changes in the ring current can lead to charge buildup on satellites, increased satellite drag, and magnetic fluctuations and induced currents on the ground that can affect pipelines and power lines.",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Scientific data support: ",
+   "Science advisor: ",
+   "Data visualizer: ",
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005643/ringCurrent_5-9-2026a_ringCurrent_orbit_1080p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 66.7,
+  "tablo": "tablolar/svs5643.jpg"
+ },
+ {
+  "id": "svs14983",
+  "svs": 14983,
+  "baslik": "“Cosmic Echoes” Audio Activation",
+  "tur": "Produced Video",
+  "tarih": "2026-05-08",
+  "aciklama": "The experience guides listeners through a narrative journey across space exploration and science.",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Editor: ",
+   "Narrator: ",
+   "Scientist: ",
+   "Technical support: ",
+   "Accessibility: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014983/CosmicEchoes.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 489.0,
+  "tablo": "tablolar/svs14983.jpg"
+ },
+ {
+  "id": "svs5623",
+  "svs": 5623,
+  "baslik": "The Moon Passes Through Earth's Magnetotail",
+  "tur": "Visualization",
+  "tarih": "2026-04-30",
+  "aciklama": "The Moon orbits the Earth 13 times a year. During a small part of that orbit, it passes through a special region called Earth's magnetotail, which stretches out on the night side of our planet. While inside the magnetotail, the Moon is protected from the Sun's radiation. But once it leaves the magnetotail, it is again exposed to the solar wind.",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Data visualizer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005623/magnetotailMoon_above_5-20-2026a_magnetotail_Moon_above_1080p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 5,
+  "sure": 80.6,
+  "tablo": "tablolar/svs5623.jpg"
+ },
+ {
+  "id": "svs5644",
+  "svs": 5644,
+  "baslik": "The Moon Passes Through Earth's Magnetotail for Fulldome",
+  "tur": "Visualization",
+  "tarih": "2026-04-30",
+  "aciklama": "The Moon orbits the Earth 13 times a year. During a small part of that orbit, it passes through a special region called Earth's magnetotail, which stretches out on the night side of our planet. While inside the magnetotail, the Moon is protected from the Sun's radiation. But once it leaves the magnetotail, it is again exposed to the solar wind.",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Data visualizer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005644/magnetotailMoon_gridSun_4-21-2026b_2048p30.mp4",
+   "w": 2048,
+   "h": 2048
+  },
+  "dosya_sayisi": 3,
+  "sure": 80.6,
+  "tablo": "tablolar/svs5644.jpg"
+ },
+ {
+  "id": "svs5622",
+  "svs": 5622,
+  "baslik": "Artemis II: Sending Humans Beyond the Magnetosphere",
+  "tur": "Visualization",
+  "tarih": "2026-03-05",
+  "aciklama": "Artemis II will be the first time in over 50 years that humans venture beyond Earth's protective magnetic shield, called the magnetosphere. This visualization captures the spacecraft's journey as the Orion spacecraft leaves the safety of the magnetosphere (shown here in green) and travels into open space, where it will encounter the solar wind streaming from the Sun.",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Data visualizer: ",
+   "Scientific data support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005622/moonGamera_4-15-2026c_artemisII_wind_1080p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 100.0,
+  "tablo": "tablolar/svs5622.jpg"
+ },
+ {
+  "id": "svs5617",
+  "svs": 5617,
+  "baslik": "ESCAPADE Visits the Distant Magnetotail",
+  "tur": "Visualization",
+  "tarih": "2026-02-26",
+  "aciklama": "Launched on Nov. 13, 2025, NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) mission will use two identical spacecraft to investigate how the solar wind interacts with Mars’ magnetic environment and how this interaction drives the planet’s atmospheric escape.",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Data visualizer: ",
+   "Scientist: ",
+   "Writer: ",
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005617/magnetotail_2-24-2026a_magnetotail_ESCAPADE_1080p60.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 80.6,
+  "tablo": "tablolar/svs5617.jpg"
+ },
+ {
+  "id": "svs14884",
+  "svs": 14884,
+  "baslik": "NASA Supercomputer Probes Tangled Magnetospheres of Merging Neutron Stars",
+  "tur": "Produced Video",
+  "tarih": "2026-01-29",
+  "aciklama": "New supercomputer simulations explore the tangled magnetic structures around merging neutron stars. These structures, called magnetospheres, interact as the city-sized stars enter their final orbits. Magnetic field lines can connect both stars, break, and reconnect, while currents surge through surrounding plasma moving at nearly the speed of light. The simulations show that these systems may prod",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014884/14884_NeutronStarBinarySim2_best.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 12,
+  "sure": 81.4,
+  "tablo": "tablolar/svs14884.jpg"
+ },
+ {
+  "id": "svs5609",
+  "svs": 5609,
+  "baslik": "Heliophysics Satellite Fleet - 2026",
+  "tur": "Visualization",
+  "tarih": "2026-01-26",
+  "aciklama": "A tour of the NASA Heliophysics fleet from near-Earth satellites out to the Voyagers beyond the heliopause.",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005609/helio_fleet_2026_solar_system_1080p60.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 11,
+  "sure": 90.0,
+  "tablo": "tablolar/svs5609.jpg"
+ },
+ {
+  "id": "svs5503",
+  "svs": 5503,
+  "baslik": "ESCAPADE Theoretical Flight Through Active Mars Magnetosphere",
+  "tur": "Visualization",
+  "tarih": "2025-11-19",
+  "aciklama": "NASA's Escape and Plasma Acceleration Dynamics Explorers mission, or ESCAPADE, aims to study Mars' real-time response to the solar wind and how the Martian magnetosphere changes over time, helping us better understand Mars' climate history. In this data visualization, we use the September 13, 2017 solar storm that arrived at Mars as an example of a storm that the twin ESCAPADE spacecraft might stu",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Producer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005503/marsMagnetosphere_pickups_10-21-2025b_jmag_slow_side_campaignB_arrow_1080p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 25,
+  "sure": 48.0,
+  "tablo": "tablolar/svs5503.jpg"
+ },
+ {
+  "id": "svs14926",
+  "svs": 14926,
+  "baslik": "ESCAPADE Launch",
+  "tur": "Produced Video",
+  "tarih": "2025-11-14",
+  "aciklama": "NASA’s ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft launched at 3:55 p.m. EST on Thursday, Nov. 13, 2025, aboard a Blue Origin New Glenn rocket from Launch Complex 36 at Cape Canaveral Space Force Station in Florida. Ground controllers for the ESCAPADE mission established communications with both spacecraft by 10:35 p.m. EST the same day.The twin spacecraft, built by",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014926/14926_ESCAPADEWebcast_CreditBlueOrigin_H264.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 116.0,
+  "tablo": "tablolar/svs14926.jpg"
+ },
+ {
+  "id": "svs14666",
+  "svs": 14666,
+  "baslik": "ESCAPADE Launch Phase and Deployment Animations",
+  "tur": "Produced Video",
+  "tarih": "2025-11-13",
+  "aciklama": "The Escape and Plasma Acceleration and Dynamics Explorers, or ESCAPADE, will use two identical spacecraft to investigate how the solar wind interacts with Mars’ magnetic environment and how this interaction drives the planet’s atmospheric escape. The first multi-spacecraft orbital science mission to the Red Planet, ESCAPADE’s twin orbiters will take simultaneous observations from different locatio",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014600/a014666/14666_NewGlenn_ESCAPADE_4K_YouTube.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 1
+ },
+ {
+  "id": "svs14920",
+  "svs": 14920,
+  "baslik": "Preparing for Martian Explorers: NASA's ESCAPADE Investigates Mars Space Weather",
+  "tur": "Produced Video",
+  "tarih": "2025-11-13",
+  "aciklama": "NASA’s new ESCAPADE mission is launching to Mars to help us better understand the Sun’s influence on Mars’ past and present. Its work could help protect future human explorers from potentially dangerous space weather when they set foot on the Red Planet.For the first time, the mission will use two identical spacecraft to investigate how the solar wind interacts with Mars’ magnetic environment and ",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Writer: ",
+   "Narrator: ",
+   "Talent: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014920/14920_ESCAPADE_ScienceOverview_4K_Facebook.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 2
+ },
+ {
+  "id": "svs14915",
+  "svs": 14915,
+  "baslik": "ESCAPADE Trajectory Animations",
+  "tur": "Produced Video",
+  "tarih": "2025-11-13",
+  "aciklama": "The Escape and Plasma Acceleration and Dynamics Explorers, or ESCAPADE, mission will use two identical spacecraft to investigate how the solar wind interacts with Mars’ magnetic environment and how this interaction drives the planet’s atmospheric escape. The first multi-spacecraft orbital science mission to the Red Planet, ESCAPADE’s twin orbiters will take simultaneous observations from different",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Writer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014915/14915_DeepSpaceTransferView1_4K_H264.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 10,
+  "sure": 12.0,
+  "tablo": "tablolar/svs14915.jpg"
+ },
+ {
+  "id": "svs14918",
+  "svs": 14918,
+  "baslik": "ESCAPADE Prepares for Flight (2025)",
+  "tur": "Produced Video",
+  "tarih": "2025-11-11",
+  "aciklama": "The Escape and Plasma Acceleration and Dynamics Explorers, or ESCAPADE, will use two identical spacecraft to investigate how the solar wind interacts with Mars’ magnetic environment and how this interaction drives the planet’s atmospheric escape. The first multi-spacecraft orbital science mission to the Red Planet, ESCAPADE’s twin orbiters will take simultaneous observations from different locatio",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014918/14918_GS1_Drone.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 4,
+  "sure": 45.5,
+  "tablo": "tablolar/svs14918.jpg"
+ },
+ {
+  "id": "svs14892",
+  "svs": 14892,
+  "baslik": "Solar Wind Animations",
+  "tur": "Produced Video",
+  "tarih": "2025-08-29",
+  "aciklama": "The Sun releases a constant stream of charged particles, called the solar wind. The solar wind originates in the outermost layer of the Sun’s atmosphere, the corona, when plasma is heated to a point that the Sun’s gravity can’t hold it down. When this plasma escapes – often reaching speeds of over one million miles per hour – it drags the Sun’s magnetic out across the solar system. When the solar ",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014892/14892_Atmospheric_Escape_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 9,
+  "sure": 48.0,
+  "tablo": "tablolar/svs14892.jpg"
+ },
+ {
+  "id": "svs14876",
+  "svs": 14876,
+  "baslik": "NASA’s TRACERS Mission Launches to Study Earth’s Magnetic Shield",
+  "tur": "Produced Video",
+  "tarih": "2025-07-25",
+  "aciklama": "NASA’s newest mission, TRACERS, soon will begin studying how Earth’s magnetic shield protects our planet from the effects of space weather. Short for Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites, the twin TRACERS spacecraft lifted off at 11:13 a.m. PDT (2:13 p.m. EDT) Wednesday, July 23, 2025, aboard a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg ",
+  "sorgu": "magnetosphere",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014876/14876_TRACERS_Deployments_1080_YouTube.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2
+ },
+ {
+  "id": "svs31395",
+  "svs": 31395,
+  "baslik": "Psyche Mission",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-05-30",
+  "aciklama": "Psyche is a NASA mission to study a metal-rich asteroid with the same name, located in the main asteroid belt between Mars and Jupiter. This is NASA’s first mission to study an asteroid that has more metal than rock or ice. No description available.",
+  "sorgu": "solar wind",
+  "insan_suphesi": false,
+  "krediler": [
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs14957",
+  "svs": 14957,
+  "baslik": "IMAP Arrives at L1",
+  "tur": "B-Roll",
+  "tarih": "2026-02-02",
+  "aciklama": "NASA’s IMAP (Interstellar Mapping and Acceleration Probe) reached its destination at Lagrange point 1, or L1, approximately 1 million miles from Earth toward the Sun on Jan. 10, 2026.",
+  "sorgu": "solar wind",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014957/26-01422_-_IMAP_Arrival_at_L1_-_Segment_11_Completion_B-Roll_1080HD.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 11,
+  "sure": 120.5,
+  "tablo": "tablolar/svs14957.jpg"
+ },
+ {
+  "id": "svs14718",
+  "svs": 14718,
+  "baslik": "NASA's Heliophysics Fleet Graphics (2025)",
+  "tur": "Infographic",
+  "tarih": "2026-01-09",
+  "aciklama": "NASA has a fleet of spacecraft strategically placed throughout our heliosphere—from Parker Solar Probe at the Sun observing the very start of the solar wind, to satellites around Earth, to the farthest human-made object, Voyager, which is sending back observations on interstellar space. Each mission is positioned at a critical, well-thought out vantage point to observe and understand the flow of e",
+  "sorgu": "solar wind",
+  "insan_suphesi": false,
+  "krediler": [
+   "Graphic designer: ",
+   "Support: "
+  ]
+ },
+ {
+  "id": "svs14921",
+  "svs": 14921,
+  "baslik": "IMAP Testing and Integration at NASA’s Kennedy Space Center",
+  "tur": "Produced Video",
+  "tarih": "2025-11-21",
+  "aciklama": "NASA’s IMAP (Interstellar Mapping and Acceleration Probe) spacecraft arrived May 10, 2025, for processing at the Astrotech Space Operations Facility near the agency’s Kennedy Space Center in Florida. The mission will study how the Sun shapes the boundaries of the heliosphere, the bubble around our solar system. A semitrailer transported the spacecraft from NASA’s Marshall Space Flight Center in Hu",
+  "sorgu": "solar wind",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014921/KSC-20250623-MH-KLS01-0001-IMAP_Instrument_Reintegration-M14641~large.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 18,
+  "sure": 22.1,
+  "tablo": "tablolar/svs14921.jpg"
+ },
+ {
+  "id": "svs5577",
+  "svs": 5577,
+  "baslik": "SDO Sun This Week",
+  "tur": "Animation",
+  "tarih": "2025-11-20",
+  "aciklama": "This visualization shows SDO AIA-304 imagery from the past 7 days with a color table and image processing applied. Archive folders are provided in the Download menu.",
+  "sorgu": "solar wind",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Technical support: ",
+   "Writer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005577/STWrolling_24hr_2048p30.mp4",
+   "w": 2048,
+   "h": 2048
+  },
+  "dosya_sayisi": 3,
+  "sure": 26.7,
+  "tablo": "tablolar/svs5577.jpg"
+ },
+ {
+  "id": "svs14865",
+  "svs": 14865,
+  "baslik": "The Closest Images Ever Taken of the Sun’s Atmosphere",
+  "tur": "Produced Video",
+  "tarih": "2025-07-10",
+  "aciklama": "On its record-breaking pass by the Sun in December 2024, NASA’s Parker Solar Probe captured stunning new images from within the Sun’s atmosphere. These newly released images — taken closer to the Sun than we’ve ever been before — are helping scientists better understand the Sun’s influence across the solar system, including events that can affect Earth.Parker Solar Probe started its closest approa",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Scientist: ",
+   "Videographer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014865/14865_WISPR_12252025.mp4",
+   "w": 960,
+   "h": 1024
+  },
+  "dosya_sayisi": 3,
+  "sure": 5.9,
+  "tablo": "tablolar/svs14865.jpg"
+ },
+ {
+  "id": "svs5534",
+  "svs": 5534,
+  "baslik": "Parker Solar Probe - Extended Mission",
+  "tur": "Visualization",
+  "tarih": "2025-06-18",
+  "aciklama": "After it's ultimate perihelion in December 2024, the Parker Solar Probe will continue it's orbits around the Sun. This visualization presents a projection of it's current orbit through 2029.",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": false,
+  "krediler": [
+   "Data visualizer: ",
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005534/ParkerSPExtended.top.HAE.AU.clockSlate_EarthTarget.HD1080_p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 5,
+  "sure": 408.9,
+  "tablo": "tablolar/svs5534.jpg"
+ },
+ {
+  "id": "svs14783",
+  "svs": 14783,
+  "baslik": "NASA Interview Opportunity: Two Missions, One Rocket: One Shared Goal",
+  "tur": "Produced Video",
+  "tarih": "2025-02-13",
+  "aciklama": "Assocated cut b-roll will be posted by 5 p.m. EST on Monday, Feb 24. || SPHEREx_PUNCH_Live_Shots_Banner.jpg (1800x720) [495.3 KB] || SPHEREx_PUNCH_Live_Shots_Banner_print.jpg (1024x409) [260.6 KB] || SPHEREx_PUNCH_Live_Shots_Banner_searchweb.png (320x180) [111.2 KB] || SPHEREx_PUNCH_Live_Shots_Banner_thm.png [8.0 KB] || ",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": true,
+  "krediler": [
+   "Technical support: ",
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014783/Sandra_canned_Final.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 9
+ },
+ {
+  "id": "svs14741",
+  "svs": 14741,
+  "baslik": "Parker Solar Probe: Humanity’s Closest Encounter with the Sun",
+  "tur": "Produced Video",
+  "tarih": "2024-12-27",
+  "aciklama": "Controllers have confirmed NASA’s mission to “touch” the Sun survived its record-breaking closest approach to the solar surface on Dec. 24, 2024.Breaking its previous record by flying just 3.8 million miles above the surface of the Sun, NASA’s Parker Solar Probe hurtled through the solar atmosphere at a blazing 430,000 miles per hour — faster than any human-made object has ever moved. A beacon ton",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": false,
+  "krediler": [
+   "Engineer: ",
+   "Nasa administrator: ",
+   "Scientist: ",
+   "Director: ",
+   "Producer: ",
+   "Editor: ",
+   "Videographer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014741/PSP_Phone_Home_Beacon_12-27-24_INTs_Winters.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 12,
+  "sure": 341.6,
+  "tablo": "tablolar/svs14741.jpg"
+ },
+ {
+  "id": "svs5443",
+  "svs": 5443,
+  "baslik": "Heliophysics Sentinels 2024",
+  "tur": "Visualization",
+  "tarih": "2024-12-17",
+  "aciklama": "There have been some changes since the 2022 Heliophysics Fleet. AIM and ICON have been decommissioned while two other instruments have been added. AWE is an instrument mounted on the ISS, and RAD is a particle detector on the Curiosity Mars rover. As of Winter 2024, here's a tour of the NASA Heliophysics fleet from the near-Earth satellites out to the Voyagers beyond the heliopause. || ",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005443/Sentinels2024.Earth2Voyager.GSE.AU.clockSlate_EarthTarget.HD1080_p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 10,
+  "sure": 80.6,
+  "tablo": "tablolar/svs5443.jpg"
+ },
+ {
+  "id": "svs14736",
+  "svs": 14736,
+  "baslik": "NASA's #3point8 Challenge",
+  "tur": "Produced Video",
+  "tarih": "2024-12-16",
+  "aciklama": "On Dec. 24, 2024, NASA's Parker Solar Probe will fly approximately 3.8 million miles from the solar surface — the closest solar approach in history — while traveling about 430,000 miles per hour — the fastest any human-made object ever has traveled.To celebrate, join Parker's journey with a digital quest of your own: Each day from Dec. 17 - 24, 2024, we're hiding a new custom \"3.8\" digital sticker",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Writer: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014736/14736_3point8_promo.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 87.5,
+  "tablo": "tablolar/svs14736.jpg"
+ },
+ {
+  "id": "svs14722",
+  "svs": 14722,
+  "baslik": "NASA Interview Opportunity: NASA Spacecraft Days Away From Historic Close Approach to the Sun",
+  "tur": "Produced Video",
+  "tarih": "2024-12-06",
+  "aciklama": "Scroll down the page for associated cut b-roll for the live shots and pre-recorded soundbites.Find out more about NASA's Parker Solar Probe here! nasa.gov/parker || Screenshot_2024-12-06_at_2.24.02 PM.png (1546x606) [1.9 MB] || Screenshot_2024-12-06_at_2.24.02 PM_print.jpg (1024x401) [195.3 KB] || Screenshot_2024-12-06_at_2.24.02 PM_searchweb.png (320x180) [128.7 KB] || Screenshot_2024-12-06_at_2.",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014722/Cristian_Parker_Interview.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 7
+ },
+ {
+  "id": "svs5428",
+  "svs": 5428,
+  "baslik": "Parker Solar Probe Towards its Ultimate Perihelion",
+  "tur": "Visualization",
+  "tarih": "2024-11-25",
+  "aciklama": "Parker Solar Probe is making its final planned orbits around the Sun.On Wednesday, November 6, 2024, NASA's Parker Solar Probe completed it's final Venus gravity assist maneuver, passing within 233 miles (376 kilometers) of Venus' surface. The flyby adjusted Parker's trajectory into its final orbital configuration, bringing the spacecraft to within an unprecedented 3.86 million miles from the sola",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005428/Sentinels2024.ParkerPerihelionV2.ChaseView.HD1080_p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 4,
+  "sure": 68.4,
+  "tablo": "tablolar/svs5428.jpg"
+ },
+ {
+  "id": "svs14688",
+  "svs": 14688,
+  "baslik": "5 Ways NASA Uses Solar Power",
+  "tur": "Produced Video",
+  "tarih": "2024-09-26",
+  "aciklama": "From studying life on Earth to powering spacecraft across the Solar System, NASA uses solar power to explore near and far. In September 2024, the Heliophysics Big Year theme is Environment and Sustainability. The Heliophysics Big Year is a global celebration of the Sun’s influence on Earth and the entire solar system. From October 14, 2023, to December 24, 2024, the Heliophysics Big Year celebrate",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14551",
+  "svs": 14551,
+  "baslik": "The Countdown Is On For The Historic Solar Eclipse On April 8th That Will Sweep Across the U.S. Are You Ready for It?",
+  "tur": "Produced Video",
+  "tarih": "2024-03-25",
+  "aciklama": "Scroll down the page for the cut b-roll for the live shots and a canned interview available for easy download || Total_Solar_Eclipse_Banner_4.3.24.jpg (1800x720) [134.2 KB] || Total_Solar_Eclipse_Banner_4.3.24_print.jpg (1024x409) [62.3 KB] || Total_Solar_Eclipse_Banner_4.3.24_searchweb.png (320x180) [32.4 KB] || Total_Solar_Eclipse_Banner_4.3.24_thm.png (80x40) [5.0 KB] || ",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs14534",
+  "svs": 14534,
+  "baslik": "NASA's Heliophysics Division Director Joe Westlake",
+  "tur": "Produced Video",
+  "tarih": "2024-02-27",
+  "aciklama": "Meet NASA’s new heliophysics division director, Joe Westlake.Joe has more than 18 years of scientific, technical, management, and programmatic experience in heliophysics, astrophysics, and planetary science. Throughout his career he has made several significant contributions to NASA missions including the Magnetospheric Multiscale mission, the Van Allen Probes, Parker Solar Probe, the Interstellar",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs14420",
+  "svs": 14420,
+  "baslik": "Heliophysics Big Year Graphic Elements",
+  "tur": "Produced Video",
+  "tarih": "2023-10-02",
+  "aciklama": "The Heliophysics Big Year is a NASA-led public engagement campaign designed to promote heliophysics broadly, make heliophysics science and information accessible to all, and showcase ongoing efforts to understand the Sun and all that it touches. We are challenging the public to participate in as many Sun science activities as possible from October 2023 to December 2024, leading up to and around so",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs4898",
+  "svs": 4898,
+  "baslik": "Heliophysics Sentinels 2022",
+  "tur": "Visualization",
+  "tarih": "2022-11-23",
+  "aciklama": "There has been one significant change since the 2020 Heliophysics Fleet. SET has been decommissioned. As of Fall 2022, here's a tour of the NASA Heliophysics fleet from the near-Earth satellites out to the Voyagers beyond the heliopause.Excepting the Voyager missions, the satellite orbits are color coded for their observing program:Magenta: TIM (Thermosphere, Ionosphere, Mesosphere) observationsYe",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14120",
+  "svs": 14120,
+  "baslik": "Tribute to Eugene Parker, Namesake of NASA’s Parker Solar Probe",
+  "tur": "Produced Video",
+  "tarih": "2022-03-16",
+  "aciklama": "Dr. Eugene N. Parker, visionary of heliophysics and namesake of NASA’s Parker Solar Probe, passed away on March 15, 2022. He was 94. As a young professor at the University of Chicago in the mid-1950s, Parker developed a mathematical theory that predicted the solar wind, the constant outflow of solar material from the Sun. Throughout his career, Parker revolutionized the field time and again, advan",
+  "sorgu": "Parker Solar Probe",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs14934",
+  "svs": 14934,
+  "baslik": "NASA Interview Opportunity: Moonbound! NASA’s Artemis II Mission Days From Launch — First Crewed Journey Around the Moon in More Than 50 Years!",
+  "tur": "Produced Video",
+  "tarih": "2026-03-26",
+  "aciklama": "Click here for the Artemis II PRESS KIT. || ARTEMIS_II_BANNER_english2.jpeg (1800x720) [342.6 KB] || ARTEMIS_II_BANNER_english2_print.jpg (1024x409) [139.2 KB] || ARTEMIS_II_BANNER_english2_searchweb.png (320x180) [86.2 KB] || ARTEMIS_II_BANNER_english2_thm.png (80x40) [7.7 KB] || ",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs14908",
+  "svs": 14908,
+  "baslik": "International Observe the Moon Night 2025",
+  "tur": "Produced Video",
+  "tarih": "2025-09-30",
+  "aciklama": "Watch this video on the NASA Goddard YouTube channel.Music is \"Beginning of the Story,\" \"Journey to the Countryside,\" \"Outside Your Comfort Zone,\" and \"Keep Looking Up\" by Mark Russell of Universal Production Music || INOMN2025_FINAL.00455_print.jpg (1024x576) [66.6 KB] || InOMN-1280x720-youtube-nonasa_2.png (1280x720) [820.8 KB] || INOMN2025_FINAL.00455_searchweb.png (320x180) [43.8 KB] || INOMN2",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5571",
+  "svs": 5571,
+  "baslik": "NASA's Fleet of Active Satellites (July 2025)",
+  "tur": "Visualization",
+  "tarih": "2025-07-22",
+  "aciklama": "This visualization shows the orbits of NASA satellites considered operational as of July 2025. It includes both NASA-managed missions and those operated by partner organizations.",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31349",
+  "svs": 31349,
+  "baslik": "Juno images, 2024 - early 2025",
+  "tur": "Hyperwall Visual",
+  "tarih": "2025-05-28",
+  "aciklama": "Several recent images from the JunoCam and Jovian Infrared Auroral Mapper (JIRAM) instruments show volcanic hot spots on IO, polar storms and Jupiter's moon Amalthea.",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14791",
+  "svs": 14791,
+  "baslik": "NASA Interview Opportunity: Watch A Red Moon Dance Across The Sky THIS Friday",
+  "tur": "Produced Video",
+  "tarih": "2025-03-10",
+  "aciklama": "Scroll down page for associated cut b-roll for the live shots and pre-recorded soundbites || Lunar_eclipse.png (1600x640) [480.7 KB] || Lunar_eclipse_print.jpg (1024x409) [85.1 KB] || Lunar_eclipse_searchweb.png (320x180) [65.5 KB] || Lunar_eclipse_thm.png [6.7 KB] || ",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs5365",
+  "svs": 5365,
+  "baslik": "Broken Annular Baily's Beads Simulation",
+  "tur": "Visualization",
+  "tarih": "2024-09-19",
+  "aciklama": "Simulation of Baily's beads from 21:55:20.5 to 21:55:35.5 UTC during the April 8, 2005 hybrid solar eclipse, as viewed from 94.02587°W, 6.45677°N. The movie runs in real time. || beads.0150_print.jpg (1024x576) [53.4 KB] || beads.0150_searchweb.png (320x180) [33.3 KB] || beads.0150_thm.png (80x40) [3.5 KB] || beads_1080p30.mp4 (1920x1080) [3.4 MB] || beads_720p30.mp4 (1280x720) [1.5 MB] || beads_3",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14676",
+  "svs": 14676,
+  "baslik": "International Observe the Moon Night 2024",
+  "tur": "Produced Video",
+  "tarih": "2024-09-13",
+  "aciklama": "For more information on International Observe the Moon Night, visit moon.nasa.gov.Music is from Universal Production Music:\"Luminous,\" \"A Long Journey,\" and \"Boundless Sky\" by Magnum Opus. \"Requisite for Peace\" and \"Final Decent\" by Raphaelle Thibaut. || INOMN_2024_THUMB.jpg (1280x720) [213.4 KB] || 14676_INOMN_2024.00875_searchweb.png (320x180) [51.3 KB] || 14676_INOMN_2024.00875_thm.png (80x40) ",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14675",
+  "svs": 14675,
+  "baslik": "ESCAPADE Testing and Integration",
+  "tur": "Produced Video",
+  "tarih": "2024-09-03",
+  "aciklama": "The Escape and Plasma Acceleration and Dynamics Explorers, or ESCAPADE, will use two identical spacecraft to investigate how the solar wind interacts with Mars’ magnetic environment and how this interaction drives the planet’s atmospheric escape.The spacecraft were designed, built, integrated, and tested by Rocket Lab at their Spacecraft Production Complex and Headquarters in Long Beach, Californi",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14527",
+  "svs": 14527,
+  "baslik": "The Moon and the 2024 Total Solar Eclipse",
+  "tur": "Produced Video",
+  "tarih": "2024-02-28",
+  "aciklama": "This video explores the role of the Moon in the 2024 total solar eclipse that can be seen in the United States, Canada, and Mexico.Music provided by Universal Production Music: \"On the Up\" - David Stephen WestlakeWatch this video on the NASA Goddard YouTube channel. || Moon2024TSE_Thumbnail.jpg (1920x1080) [220.8 KB] || Moon2024TSE_Thumbnail_print.jpg (1024x576) [79.4 KB] || Moon2024TSE_Thumbnail_",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5186",
+  "svs": 5186,
+  "baslik": "Flying Around The 2024 Eclipse Shadow",
+  "tur": "Visualization",
+  "tarih": "2023-11-13",
+  "aciklama": "The virtual camera flies from the night side of the Earth and Moon to the day side, revealing the path of the Moon's shadow during the April 8, 2024, total solar eclipse. Includes narration by the visualizer.Music provided by Universal Production Music: “ Bright Determination” – Julien VonarbThis video can also be viewed on the NASA Goddard YouTube channel. || flyaround.0900.n_print.jpg (1024x576)",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14433",
+  "svs": 14433,
+  "baslik": "2023 International Observe the Moon Night",
+  "tur": "Produced Video",
+  "tarih": "2023-10-21",
+  "aciklama": "2023 International Observe the Moon Night broadcast - Hosted by Lauren WardWatch this video on the NASA Goddard YouTube channel. || 2023_INOMN_Thumbnail.jpg (1920x1080) [637.6 KB] || 2023_INOMN_Thumbnail_print.jpg (1024x576) [280.8 KB] || 2023_INOMN_Thumbnail_searchweb.png (320x180) [77.3 KB] || 2023_INOMN_Thumbnail_thm.png (80x40) [6.0 KB] || 2023_INOMN_YouTubeHD.mp4 (1920x1080) [6.7 GB] || 2023_",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5127",
+  "svs": 5127,
+  "baslik": "Lunar South Pole Terrain in Coded Color",
+  "tur": "Visualization",
+  "tarih": "2023-07-22",
+  "aciklama": "A visualization of the south pole of the Moon with labeled craters and elevations in coded color. The view begins with a nearly full Moon as viewed from Earth, flies quickly to the south pole, then circles the pole.",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14320",
+  "svs": 14320,
+  "baslik": "Cosmic Cycles 4: The Moon",
+  "tur": "Produced Video",
+  "tarih": "2023-05-11",
+  "aciklama": "This video includes music from a synthesized orchestra provided by composer Henry Dehlinger.Music credit: “The Moon - Our Desolate Companion\" from Cosmic Cycles: A Space Symphony by Henry Dehlinger. Courtesy of the composer.Watch this video on the NASA Goddard YouTube channel. || Cosmic_Cycles_The_Moon_V2_print.jpg (1024x576) [64.5 KB] || Cosmic_Cycles_The_Moon_V2.jpg (3840x2160) [548.7 KB] || Cos",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5053",
+  "svs": 5053,
+  "baslik": "Flying over the Taurus-Littrow Valley",
+  "tur": "Visualization",
+  "tarih": "2022-12-05",
+  "aciklama": "The camera flies low over the Taurus-Littrow valley, primarily east to west, arriving at the South Massif, where it tilts up to view the Earth. || valley.0150_print.jpg (1024x576) [101.9 KB] || valley.0150_searchweb.png (320x180) [32.9 KB] || valley.0150_thm.png (80x40) [2.3 KB] || taurus_littrow_valley_1080p30.mp4 (1920x1080) [12.8 MB] || taurus_littrow_valley_720p30.mp4 (1280x720) [6.4 MB] || 19",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5048",
+  "svs": 5048,
+  "baslik": "Moon Phase and Libration, 2023",
+  "tur": "Visualization",
+  "tarih": "2022-11-09",
+  "aciklama": "Dial-A-Moon || moon.0001.jpg (730x730) || comp.0001.tif (5760x3240) || || ",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14230",
+  "svs": 14230,
+  "baslik": "Skywatcher’s Delight: Find out how you can catch the Nov. 8 total lunar eclipse",
+  "tur": "Produced Video",
+  "tarih": "2022-11-01",
+  "aciklama": "Click here to find out everything you need to know about Tuesday's LUNAR ECLIPSE Click here for quick link to table of ECLIPSE TIMESClick here for quick link to canned interview in Spanish with Francisco AndolzQuick link to edited B-ROLL for interviewsClick here for a quick link to a canned interview with Noah Petro || What_you_need_to_know_about_next_weeks_lunar_eclipse.jpg (6912x3456) [1.6 MB] |",
+  "sorgu": "Solar Orbiter",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs14973",
+  "svs": 14973,
+  "baslik": "Furious February Flares",
+  "tur": "Produced Video",
+  "tarih": "2026-02-17",
+  "aciklama": "In early February 2026, the Sun emitted more than 50 flares including several X-class events, which is the most intense category of solar flares. NASA’s Solar Dynamics Observatory watches the Sun 24/7 and captured these views of the Sun in multiple wavelengths of light.The Sun’s activity, which includes flares, follows an approximately 11-year cycle that creates periods of high and low activity. A",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14964",
+  "svs": 14964,
+  "baslik": "Early February Flares 2026",
+  "tur": "Produced Video",
+  "tarih": "2026-02-05",
+  "aciklama": "So far, the Sun has emitted six X-class solar flares in the first four days of February. X-class flares are the most powerful. In this composite image, we've layered all six X-class flares onto the Sun at once, to show the active areas. The images come from the Solar Dynamics Observatory (SDO), which observes the Sun in different wavelengths, using filters that emphasize different characteristics.",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31361",
+  "svs": 31361,
+  "baslik": "Large Solar Flares Erupt From the Sun",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-01-09",
+  "aciklama": "NASA’s Solar Dynamics Observatory captured images of two solar flares on Nov. 14 and Nov. 30, 2025.",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5560",
+  "svs": 5560,
+  "baslik": "M8.4 flare from Active Region 14114 - June 15, 2025",
+  "tur": "Visualization",
+  "tarih": "2025-07-14",
+  "aciklama": "M8.4 flare from Active Region 14114 - June 15, 2025",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5561",
+  "svs": 5561,
+  "baslik": "M6.3 flare from Active Region 14114 - June 16, 2025",
+  "tur": "Visualization",
+  "tarih": "2025-07-14",
+  "aciklama": "M6.3 flare from Active Region 14114 - June 16, 2025",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5562",
+  "svs": 5562,
+  "baslik": "X1.2 flare from Active Region 14114 - June 17, 2025",
+  "tur": "Visualization",
+  "tarih": "2025-07-14",
+  "aciklama": "X1.2 flare from Active Region 14114 - June 17, 2025",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5564",
+  "svs": 5564,
+  "baslik": "An X1.9 flare from AR 14114 - June 19, 2025",
+  "tur": "Visualization",
+  "tarih": "2025-07-14",
+  "aciklama": "An X1.9 flare from AR 14114 on June 19, 2025.",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5559",
+  "svs": 5559,
+  "baslik": "M6.8 flare from Active Region 14105 - June 14, 2025",
+  "tur": "Visualization",
+  "tarih": "2025-07-10",
+  "aciklama": "M6.8 flare from Active Region 14105 - June 14, 2025",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5550",
+  "svs": 5550,
+  "baslik": "M8.9 flare from Active Region 14098 - May 25, 2025",
+  "tur": "Visualization",
+  "tarih": "2025-07-09",
+  "aciklama": "M8.9 flare from Active Region 14098 - May 25, 2025",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5551",
+  "svs": 5551,
+  "baslik": "M8.1 flare from Active Region 14100 - May 30, 2025",
+  "tur": "Visualization",
+  "tarih": "2025-07-09",
+  "aciklama": "Solar active region 14100 launches an M8.1 flare on May 30, 2025.",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5549",
+  "svs": 5549,
+  "baslik": "X1.1 flare from Active Region 14098 - May 25, 2025",
+  "tur": "Visualization",
+  "tarih": "2025-06-25",
+  "aciklama": "X1.1 flare from Active Region 14098 - May 25, 2025",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5541",
+  "svs": 5541,
+  "baslik": "X1.2 flare from Active Region 14086 - May 13, 2025",
+  "tur": "Visualization",
+  "tarih": "2025-05-28",
+  "aciklama": "X1.2 flare from Active Region 14086 - May 13, 2025",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5542",
+  "svs": 5542,
+  "baslik": "X2.7 and more flares from Active Region 14087 - May 14, 2025",
+  "tur": "Visualization",
+  "tarih": "2025-05-28",
+  "aciklama": "An X 2.7 flare from Active region 14087 and a couple more, May 14, 2025, as seen by Solar Dynamics Observatory (SDO).",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5527",
+  "svs": 5527,
+  "baslik": "M5.6 flare from Active Region 14046 - April 1, 2025 - No foolin'!",
+  "tur": "Visualization",
+  "tarih": "2025-05-22",
+  "aciklama": "Active Region 14046 launches an M5.6 flare on April 1, 2025.",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5526",
+  "svs": 5526,
+  "baslik": "X1.1 flare from Active Region 14046 - March 28, 2025",
+  "tur": "Visualization",
+  "tarih": "2025-04-14",
+  "aciklama": "Active region 14046 (on the left limb of the Sun) launches an X1.1 flare and a significant amount of plasma.",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5482",
+  "svs": 5482,
+  "baslik": "An M9.4 flare from Active Region 13910 - November 25, 2024",
+  "tur": "Visualization",
+  "tarih": "2025-03-17",
+  "aciklama": "As solar rotation carries it over the left limb of the Sun, Active Region 13910 launches an M9.4 flare.",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5513",
+  "svs": 5513,
+  "baslik": "X2.0 flare from Active Region 14001 - February 23, 2025",
+  "tur": "Visualization",
+  "tarih": "2025-03-12",
+  "aciklama": "Solar Dynamics Observatory (SDO) operates in a geosynchronous orbit around Earth to obtain a continuous view of the Sun. The particular instrument in this visualization records imagery in the ultraviolet portion of the spectrum at wavelengths normally absorbed by Earth's atmosphere - so we need to observe them from space.Just before rotating over the right solar limb, active region 14001 launches ",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5488",
+  "svs": 5488,
+  "baslik": "An M7.1 flare from Active Region 13936 - December 29, 2024",
+  "tur": "Visualization",
+  "tarih": "2025-03-05",
+  "aciklama": "Active Region 13936 launches an M7.1 flare in this view from Solar Dynamics Observatory (SDO).",
+  "sorgu": "solar flare",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14906",
+  "svs": 14906,
+  "baslik": "Evolution of a Sun-Like Star",
+  "tur": "Produced Video",
+  "tarih": "2025-09-30",
+  "aciklama": "As a star ages, its spin and the number and sizes of its spots decreases as shown in this animation of a Sun-like star. Star spots are tied to local magnetic fields that have been amplified by the star’s rotation, so the phenomena are connected.A version without labels is available for download.Credit: NASA’s Goddard Space Flight Center || ThreeStars_Still.jpg (3840x2160) [586.8 KB] || ThreeStars_",
+  "sorgu": "sunspot",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14685",
+  "svs": 14685,
+  "baslik": "What is Solar Maximum?",
+  "tur": "Produced Video",
+  "tarih": "2024-10-15",
+  "aciklama": "The Sun is stirring from its latest slumber. As sunspots and flares bubble from the Sun’s surface, representatives from NASA, the National Oceanic and Atmospheric Agency (NOAA), and the Solar Cycle Prediction Panel announced on Tuesday, September 24, 2024, the Sun has reached its solar maximum period.The solar cycle is the natural cycle of the Sun as it transitions between low and high activity. D",
+  "sorgu": "sunspot",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs5344",
+  "svs": 5344,
+  "baslik": "Solar Cycle 25 - the Solar Magnetic Field from Solar Minimum to Pole Flip",
+  "tur": "Visualization",
+  "tarih": "2024-10-15",
+  "aciklama": "One advantage of long-lived missions like Solar Dynamics Observatory (SDO) is the ability to see slow but significant changes over long periods of time.This view from SDO's Helioseismic and Magnetic Imager (HMI) shows the evolution of sunspots on the solar disk starting from solar minimum (around December 2019) and into the maximum solar activity phase. The video ends in September 2024, however th",
+  "sorgu": "sunspot",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14535",
+  "svs": 14535,
+  "baslik": "Sun Emits X6.3 Flare on February 22, 2024",
+  "tur": "Produced Video",
+  "tarih": "2024-02-23",
+  "aciklama": "NASA’s Solar Dynamics Observatory captured this image of a solar flare – as seen in the bright flash on the upper left – on Feb. 22, 2024. The image shows a blend of 171 Angstrom, 193 Angstrom and 1600 Angstrom light, subsets of ultraviolet and extreme ultraviolet light. Credit: NASA/SDO || SDO_Feb_22_X6pt3_Flare2244UTC_4k_171-193-1600.jpg (4096x4096) [1.9 MB] || SDO_Feb_22_X6pt3_Flare2244UTC_4k_1",
+  "sorgu": "sunspot",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs4907",
+  "svs": 4907,
+  "baslik": "A Big Sunspot from Solar Cycle 24",
+  "tur": "Visualization",
+  "tarih": "2021-06-18",
+  "aciklama": "A large sunspot rotates across the view in SDO/HMI || BigSunspot_HMIintensity_stand.HD1080i.00300_print.jpg (1024x576) [50.6 KB] || BigSunspot_HMIintensity_stand.HD1080i.00300_searchweb.png (320x180) [21.8 KB] || BigSunspot_HMIintensity_stand.HD1080i.00300_thm.png (80x40) [2.6 KB] || 1920x1080_16x9_30p (1920x1080) [0 Item(s)] || BigSunspot_HMIintensity.HD1080i_p30.mp4 (1920x1080) [29.1 MB] || BigS",
+  "sorgu": "sunspot",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs13776",
+  "svs": 13776,
+  "baslik": "2020 AGU Roundtable: What will we learn from Solar Cycle 25?",
+  "tur": "Produced Video",
+  "tarih": "2020-12-15",
+  "aciklama": "Solar Cycle 25 is here, ushering in the next season of space weather from the Sun. As our star’s activity ramps up—a natural part of its roughly 11-year cycle—scientists are eager to test their predictions. In this AGU 2020 media roundtable, scientists will discuss outstanding questions in solar cycle science, what opportunities this new cycle provides researchers, and how we track progress in pre",
+  "sorgu": "sunspot",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs13715",
+  "svs": 13715,
+  "baslik": "How To Track The Solar Cycle",
+  "tur": "Produced Video",
+  "tarih": "2020-09-15",
+  "aciklama": "A new solar cycle comes roughly every 11 years. Over the course of each cycle, the Sun transitions from relatively calm to active and stormy, and then quiet again; at its peak, the Sun’s magnetic poles flip. Now that the star has passed solar minimum, scientists expect the Sun will grow increasingly active in the months and years to come.Understanding the Sun’s behavior is an important part of lif",
+  "sorgu": "sunspot",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs4854",
+  "svs": 4854,
+  "baslik": "Coronal Holes at Solar Minimum and Solar Maximum",
+  "tur": "Visualization",
+  "tarih": "2020-09-15",
+  "aciklama": "A sample of solar coronal holes around the time of the maximum of sunspot activity (April 2014). Note the polar regions are devoid of coronal holes but a large hole appears in the southern hemisphere. || CoronalHoleMax_AIA193_00150_print.jpg (1024x1024) [173.1 KB] || CoronalHoleMax_AIA193_00150_searchweb.png (320x180) [89.6 KB] || CoronalHoleMax_AIA193_00150_thm.png (80x40) [7.4 KB] || CoronalHole",
+  "sorgu": "sunspot",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs13706",
+  "svs": 13706,
+  "baslik": "NASA/NOAA Interview Opportunity: Space Weather live shots",
+  "tur": "Produced Video",
+  "tarih": "2020-09-11",
+  "aciklama": "Click here for NOAA's Solar Minimum Press Kit with downloadable imagery and b-roll.Cut b-roll for the live shots will be posted Tuesday, Sept 15 by 4:00 p.m. EST || SolarBanner5.jpg (382x2448) [463.6 KB] || SolarBanner5_print.jpg (1024x159) [164.0 KB] || SolarBanner5_searchweb.png (320x180) [93.2 KB] || SolarBanner5_thm.png (80x40) [18.1 KB] || ",
+  "sorgu": "sunspot",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs13698",
+  "svs": 13698,
+  "baslik": "Small Flare Seen on the Sun, August 16, 2020",
+  "tur": "Produced Video",
+  "tarih": "2020-08-20",
+  "aciklama": "NASA’s Solar Dynamics Observatory observes the Aug. 16, 2020, B-class flare at 131, 171, and 193 angstroms. Credit: NASA/SDO || SDO_8-16-2020_Eruption_Triptych_ProRes_1080.00121_print.jpg (1024x576) [196.4 KB] || SDO_8-16-2020_Eruption_Triptych_ProRes_1080.00121_searchweb.png (320x180) [91.4 KB] || SDO_8-16-2020_Eruption_Triptych_ProRes_1080.00121_thm.png (80x40) [6.2 KB] || SDO_8-16-2020_Eruption",
+  "sorgu": "sunspot",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs13648",
+  "svs": 13648,
+  "baslik": "TESS, Spitzer Missions Discover a Unique Young World",
+  "tur": "Produced Video",
+  "tarih": "2020-06-24",
+  "aciklama": "NASA’s Transiting Exoplanet Survey Satellite (TESS) and retired Spitzer Space Telescope have found a young Neptune-size world orbiting AU Microscopii, a cool, nearby M-type red dwarf star surrounded by a vast disk of debris. The discovery makes the system a touchstone for understanding how stars and planets form and evolve. Credit: NASA’s Goddard Space Flight CenterWatch this video on the NASA God",
+  "sorgu": "sunspot",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs4776",
+  "svs": 4776,
+  "baslik": "Ten Years of Solar Dynamics Observatory",
+  "tur": "Visualization",
+  "tarih": "2020-06-24",
+  "aciklama": "Ten years of SDO AIA 171 angstrom data with day time stamp overlay. Frames are sampled approximately one image every hour. || SDOat10_AIA171_stand.UHD2160.01500_print.jpg (1024x576) [47.4 KB] || SDOat10_AIA171_stand.UHD2160.01500_searchweb.png (320x180) [40.9 KB] || SDOat10_AIA171_stand.UHD2160.01500_thm.png (80x40) [4.0 KB] || SDOat10_AIA171.1080p30.webm (1920x1080) [348.5 MB] || SDOat10_AIA171.b",
+  "sorgu": "sunspot",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs13579",
+  "svs": 13579,
+  "baslik": "A Kid's Guide to Making Sunspot Cookies",
+  "tur": "Produced Video",
+  "tarih": "2020-04-15",
+  "aciklama": "Here are some kid-friendly instructions on how to make sugar cookies that resemble the Sun.Music: \"Day Lights\" from Universal Production MusicWatch this video on the NASA Goddard YouTube channel.Complete transcript available. || SunspotSugarCookieStill.jpg (1920x1080) [1.3 MB] || SunspotSugarCookieStill_searchweb.png (320x180) [158.7 KB] || SunspotSugarCookieStill_thm.png (80x40) [9.4 KB] || 13579",
+  "sorgu": "sunspot",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs13430",
+  "svs": 13430,
+  "baslik": "Why NASA is sending rockets into Earth’s leaky atmosphere",
+  "tur": "Produced Video",
+  "tarih": "2019-11-14",
+  "aciklama": "In the tiny Arctic town of Ny-Ålesund, where polar bears outnumber people, winter means three months without sunlight. The unending darkness is ideal for those who seek a strange breed of northern lights, normally obscured by daylight. When these unusual auroras shine, Earth’s atmosphere leaks into space.NASA scientists traveled to Ny-Ålesund to launch rockets through these auroras and witness oxy",
+  "sorgu": "sunspot",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs13275",
+  "svs": 13275,
+  "baslik": "How NASA Will Protect Astronauts From Space Radiation",
+  "tur": "Produced Video",
+  "tarih": "2019-08-07",
+  "aciklama": "Today, the Apollo-era flares serve as a reminder of the threat of radiation exposure for technology and astronauts in space. Understanding and predicting solar eruptions is crucial for safe space exploration. Almost 50 years since those 1972 storms, the data, technology and resources available to NASA have improved, enabling advancements towards space weather forecasts and astronaut protection — k",
+  "sorgu": "sunspot",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs5649",
+  "svs": 5649,
+  "baslik": "Four Days of Solar Dynamics in 16 Minutes",
+  "tur": "Visualization",
+  "tarih": "2026-06-10",
+  "aciklama": "The Solar Dynamics Observatory (SDO) is a satellite that orbits Earth and always looks directly at the Sun. It observes the Sun in many wavelengths, which are all helpful in studying different aspects of solar science. In this 16-minute video, we watch the Sun evolve from midnight of February 1, 2026, all the way through 11:59 p.m. on February 4.",
+  "sorgu": "solar cycle",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14898",
+  "svs": 14898,
+  "baslik": "Our Home In Space Series",
+  "tur": "Produced Video",
+  "tarih": "2025-09-15",
+  "aciklama": "The heliosphere, the massive bubble created by our Sun, is like our “house” in space. It shelters us from harsh weather outside and regulates the environment inside. Without our heliosphere, Earth may never have developed life at all. But there’s a lot we still don’t know about our cosmic home. How big is it, and what is it shaped like? How does it compare to the “houses” created by other stars? A",
+  "sorgu": "solar cycle",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14883",
+  "svs": 14883,
+  "baslik": "Mapping Stellar ‘Polka Dots’",
+  "tur": "Produced Video",
+  "tarih": "2025-08-25",
+  "aciklama": "Watch to learn how a new tool uses data from exoplanets, worlds beyond our solar system, to tell us about their polka-dotted stars.Credit: NASA’s Goddard Space Flight CenterMusic: “Whimsical Whirlwinds,” Claire Leona Batchelor [PRS], Universal Production MusicWatch this video on the NASA Goddard YouTube channel.Complete transcript available.Get the vertical version of this video [here](https://svs",
+  "sorgu": "solar cycle",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs20409",
+  "svs": 20409,
+  "baslik": "The Heliosphere and Galactic Cosmic Rays",
+  "tur": "Animation",
+  "tarih": "2025-08-22",
+  "aciklama": "Surrounding our solar system is a giant protective bubble created by particles and magnetic fields from the Sun called the heliosphere. Every 11 years, the Sun’s activity ramps up and down in what’s known as the solar cycle. As the Sun reaches its peak activity level, called solar maximum, the heliosphere expands. During this time, the heliosphere’s protective shield is strengthened by the increas",
+  "sorgu": "solar cycle",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5407",
+  "svs": 5407,
+  "baslik": "Solar Loops and Eruptions - October 8, 2024",
+  "tur": "Visualization",
+  "tarih": "2025-05-28",
+  "aciklama": "A fourteen hour continuous observation of the Sun, showing the variety of eruptions.",
+  "sorgu": "solar cycle",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5530",
+  "svs": 5530,
+  "baslik": "Webb Confirms Seasonal Variations in Titan Climate Model",
+  "tur": "Visualization",
+  "tarih": "2025-05-14",
+  "aciklama": "This global circulation model simulates a year of weather on Titan, depicting seasonal variations in wind currents, methane cloud cover, and sunlight over the course of a Saturn year (approximately 29.5 Earth years). New observations from the James Webb Science Telescope confirm this seasonal variation.",
+  "sorgu": "solar cycle",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31305",
+  "svs": 31305,
+  "baslik": "Cape Town at Night",
+  "tur": "Hyperwall Visual",
+  "tarih": "2024-08-26",
+  "aciklama": "Photo taken from the International Space Station on October 5, 2022. || cape_town_ISS068-E-11384_print.jpg (1024x576) [117.4 KB] || cape_town_ISS068-E-11384.png (3840x2160) [3.6 MB] || cape_town_ISS068-E-11384_searchweb.png (320x180) [41.0 KB] || cape_town_ISS068-E-11384_thm.png (80x40) [4.9 KB] || cape_town_ISS068-E-11384.hwshow [210 bytes] || ",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31298",
+  "svs": 31298,
+  "baslik": "Korean Night Lights",
+  "tur": "Hyperwall Visual",
+  "tarih": "2024-07-18",
+  "aciklama": "Photos taken from the International Space Station showing cities in Korea. || ",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5257",
+  "svs": 5257,
+  "baslik": "04/08/24 Total Solar Eclipse: NOAA GOES-East True Color Imagery",
+  "tur": "Visualization",
+  "tarih": "2024-04-12",
+  "aciklama": "A true color view of the Earth from GOES-16 (GOES-East) from 2024/04/08 15:00 UTC to 2024/04/08 20:30 UTC. This view of the Americas captures the passage of the total solar eclipse over North America on 04/08/2024. || PR_WorldView_geostationary_east_2160x2160_en.00200_print.jpg (1024x1024) [322.2 KB] || PR_WorldView_geostationary_east_2160x2160_en.00200_searchweb.png (320x180) [126.2 KB] || PR_Wor",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5120",
+  "svs": 5120,
+  "baslik": "NOAA GOES-East and NOAA GOES-West True Color Imagery Over Past 5 Days",
+  "tur": "Visualization",
+  "tarih": "2023-06-26",
+  "aciklama": "A true color view of the Earth from GOES-16 (GOES-East) over the past 5 days. || PR_WorldView_geostationary_east_2160x2160_en.00001_print.jpg (1024x1024) [306.7 KB] || PR_WorldView_geostationary_east_2160x2160_en.00001_searchweb.png (320x180) [105.7 KB] || PR_WorldView_geostationary_east_2160x2160_en.00001_thm.png (80x40) [7.5 KB] || east (2160x2160) [0 Item(s)] || PR_WorldView_geostationary_east_",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14318",
+  "svs": 14318,
+  "baslik": "Cosmic Cycles 2: Earth, Our Home",
+  "tur": "Produced Video",
+  "tarih": "2023-05-11",
+  "aciklama": "This video includes music from a synthesized orchestra provided by composer Henry Dehlinger.Music credit: “Earth, Our Home\" from Cosmic Cycles: A Space Symphony by Henry Dehlinger. Courtesy of the composer.Watch this video on the NASA Goddard YouTube channel. || Cosmic_Cycles_Earth_Our_Home_V2_print.jpg (1024x576) [85.8 KB] || Cosmic_Cycles_Earth_Our_Home_V2.jpg (3840x2160) [715.2 KB] || Cosmic_Cy",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31224",
+  "svs": 31224,
+  "baslik": "Dark Nights in Antakya",
+  "tur": "Hyperwall Visual",
+  "tarih": "2023-04-07",
+  "aciklama": "An animation showing the amount of light emitted by Antakya’s city center and surrounding communities before and after the earthquake. || turkey_earthquake_feb_2023_black_marble_print.jpg (1024x576) [301.1 KB] || turkey_earthquake_feb_2023_black_marble_searchweb.png (320x180) [101.7 KB] || turkey_earthquake_feb_2023_black_marble_thm.png (80x40) [15.6 KB] || turkey_earthquake_feb_2023_black_marble_",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs13647",
+  "svs": 13647,
+  "baslik": "NASA, ESA, JAXA Release Global View of COVID-19 Impacts",
+  "tur": "Produced Video",
+  "tarih": "2020-06-25",
+  "aciklama": "NASA, ESA (European Space Agency) and JAXA (Japan Aerospace Exploration Agency) have created a dashboard of satellite data showing impacts on the environment and socioeconomic activity caused by the global response to the coronavirus (COVID-19) pandemic.The dashboard will be released on Thursday, June 25 during a tri-agency media briefing. The briefing speakers are:•Josef Aschbacher, director of E",
+  "sorgu": "city lights at night",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs31116",
+  "svs": 31116,
+  "baslik": "Unpopulated Slopes of an Active Volcano—Naples, Italy",
+  "tur": "Hyperwall Visual",
+  "tarih": "2020-02-12",
+  "aciklama": "Unpopulated Slopes of an Active Volcano—Naples, ItalyAn astronaut onboard the ISS took this photograph of the city lights of Naples and the Campania region of southern Italy on January 30, 2017. The Naples region is one of the brightest in Italy. Roughly three million people live in and around this metropolitan area.The large black circular area in the photo is Mount Vesuvius, the only active volc",
+  "sorgu": "city lights at night",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs31117",
+  "svs": 31117,
+  "baslik": "Night Fishing Seen From Space—Thailand",
+  "tur": "Hyperwall Visual",
+  "tarih": "2020-02-12",
+  "aciklama": "ISS astronaut photograph of Bangkok, Thailand || Night_fishing_thailand_print.jpg (1024x576) [129.6 KB] || Night_fishing_thailand.png (3840x2160) [15.2 MB] || Night_fishing_thailand_searchweb.png (320x180) [88.6 KB] || Night_fishing_thailand_thm.png (80x40) [5.9 KB] || night-fishing-seen-from-spacethailand.hwshow [305 bytes] || ",
+  "sorgu": "city lights at night",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs31118",
+  "svs": 31118,
+  "baslik": "Lighting Paths to Oil in Qatar",
+  "tur": "Hyperwall Visual",
+  "tarih": "2020-02-12",
+  "aciklama": "ISS astronaut photograph of Qatar || lighting-paths-oil-qater_print.jpg (1024x576) [57.6 KB] || lighting-paths-oil-qater.png (3840x2160) [3.3 MB] || lighting-paths-oil-qater_searchweb.png (320x180) [41.9 KB] || lighting-paths-oil-qater_thm.png (80x40) [3.3 KB] || lighting-paths-to-oil-in-qatar.hwshow [302 bytes] || ",
+  "sorgu": "city lights at night",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs31120",
+  "svs": 31120,
+  "baslik": "Snaking Along Canyon Cliffs in Haifa, Israel",
+  "tur": "Hyperwall Visual",
+  "tarih": "2020-02-12",
+  "aciklama": "Day and night ISS astronaut photos of Haifa, Israel || haifa_swipe_00000_print.jpg (1024x576) [145.2 KB] || haifa_swipe_00000_searchweb.png (320x180) [102.0 KB] || haifa_swipe_00000_thm.png (80x40) [6.9 KB] || haifa_swipe_1080p30_2.mp4 (1920x1080) [14.6 MB] || haifa_swipe_1080p30_2.webm (1920x1080) [2.4 MB] || haifa_swipe_2160p30_2.mp4 (3840x2160) [37.5 MB] || 3840x2160_16x9_30p (3840x2160) [64.0 ",
+  "sorgu": "city lights at night",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs31123",
+  "svs": 31123,
+  "baslik": "Ten Percent of the World’s Gas Flares in One Spot — Nigeria",
+  "tur": "Hyperwall Visual",
+  "tarih": "2020-02-12",
+  "aciklama": "Nigeria VIIRS day/night band and infrared || gas-flares-nigeria_00000_print.jpg (1024x576) [44.4 KB] || gas-flares-nigeria_00000_searchweb.png (320x180) [39.0 KB] || gas-flares-nigeria_00000_thm.png (80x40) [2.7 KB] || gas-flares-nigeria_1080p30.mp4 (1920x1080) [3.1 MB] || gas-flares-nigeria_1080p30.webm (1920x1080) [2.3 MB] || gas-flares-nigeria_2160p30.mp4 (3840x2160) [7.8 MB] || 3840x2160_16x9_",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31124",
+  "svs": 31124,
+  "baslik": "Lights Out in Michael’s Wake—Florida Panhandle",
+  "tur": "Hyperwall Visual",
+  "tarih": "2020-02-12",
+  "aciklama": "Hurricane Michael from VIIRS and GOES-16 || lights-out-michael-3_print.jpg (1024x576) [165.4 KB] || lights-out-michael-3.png (5760x3240) [12.3 MB] || lights-out-michael-3.png.dzi (5760x3240) [178 bytes] || lights-out-michael-3_searchweb.png (320x180) [113.1 KB] || lights-out-michael-3_thm.png (80x40) [7.8 KB] || lights-out-michael-3.png_files (1x1) [4.0 KB] || lights-out-in-michaels-wakeflorida-pa",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31126",
+  "svs": 31126,
+  "baslik": "Something Fishy in the Atlantic Night—South Atlantic Ocean",
+  "tur": "Hyperwall Visual",
+  "tarih": "2020-02-12",
+  "aciklama": "Squid fishing captured by VIIRS || SomethingFishyintheAtlanticNight_print.jpg (1024x576) [64.2 KB] || SomethingFishyintheAtlanticNight.png (5760x3240) [6.2 MB] || SomethingFishyintheAtlanticNight_searchweb.png (320x180) [61.7 KB] || SomethingFishyintheAtlanticNight_thm.png (80x40) [4.8 KB] || something-fishy-in-the-atlantic-nightsouth-atlantic-ocean.hwshow [345 bytes] || ",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31099",
+  "svs": 31099,
+  "baslik": "A Changing Earth at Night (Regions)",
+  "tur": "Hyperwall Visual",
+  "tarih": "2020-02-05",
+  "aciklama": "NASA’s Black Marble products are also being used by scientists and decision-makers to monitor gradual changes driven by urbanization, out-migration, economic changes, and electrification. These images show the rapid electrification of India’s rural settlements in recent years. Huge swaths of northern India, relatively dark in 2012 night shots, are lit up in NASA’s Black Marble imagery from 2016. |",
+  "sorgu": "city lights at night",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs31096",
+  "svs": 31096,
+  "baslik": "Improvements in ISS Photography—Northeastern United States",
+  "tur": "Hyperwall Visual",
+  "tarih": "2020-01-31",
+  "aciklama": "Improvements in ISS Photography—Northeastern United States || Page16-17_NortheasternUSHyperwall_5760x3240_19.2x10.8_print.jpg (1024x576) [153.3 KB] || Page16-17_NortheasternUSHyperwall_5760x3240_19.2x10.8.png (5760x3240) [11.6 MB] || Page16-17_NortheasternUSHyperwall_5760x3240_19.2x10.8_searchweb.png (320x180) [112.8 KB] || Page16-17_NortheasternUSHyperwall_5760x3240_19.2x10.8_thm.png (80x40) [7.0",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31097",
+  "svs": 31097,
+  "baslik": "Nighttime Panorama—Pakistan’s Indus River Valley",
+  "tur": "Hyperwall Visual",
+  "tarih": "2020-01-31",
+  "aciklama": "Nighttime Panorama—Pakistan’s Indus River Valley || Page21_IndiaPakistan_Hyperwall_5760x3240_19.2x10.8_print.jpg (1024x576) [91.3 KB] || Page21_IndiaPakistan_Hyperwall_5760x3240_19.2x10.8.png (5760x3240) [11.4 MB] || Page21_IndiaPakistan_Hyperwall_5760x3240_19.2x10.8_searchweb.png (320x180) [76.4 KB] || Page21_IndiaPakistan_Hyperwall_5760x3240_19.2x10.8_thm.png (80x40) [5.4 KB] || nighttime-panora",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31098",
+  "svs": 31098,
+  "baslik": "Beyond City Lights—Java Sea",
+  "tur": "Hyperwall Visual",
+  "tarih": "2020-01-31",
+  "aciklama": "Beyond City Lights—Java Sea || Page23JAVASEA_Hyperwall_5760x3240_19.2x10.8_print.jpg (1024x576) [114.4 KB] || Page23JAVASEA_Hyperwall_5760x3240_19.2x10.8.png (5760x3240) [13.6 MB] || Page23JAVASEA_Hyperwall_5760x3240_19.2x10.8_searchweb.png (320x180) [78.2 KB] || Page23JAVASEA_Hyperwall_5760x3240_19.2x10.8_thm.png (80x40) [4.7 KB] || beyond-city-lightsjava-sea.hwshow [336 bytes] || ",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31029",
+  "svs": 31029,
+  "baslik": "Shanghai Growth from the International Space Station",
+  "tur": "Hyperwall Visual",
+  "tarih": "2019-03-31",
+  "aciklama": "An animation comparing Shanghai night lights in 2003 and 2018 || shanghai_2003-2018_wipe_print.jpg (1024x576) [149.6 KB] || shanghai_2003-2018_wipe.png (3840x2160) [9.5 MB] || shanghai_2003-2018_wipe_searchweb.png (320x180) [97.3 KB] || shanghai_2003-2018_wipe_thm.png (80x40) [6.4 KB] || shanghai_2003-2018_wipe_1080p30.mp4 (1920x1080) [6.1 MB] || shanghai_2003-2018_wipe_720p30.mp4 (1280x720) [3.5 ",
+  "sorgu": "city lights at night",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs4658",
+  "svs": 4658,
+  "baslik": "NASA's Black Marble night lights used to examine disaster recovery in Puerto Rico",
+  "tur": "Visualization",
+  "tarih": "2018-12-09",
+  "aciklama": "At night, Earth is lit up in bright strings of roads dotted with pearl-like cities and towns as human-made artificial light takes center stage. During Hurricane Maria, Puerto Rico's lights went out.In the days, weeks, and months that followed, research physical scientist Miguel Román at NASA's Goddard Space Flight Center in Greenbelt, Maryland, and his colleagues combined NASA's Black Marble night",
+  "sorgu": "city lights at night",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs15060",
+  "svs": 15060,
+  "baslik": "Pegasus XL Rocket Mated to Stargazer for Swift Boost Mission",
+  "tur": "Produced Video",
+  "tarih": "2026-07-01",
+  "aciklama": "A Northrop Grumman Pegasus XL rocket attached to the bottom of the company’s Stargazer aircraft, a modified Lockheed L-1011, is ready for departure, as seen on Friday, June 12, 2026, at NASA’s Wallops Flight Facility in Virginia. Inside the rocket is Katalyst Space’s LINK robotic servicing spacecraft, which will launch to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Credit: NASA/Ron B",
+  "sorgu": "space weather",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31400",
+  "svs": 31400,
+  "baslik": "Simulating Solar Flows",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-06-24",
+  "aciklama": "Beneath the Sun’s surface, a roiling layer of super-heated plasma churns. To understand more about where this movement comes from and how it influences space weather and life on Earth, scientists use advanced computational models to simulate the Sun’s active interior.",
+  "sorgu": "space weather",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs31384",
+  "svs": 31384,
+  "baslik": "Gigantic Jet Seen from the ISS",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-04-01",
+  "aciklama": "A Gigantic Jet event was photographed by NASA astronaut Nichole Ayers from aboard the International Space Station",
+  "sorgu": "space weather",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs31381",
+  "svs": 31381,
+  "baslik": "NASA’S PUNCH Images Eruptions from the Sun",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-03-31",
+  "aciklama": "This video shows several coronal mass ejections (CMEs) erupting from the Sun’s surface from Oct. 21 to Nov. 12, 2025.",
+  "sorgu": "space weather",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14988",
+  "svs": 14988,
+  "baslik": "Artemis II: Into the Path of Solar Eruptions",
+  "tur": "Produced Video",
+  "tarih": "2026-03-16",
+  "aciklama": "For the first time in half a century, four astronauts are leaving Earth’s protective magnetic field. They’ll enter a realm where massive solar eruptions can unleash more energy than a billion hydrogen bombs. The Artemis II crew will fly through a dangerous environment, but they’re not going it alone. On the voyage, the astronauts and their Orion capsule are outfitted with radiation trackers as gro",
+  "sorgu": "space weather",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs14972",
+  "svs": 14972,
+  "baslik": "See the Sun's Active Region: The Source of the Early-February Flares",
+  "tur": "Produced Video",
+  "tarih": "2026-02-27",
+  "aciklama": "This video condenses nine days of solar activity into 12 minutes, playing 1,080 times faster than real time. NASA's Goddard Space Flight Center/SDO. Music Credit: “Atomic Drift,” “Echoes of the Unknown,” and “Particle Reverie” from the album Molecular Echoes. Written and produced by Lars Leonhard.Watch this video on the NASA Goddard YouTube channel.Complete transcript available. || Active_Region-S",
+  "sorgu": "space weather",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs5613",
+  "svs": 5613,
+  "baslik": "Shifting Distribution of Land Temperature Anomalies, 1964-2025",
+  "tur": "Visualization",
+  "tarih": "2026-02-04",
+  "aciklama": "The change in the distribution of land temperature anomalies over the years 1951 to 2025.",
+  "sorgu": "space weather",
+  "insan_suphesi": false
+ }
+]

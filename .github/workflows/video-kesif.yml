@@ -25,7 +25,11 @@ jobs:
           curl -sSL https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz | tar -xJ -C /tmp
           echo /tmp/ffmpeg-master-latest-linux64-gpl/bin >> "$GITHUB_PATH"
       - name: Kesif
-        run: python3 video/kesif.py "video/projeler/${{ inputs.proje }}/kesif.json" /tmp/kesif 2>&1 | tee /tmp/kesif/kayit.txt || (mkdir -p /tmp/kesif && false)
+        shell: bash
+        run: |
+          set -o pipefail
+          mkdir -p /tmp/kesif
+          python3 video/kesif.py "video/projeler/${{ inputs.proje }}/kesif.json" /tmp/kesif 2>&1 | tee /tmp/kesif/kayit.txt
       - name: Onizleme dalina kaydet
         if: always()
         run: video/onizleme_kaydet.sh /tmp/kesif "kesif/${{ inputs.proje }}" "Kesif: ${{ inputs.proje }}"

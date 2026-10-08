@@ -15,7 +15,7 @@ OUT = os.environ.get("OUT", "ses-ornekleri")
 os.makedirs(OUT, exist_ok=True)
 pipes = {}
 for i, (voice, lang) in enumerate(VOICES.items(), 1):
-    pipe = pipes.setdefault(lang, KPipeline(lang_code=lang))
+    pipe = pipes.setdefault(lang, KPipeline(lang_code=lang, repo_id="hexgrad/Kokoro-82M"))
     audio = np.concatenate([a for _, _, a in pipe(TEXT, voice=voice, speed=0.95)])
     wav = f"{OUT}/{voice}.wav"
     sf.write(wav, audio, 24000)

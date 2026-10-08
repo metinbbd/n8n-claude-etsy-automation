@@ -9,14 +9,21 @@ permissions:
 jobs:
   ses:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v5
-      - name: Kurulum (Kokoro TTS, CPU)
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/huggingface
+          key: kokoro-v1
+      - name: Kurulum (ffmpeg + Kokoro TTS, CPU)
         run: |
-          sudo apt-get update -q && sudo apt-get install -y -q espeak-ng ffmpeg
+          curl -sSL https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz | tar -xJ -C /tmp
+          echo /tmp/ffmpeg-master-latest-linux64-gpl/bin >> "$GITHUB_PATH"
           pip install -q torch --index-url https://download.pytorch.org/whl/cpu
-          pip install -q "kokoro>=0.9" soundfile
+          pip install -q "kokoro>=0.9" soundfile https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
       - name: Ornekleri uret
         run: OUT=/tmp/ses python3 video/ses_ornekleri.py
       - name: Onizleme dalina kaydet

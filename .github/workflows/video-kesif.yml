@@ -32,4 +32,5 @@ jobs:
           python3 video/kesif.py "video/projeler/${{ inputs.proje }}/kesif.json" /tmp/kesif 2>&1 | tee /tmp/kesif/kayit.txt
       - name: Onizleme dalina kaydet
         if: always()
-        run: video/onizleme_kaydet.sh /tmp/kesif "kesif/${{ inputs.proje }}" "Kesif: ${{ inputs.proje }}"
+        run: |
+          video/onizleme_kaydet.sh /tmp/kesif "kesif/${{ inputs.proje }}" "Kesif - ${{ inputs.proje }}"

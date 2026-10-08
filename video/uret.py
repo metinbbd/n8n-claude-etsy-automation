@@ -449,11 +449,44 @@ Sources:
 """
 
 
+def check_segments(cfg, paths, out_dir):
+    """Kurgudaki her parcanin bas/orta/son karesini gercek kaynaktan cikarir."""
+    durs = {}
+    for key, path in paths.items():
+        durs[key] = float(json.loads(run(["ffprobe", "-v", "error", "-show_entries",
+                                          "format=duration", "-of", "json", path]).stdout)
+                          ["format"]["duration"])
+    for i, segs in enumerate(cfg["bolumler"]):
+        rows = []
+        for j, (key, a, b, *_) in enumerate(segs):
+            row = Image.new("RGB", (3 * 320 + 260, 180), (0, 0, 0))
+            d = ImageDraw.Draw(row)
+            d.text((970, 20), f"{i}.{j} {key}", font=font(FONT_B, 22), fill=(255, 220, 0))
+            d.text((970, 60), f"{a:.1f}-{b:.1f}s", font=font(FONT, 20), fill=(255, 255, 255))
+            warn = "KAYNAK KISA!" if b > durs[key] else f"kaynak {durs[key]:.0f}s"
+            d.text((970, 95), warn, font=font(FONT, 20),
+                   fill=(255, 80, 80) if "KISA" in warn else (180, 180, 180))
+            for m, t in enumerate((a + 0.3, (a + b) / 2, b - 0.3)):
+                tmp = f"/tmp/kare_{m}.png"
+                run(["ffmpeg", "-loglevel", "error", "-y", "-ss", f"{min(t, durs[key] - 0.1):.2f}",
+                     "-i", paths[key], "-frames:v", "1", "-vf", "scale=320:180", tmp])
+                row.paste(Image.open(tmp).convert("RGB"), (m * 320, 0))
+            rows.append(row)
+        sheet = Image.new("RGB", (rows[0].width, 180 * len(rows)))
+        for j, r in enumerate(rows):
+            sheet.paste(r, (0, 180 * j))
+        sheet.save(f"{out_dir}/parca_kontrol_{i:02d}.jpg", quality=80)
+    log("Parca kontrol tablolari hazir.")
+
+
 def main(project, out_dir):
     cfg = json.load(open(f"{project}/kurgu.json"))
     work = "/tmp/uretim"
     os.makedirs(work, exist_ok=True)
     os.makedirs(out_dir, exist_ok=True)
+    if os.environ.get("SADECE_KONTROL"):
+        check_segments(cfg, fetch_sources(cfg, f"{work}/kaynak"), out_dir)
+        return
     chapters = parse_script(f"{project}/metin.txt")
     if len(cfg["bolumler"]) != len(chapters):
         raise SystemExit(f"kurgu.json {len(cfg['bolumler'])} bolum, metin {len(chapters)} bolum")

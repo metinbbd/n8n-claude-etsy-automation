@@ -1,0 +1,70 @@
+name: Video - uretim
+
+on:
+  workflow_dispatch:
+    inputs:
+      proje:
+        description: "video/projeler altindaki proje klasoru"
+        required: true
+      sadece_kontrol:
+        description: "Sadece klip parcalarini kontrol et (video uretme)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: video   # videolar tek tek: ayni anda tek video isi
+  cancel-in-progress: false
+
+jobs:
+  uret:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    env:
+      PROJE: ${{ inputs.proje }}
+      SADECE_KONTROL: ${{ inputs.sadece_kontrol && '1' || '' }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/huggingface
+          key: kokoro-v1
+      - name: Kurulum (ffmpeg + Kokoro TTS)
+        run: |
+          curl -sSL https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz | tar -xJ -C /tmp
+          echo /tmp/ffmpeg-master-latest-linux64-gpl/bin >> "$GITHUB_PATH"
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q "kokoro>=0.9" soundfile pillow https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+      - name: Uretim
+        shell: bash
+        run: |
+          set -o pipefail
+          mkdir -p /tmp/cikti /tmp/kontrol
+          python3 video/uret.py "video/projeler/$PROJE" /tmp/cikti 2>&1 | tee /tmp/kontrol/kayit.txt
+      - name: Kontrol kareleri ve onizleme
+        if: ${{ !inputs.sadece_kontrol }}
+        run: |
+          V=$(ls /tmp/cikti/*.mp4)
+          ffmpeg -loglevel error -i "$V" -vf "fps=1/2,scale=320:180,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='%{pts\:hms}':x=4:y=4:fontsize=15:fontcolor=yellow:box=1:boxcolor=black@0.6,tile=6x6" -vsync vfr /tmp/kontrol/kare_%02d.jpg
+          ffmpeg -loglevel error -i "$V" -vf scale=854:480 -c:v libx264 -preset veryfast -crf 32 -c:a aac -b:a 96k -movflags +faststart /tmp/kontrol/onizleme_480p.mp4
+          cp /tmp/cikti/*.srt /tmp/cikti/youtube_aciklama.txt /tmp/cikti/kapak.jpg /tmp/kontrol/
+          ls -la /tmp/kontrol /tmp/cikti
+      - name: Onizleme dalina kaydet
+        if: always()
+        run: |
+          mkdir -p /tmp/kontrol
+          cp /tmp/cikti/parca_kontrol_*.jpg /tmp/kontrol/ 2>/dev/null || true
+          video/onizleme_kaydet.sh /tmp/kontrol "kontrol/$PROJE" "Kontrol - $PROJE"
+      - name: Taslak yayina yukle (sadece depo sahibi gorur)
+        if: ${{ !inputs.sadece_kontrol }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release delete "$PROJE" -y --cleanup-tag 2>/dev/null || true
+          gh release create "$PROJE" --draft --title "Belgesel: $PROJE" \
+            --notes "YouTube'a yuklenecek dosyalar: video (mp4), altyazi_tr.srt, altyazi_en.srt, kapak.jpg ve youtube_aciklama.txt" \
+            /tmp/cikti/*

@@ -1,0 +1,664 @@
+{
+ "baslik": "SOLAR STORMS",
+ "alt_baslik": "When the Sun strikes Earth",
+ "dosya_adi": "solar-storms-gunes-firtinalari",
+ "kapak_yazisi": "SOLAR STORMS",
+ "muzik": [
+  "Lightless Dawn",
+  "Echoes of Time v2",
+  "Long Note Two"
+ ],
+ "kaynaklar": {
+  "A": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20150630_SDO_m11908_ArchingEruption/GSFC_20150630_SDO_m11908_ArchingEruption~orig.mp4",
+   "id": "GSFC_20150630_SDO_m11908_ArchingEruption"
+  },
+  "AG": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20181022_ICON_m12902_Airglow/GSFC_20181022_ICON_m12902_Airglow~orig.mp4",
+   "id": "GSFC_20181022_ICON_m12902_Airglow"
+  },
+  "ART": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20130926_ARTEMIS_m11309_Reconnection/GSFC_20130926_ARTEMIS_m11309_Reconnection~orig.mp4",
+   "id": "GSFC_20130926_ARTEMIS_m11309_Reconnection"
+  },
+  "CC": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20140925_CME_m11660_CCMC/GSFC_20140925_CME_m11660_CCMC~orig.mp4",
+   "id": "GSFC_20140925_CME_m11660_CCMC"
+  },
+  "DM": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20160129_Dynamic_m12104_Magnetic/GSFC_20160129_Dynamic_m12104_Magnetic~orig.mp4",
+   "id": "GSFC_20160129_Dynamic_m12104_Magnetic"
+  },
+  "EC": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20170817_m12693_FirstCMEDuringEclipse/GSFC_20170817_m12693_FirstCMEDuringEclipse~orig.mp4",
+   "id": "GSFC_20170817_m12693_FirstCMEDuringEclipse"
+  },
+  "ES": {
+   "url": "https://images-assets.nasa.gov/video/305_EffectsOfTheSolarWind/305_EffectsOfTheSolarWind~orig.mp4",
+   "id": "305_EffectsOfTheSolarWind"
+  },
+  "F": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20140709_SDO_m11605_Firework_Flare/GSFC_20140709_SDO_m11605_Firework_Flare~orig.mp4",
+   "id": "GSFC_20140709_SDO_m11605_Firework_Flare"
+  },
+  "GR": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20140404_SDO_m11517_Flare/GSFC_20140404_SDO_m11517_Flare~orig.mp4",
+   "id": "GSFC_20140404_SDO_m11517_Flare"
+  },
+  "GS": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20141024_SDO_m11718_Flares/GSFC_20141024_SDO_m11718_Flares~orig.mp4",
+   "id": "GSFC_20141024_SDO_m11718_Flares"
+  },
+  "ISSAG": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20180124_m12825_ISS_Airglow/GSFC_20180124_m12825_ISS_Airglow~orig.mp4",
+   "id": "GSFC_20180124_m12825_ISS_Airglow"
+  },
+  "MMS": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20140515_MMS_m11526_Trailer/GSFC_20140515_MMS_m11526_Trailer~orig.mp4",
+   "id": "GSFC_20140515_MMS_m11526_Trailer"
+  },
+  "P": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20150501_SDO_m11864_Phoenix/GSFC_20150501_SDO_m11864_Phoenix~orig.mp4",
+   "id": "GSFC_20150501_SDO_m11864_Phoenix"
+  },
+  "PT": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20180720_Parker_m12911_trailer.en_US/GSFC_20180720_Parker_m12911_trailer.en_US~orig.mp4",
+   "id": "GSFC_20180720_Parker_m12911_trailer.en_US"
+  },
+  "RB": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20160815_Radiation_m12328_Belts/GSFC_20160815_Radiation_m12328_Belts~orig.mp4",
+   "id": "GSFC_20160815_Radiation_m12328_Belts"
+  },
+  "S14892": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014800/a014892/14892_Atmospheric_Escape_1080.mp4",
+   "id": "svs14892"
+  },
+  "S30179": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a030100/a030179/iss029_aurora_20110917_720p.mp4",
+   "id": "svs30179"
+  },
+  "S31281": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031281/ISS067_20220817_aurora_1080p25.mp4",
+   "id": "svs31281"
+  },
+  "S31375": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031375/ISS_20251112_071350-20251112_073549_1080p30.mp4",
+   "id": "svs31375"
+  },
+  "S5193": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005193/multiField_2-7-2025b_magnetosphere_pc_anim_satellites_1080p30.mp4",
+   "id": "svs5193"
+  },
+  "S5375": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005300/a005375/enlil_BMag_anicamA_1080p30.mp4",
+   "id": "svs5375"
+  },
+  "S5428": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005428/Sentinels2024.ParkerPerihelionV2.ChaseView.HD1080_p30.mp4",
+   "id": "svs5428"
+  },
+  "S5435": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005435/multiField_3-31-2025a_magnetosphere_pc_anim_satellitesNoGDC_1080p30.mp4",
+   "id": "svs5435"
+  },
+  "S5609": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005609/helio_fleet_2026_solar_system_1080p60.mp4",
+   "id": "svs5609"
+  },
+  "S5622": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005622/moonGamera_4-15-2026c_artemisII_wind_1080p30.mp4",
+   "id": "svs5622"
+  },
+  "S5623": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005623/magnetotailMoon_above_5-20-2026a_magnetotail_Moon_above_1080p30.mp4",
+   "id": "svs5623"
+  },
+  "SH": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20170811_Solar_m11797_Eruption/GSFC_20170811_Solar_m11797_Eruption~orig.mp4",
+   "id": "GSFC_20170811_Solar_m11797_Eruption"
+  },
+  "SOHO": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20151201_SOHO_m12052_20th/GSFC_20151201_SOHO_m12052_20th~orig.mp4",
+   "id": "GSFC_20151201_SOHO_m12052_20th"
+  },
+  "TR": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20170403_Trio_m12563_SolarFlares/GSFC_20170403_Trio_m12563_SolarFlares~orig.mp4",
+   "id": "GSFC_20170403_Trio_m12563_SolarFlares"
+  },
+  "X13": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20130513_SDO_m11285_X_Flares/GSFC_20130513_SDO_m11285_X_Flares~orig.mp4",
+   "id": "GSFC_20130513_SDO_m11285_X_Flares"
+  },
+  "X54": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20120307_SDO_m10925_Flare/GSFC_20120307_SDO_m10925_Flare~orig.mp4",
+   "id": "GSFC_20120307_SDO_m10925_Flare"
+  },
+  "XF": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20140610_SDO_m11564_XFlares/GSFC_20140610_SDO_m11564_XFlares~orig.mp4",
+   "id": "GSFC_20140610_SDO_m11564_XFlares"
+  },
+  "Y5": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11762_5Years/GSFC_20150211_SDO_m11762_5Years~orig.mp4",
+   "id": "GSFC_20150211_SDO_m11762_5Years"
+  }
+ },
+ "bolumler": [
+  [
+   [
+    "Y5",
+    7.5,
+    15
+   ],
+   [
+    "GR",
+    52.6,
+    57
+   ],
+   [
+    "A",
+    23.5,
+    31
+   ],
+   [
+    "P",
+    18,
+    25
+   ],
+   [
+    "F",
+    28,
+    36
+   ],
+   [
+    "X54",
+    30,
+    38
+   ]
+  ],
+  [
+   [
+    "Y5",
+    22,
+    29
+   ],
+   [
+    "Y5",
+    109.6,
+    116.5
+   ],
+   [
+    "SOHO",
+    108,
+    118
+   ],
+   [
+    "P",
+    30,
+    42
+   ],
+   [
+    "Y5",
+    131.5,
+    138
+   ],
+   [
+    "GR",
+    38,
+    46
+   ],
+   [
+    "SH",
+    40.5,
+    52
+   ],
+   [
+    "DM",
+    15,
+    27,
+    {
+     "zoom": 1.1
+    }
+   ],
+   [
+    "DM",
+    60,
+    72,
+    {
+     "zoom": 1.1
+    }
+   ],
+   [
+    "Y5",
+    80.5,
+    87
+   ]
+  ],
+  [
+   [
+    "GS",
+    15.8,
+    23.2
+   ],
+   [
+    "Y5",
+    65.8,
+    72.5
+   ],
+   [
+    "TR",
+    17.3,
+    23.8
+   ],
+   [
+    "X13",
+    18,
+    30
+   ],
+   [
+    "XF",
+    0.2,
+    4.4
+   ],
+   [
+    "Y5",
+    88,
+    94
+   ],
+   [
+    "Y5",
+    51.2,
+    58
+   ],
+   [
+    "F",
+    37.3,
+    40.5
+   ]
+  ],
+  [
+   [
+    "X54",
+    23.5,
+    40
+   ],
+   [
+    "GR",
+    26.5,
+    35
+   ],
+   [
+    "TR",
+    51.6,
+    62
+   ],
+   [
+    "XF",
+    23.2,
+    35
+   ],
+   [
+    "X13",
+    53,
+    66
+   ],
+   [
+    "P",
+    57.6,
+    70
+   ],
+   [
+    "A",
+    23.5,
+    38
+   ],
+   [
+    "SOHO",
+    27,
+    45
+   ],
+   [
+    "A",
+    62.3,
+    77
+   ]
+  ],
+  [
+   [
+    "S14892",
+    0.3,
+    12.5
+   ],
+   [
+    "RB",
+    26.6,
+    29.8
+   ],
+   [
+    "EC",
+    52.5,
+    60
+   ],
+   [
+    "S5435",
+    14,
+    26
+   ],
+   [
+    "CC",
+    6,
+    20
+   ],
+   [
+    "S5193",
+    8,
+    22
+   ],
+   [
+    "ART",
+    34.5,
+    46
+   ],
+   [
+    "S5435",
+    40,
+    50
+   ],
+   [
+    "S5623",
+    42,
+    56
+   ],
+   [
+    "ART",
+    75,
+    85
+   ]
+  ],
+  [
+   [
+    "S31281",
+    2,
+    14
+   ],
+   [
+    "S30179",
+    8,
+    22
+   ],
+   [
+    "S31375",
+    10,
+    30
+   ],
+   [
+    "S31375",
+    55,
+    68
+   ],
+   [
+    "S31281",
+    20,
+    33
+   ]
+  ],
+  [
+   [
+    "XF",
+    39,
+    50
+   ],
+   [
+    "CC",
+    89.6,
+    95.6
+   ],
+   [
+    "S31375",
+    44,
+    54
+   ],
+   [
+    "ISSAG",
+    14,
+    27
+   ],
+   [
+    "S5623",
+    3,
+    10
+   ],
+   [
+    "ES",
+    101.5,
+    108.5,
+    {
+     "zoom": 1.15
+    }
+   ],
+   [
+    "RB",
+    60.8,
+    71
+   ],
+   [
+    "AG",
+    210,
+    224
+   ],
+   [
+    "S5622",
+    4.5,
+    16
+   ],
+   [
+    "S5375",
+    17.5,
+    21,
+    {
+     "zoom": 1.6
+    }
+   ],
+   [
+    "SOHO",
+    256,
+    272
+   ]
+  ],
+  [
+   [
+    "S5609",
+    0.3,
+    7
+   ],
+   [
+    "Y5",
+    58.5,
+    65.5
+   ],
+   [
+    "Y5",
+    73.1,
+    80
+   ],
+   [
+    "SOHO",
+    13.5,
+    25,
+    {
+     "zoom": 1.12
+    }
+   ],
+   [
+    "SOHO",
+    268.5,
+    290,
+    {
+     "zoom": 1.12
+    }
+   ],
+   [
+    "PT",
+    22,
+    31.5
+   ],
+   [
+    "PT",
+    35.8,
+    45.8
+   ],
+   [
+    "S5428",
+    26,
+    40
+   ],
+   [
+    "PT",
+    10.9,
+    15.8
+   ],
+   [
+    "S5609",
+    63.8,
+    75
+   ],
+   [
+    "MMS",
+    15.8,
+    19.6
+   ],
+   [
+    "RB",
+    15.2,
+    18.8
+   ],
+   [
+    "S5193",
+    34,
+    46
+   ],
+   [
+    "Y5",
+    95,
+    102
+   ]
+  ],
+  [
+   [
+    "P",
+    93.5,
+    110
+   ],
+   [
+    "S31281",
+    36,
+    47
+   ],
+   [
+    "S30179",
+    26,
+    40
+   ],
+   [
+    "A",
+    8,
+    20
+   ]
+  ]
+ ],
+ "kapak_an": 400,
+ "kaynakca": [
+  "Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS)",
+  "Solar imagery: NASA/SDO and the AIA, EVE and HMI science teams",
+  "Coronagraph imagery: SOHO (ESA & NASA) - LASCO and EIT",
+  "Aurora and night Earth from the ISS: NASA Johnson Space Center, Earth Science and Remote Sensing Unit",
+  "Parker Solar Probe animations: NASA/Johns Hopkins APL/Goddard",
+  "Music: \"Lightless Dawn\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Music: \"Echoes of Time v2\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Music: \"Long Note Two\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original."
+ ],
+ "kaynakca_ekran": [
+  [
+   "h",
+   "Footage"
+  ],
+  [
+   "t",
+   "NASA / Goddard Space Flight Center - Scientific Visualization Studio"
+  ],
+  [
+   "t",
+   "NASA/SDO and the AIA, EVE and HMI science teams"
+  ],
+  [
+   "t",
+   "SOHO (ESA & NASA)  -  ISS imagery: NASA Johnson Space Center"
+  ],
+  [
+   "h",
+   "Music"
+  ],
+  [
+   "t",
+   "\"Lightless Dawn\" Kevin MacLeod (incompetech.com)"
+  ],
+  [
+   "t",
+   "\"Echoes of Time v2\" Kevin MacLeod (incompetech.com)"
+  ],
+  [
+   "t",
+   "\"Long Note Two\" Kevin MacLeod (incompetech.com)"
+  ],
+  [
+   "t",
+   "Licensed under Creative Commons: By Attribution 4.0 - creativecommons.org/licenses/by/4.0/"
+  ],
+  [
+   "h",
+   "Narration"
+  ],
+  [
+   "t",
+   "Synthetic voice (Kokoro TTS)"
+  ]
+ ],
+ "bilgi_kaynaklari": [
+  "https://science.nasa.gov/sun/",
+  "https://science.nasa.gov/mission/sdo/",
+  "https://science.nasa.gov/mission/parker-solar-probe/",
+  "https://soho.nascom.nasa.gov/",
+  "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter",
+  "https://www.swpc.noaa.gov/phenomena",
+  "https://www.swpc.noaa.gov/noaa-scales-explanation",
+  "https://svs.gsfc.nasa.gov/5193/",
+  "https://svs.gsfc.nasa.gov/5375/"
+ ],
+ "youtube": {
+  "tr": {
+   "baslik": "Güneş Fırtınaları: Güneş Dünya'yı Vurduğunda | Gerçek NASA Görüntüleriyle Uzay Belgeseli",
+   "aciklama": "Güneş'in yüzeyindeki bükülmüş manyetik alanlar koptuğunda, milyarlarca ton plazma uzaya fırlar. Bu belgeselde güneş fırtınalarının nasıl doğduğunu, Dünya'ya nasıl ulaştığını, kutup ışıklarını nasıl yarattığını ve 1859 Carrington Olayı'ndan 1989 Quebec karartmasına kadar teknolojimizi nasıl sınadığını gerçek NASA, SDO ve SOHO görüntüleriyle anlatıyoruz."
+  },
+  "en": {
+   "baslik": "Solar Storms: When the Sun Strikes Earth | Space Documentary with Real NASA Footage",
+   "aciklama": "When twisted magnetic fields on the Sun snap, billions of tons of plasma are hurled into space. This documentary uses real imagery from NASA, SDO and SOHO to show how solar storms are born, how they travel to Earth, how they light up our skies with auroras, and how they have tested our technology, from the 1859 Carrington Event to the 1989 Quebec blackout."
+  },
+  "etiketler": [
+   "solar storm",
+   "güneş fırtınası",
+   "solar flare",
+   "coronal mass ejection",
+   "aurora",
+   "kutup ışıkları",
+   "Carrington event",
+   "space weather",
+   "NASA",
+   "SDO",
+   "Parker Solar Probe",
+   "uzay belgeseli",
+   "space documentary",
+   "geomagnetic storm",
+   "Sun"
+  ]
+ }
+}

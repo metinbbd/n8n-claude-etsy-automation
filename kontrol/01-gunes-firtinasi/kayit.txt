@@ -1,5 +1,16 @@
+1/6 Seslendirme
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/runner/.local/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  super().__init__("LSTM", *args, **kwargs)
+/home/runner/.local/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
+  WeightNorm.apply(module, name, dim)
+/home/runner/.local/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
+  warnings.warn(
+   anlatim + aralar: 11.08 dk; kaynakca ile 11.31 dk
+2/6 Altyazilar
+   154 Turkce altyazi; en uzun satir 42 karakter
+3/6 Klipler
   indiriliyor: A
-  indiriliyor: AG
   indiriliyor: ART
   indiriliyor: CC
   indiriliyor: DM
@@ -31,4 +42,16 @@
   indiriliyor: X54
   indiriliyor: XF
   indiriliyor: Y5
-Parca kontrol tablolari hazir.
+  bolum 0: 6 parca, 43.4 sn, hiz carpani 0.89x
+  bolum 1: 10 parca, 77.2 sn, hiz carpani 1.09x
+  bolum 2: 8 parca, 56.5 sn, hiz carpani 0.83x
+  bolum 3: 9 parca, 101.4 sn, hiz carpani 1.11x
+  bolum 4: 10 parca, 78.6 sn, hiz carpani 1.22x
+  bolum 5: 5 parca, 63.5 sn, hiz carpani 1.08x
+  bolum 6: 11 parca, 107.3 sn, hiz carpani 0.79x
+  bolum 7: 14 parca, 104.9 sn, hiz carpani 1.10x
+  bolum 8: 4 parca, 32.0 sn, hiz carpani 1.56x
+4/6 Muzik ve ses karisimi
+5/6 Birlestirme
+6/6 YouTube paketi
+   video: 11.31 dk, 1019 MB

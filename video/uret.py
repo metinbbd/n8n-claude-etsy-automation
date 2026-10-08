@@ -20,7 +20,7 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 W, H, FPS = 1920, 1080, 30
 SR = 24000
-VOICE, SPEED = "am_michael", 0.95
+VOICE, SPEED = "am_michael", 0.9
 SENT_GAP = 0.45          # cumleler arasi sessizlik (sn)
 INTRO = 6.0              # anlatim baslamadan once baslik + muzik (sn)
 OUTRO_MUSIC = 3.0        # son cumleden sonra kurgu devam suresi (sn)
@@ -144,7 +144,8 @@ def split_lines(text, width=42):
         if len(lines) == 2:  # satirlari dengele
             words = text.split()
             best = min(range(1, len(words)), key=lambda i: abs(
-                len(" ".join(words[:i])) - len(" ".join(words[i:]))))
+                len(" ".join(words[:i])) - len(" ".join(words[i:])))
+                - (10 if re.search(r"[,;:]$", words[i - 1]) else 0))
             a, b = " ".join(words[:best]), " ".join(words[best:])
             if len(a) <= width and len(b) <= width:
                 return [a, b]
@@ -164,7 +165,7 @@ def chunk_text(text, max_chars=84):
             break
         if min(len(a), len(b)) < 22:   # cok kisa parca olmasin
             continue
-        score = abs(len(a) - len(b)) - (15 if re.search(r"[,;:—–-]$", words[i - 1]) else 0)
+        score = abs(len(a) - len(b)) - (35 if re.search(r"[,;:?—–-]$", words[i - 1]) else 0)
         if best_score is None or score < best_score:
             best, best_score = i, score
     if best is None:
@@ -503,7 +504,9 @@ def main(project, out_dir):
     open(f"{out_dir}/altyazi_tr.srt", "w", encoding="utf-8").write(srt_tr)
     open(f"{out_dir}/altyazi_en.srt", "w", encoding="utf-8").write(srt_en)
     longest = max(max(len(x) for x in split_lines(c[2])) for c in cues_tr)
-    log(f"   {len(cues_tr)} Turkce altyazi; en uzun satir {longest} karakter")
+    cps = sorted(len(c[2]) / (c[1] - c[0]) for c in cues_tr)
+    log(f"   {len(cues_tr)} Turkce altyazi; en uzun satir {longest} karakter; "
+        f"okuma hizi maks {cps[-1]:.1f} kar/sn, 18 ustu {sum(x > 18 for x in cps)} adet")
 
     log("3/6 Klipler")
     paths = fetch_sources(cfg, f"{work}/kaynak")

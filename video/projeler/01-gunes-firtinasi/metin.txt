@@ -22,13 +22,13 @@ TR: Bu, o fırtınaların hikâyesi: Nasıl oluştukları, nasıl yolculuk ettik
 
 ## A Ball of Fire and Magnetism | Ateş ve Manyetizmadan Bir Küre
 EN: The Sun holds more than ninety-nine percent of all the mass in our solar system.
-TR: Güneş, Güneş Sistemi'ndeki tüm kütlenin yüzde doksan dokuzundan fazlasını barındırıyor.
+TR: Güneş Sistemi'ndeki kütlenin yüzde 99'undan fazlası Güneş'te.
 EN: Deep in its core, at fifteen million degrees Celsius, hydrogen fuses into helium, releasing the energy that lights our days.
 TR: Çekirdeğinin derinliklerinde, 15 milyon santigrat derecede hidrojen helyuma dönüşüyor ve günlerimizi aydınlatan enerjiyi açığa çıkarıyor.
 EN: That energy takes many thousands of years to work its way out to the surface.
 TR: Bu enerjinin yüzeye kadar ulaşması binlerce yıl sürüyor.
 EN: Then, as light, it crosses the gap to Earth in just over eight minutes.
-TR: Ardından ışık olarak Dünya'ya olan mesafeyi sekiz dakikadan biraz fazla bir sürede aşıyor.
+TR: Sonra ışık olarak, Dünya'ya sekiz dakikadan biraz fazla sürede ulaşıyor.
 EN: Its visible surface glows at about five and a half thousand degrees.
 TR: Görünen yüzeyi yaklaşık 5.500 derecede parlıyor.
 EN: Yet above it, the thin outer atmosphere called the corona is far hotter, at more than a million degrees.
@@ -46,7 +46,7 @@ TR: Üstelik Güneş, ekvatorunda kutuplarına göre daha hızlı dönüyor.
 EN: Over time, this uneven rotation stretches and twists the magnetic field lines, like rubber bands wound tighter and tighter.
 TR: Zamanla bu dengesiz dönüş, manyetik alan çizgilerini gerip büküyor; tıpkı giderek daha sıkı sarılan lastik bantlar gibi.
 EN: Where these tangled fields push up through the surface, they leave a mark we can see.
-TR: Bu karmakarışık alanlar yüzeyi delip çıktığı yerlerde, görebildiğimiz bir iz bırakıyor.
+TR: Bu karmaşık alanlar yüzeyi deldiği yerde, görebildiğimiz bir iz bırakır.
 [ara 2.0]
 
 ## Sunspots and the Solar Cycle | Güneş Lekeleri ve Güneş Döngüsü
@@ -88,7 +88,7 @@ TR: O kadar yoğundu ki onu kaydetmek için yapılmış cihazların sınırları
 EN: Because a flare is light, its radiation reaches Earth in about eight minutes, and it can disrupt radio communication on the side of the planet facing the Sun.
 TR: Patlama ışık olduğu için radyasyonu Dünya'ya yaklaşık sekiz dakikada ulaşır ve gezegenin Güneş'e bakan yüzünde radyo iletişimini bozabilir.
 EN: Often, a flare comes with something even bigger.
-TR: Çoğu zaman bir patlamaya çok daha büyük bir şey eşlik eder.
+TR: Çoğu zaman patlamaya daha büyük bir şey eşlik eder.
 EN: Above the surface, magnetic fields can also lift enormous arches of glowing plasma, called prominences, that hang in the corona for days.
 TR: Yüzeyin üzerinde manyetik alanlar, günlerce koronada asılı kalan ve uzantı denen devasa parlak plazma kemerleri de yükseltebilir.
 EN: When their magnetic support breaks, they too can be flung out into space.
@@ -113,7 +113,7 @@ TR: Ama bazen biri doğrudan bize doğru gelir.
 EN: Even on quiet days, the Sun constantly breathes out a stream of charged particles called the solar wind.
 TR: Sakin günlerde bile Güneş, güneş rüzgârı denen yüklü parçacık akışını sürekli dışarı verir.
 EN: It flows past Earth at nearly a million miles per hour.
-TR: Bu akış Dünya'nın yanından saatte yaklaşık 1,5 milyon kilometre hızla geçer.
+TR: Dünya'nın yanından saatte yaklaşık 1,5 milyon km hızla geçer.
 EN: A coronal mass ejection is like a gust inside that wind, a shock front plowing through space.
 TR: Koronal kütle atımı ise bu rüzgârın içindeki bir fırtına gibidir; uzayı yararak ilerleyen bir şok cephesi.
 EN: Depending on its speed, it can cross the hundred and fifty million kilometers to Earth in as little as fifteen hours, or take several days.
@@ -170,7 +170,7 @@ TR: Bu, kaydedilen ilk güneş patlamasıydı.
 EN: Less than a day later, the eruption reached Earth.
 TR: Bir günden kısa bir süre sonra püskürme Dünya'ya ulaştı.
 EN: Auroras glowed over the Caribbean, so bright that people in some places could read by their light at night.
-TR: Kutup ışıkları Karayipler'in üzerinde parladı; bazı yerlerde insanlar geceleri o ışıkta kitap okuyabilecek kadar parlaktı.
+TR: Kutup ışıkları Karayipler'de bile görüldü; bazı yerlerde ışığında gece kitap okunabiliyordu.
 EN: Telegraph systems across Europe and North America failed.
 TR: Avrupa ve Kuzey Amerika'daki telgraf sistemleri çöktü.
 EN: Some operators received electric shocks, and some lines kept working even after their batteries were disconnected, powered by the storm itself.
@@ -239,7 +239,7 @@ TR: Ama aynı zamanda hareketli ve şiddetli bir yıldız; ve biz onun dış atm
 EN: Every aurora that dances across the night sky is a reminder of that connection.
 TR: Gece göğünde dans eden her kutup ışığı bu bağı bize hatırlatıyor.
 EN: The next great solar storm is not a question of if, but when.
-TR: Bir sonraki büyük güneş fırtınasının gelip gelmeyeceği değil, ne zaman geleceği sorusu var.
+TR: Bir sonraki büyük güneş fırtınası gelecek mi? Asıl soru: ne zaman?
 EN: And thanks to the spacecraft that keep watch on our restless star, we will see it coming.
 TR: Ve huzursuz yıldızımızı gözleyen uzay araçları sayesinde, onun geldiğini göreceğiz.
 [ara 4.0]

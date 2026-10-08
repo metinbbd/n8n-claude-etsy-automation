@@ -21,33 +21,33 @@
 |   |   |
 |---|---|
 | Başlangıç | 200,00 USDT |
-| Toplam değer | 194,23 USDT (-2,9%) |
+| Toplam değer | 196,87 USDT (-1,6%) |
 | Cüzdan bakiyesi | 197,02 USDT |
-| Açık pozisyon kâr/zarar | -2,79 USDT |
+| Açık pozisyon kâr/zarar | -0,15 USDT |
 | Kullanılan teminat | 59,42 USDT |
 
 ## Açık pozisyonlar
 
 | Coin | Yön | Giriş | Şimdi | Stop | Hedef | Likidasyon | Kâr/Zarar |
 |---|---|---|---|---|---|---|---|
-| ADA | LONG 3x | 0,25530 | 0,25240 | 0,22303 | 0,31983 | 0,17148 | -0,68 USDT (-3,4%) |
-| AVAX | LONG 3x | 11,2360 | 10,8410 | 9,9095 | 13,8891 | 7,5468 | -2,11 USDT (-10,5%) |
-| BNB | LONG 3x | 767,56 | 767,56 | 723,65 | 855,38 | 515,54 | 0,00 USDT (0,0%) |
+| ADA | LONG 3x | 0,25530 | 0,25550 | 0,22303 | 0,31983 | 0,17148 | +0,05 USDT (+0,2%) |
+| AVAX | LONG 3x | 11,2360 | 11,1300 | 9,9095 | 13,8891 | 7,5468 | -0,57 USDT (-2,8%) |
+| BNB | LONG 3x | 767,56 | 772,45 | 723,65 | 855,38 | 515,54 | +0,37 USDT (+1,9%) |
 
 ## Günlük sinyaller
 
 | Coin | Fiyat | Dünkü değişim | Trend | RSI | Sinyal | Durum |
 |---|---|---|---|---|---|---|
-| BTC | 82.684,01 | -2,6% | yukarı | 53 | BEKLE | — |
-| ETH | 2.561,65 | -4,6% | yukarı | 45 | BEKLE | — |
-| SOL | 114,89 | -3,7% | yukarı | 54 | BEKLE | — |
-| BNB | 767,56 | -0,9% | yukarı | 55 | LONG | LONG açık |
-| XRP | 1,3997 | -5,0% | yukarı | 46 | BEKLE | — |
-| ADA | 0,25240 | -4,5% | yukarı | 58 | LONG | LONG açık |
-| DOGE | 0,08711 | -5,0% | yukarı | 46 | BEKLE | — |
-| AVAX | 10,8410 | -4,1% | yukarı | 62 | LONG | LONG açık |
-| LINK | 13,0980 | -4,5% | yukarı | 51 | BEKLE | — |
-| DOT | 1,0970 | -7,1% | yukarı | 48 | BEKLE | — |
+| BTC | 83.321,81 | -2,6% | yukarı | 53 | BEKLE | — |
+| ETH | 2.574,14 | -4,6% | yukarı | 45 | BEKLE | — |
+| SOL | 116,30 | -3,7% | yukarı | 54 | BEKLE | — |
+| BNB | 772,45 | -0,9% | yukarı | 55 | LONG | LONG açık |
+| XRP | 1,4215 | -5,0% | yukarı | 46 | BEKLE | — |
+| ADA | 0,25550 | -4,5% | yukarı | 58 | LONG | LONG açık |
+| DOGE | 0,08904 | -5,0% | yukarı | 46 | BEKLE | — |
+| AVAX | 11,1300 | -4,1% | yukarı | 62 | LONG | LONG açık |
+| LINK | 13,3260 | -4,5% | yukarı | 51 | BEKLE | — |
+| DOT | 1,1170 | -7,1% | yukarı | 48 | BEKLE | — |
 
 ## Kapanan işlemler (tümü)
 

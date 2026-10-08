@@ -1,0 +1,92 @@
+=== BASLIK (Turkce) ===
+Güneş Fırtınaları: Güneş Dünya'yı Vurduğunda | Gerçek NASA Görüntüleriyle Uzay Belgeseli
+
+=== BASLIK (English) ===
+Solar Storms: When the Sun Strikes Earth | Space Documentary with Real NASA Footage
+
+=== ACIKLAMA (Turkce kanal icin) ===
+Güneş'in yüzeyindeki bükülmüş manyetik alanlar koptuğunda, milyarlarca ton plazma uzaya fırlar. Bu belgeselde güneş fırtınalarının nasıl doğduğunu, Dünya'ya nasıl ulaştığını, kutup ışıklarını nasıl yarattığını ve 1859 Carrington Olayı'ndan 1989 Quebec karartmasına kadar teknolojimizi nasıl sınadığını gerçek NASA, SDO ve SOHO görüntüleriyle anlatıyoruz.
+
+Bölümler:
+00:00 Huzursuz Yıldızımız
+00:43 Ateş ve Manyetizmadan Bir Küre
+02:00 Güneş Lekeleri ve Güneş Döngüsü
+02:57 Patlamalar ve Püskürmeler
+04:38 Dünya'ya Yolculuk
+05:57 Işık Perdeleri
+07:00 Güneş Vurduğunda
+08:47 Yıldızımızı İzlemek
+10:32 Bir Yıldızla Yaşamak
+
+Türkçe altyazı mevcuttur (CC).
+
+Kaynaklar ve lisanslar:
+Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS)
+Solar imagery: NASA/SDO and the AIA, EVE and HMI science teams
+Coronagraph imagery: SOHO (ESA & NASA) - LASCO and EIT
+Aurora and night Earth from the ISS: NASA Johnson Space Center, Earth Science and Remote Sensing Unit
+Parker Solar Probe animations: NASA/Johns Hopkins APL/Goddard
+Music: "Lightless Dawn" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Echoes of Time v2" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Long Note Two" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
+
+Bilgi kaynakları:
+https://science.nasa.gov/sun/
+https://science.nasa.gov/mission/sdo/
+https://science.nasa.gov/mission/parker-solar-probe/
+https://soho.nascom.nasa.gov/
+https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter
+https://www.swpc.noaa.gov/phenomena
+https://www.swpc.noaa.gov/noaa-scales-explanation
+https://svs.gsfc.nasa.gov/5193/
+https://svs.gsfc.nasa.gov/5375/
+
+=== DESCRIPTION (English channel) ===
+When twisted magnetic fields on the Sun snap, billions of tons of plasma are hurled into space. This documentary uses real imagery from NASA, SDO and SOHO to show how solar storms are born, how they travel to Earth, how they light up our skies with auroras, and how they have tested our technology, from the 1859 Carrington Event to the 1989 Quebec blackout.
+
+Chapters:
+00:00 Our Restless Star
+00:43 A Ball of Fire and Magnetism
+02:00 Sunspots and the Solar Cycle
+02:57 Flares and Eruptions
+04:38 The Journey to Earth
+05:57 Curtains of Light
+07:00 When the Sun Strikes
+08:47 Watching Our Star
+10:32 Living With a Star
+
+Credits & licenses:
+Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS)
+Solar imagery: NASA/SDO and the AIA, EVE and HMI science teams
+Coronagraph imagery: SOHO (ESA & NASA) - LASCO and EIT
+Aurora and night Earth from the ISS: NASA Johnson Space Center, Earth Science and Remote Sensing Unit
+Parker Solar Probe animations: NASA/Johns Hopkins APL/Goddard
+Music: "Lightless Dawn" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Echoes of Time v2" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Long Note Two" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
+
+Sources:
+https://science.nasa.gov/sun/
+https://science.nasa.gov/mission/sdo/
+https://science.nasa.gov/mission/parker-solar-probe/
+https://soho.nascom.nasa.gov/
+https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter
+https://www.swpc.noaa.gov/phenomena
+https://www.swpc.noaa.gov/noaa-scales-explanation
+https://svs.gsfc.nasa.gov/5193/
+https://svs.gsfc.nasa.gov/5375/
+
+=== ETIKETLER / TAGS ===
+solar storm, güneş fırtınası, solar flare, coronal mass ejection, aurora, kutup ışıkları, Carrington event, space weather, NASA, SDO, Parker Solar Probe, uzay belgeseli, space documentary, geomagnetic storm, Sun
+
+=== YOUTUBE AYARLARI ===
+- Video dili: English
+- Altyazi: altyazi_tr.srt -> Turkce, altyazi_en.srt -> English
+- "Altered or synthetic content" sorusu: YouTube bunu gercek kisi/olay sanilabilecek sahte
+  goruntu ve sesler icin istiyor. Bu videoda gorseller gercek NASA kayitlari, anlatici kimseyi
+  taklit etmiyor; bu yuzden "Hayir" uygundur. Bu etiket para kazanmayi etkilemez.
+- Para kazanma icin: videolari aralikli yukleyin (or. haftada 1-2), her videoda kendi basliginizi
+  ve aciklamanizi kisisellestirin, yorumlara cevap verin.
+- Sure: 11:18

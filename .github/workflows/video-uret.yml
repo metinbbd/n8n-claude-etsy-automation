@@ -47,9 +47,10 @@ jobs:
           python3 video/uret.py "video/projeler/$PROJE" /tmp/cikti 2>&1 | tee /tmp/kontrol/kayit.txt
       - name: Kontrol kareleri ve onizleme
         if: ${{ !inputs.sadece_kontrol }}
+        continue-on-error: true
         run: |
           V=$(ls /tmp/cikti/*.mp4)
-          ffmpeg -loglevel error -i "$V" -vf "fps=1/2,scale=320:180,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='%{pts\:hms}':x=4:y=4:fontsize=15:fontcolor=yellow:box=1:boxcolor=black@0.6,tile=6x6" -vsync vfr /tmp/kontrol/kare_%02d.jpg
+          ffmpeg -loglevel error -i "$V" -vf "fps=1/2,scale=320:180,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='%{pts\:hms}':x=4:y=4:fontsize=15:fontcolor=yellow:box=1:boxcolor=black@0.6,tile=6x6" -fps_mode vfr /tmp/kontrol/kare_%02d.jpg
           ffmpeg -loglevel error -i "$V" -vf scale=854:480 -c:v libx264 -preset veryfast -crf 32 -c:a aac -b:a 96k -movflags +faststart /tmp/kontrol/onizleme_480p.mp4
           cp /tmp/cikti/*.srt /tmp/cikti/youtube_aciklama.txt /tmp/cikti/kapak.jpg /tmp/kontrol/
           ls -la /tmp/kontrol /tmp/cikti

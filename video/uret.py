@@ -28,7 +28,7 @@ CREDITS = 14.0           # kaynakca ekrani (sn)
 XFADE = 0.8              # klipler arasi gecis (sn)
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 FONT_B = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
-X264 = ["-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p"]
+X264 = ["-c:v", "libx264", "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p"]
 
 
 def run(cmd):

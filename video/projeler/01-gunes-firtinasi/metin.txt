@@ -9,7 +9,7 @@
 EN: Ninety-three million miles away, our star is restless.
 TR: 150 milyon kilometre ötede, yıldızımız huzursuz.
 EN: Beneath its glowing surface, twisted magnetic fields store unimaginable energy.
-TR: Parlayan yüzeyinin altında, bükülmüş manyetik alanlar akıl almaz bir enerji biriktiriyor.
+TR: Yüzeyinin altında bükülmüş manyetik alanlar dev bir enerji biriktiriyor.
 EN: And when those fields finally snap, the Sun hurls billions of tons of superheated gas into space.
 TR: Bu alanlar sonunda koptuğunda, Güneş milyarlarca ton aşırı ısınmış gazı uzaya fırlatıyor.
 EN: A solar storm is born.
@@ -64,7 +64,8 @@ EN: At solar minimum, the Sun can go weeks without a single spot.
 TR: Güneş minimumunda, Güneş haftalarca tek bir leke bile göstermeyebilir.
 EN: At solar maximum, it can be covered with them, and its entire magnetic field flips, north becoming south.
 TR: Güneş maksimumunda ise lekelerle kaplanabilir ve tüm manyetik alanı ters döner; kuzey güneye dönüşür.
-EN: In twenty twenty-four, scientists announced that the Sun had entered the maximum phase of its current cycle.
+EN: In 2024, scientists announced that the Sun had entered the maximum phase of its current cycle.
+SAY: In twenty twenty-four, scientists announced that the Sun had entered the maximum phase of its current cycle.
 TR: 2024'te bilim insanları, Güneş'in mevcut döngüsünün maksimum evresine girdiğini açıkladı.
 EN: And the more active the Sun becomes, the more often its magnetic fields erupt.
 TR: Güneş ne kadar aktifleşirse, manyetik alanları da o kadar sık patlar.
@@ -72,14 +73,15 @@ TR: Güneş ne kadar aktifleşirse, manyetik alanları da o kadar sık patlar.
 
 ## Flares and Eruptions | Patlamalar ve Püskürmeler
 EN: When twisted magnetic field lines suddenly snap and reconnect, they release their stored energy in an instant.
-TR: Bükülmüş manyetik alan çizgileri aniden koptuğunda ve yeniden birleştiğinde, biriktirdikleri enerjiyi bir anda salıverir.
+TR: Bükülmüş manyetik alan çizgileri aniden kopup yeniden birleştiğinde, biriktirdikleri enerjiyi bir anda salar.
 EN: The result is a solar flare, an intense flash of light across the spectrum, from radio waves to X-rays.
 TR: Sonuç bir güneş patlamasıdır: radyo dalgalarından X ışınlarına kadar tüm tayfta yoğun bir ışık parlaması.
 EN: A large flare can release as much energy as millions of hydrogen bombs exploding at once.
 TR: Büyük bir patlama, aynı anda patlayan milyonlarca hidrojen bombası kadar enerji açığa çıkarabilir.
 EN: Scientists rank flares by their strength, with the most powerful known as X-class flares.
-TR: Bilim insanları patlamaları güçlerine göre sınıflandırır; en güçlüleri X sınıfı patlamalar olarak bilinir.
-EN: The largest flare ever measured erupted in November two thousand three.
+TR: Patlamalar güçlerine göre sınıflandırılır; en güçlüleri X sınıfı patlamalardır.
+EN: The largest flare ever measured erupted in November 2003.
+SAY: The largest flare ever measured erupted in November two thousand three.
 TR: Ölçülmüş en büyük patlama Kasım 2003'te gerçekleşti.
 EN: It was so intense that it overwhelmed the instruments built to record it.
 TR: O kadar yoğundu ki onu kaydetmek için yapılmış cihazların sınırlarını aştı.
@@ -91,14 +93,14 @@ EN: Above the surface, magnetic fields can also lift enormous arches of glowing 
 TR: Yüzeyin üzerinde manyetik alanlar, günlerce koronada asılı kalan ve uzantı denen devasa parlak plazma kemerleri de yükseltebilir.
 EN: When their magnetic support breaks, they too can be flung out into space.
 TR: Onları taşıyan manyetik yapı bozulduğunda, onlar da uzaya fırlatılabilir.
-EN: A coronal mass ejection, or C M E, is a vast cloud of plasma and magnetic field blasted away from the Sun's outer atmosphere, the corona.
+EN: A coronal mass ejection, or CME, is a vast cloud of plasma and magnetic field blasted away from the Sun's outer atmosphere, the corona.
 SAY: A coronal mass ejection, or C M E, is a vast cloud of plasma and magnetic field, blasted away from the Sun's outer atmosphere, the corona.
 TR: Koronal kütle atımı ya da kısaca CME, Güneş'in dış atmosferi olan koronadan fırlatılan devasa bir plazma ve manyetik alan bulutudur.
 EN: A single eruption can carry a billion tons of material.
 TR: Tek bir püskürme bir milyar ton madde taşıyabilir.
 EN: The fastest race outward at around three thousand kilometers per second.
 TR: En hızlıları saniyede yaklaşık 3 bin kilometre hızla dışarı doğru fırlar.
-EN: As it expands, a C M E can grow larger than the Sun itself.
+EN: As it expands, a CME can grow larger than the Sun itself.
 SAY: As it expands, a C M E can grow larger than the Sun itself.
 TR: Genişledikçe bir CME, Güneş'in kendisinden bile büyük hale gelebilir.
 EN: Most of these eruptions head off harmlessly into space.
@@ -122,7 +124,7 @@ EN: Earth's molten iron core generates a magnetic field that surrounds the plane
 TR: Dünya'nın erimiş demir çekirdeği gezegeni saran bir manyetik alan üretir; manyetosfer denen koruyucu bir kabarcık.
 EN: Most of the time, it deflects the solar wind around us.
 TR: Çoğu zaman güneş rüzgârını etrafımızdan saptırır.
-EN: But when a powerful C M E strikes, the magnetosphere is squeezed and shaken.
+EN: But when a powerful CME strikes, the magnetosphere is squeezed and shaken.
 SAY: But when a powerful C M E strikes, the magnetosphere is squeezed and shaken.
 TR: Ama güçlü bir CME çarptığında, manyetosfer sıkışır ve sarsılır.
 EN: If the magnetic field of the cloud points in the opposite direction to Earth's own, the two can link up, and energy pours into our magnetic environment.
@@ -147,10 +149,11 @@ TR: Oksijen yeşil ve kırmızı ışık saçarken, azot mavi ve mor tonlar kata
 EN: Auroras appear around both poles at the same time, the northern lights and the southern lights, mirror images on opposite ends of the world.
 TR: Kutup ışıkları iki kutbun çevresinde aynı anda belirir: kuzey ışıkları ve güney ışıkları, dünyanın iki ucunda birbirinin ayna görüntüsü.
 EN: Seen from orbit, auroras ripple across the planet like living curtains, hundreds of kilometers tall.
-TR: Yörüngeden bakıldığında kutup ışıkları, yüzlerce kilometre yüksekliğinde canlı perdeler gibi gezegenin üzerinde dalgalanır.
+TR: Yörüngeden bakınca kutup ışıkları, yüzlerce kilometre yüksekliğinde canlı perdeler gibi dalgalanır.
 EN: During strong storms, they spread far beyond the polar regions.
 TR: Güçlü fırtınalar sırasında kutup bölgelerinin çok ötesine yayılırlar.
-EN: In May twenty twenty-four, the strongest geomagnetic storm in more than twenty years lit up skies as far south as Florida and Mexico.
+EN: In May 2024, the strongest geomagnetic storm in more than twenty years lit up skies as far south as Florida and Mexico.
+SAY: In May twenty twenty-four, the strongest geomagnetic storm in more than twenty years lit up skies as far south as Florida and Mexico.
 TR: Mayıs 2024'te, son 20 yılın en güçlü jeomanyetik fırtınası gökyüzünü Florida ve Meksika'ya kadar aydınlattı.
 EN: Millions of people saw an aurora for the very first time.
 TR: Milyonlarca insan kutup ışıklarını ilk kez gördü.
@@ -159,7 +162,8 @@ TR: Ama böyle bir güzellik yaratan fırtınalar gerçek hasara da yol açabili
 [ara 2.5]
 
 ## When the Sun Strikes | Güneş Vurduğunda
-EN: On the first of September, eighteen fifty-nine, the English astronomer Richard Carrington was sketching sunspots when he saw two brilliant beads of white light flare up on the Sun.
+EN: On September 1st, 1859, the English astronomer Richard Carrington was sketching sunspots when he saw two brilliant beads of white light flare up on the Sun.
+SAY: On the first of September, eighteen fifty-nine, the English astronomer Richard Carrington was sketching sunspots when he saw two brilliant beads of white light flare up on the Sun.
 TR: 1 Eylül 1859'da İngiliz gökbilimci Richard Carrington güneş lekelerini çizerken Güneş'te parlayan iki parlak beyaz ışık noktası gördü.
 EN: It was the first solar flare ever recorded.
 TR: Bu, kaydedilen ilk güneş patlamasıydı.
@@ -170,23 +174,27 @@ TR: Kutup ışıkları Karayipler'in üzerinde parladı; bazı yerlerde insanlar
 EN: Telegraph systems across Europe and North America failed.
 TR: Avrupa ve Kuzey Amerika'daki telgraf sistemleri çöktü.
 EN: Some operators received electric shocks, and some lines kept working even after their batteries were disconnected, powered by the storm itself.
-TR: Bazı telgrafçılar elektrik çarpmasına uğradı; bazı hatlar ise pilleri sökülmüş olmasına rağmen, fırtınanın kendisinden aldığı güçle çalışmaya devam etti.
-EN: In eighteen fifty-nine, the world had little technology to lose.
+TR: Bazı telgrafçıları elektrik çarptı; bazı hatlar ise pilleri sökülmesine rağmen fırtınanın gücüyle çalışmaya devam etti.
+EN: In 1859, the world had little technology to lose.
+SAY: In eighteen fifty-nine, the world had little technology to lose.
 TR: 1859'da dünyanın kaybedecek pek bir teknolojisi yoktu.
 EN: Today, it is very different.
 TR: Bugün ise durum çok farklı.
-EN: In March nineteen eighty-nine, a geomagnetic storm collapsed the power grid in Quebec, Canada, in about ninety seconds, leaving six million people without electricity for nine hours.
+EN: In March 1989, a geomagnetic storm collapsed the power grid in Quebec, Canada, in about ninety seconds, leaving six million people without electricity for nine hours.
+SAY: In March nineteen eighty-nine, a geomagnetic storm collapsed the power grid in Quebec, Canada, in about ninety seconds, leaving six million people without electricity for nine hours.
 TR: Mart 1989'da bir jeomanyetik fırtına, Kanada'nın Quebec eyaletindeki elektrik şebekesini yaklaşık 90 saniyede çökertti; 6 milyon insan dokuz saat elektriksiz kaldı.
-EN: In twenty twenty-two, even a minor storm warmed and expanded Earth's upper atmosphere, dragging dozens of newly launched satellites out of orbit.
+EN: In 2022, even a minor storm warmed and expanded Earth's upper atmosphere, dragging dozens of newly launched satellites out of orbit.
+SAY: In twenty twenty-two, even a minor storm warmed and expanded Earth's upper atmosphere, dragging dozens of newly launched satellites out of orbit.
 TR: 2022'de küçük bir fırtına bile Dünya'nın üst atmosferini ısıtıp genişletti ve yeni fırlatılmış onlarca uyduyu yörüngeden düşürdü.
-EN: Strong storms can disturb G P S navigation, satellite communications, and the radio links used by aircraft flying over the poles.
+EN: Strong storms can disturb GPS navigation, satellite communications, and the radio links used by aircraft flying over the poles.
 SAY: Strong storms can disturb G P S navigation, satellite communications, and the radio links used by aircraft flying over the poles.
 TR: Güçlü fırtınalar GPS navigasyonunu, uydu haberleşmesini ve kutupların üzerinden uçan uçakların radyo bağlantılarını bozabilir.
 EN: Astronauts are at risk too.
 TR: Astronotlar da risk altında.
 EN: Outside the protection of Earth's magnetic field, on the way to the Moon or Mars, a burst of solar particles could deliver a dangerous dose of radiation in a matter of hours.
 TR: Dünya'nın manyetik alanının korumasının dışında, Ay'a ya da Mars'a giden yolda, bir güneş parçacığı patlaması birkaç saat içinde tehlikeli bir radyasyon dozuna yol açabilir.
-EN: And in July twenty twelve, an eruption as powerful as the Carrington event tore through Earth's orbit.
+EN: And in July 2012, an eruption as powerful as the Carrington event tore through Earth's orbit.
+SAY: And in July twenty twelve, an eruption as powerful as the Carrington event tore through Earth's orbit.
 TR: Temmuz 2012'de ise Carrington olayı kadar güçlü bir püskürme Dünya'nın yörüngesini yarıp geçti.
 EN: We missed it by about nine days.
 TR: Onu yaklaşık dokuz günle ıskaladık.
@@ -196,8 +204,8 @@ TR: Onu yaklaşık dokuz günle ıskaladık.
 EN: That is why a fleet of spacecraft now watches the Sun around the clock.
 TR: Bu yüzden artık bir uzay aracı filosu Güneş'i gece gündüz izliyor.
 EN: NASA's Solar Dynamics Observatory captures the Sun in many wavelengths of light, recording a new image every twelve seconds.
-TR: NASA'nın Güneş Dinamikleri Gözlemevi, Güneş'i pek çok farklı dalga boyunda görüntülüyor ve her 12 saniyede bir yeni bir görüntü kaydediyor.
-EN: The joint European and American observatory SOHO has been watching since nineteen ninety-five, blocking the bright disk of the Sun to reveal eruptions streaming through the corona.
+TR: NASA'nın Güneş Dinamikleri Gözlemevi Güneş'i birçok dalga boyunda izliyor ve her 12 saniyede bir yeni görüntü kaydediyor.
+EN: The joint European and American observatory SOHO has been watching since 1995, blocking the bright disk of the Sun to reveal eruptions streaming through the corona.
 SAY: The joint European and American observatory, so-ho, has been watching since nineteen ninety-five, blocking the bright disk of the Sun to reveal eruptions streaming through the corona.
 TR: Avrupa ve ABD'nin ortak gözlemevi SOHO, 1995'ten beri izlemede; Güneş'in parlak diskini kapatarak koronadan akan püskürmeleri görünür kılıyor.
 EN: And NASA's Parker Solar Probe has flown closer to the Sun than any spacecraft in history, passing through the corona itself.
@@ -205,7 +213,8 @@ TR: NASA'nın Parker Güneş Sondası ise tarihte Güneş'e en çok yaklaşan uz
 
 EN: At its closest, it races past at around seven hundred thousand kilometers per hour, the fastest object ever built by humans.
 TR: En yakın noktasında saatte yaklaşık 700 bin kilometre hızla geçiyor; insan yapımı en hızlı nesne.
-EN: The European Space Agency's Solar Orbiter, built in partnership with NASA, has climbed out of the plane of the planets, and in twenty twenty-five it gave us our first ever views of the Sun's poles.
+EN: The European Space Agency's Solar Orbiter, built in partnership with NASA, has climbed out of the plane of the planets, and in 2025 it gave us our first ever views of the Sun's poles.
+SAY: The European Space Agency's Solar Orbiter, built in partnership with NASA, has climbed out of the plane of the planets, and in twenty twenty-five it gave us our first ever views of the Sun's poles.
 TR: Avrupa Uzay Ajansı'nın NASA ile ortaklaşa geliştirdiği Solar Orbiter, gezegenlerin düzleminin dışına çıktı ve 2025'te bize Güneş'in kutuplarının ilk görüntülerini verdi.
 EN: The poles are where the Sun's magnetic cycle may be decided.
 TR: Kutuplar, Güneş'in manyetik döngüsünün belirlendiği yer olabilir.
@@ -215,7 +224,7 @@ EN: They give forecasters a warning of up to an hour before a storm's magnetic c
 TR: Bu araçlar tahmincilere, bir fırtınanın manyetik bulutu bize ulaşmadan bir saate kadar önceden uyarı veriyor.
 EN: That is enough time for power companies to protect their grids and for satellite operators to prepare.
 TR: Bu süre, elektrik şirketlerinin şebekelerini korumasına ve uydu operatörlerinin hazırlanmasına yetiyor.
-EN: Space weather forecasters rate geomagnetic storms on a scale from G one, minor, to G five, extreme.
+EN: Space weather forecasters rate geomagnetic storms on a scale from G1, minor, to G5, extreme.
 SAY: Space weather forecasters rate geomagnetic storms on a scale from G one, minor, to G five, extreme.
 TR: Uzay havası tahmincileri jeomanyetik fırtınaları G1 (zayıf) ile G5 (aşırı) arasında bir ölçekle derecelendirir.
 EN: Like weather forecasts on Earth, their predictions are improving every year, but the Sun can still surprise us.

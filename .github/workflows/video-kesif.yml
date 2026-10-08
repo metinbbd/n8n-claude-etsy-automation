@@ -33,7 +33,11 @@ jobs:
           set -o pipefail
           mkdir -p /tmp/kesif /tmp/onceki
           git fetch -q origin medya-onizleme && git show "origin/medya-onizleme:kesif/${{ inputs.proje }}/adaylar.json" > /tmp/onceki/adaylar.json 2>/dev/null || true
-          python3 video/kesif.py "video/projeler/${{ inputs.proje }}/${{ inputs.tur }}.json" /tmp/kesif 2>&1 | tee /tmp/kesif/kayit.txt
+          if [ "${{ inputs.tur }}" = "yokla" ]; then
+            python3 video/yokla.py 2>&1 | tee /tmp/kesif/kayit.txt
+          else
+            python3 video/kesif.py "video/projeler/${{ inputs.proje }}/${{ inputs.tur }}.json" /tmp/kesif 2>&1 | tee /tmp/kesif/kayit.txt
+          fi
       - name: Onizleme dalina kaydet
         if: always()
         run: |

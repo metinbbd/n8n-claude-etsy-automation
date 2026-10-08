@@ -1,0 +1,29 @@
+name: Video - anlatici ses ornekleri
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ses:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - name: Kurulum (Kokoro TTS, CPU)
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q espeak-ng ffmpeg
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q "kokoro>=0.9" soundfile
+      - name: Ornekleri uret
+        run: OUT=/tmp/ses python3 video/ses_ornekleri.py
+      - name: Onizleme dalina kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch -q origin medya-onizleme && git checkout -q medya-onizleme || git checkout -q --orphan medya-onizleme
+          git rm -rq --cached . 2>/dev/null || true
+          mkdir -p ses-ornekleri && cp /tmp/ses/*.mp3 ses-ornekleri/
+          git add ses-ornekleri && git commit -qm "Anlatici ses ornekleri" && git push -q origin medya-onizleme

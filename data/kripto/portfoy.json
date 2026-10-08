@@ -1,6 +1,6 @@
 {
  "baslangic_bakiye": 200.0,
- "bakiye": 199.85004499999997,
+ "bakiye": 197.01862994076998,
  "pozisyonlar": {
   "AVAX": {
    "yon": "LONG",
@@ -12,43 +12,7 @@
    "likidasyon": 7.546846666666667,
    "acilis": 1791406800000,
    "ucret": 0.03,
-   "fonlama": 0.0
-  },
-  "LINK": {
-   "yon": "LONG",
-   "giris": 13.365,
-   "miktar": 4.489337822671156,
-   "teminat": 20.0,
-   "stop": 11.819707861724211,
-   "hedef": 16.455584276551576,
-   "likidasyon": 8.976825,
-   "acilis": 1791406800000,
-   "ucret": 0.03,
-   "fonlama": 0.0
-  },
-  "DOT": {
-   "yon": "LONG",
-   "giris": 1.112,
-   "miktar": 53.92985611510791,
-   "teminat": 19.99,
-   "stop": 0.9455244635446234,
-   "hedef": 1.4449510729107535,
-   "likidasyon": 0.7468933333333334,
-   "acilis": 1791406800000,
-   "ucret": 0.029985,
-   "fonlama": 0.0
-  },
-  "SOL": {
-   "yon": "LONG",
-   "giris": 116.2,
-   "miktar": 0.5160929432013769,
-   "teminat": 19.99,
-   "stop": 107.0154001567127,
-   "hedef": 134.56919968657462,
-   "likidasyon": 78.04766666666667,
-   "acilis": 1791406800000,
-   "ucret": 0.029985,
-   "fonlama": 0.0
+   "fonlama": -0.005943396226415094
   },
   "ADA": {
    "yon": "LONG",
@@ -60,6 +24,18 @@
    "likidasyon": 0.1714765,
    "acilis": 1791406800000,
    "ucret": 0.029985,
+   "fonlama": -0.006001698002350176
+  },
+  "BNB": {
+   "yon": "LONG",
+   "giris": 767.56,
+   "miktar": 0.07594194590650895,
+   "teminat": 19.43,
+   "stop": 723.6502336037413,
+   "hedef": 855.3795327925172,
+   "likidasyon": 515.5444666666666,
+   "acilis": 1791439200000,
+   "ucret": 0.029145,
    "fonlama": 0.0
   }
  },
@@ -103,14 +79,80 @@
    "islem": "LONG açıldı",
    "fiyat": 0.2553,
    "teminat": 19.99
+  },
+  {
+   "gun": "2026-10-08",
+   "ts": 1791439200000,
+   "coin": "LINK",
+   "islem": "LONG kapandı (trend bozuldu)",
+   "fiyat": 13.098,
+   "net": -1.2640363636363612
+  },
+  {
+   "gun": "2026-10-08",
+   "ts": 1791439200000,
+   "coin": "DOT",
+   "islem": "LONG kapandı (trend bozuldu)",
+   "fiyat": 1.097,
+   "net": -0.8745427257194311
+  },
+  {
+   "gun": "2026-10-08",
+   "ts": 1791439200000,
+   "coin": "SOL",
+   "islem": "LONG kapandı (trend bozuldu)",
+   "fiyat": 114.89,
+   "net": -0.7417158756454401
+  },
+  {
+   "gun": "2026-10-08",
+   "ts": 1791439200000,
+   "coin": "BNB",
+   "islem": "LONG açıldı",
+   "fiyat": 767.56,
+   "teminat": 19.43
   }
  ],
- "islemler": [],
+ "islemler": [
+  {
+   "coin": "LINK",
+   "yon": "LONG",
+   "giris": 13.365,
+   "cikis": 13.098,
+   "acilis": 1791406800000,
+   "kapanis": 1791439200000,
+   "neden": "trend",
+   "net": -1.2640363636363612,
+   "teminat": 20.0
+  },
+  {
+   "coin": "DOT",
+   "yon": "LONG",
+   "giris": 1.112,
+   "cikis": 1.097,
+   "acilis": 1791406800000,
+   "kapanis": 1791439200000,
+   "neden": "trend",
+   "net": -0.8745427257194311,
+   "teminat": 19.99
+  },
+  {
+   "coin": "SOL",
+   "yon": "LONG",
+   "giris": 116.2,
+   "cikis": 114.89,
+   "acilis": 1791406800000,
+   "kapanis": 1791439200000,
+   "neden": "trend",
+   "net": -0.7417158756454401,
+   "teminat": 19.99
+  }
+ ],
  "gecmis": [
   {
    "gun": "2026-10-08",
-   "deger": 199.85
+   "deger": 194.2281
   }
  ],
- "son_kontrol": 1791406800000
+ "son_kontrol": 1791439200000
 }

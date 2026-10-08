@@ -1,0 +1,58 @@
+136 benzersiz video bulundu
+  ✓ GSFC_20140709_SDO_m11605_Firework_Flare 49.4s kaynak=1920x1080  Firework Flare
+  ✓ GSFC_20140130_SDO_m11463_Eclipse-Flare 43.5s kaynak=1920x1080  SDO Lunar Transit, Prominence Eruption, and M-Class Flare
+  ✓ GSFC_20170403_Trio_m12563_SolarFlares 82.5s kaynak=1920x1080  April 2017 Solar Flare Trio
+  ✓ GSFC_20121023_SDO_m11120_Flare 38.2s kaynak=1280x720  Active Region on the Sun Emits Another Flare
+  ✓ GSFC_20170211_SDO_m12500_Year7 201.9s kaynak=3840x2160  SDO: Year 7
+  ✓ GSFC_20140911_SDO_m11651_Flare 36.9s kaynak=1920x1080  September 10, 2014 X1.6 flare
+  ✓ GSFC_20140610_SDO_m11564_XFlares 55.3s kaynak=1920x1080  Sun Emits 3 X-class Flares in 2 Days
+  ✓ GSFC_20150501_SDO_m11864_Phoenix 125.6s kaynak=1280x720  Phoenix Prominence Eruption
+  ✓ GSFC_20141024_SDO_m11718_Flares 186.9s kaynak=1920x1080  Giant Sunspot Continues to Erupt with Substantial Flares
+  ✓ GSFC_20160624_SDO_m12292_Jul_Sunspot 34.5s kaynak=1920x1080  Solar Highlights of 2016/2017: Sunspot Turn Toward Earth
+  ✓ GSFC_20160624_SDO_m12292_DoubleEclipse 34.2s kaynak=1920x1080  Solar Highlights of 2016/2017: Double Eclipse
+  ✓ GSFC_20170804_SDO_m12105_SunSpot 93.3s kaynak=1920x1080  Two Weeks in the Life of a Sunspot
+  ✓ GSFC_20110207_STEREO_m10720_Stonehenge 75.3s kaynak=1280x720  From Stonehenge to STEREO: A One Minute History of How We Se
+  ✓ GSFC_20140404_SDO_m11517_Flare 70.1s kaynak=1920x1080  Graceful Eruption
+  ✓ GSFC_20150211_SDO_m11762_5Years 175.2s kaynak=1920x1080  Five Year Time-lapse of SDO
+  ✓ GSFC_20160624_SDO_m12292_TwistingSolarMaterial 22.3s kaynak=1920x1080  Solar Highlights of 2016/2017: Twisting Solar Material
+  ✓ GSFC_20150630_SDO_m11908_ArchingEruption 93.4s kaynak=1920x1080  Arching Eruption
+  ✓ GSFC_20160624_SDO_m12292_Bursts 28.3s kaynak=1920x1080  Solar Highlights of 2016/2017: Bursts of Solar Material
+  ✓ GSFC_20141222_SDO_m11721_Lights 67.5s kaynak=1280x720  Holiday Lights on the Sun
+  ✓ GSFC_20120307_SDO_m10925_Flare 79.4s kaynak=1920x1080  HD Close up of March 6th X5.4 Flare
+  ✓ GSFC_20131108_MAVEN_m11403_NASM 462.1s kaynak=NonexNone  MAVEN National Air and Space Museum Presentation
+  ✓ GSFC_20130513_SDO_m11285_X_Flares 211.3s kaynak=1920x1080  First X-Class Solar Flares of 2013
+  ✓ GSFC_20130226_SDO_m11179_Vocab 83.7s kaynak=1280x720  Space Weather Vocabulary
+  ✓ GSFC_2013_IRIS_m11256_Mission_Trailer 80.6s kaynak=1280x720  IRIS: Studying the Energy Flow that Powers the Solar Atmosph
+  ✓ GSFC_20120321_Visions_m10935_Goddard 495.7s kaynak=1280x720  Visions of Goddard
+  ✓ GSFC_20140925_CME_m11660_CCMC 133.7s kaynak=1280x720  Comparing CMEs
+  ✓ GSFC_20160815_Radiation_m12328_Belts 90.9s kaynak=1920x1080  Supercharging the Radiation Belts
+  ✓ GSFC_20151201_SOHO_m12052_20th 322.1s kaynak=1920x1080  SOHO Celebrates 20 Years of Space-based Science
+  ✓ GSFC_20111110_2012_m10754_Storms 163.1s kaynak=1280x720  The Truth About 2012: Solar Storms
+  ✓ GSFC_20150626_IRIS_m11897_Sun 66.3s kaynak=1920x1080  A Slice of Light: How IRIS Observes the Sun
+  ✓ GSFC_20171107_Ionosphere_m12532_ICON 179.3s kaynak=3840x2160  Welcome to the Ionosphere
+  ✓ GSFC_20150914_SDO_m11993_transit 50.3s kaynak=1920x1080  SDO Transit - September 2015
+  ✓ GSFC_20160725_Flares_m12326_July2016 85.4s kaynak=1920x1080  SDO Sees Trio of Mid-Level Flares
+  ✓ GSFC_20140825_SDO_m11629_SolarFlare 91.4s kaynak=1920x1080  Late Summer M5 Solar Flare - August, 24, 2014
+  ✓ ksc_021110_sdo_intro1 121.3s kaynak=800x450  KSC-10-S-00013
+  ✓ ksc_020510_sdo_flow 74.5s kaynak=800x450  KSC-10-S-00005
+  ✓ GSFC_20130206_SDO_m11156_SungrazingComets 156.6s kaynak=1280x720  Sungrazers Galore
+  ✓ GSFC_20160928_CubeSat_m12379_MinXSS 28.7s kaynak=1920x1080  Space Radiation Highlights: MinXSS CubeSat Brings New Inform
+  ✓ GSFC_20170811_Solar_m11797_Eruption 107.5s kaynak=1920x1080  Sun Shreds Its Own Eruption
+  ✓ GSFC_20170830_MultiSpacecraft_m12698_eclipse 75.1s kaynak=1920x1080  What Spacecraft Saw During the 2017 Solar Eclipse
+  ✗ NASA Minute Jan. 23, 2026: URL can't contain control characters. '/video/NASA Minute Jan. 23, 2026/collection.json' (found at least ' ')
+  ✗ Preparing for a More Powerful Space Station on This Week @NASA – January 20, 2023: URL can't contain control characters. '/video/Preparing for a More Powerful Space Station on This Week @NASA – January 20, 2023/collection.json' (found at least ' ')
+  ✓ GSFC_20090318_SED_m10411_Intro_and_No_5 111.7s kaynak=1280x720  The Top 5 Solar Discoveries Intro and Number 5
+  ✓ GSFC_20090318_SED_m10411_Top_5_No_1 100.7s kaynak=1280x720  The Top 5 Solar Discoveries Number 1
+  ✓ GSFC_20090318_SED_m10411_Top_5_No_3 101.2s kaynak=1280x720  The Top 5 Solar Discoveries Number 3
+  ✓ GSFC_20143101_MMS_m11308_Challenges 106.3s kaynak=1280x720  MMS: Engineering Challenges
+  ✓ KSC-20250723-VP-SPX01-0001-SpaceX_TRACERS_Edited_Launch_Coverage-M15467 338.9s kaynak=1920x1080  TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconn
+  ✓ GSFC_20181022_ICON_m12902_Airglow 194.6s kaynak=1920x1080  The Secrets behind Earth’s Multi-colored Glow
+  ✗ jcs2024m000043_Space to Ground_543_241018: URL can't contain control characters. '/video/jcs2024m000043_Space to Ground_543_241018/collection.json' (found at least ' ')
+  ✓ GSFC_20180720_Parker_m12911_trailer.en_US 65.9s kaynak=1920x1080  Parker Solar Probe Trailer
+  ✓ GSFC_NSL_Parker_Solar_Probe_Ep61 3641.5s kaynak=1920x1080  NASA Science Live: Parker Solar Probe Nears Historic Close E
+  ✓ GSFC_20180328_Parker_m12899_Name 41.2s kaynak=1920x1080  Send Your Name to the Sun
+  ✓ GSFC_20191204_M13491_NSL 3540.1s kaynak=1280x720  NASA Science Live: New Discoveries from Our Mission to Touch
+  ✓ GSFC_20180808_Parker_m13017_SolarProbe 143.9s kaynak=1920x1080  It's Surprisingly Hard to Go to the Sun
+  ✗ What the Webb Telescope Found Way Back in the Early Universe on This Week @NASA – July 7, 2023: URL can't contain control characters. '/video/What the Webb Telescope Found Way Back in the Early Universe on This Week @NASA – July 7, 2023/collection.json' (found at least ' ')
+  ✓ 305_EffectsOfTheSolarWind 225.1s kaynak=1920x1080  NASA ScienceCasts: Effects of the Solar Wind
+[{"baslik": "Lightless Dawn", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lightless%20Dawn.mp3", "sure": 379.8}, {"baslik": "Spacial Winds", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Spacial%20Winds.mp3", "hata": "HTTP Error 404: Not Found"}, {"baslik": "Dreams Become Real", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dreams%20Become%20Real.mp3", "sure": 410.0}, {"baslik": "Floating Cities", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Floating%20Cities.mp3", "sure": 184.0}, {"baslik": "Echoes of Time v2", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Echoes%20of%20Time%20v2.mp3", "sure": 285.1}, {"baslik": "Long Note Four", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Long%20Note%20Four.mp3", "sure": 600.0}, {"baslik": "Long Note Two", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Long%20Note%20Two.mp3", "sure": 462.0}, {"baslik": "Ethereal Relaxation", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ethereal%20Relaxation.mp3", "sure": 1686.0}, {"baslik": "Eternal Hope", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Eternal%20Hope.mp3", "sure": 284.0}, {"baslik": "Clean Soul", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Clean%20Soul.mp3", "sure": 306.7}, {"baslik": "Dark Fog", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dark%20Fog.mp3", "sure": 239.0}, {"baslik": "Impact Lento", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Impact%20Lento.mp3", "sure": 210.5}, {"baslik": "Comfortable Mystery 4", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Comfortable%20Mystery%204.mp3", "sure": 75.7}, {"baslik": "Meditation Impromptu 02", "url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Meditation%20Impromptu%2002.mp3", "sure": 249.1}]

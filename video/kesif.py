@@ -68,11 +68,62 @@ def sheet(video, dest, duration, n=24):
          "-q:v", "5", dest])
 
 
+SVS = "https://svs.gsfc.nasa.gov/api"
+
+
+def svs_files(obj, found):
+    """SVS detay JSON'undaki tum mp4 dosyalarini toplar."""
+    if isinstance(obj, dict):
+        url = obj.get("url") or ""
+        if isinstance(url, str) and url.lower().endswith(".mp4"):
+            found.append({"url": url, "w": obj.get("width") or 0, "h": obj.get("height") or 0,
+                          "boyut": obj.get("filesize") or obj.get("size") or 0})
+        for v in obj.values():
+            svs_files(v, found)
+    elif isinstance(obj, list):
+        for v in obj:
+            svs_files(v, found)
+    return found
+
+
+def svs_candidates(cfg):
+    out, seen = [], set()
+    for query in cfg.get("svs_aramalari", []):
+        q = urllib.parse.urlencode({"search": query, "limit": cfg.get("svs_limit", 30)})
+        for r in get_json(f"{SVS}/search/?{q}").get("results", []):
+            if r["id"] in seen or r.get("result_type") in ("Gallery",):
+                continue
+            seen.add(r["id"])
+            out.append({"id": f"svs{r['id']}", "svs": r["id"], "baslik": r["title"],
+                        "tur": r.get("result_type"), "tarih": (r.get("release_date") or "")[:10],
+                        "aciklama": re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ",
+                                                             r.get("description") or ""))[:400],
+                        "sorgu": query,
+                        "insan_suphesi": bool(PEOPLE.search(r["title"] + " " + (r.get("description") or "")))})
+    return out
+
+
+def svs_prepare(c):
+    detail = get_json(f"{SVS}/{c['svs']}")
+    credits = detail.get("credits") or []
+    c["krediler"] = [f"{x.get('role', '')}: {x.get('person', {}).get('name', '') if isinstance(x.get('person'), dict) else x.get('person', '')}"
+                     for x in credits if isinstance(x, dict)][:12]
+    files = [f for f in svs_files(detail, []) if f["w"]]
+    if not files:
+        return None
+    files.sort(key=lambda f: f["w"])
+    small = next((f for f in files if f["w"] >= 480), files[0])
+    best = [f for f in files if f["w"] <= 1920] or files[:1]
+    c["kaynak"] = {"url": best[-1]["url"], "w": best[-1]["w"], "h": best[-1]["h"]}
+    c["dosya_sayisi"] = len(files)
+    return small["url"]
+
+
 def main(config_path, out_dir):
     cfg = json.load(open(config_path))
     os.makedirs(f"{out_dir}/tablolar", exist_ok=True)
     seen, cands = set(), []
-    for query in cfg["aramalar"]:
+    for query in cfg.get("aramalar", []):
         for it in search(query):
             d = it["data"][0]
             nid = d["nasa_id"]
@@ -97,9 +148,30 @@ def main(config_path, out_dir):
     else:
         ok = [c for c in cands if not c["insan_suphesi"]]
     ok = [c for c in ok if c["id"] not in skip]
+    svs = svs_candidates(cfg)
+    cands += svs
+    print(f"SVS: {len(svs)} sonuc")
+    ok += [c for c in svs if c["id"] not in skip and (cfg.get("supheliler_dahil") or not c["insan_suphesi"])]
     limit = cfg.get("tablo_limiti", 50)
     for c in ok[:limit]:
         try:
+            if c.get("svs"):
+                small = svs_prepare(c)
+                if not small:
+                    continue
+                tmp = "/tmp/kesif.mp4"
+                req = urllib.request.Request(small, headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=300) as r, open(tmp, "wb") as f:
+                    f.write(r.read())
+                info = probe(tmp)
+                c["sure"] = info["sure"]
+                if info["sure"] < 3:
+                    continue
+                sheet(tmp, f"{out_dir}/tablolar/{c['id']}.jpg", info["sure"])
+                c["tablo"] = f"tablolar/{c['id']}.jpg"
+                print(f"  ✓ {c['id']} [{c['tur']}] {info['sure']}s kaynak={c['kaynak']['w']}x"
+                      f"{c['kaynak']['h']}  {c['baslik'][:60]}")
+                continue
             files = get_json(urllib.parse.quote(c["href"], safe=":/~%"))
             mp4s = [f for f in files if f.endswith(".mp4")]
             c["dosyalar"] = {f.rsplit("~", 1)[-1]: urllib.parse.quote(

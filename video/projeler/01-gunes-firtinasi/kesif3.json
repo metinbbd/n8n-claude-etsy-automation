@@ -1,0 +1,22 @@
+{
+  "svs_aramalari": [
+    "aurora",
+    "aurora space station",
+    "geomagnetic storm",
+    "coronal mass ejection",
+    "magnetosphere",
+    "solar wind",
+    "Parker Solar Probe",
+    "Solar Orbiter",
+    "solar flare",
+    "sunspot",
+    "solar cycle",
+    "city lights at night",
+    "space weather"
+  ],
+  "svs_limit": 25,
+  "supheliler_dahil": true,
+  "onceki": "/tmp/onceki/adaylar.json",
+  "tablo_limiti": 90,
+  "muzik_adaylari": []
+}

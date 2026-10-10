@@ -1,7 +1,20 @@
 {
  "baslangic_bakiye": 200.0,
- "bakiye": 182.30333876642962,
- "pozisyonlar": {},
+ "bakiye": 182.27599376642962,
+ "pozisyonlar": {
+  "DOT": {
+   "yon": "LONG",
+   "giris": 1.267,
+   "miktar": 43.164956590370956,
+   "teminat": 18.23,
+   "stop": 1.0814545429242324,
+   "hedef": 1.638090914151535,
+   "likidasyon": 0.8510016666666665,
+   "acilis": 1791612000000,
+   "ucret": 0.027344999999999998,
+   "fonlama": 0.0
+  }
+ },
  "hareketler": [
   {
    "gun": "2026-10-08",
@@ -98,6 +111,14 @@
    "islem": "LONG kapandı (trend bozuldu)",
    "fiyat": 0.2375,
    "net": -4.261919678025861
+  },
+  {
+   "gun": "2026-10-10",
+   "ts": 1791612000000,
+   "coin": "DOT",
+   "islem": "LONG açıldı",
+   "fiyat": 1.267,
+   "teminat": 18.23
   }
  ],
  "islemler": [
@@ -176,7 +197,11 @@
   {
    "gun": "2026-10-09",
    "deger": 182.3033
+  },
+  {
+   "gun": "2026-10-10",
+   "deger": 182.276
   }
  ],
- "son_kontrol": 1791525600000
+ "son_kontrol": 1791612000000
 }

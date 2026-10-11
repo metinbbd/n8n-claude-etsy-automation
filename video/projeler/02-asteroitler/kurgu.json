@@ -67,8 +67,12 @@
    "id": "svs30525"
   },
   "S31194": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031194/dart_impact_replay_1080p25.mp4",
+   "id": "svs31194-impact-replay"
+  },
+  "S31194I": {
    "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031194/DART_Infographic_KgIMeWpalQ0.mp4",
-   "id": "svs31194"
+   "id": "svs31194-infographic"
   },
   "SUR": {
    "url": "https://images-assets.nasa.gov/video/GSFC_20200923_M13718_surprises/GSFC_20200923_M13718_surprises~large.mp4",
@@ -419,8 +423,13 @@
    ],
    [
     "S31194",
-    20,
-    39
+    0,
+    33
+   ],
+   [
+    "S31194I",
+    30,
+    45
    ],
    [
     "DR",
@@ -476,8 +485,8 @@
    ],
    [
     "BJ",
-    332,
-    340,
+    331,
+    338,
     {
      "kirp": [
       0.16666666666666666,

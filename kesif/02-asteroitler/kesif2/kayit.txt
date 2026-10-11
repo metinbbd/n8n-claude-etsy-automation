@@ -1,0 +1,88 @@
+0 benzersiz video bulundu
+SVS: 96 sonuc
+  ✓ svs13095 [Produced Video] 150.0s kaynak=1280x720  Bright Spots
+  ✓ svs12346 [Produced Video] 220.0s kaynak=1920x1080  NASA's Dawn Mission Finds Young Cryovolcano on Dwarf Planet 
+  ✓ svs12304 [Produced Video] 25.1s kaynak=960x540  Cool Craters
+  ✓ svs4475 [Visualization] 30.0s kaynak=1920x1080  Permanent Shadows on Ceres
+  ✓ svs12085 [Produced Video] 54.5s kaynak=960x540  A Tour of Ceres
+  ✓ svs12140 [Produced Video] 20.0s kaynak=1920x1080  NASA On Air: NASA's Imagery Shows Dwarf Planet Ceres (2/2/20
+  ✓ svs11758 [Produced Video] 27.0s kaynak=960x540  Dawn At Ceres
+  ✓ svs10979 [Produced Video] 178.9s kaynak=960x540  The Smallest Planet?
+  ✓ svs30525 [Hyperwall Visual] 313.8s kaynak=1280x720  Dawn Spacecraft's Farewell Portrait of Giant Asteroid Vesta
+  ✓ svs11452 [Produced Video] 37.2s kaynak=960x540  Asteroid Approach
+  ✓ svs11375 [Produced Video] 281.5s kaynak=960x540  Meet Vesta
+  ✓ svs14834 [Produced Video] 22.2s kaynak=1920x1080  Cosmic Dawn: The Untold Story of the James Webb Space Telesc
+  ✓ svs14802 [Produced Video] 25.6s kaynak=1920x1080  Earth to Space: A National Symphony Orchestra Concert
+  ✓ svs14772 [B-Roll] 15.6s kaynak=1920x1080  Discoveries from Asteroid Bennu: Media Briefing Graphics
+  ✓ svs14774 [Produced Video] 254.1s kaynak=1920x1080  NASA Finds Ingredients of Life in Fragments of Lost World
+  ✗ svs14519: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14237 [Produced Video] 118.8s kaynak=1280x720  NASA Interview Opportunity: Artemis I Mission Ready for Nove
+  ✓ svs14213 [Produced Video] 118.8s kaynak=1280x720  NASA Interview Opportunity: Artemis I Mission Preparing for 
+  ✓ svs14191 [Produced Video] 84.3s kaynak=1920x1080  Artemis I Mission Launching August 29 Live Shots
+  ✓ svs13948 [Produced Video] 387.9s kaynak=1920x1080  Designing Lucy’s Path to the Trojan Asteroids
+  ✓ svs13604 [Produced Video] 125.1s kaynak=1280x720  Launch America: NASA Kicks Off Dawn of New Space Age With Ma
+  ✓ svs13575 [Produced Video] 223.1s kaynak=1920x1080  Biggest and Brightest Moon of 2020 Live Shots
+  ✓ svs5628 [Visualization] 50.0s kaynak=1920x1080  Lucy Observations of Asteroid Donaldjohanson
+  ✓ svs14821 [Produced Video] 223.5s kaynak=1920x1080  Lucy Will Explore Asteroid Donaldjohanson
+  ✓ svs20402 [Animation] 60.0s kaynak=3840x2160  Lucy Flyby of Asteroid Donaldjohanson: Animations
+  ✓ svs5525 [Visualization] 20.0s kaynak=1920x1080  Lucy Flyby of Asteroid Donaldjohanson Trajectory Visualizati
+  ✓ svs5429 [Visualization] 25.0s kaynak=1920x1080  Lucy Earth Gravity Assist 2 Trajectory Visualizations
+  ✓ svs31275 [Hyperwall Visual] 15.0s kaynak=1920x1080  NASA’s Laser Communications Experiment Streamed From Deep Sp
+  ✓ svs14473 [Produced Video] 118.8s kaynak=1280x720  NASA's Lucy Mission Makes an Unexpected Discovery at Dinkine
+  ✓ svs14426 [Produced Video] 205.1s kaynak=1920x1080  NASA's Lucy Mission Flyby of Asteroid Dinkinesh
+  ✓ svs5155 [Visualization] 15.0s kaynak=1920x1080  Lucy - Asteroid Dinkinesh Flyby
+  ✓ svs13944 [Produced Video] 49.2s kaynak=1920x1080  Lucy L-2 Engineering Briefing
+  ✓ svs13945 [Produced Video] 69.2s kaynak=1920x1080  Lucy L-2 Science and Instrument Briefing
+  ✗ svs13950: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs13953 [Produced Video] 87.3s kaynak=1280x720  What's in Your #LucyTimeCapsule?
+  ✗ svs13933: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs31194 [Hyperwall Visual] 39.4s kaynak=1920x1080  DART: Double Asteroid Redirection Test
+  ✓ svs14215 [Produced Video] 160.8s kaynak=1920x1080  Hubble Views Aftermath of DART Impact
+  ✗ svs14210: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs13985: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs5023 [Visualization] 50.5s kaynak=1920x1080  Lunar Polar Wander
+  ✓ svs5010 [Visualization] 86.7s kaynak=1920x1080  Bennu TAG Surface Change
+  ✓ svs4921 [Visualization] 42.0s kaynak=1920x1080  Bennu 2135/2182 orbits
+  ✓ svs13896 [Animation] 142.7s kaynak=1280x720  OSIRIS-REx Sheds Light on Hazardous Asteroid Bennu
+  ✓ svs13906 [Produced Video] 21.6s kaynak=1920x1080  OSIRIS-REx Bennu Impact Probability – Media Telecon
+  ✗ svs20356: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs13738 [Produced Video] 85.2s kaynak=1920x1080  OSIRIS-REx Science and Engineering Briefing
+  ✓ svs13724 [Produced Video] 88.2s kaynak=1920x1080  OSIRIS-REx: Countdown to TAG
+  ✗ svs14944: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14261 [Produced Video] 77.3s kaynak=1920x1080  Leaders in Lidar
+  ✓ svs4767 [Visualization] 28.0s kaynak=1920x1080  The Apollo 12 Landing Site
+  ✓ svs20277 [Animation] 30.0s kaynak=1920x1080  LUVOIR spacecraft in orbit
+  ✓ svs12377 [Produced Video] 159.3s kaynak=960x540  Solar Surveyor
+  ✓ svs12181 [Produced Video] 73.8s kaynak=960x540  Mars Gravity Map
+  ✓ svs4436 [Visualization] 20.0s kaynak=1920x1080  GMM-3 Mars Gravity Map
+  ✓ svs30710 [Hyperwall Visual] 24.0s kaynak=1920x1080  Our Solar System
+  ✓ svs4370 [Visualization] 73.0s kaynak=1920x1080  Solar Wind Strips the Martian Atmosphere
+  ✓ svs4393 [Visualization] 32.2s kaynak=1920x1080  Solar Wind and Mars Bow Shock
+  ✓ svs11875 [Produced Video] 16.0s kaynak=1920x1080  NASA On Air: NASA’s Curiosity Sees Blue Sunset On Mars (5/21
+  ✓ svs14089 [Produced Video] 129.0s kaynak=1920x1080  A Box of Treasure from Asteroid Ryugu
+  ✓ svs13413 [Produced Video] 145.8s kaynak=1280x720  Discovering Eurybates' Satellite
+  ✗ svs12658: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14799 [Produced Video] 61.7s kaynak=1920x1080  Astrophysics: Observing the Universe Vertical Video
+  ✗ svs14421: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs11833 [Produced Video] 34.6s kaynak=960x540  Portrait Of An Asteroid
+  ✓ svs14441 [Produced Video] 132.8s kaynak=1280x720  Lucy's Journey: Episode 8 - "Dinkinesh"
+  ✓ svs14734 [Produced Video] 57.8s kaynak=1920x1080  Lucy Spacecraft’s Second Slingshot of Earth
+  ✓ svs20372 [Animation] 19.9s kaynak=3840x2160  Lucy Earth Gravity Assist One: Animations
+  ✓ svs5044 [Visualization] 25.9s kaynak=1920x1080  Lucy Earth Gravity Assist Trajectory Visualizations
+  ✓ svs14225 [Produced Video] 201.4s kaynak=1920x1080  Lucy Spacecraft Will Slingshot Around Earth
+  ✓ svs14224 [Produced Video] 115.2s kaynak=3840x2160  Lucy's Journey: Episode 7 - "Earth Gravity Assist"
+  ✓ svs14186 [Produced Video] 94.7s kaynak=1920x1080  Lucy’s Solar Powered Journey Continues
+  ✓ svs20366 [Animation] 22.6s kaynak=1920x1080  Lucy Solar Array Anomaly: Animation
+  ✓ svs13965 [Produced Video] 572.8s kaynak=1280x720  Lucy's Journey
+  ✓ svs12278 [Produced Video] 38.6s kaynak=960x540  How Planets Are Born
+  ✓ svs11231 [Produced Video] 103.0s kaynak=960x540  It's Fireball Season
+  ✓ svs5651 [Visualization] 20.0s kaynak=1920x1080  Asteroid Apophis 2029 Earth Flyby – Orbit Visualizations
+  ✓ svs15101 [Produced Video] 90.0s kaynak=1920x1080  NASA’s OSIRIS-APEX Mission Will Explore Asteroid Apophis
+  ✓ svs20414 [Animation] 33.1s kaynak=1920x1080  Asteroid Apophis 2029 Earth Flyby – Animations
+  ✓ svs5582 [Visualization] 23.4s kaynak=1920x1080  OSIRIS-APEX Earth Flyby September 23, 2025
+  ✗ svs14415: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14416 [B-Roll] 36.5s kaynak=3840x2160  OSIRIS-REx Sample Return Broadcast Media
+  ✓ svs14406 [Produced Video] 225.6s kaynak=1920x1080  To Bennu and Back: Journey’s End
+  ✓ svs20381 [Animation] 164.2s kaynak=1920x1080  OSIRIS-REx Sample Return: Animations
+  ✓ svs5133 [Visualization] 195.0s kaynak=3840x2160  OSIRIS-REx Return Cruise/Extended Mission to Apophis
+[]

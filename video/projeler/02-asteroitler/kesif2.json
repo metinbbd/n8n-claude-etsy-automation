@@ -1,0 +1,31 @@
+{
+  "svs_aramalari": [
+    "Ceres Dawn",
+    "Vesta Dawn",
+    "Dawn mission",
+    "asteroid belt",
+    "main belt asteroids",
+    "DART Dimorphos",
+    "Didymos Dimorphos",
+    "asteroid deflection",
+    "asteroid impact Earth",
+    "Chicxulub dinosaur impact",
+    "NEO Surveyor",
+    "near-Earth asteroids discovered",
+    "planetary radar asteroid",
+    "Hera spacecraft",
+    "Psyche",
+    "Dinkinesh Lucy",
+    "Jupiter Trojans",
+    "solar system formation protoplanetary disk",
+    "meteor fireball",
+    "Meteor Crater Barringer",
+    "OSIRIS-APEX"
+  ],
+  "svs_limit": 14,
+  "baslik_atla": "fulldome|hyperwall|stamp|toolkit",
+  "aramalar": [],
+  "supheliler_dahil": true,
+  "tablo_limiti": 120,
+  "muzik_adaylari": []
+}

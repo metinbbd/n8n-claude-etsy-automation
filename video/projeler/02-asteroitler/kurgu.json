@@ -34,10 +34,6 @@
    "url": "https://images-assets.nasa.gov/video/210027_ASU_SESE_PsycheMission_ChartingAMetallicWorld_NoPsycheBadge_UHD2398/210027_ASU_SESE_PsycheMission_ChartingAMetallicWorld_NoPsycheBadge_UHD2398~large.mp4",
    "id": "210027_ASU_SESE_PsycheMission_ChartingAMetallicWorld_NoPsycheBadge_UHD2398"
   },
-  "S11231": {
-   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a011200/a011231/AllSky-540-MASTER_high.mp4",
-   "id": "svs11231"
-  },
   "S11833": {
    "url": "https://svs.gsfc.nasa.gov/vis/a010000/a011800/a011833/2061-540-MASTER_high.mp4",
    "id": "svs11833"
@@ -45,10 +41,6 @@
   "S12140": {
    "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012100/a012140/BARON_SERVICE_NASA_on_Air-CERES_baron.mp4",
    "id": "svs12140"
-  },
-  "S12346": {
-   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012346/Interview_Clips_Lucy_McFadden.mp4",
-   "id": "svs12346"
   },
   "S13095": {
    "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013095/13095_CERES_Bright_Spot_JPL_high.mp4",
@@ -77,10 +69,6 @@
   "S31194": {
    "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031194/DART_Infographic_KgIMeWpalQ0.mp4",
    "id": "svs31194"
-  },
-  "S5651": {
-   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005651/apophis_2029_flyby_pov_1080p60.mp4",
-   "id": "svs5651"
   },
   "SUR": {
    "url": "https://images-assets.nasa.gov/video/GSFC_20200923_M13718_surprises/GSFC_20200923_M13718_surprises~large.mp4",
@@ -161,14 +149,9 @@
   ],
   [
    [
-    "S12346",
-    0.5,
-    9.5
-   ],
-   [
     "BJ",
-    240,
-    253,
+    30,
+    42,
     {
      "kirp": [
       0.16666666666666666,
@@ -179,13 +162,34 @@
     }
    ],
    [
-    "S14426",
-    8,
-    21
+    "BJ",
+    150,
+    160,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
    ],
    [
     "BJ",
-    255,
+    243,
+    256,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ],
+   [
+    "BJ",
+    256,
     268,
     {
      "kirp": [
@@ -264,29 +268,9 @@
     }
    ],
    [
-    "S11231",
-    25,
-    34
-   ],
-   [
     "S11833",
     14,
     27
-   ],
-   [
-    "S11231",
-    47,
-    55
-   ],
-   [
-    "S11231",
-    90,
-    100
-   ],
-   [
-    "S11833",
-    28,
-    34
    ],
    [
     "NEA",
@@ -294,9 +278,43 @@
     38
    ],
    [
-    "NEA",
-    38,
-    48
+    "BJ",
+    224,
+    236,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ],
+   [
+    "BJ",
+    297,
+    309,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ],
+   [
+    "BJ",
+    309,
+    321,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
    ]
   ],
   [
@@ -317,8 +335,8 @@
    ],
    [
     "TAG",
-    17,
-    29
+    18,
+    30
    ],
    [
     "TAG",
@@ -391,8 +409,8 @@
    ],
    [
     "DR",
-    26,
-    40
+    30,
+    41
    ],
    [
     "DR",
@@ -401,32 +419,17 @@
    ],
    [
     "S31194",
-    0,
-    13
-   ],
-   [
-    "S31194",
-    13,
-    26
-   ],
-   [
-    "S31194",
-    26,
-    33
+    20,
+    39
    ],
    [
     "DR",
-    67,
-    79
+    73,
+    82
    ],
    [
     "DR",
-    79,
-    91
-   ],
-   [
-    "DR",
-    91,
+    90,
     102
    ]
   ],
@@ -437,14 +440,14 @@
     62
    ],
    [
-    "S5651",
-    0,
-    20
+    "DR",
+    82,
+    90
    ],
    [
     "S20414",
     0,
-    26
+    30
    ]
   ],
   [
@@ -473,8 +476,8 @@
    ],
    [
     "BJ",
-    330,
-    343,
+    332,
+    340,
     {
      "kirp": [
       0.16666666666666666,

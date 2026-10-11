@@ -1,0 +1,21 @@
+  indiriliyor: BFW
+  indiriliyor: BJ
+  indiriliyor: DR
+  indiriliyor: JT
+  indiriliyor: NEA
+  indiriliyor: PSY
+  indiriliyor: S11231
+  indiriliyor: S11833
+  indiriliyor: S12140
+  indiriliyor: S12346
+  indiriliyor: S13095
+  indiriliyor: S13896
+  indiriliyor: S14426
+  indiriliyor: S20381
+  indiriliyor: S20414
+  indiriliyor: S30525
+  indiriliyor: S31194
+  indiriliyor: S5651
+  indiriliyor: SUR
+  indiriliyor: TAG
+Parca kontrol tablolari hazir.

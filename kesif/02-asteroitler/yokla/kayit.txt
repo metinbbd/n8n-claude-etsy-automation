@@ -1,0 +1,34 @@
+========================================================================================== 
+SVS 31194
+DART: Double Asteroid Redirection Test
+  1920x1080  https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031194/dart_impact_replay_1080p25.mp4
+  1920x1080  https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031194/DART_Infographic_KgIMeWpalQ0.mp4
+========================================================================================== 
+SVS 14215
+Hubble Views Aftermath of DART Impact
+  1920x1080  https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014215/14215_DART_WIDE_MP4.mp4
+  1920x1080  https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014215/14215_DART_WIDE_MP4.mp4
+  1080x1920  https://svs.gsfc.nasa.gov/vis/a010000/a014200/a014215/14215_DART_VERT_MP4.mp4
+========================================================================================== 
+SVS 14473
+NASA's Lucy Mission Makes an Unexpected Discovery at Dinkinesh
+  1280x720  https://svs.gsfc.nasa.gov/vis/a000000/a001700/a001703/4559_Kepler_Neptune_Twitter_720.mp4
+  2160x3840  https://svs.gsfc.nasa.gov/vis/a010000/a014400/a014473/LUCY_DINKINESH.mp4
+========================================================================================== 
+SVS 14774
+NASA Finds Ingredients of Life in Fragments of Lost World
+  1280x720  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/14774_OSIRIS-REx_Bennu_Organics_720.mp4
+  1920x1080  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/14774_OSIRIS-REx_Bennu_Organics_1080.mp4
+  3840x2160  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/14774_OSIRIS-REx_Bennu_Organics_4K.mp4
+  1920x1080  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/Bennu_Amino_Acids_1080.mp4
+  1280x720  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/Bennu_Amino_Acids_720.mp4
+  3840x2160  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/Bennu_Amino_Acids_4K.mp4
+  1920x1080  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/Bennu_Nucleobases_1080.mp4
+  1280x720  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/Bennu_Nucleobases_720.mp4
+  3840x2160  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/Bennu_Nucleobases_4K.mp4
+  1920x1080  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/Amino_Acid_Left_Right_1080.mp4
+  1280x720  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/Amino_Acid_Left_Right_720.mp4
+  3840x2160  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/Amino_Acid_Left_Right_4K.mp4
+  1920x1080  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/Nucleobase_Turntable_1080.mp4
+  1280x720  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/Nucleobase_Turntable_720.mp4
+  3840x2160  https://svs.gsfc.nasa.gov/vis/a010000/a014700/a014774/Nucleobase_Turntable_4K.mp4

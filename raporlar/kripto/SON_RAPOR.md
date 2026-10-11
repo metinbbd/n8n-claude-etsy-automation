@@ -1,4 +1,4 @@
-# Kripto sanal portföy – 10.10.2026
+# Kripto sanal portföy – 11.10.2026
 
 ⚠️ SAHTE PARA ile simülasyon. Borsa hesabı yok, gerçek emir verilmedi. Fiyatlar Binance halka açık verisi.
 
@@ -6,38 +6,39 @@
 
 | Coin | İşlem | Fiyat | Teminat / Sonuç |
 |---|---|---|---|
-| DOT | LONG açıldı | 1,2670 | 18,23 USDT teminat |
+| ADA | LONG açıldı | 0,24690 | 18,07 USDT teminat |
 
 ## Portföy
 
 |   |   |
 |---|---|
 | Başlangıç | 200,00 USDT |
-| Toplam değer | 182,28 USDT (-8,9%) |
-| Cüzdan bakiyesi | 182,28 USDT |
-| Açık pozisyon kâr/zarar | 0,00 USDT |
-| Kullanılan teminat | 18,23 USDT |
+| Toplam değer | 180,64 USDT (-9,7%) |
+| Cüzdan bakiyesi | 182,23 USDT |
+| Açık pozisyon kâr/zarar | -1,60 USDT |
+| Kullanılan teminat | 36,30 USDT |
 
 ## Açık pozisyonlar
 
 | Coin | Yön | Giriş | Şimdi | Stop | Hedef | Likidasyon | Kâr/Zarar |
 |---|---|---|---|---|---|---|---|
-| DOT | LONG 3x | 1,2670 | 1,2670 | 1,0815 | 1,6381 | 0,85100 | 0,00 USDT (0,0%) |
+| ADA | LONG 3x | 0,24690 | 0,24690 | 0,21248 | 0,31574 | 0,16583 | 0,00 USDT (0,0%) |
+| DOT | LONG 3x | 1,2670 | 1,2300 | 1,0815 | 1,6381 | 0,85100 | -1,60 USDT (-8,8%) |
 
 ## Günlük sinyaller
 
 | Coin | Fiyat | Dünkü değişim | Trend | RSI | Sinyal | Durum |
 |---|---|---|---|---|---|---|
-| BTC | 82.844,01 | +1,1% | yukarı | 50 | BEKLE | — |
-| ETH | 2.498,17 | +0,5% | yukarı | 39 | BEKLE | — |
-| SOL | 110,16 | -0,4% | yukarı | 43 | BEKLE | — |
-| BNB | 751,13 | +0,8% | yukarı | 45 | BEKLE | — |
-| XRP | 1,4110 | +1,1% | yukarı | 43 | BEKLE | — |
-| ADA | 0,25390 | +4,7% | yukarı | 51 | BEKLE | — |
-| DOGE | 0,08657 | +1,6% | yukarı | 41 | BEKLE | — |
-| AVAX | 10,6360 | +2,6% | yukarı | 52 | BEKLE | — |
-| LINK | 12,9320 | +0,8% | yukarı | 47 | BEKLE | — |
-| DOT | 1,2670 | +13,4% | yukarı | 58 | LONG | LONG açık |
+| BTC | 83.054,66 | +0,4% | yukarı | 52 | BEKLE | — |
+| ETH | 2.504,63 | +0,8% | yukarı | 41 | BEKLE | — |
+| SOL | 109,36 | +0,9% | yukarı | 44 | BEKLE | — |
+| BNB | 747,05 | +1,1% | yukarı | 48 | BEKLE | — |
+| XRP | 1,3933 | +0,5% | yukarı | 44 | BEKLE | — |
+| ADA | 0,24690 | +2,5% | yukarı | 54 | LONG | LONG açık |
+| DOGE | 0,08535 | +0,4% | yukarı | 42 | BEKLE | — |
+| AVAX | 10,2740 | +0,3% | yukarı | 52 | BEKLE | — |
+| LINK | 12,9030 | +1,6% | yukarı | 48 | BEKLE | — |
+| DOT | 1,2300 | +1,9% | yukarı | 59 | LONG | LONG açık |
 
 ## Kapanan işlemler (tümü)
 

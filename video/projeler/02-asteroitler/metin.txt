@@ -1,0 +1,237 @@
+# Bicim:
+#   ## Ingilizce bolum basligi | Turkce bolum basligi
+#   EN: anlatilan ve Ingilizce altyaziya yazilan cumle
+#   SAY: (istege bagli) seslendirme icin farkli yazim (sayilar, kisaltmalar)
+#   TR: Turkce altyazi
+#   [ara 2.0]  -> saniye cinsinden muzik arasi
+
+## Leftovers of Creation | Yaratılıştan Kalanlar
+EN: Four and a half billion years ago, a cloud of gas and dust collapsed to form our Sun.
+TR: Dört buçuk milyar yıl önce, bir gaz ve toz bulutu çöküp Güneş'imizi oluşturdu.
+EN: Around the new star, the leftover material began to clump together into planets, moons, and countless smaller worlds.
+TR: Yeni yıldızın çevresindeki artık malzeme kümelenerek gezegenleri, uyduları ve sayısız küçük dünyayı oluşturdu.
+EN: Most of those smaller worlds were swallowed by the planets, or flung out of the solar system.
+TR: Bu küçük dünyaların çoğunu gezegenler yuttu ya da Güneş Sistemi'nden dışarı fırlatıldılar.
+EN: But some survived, almost unchanged, for the entire age of the solar system.
+TR: Ama bazıları, Güneş Sistemi'nin tüm ömrü boyunca neredeyse hiç değişmeden kaldı.
+EN: We call them asteroids.
+TR: Onlara asteroit diyoruz.
+EN: They are time capsules, carrying the story of how our planets were built.
+TR: Onlar, gezegenlerimizin nasıl kurulduğunu anlatan zaman kapsülleri.
+EN: And some of them are on a path that may, one day, cross ours.
+TR: Ve bazılarının yolu, bir gün bizimkiyle kesişebilir.
+EN: This is the story of the rocks that shaped our world, and of how we are learning to watch over it.
+TR: Bu, dünyamızı şekillendiren kayaların ve ona göz kulak olmayı nasıl öğrendiğimizin hikâyesi.
+[ara 2.5]
+
+## The Asteroid Belt | Asteroit Kuşağı
+EN: Between the orbits of Mars and Jupiter lies a wide ring of rock called the main asteroid belt.
+TR: Mars ile Jüpiter'in yörüngeleri arasında, ana asteroit kuşağı denen geniş bir kaya halkası uzanır.
+EN: It holds millions of asteroids, from boulders to bodies hundreds of kilometers across.
+TR: Kuşakta, kayalardan yüzlerce kilometrelik cisimlere kadar milyonlarca asteroit var.
+EN: Yet if you gathered all of them together, they would weigh less than our Moon.
+TR: Yine de hepsini bir araya toplasanız, Ay'ımızdan daha hafif olurlardı.
+EN: The belt is not the crowded field of tumbling rocks you may have seen in movies.
+TR: Kuşak, filmlerde gördüğünüz kalabalık kaya yığını değil.
+EN: The asteroids are so widely scattered that spacecraft have crossed it many times without a single close call.
+TR: Asteroitler o kadar seyrek ki uzay araçları kuşağı defalarca, tehlikeli bir yaklaşma yaşamadan geçti.
+EN: Some of them even have moons of their own.
+TR: Bazılarının kendi küçük uyduları bile var.
+EN: Why did these rocks never become a planet?
+TR: Bu kayalar neden hiç gezegen olmadı?
+EN: The answer is Jupiter.
+TR: Cevap Jüpiter.
+EN: Its enormous gravity stirred the region again and again, until the rocks smashed into each other instead of sticking together.
+TR: Dev kütle çekimi bölgeyi tekrar tekrar karıştırdı; kayalar birleşmek yerine birbirine çarptı.
+EN: Over time, Jupiter also carved gaps in the belt, and its pull can still nudge asteroids onto new paths, some of them leading toward the inner solar system.
+TR: Zamanla Jüpiter kuşakta boşluklar da açtı; çekimi hâlâ bazı asteroitleri iç Güneş Sistemi'ne doğru yeni yollara itebiliyor.
+[ara 2.0]
+
+## Two Worlds Visited | Ziyaret Edilen İki Dünya
+EN: The two largest bodies in the belt are Vesta and Ceres.
+TR: Kuşağın en büyük iki cismi Vesta ve Ceres.
+EN: In 2011, NASA's Dawn spacecraft arrived at Vesta, a rocky world about 525 kilometers wide.
+SAY: In twenty eleven, NASA's Dawn spacecraft arrived at Vesta, a rocky world about five hundred twenty five kilometers wide.
+TR: 2011'de NASA'nın Dawn aracı, yaklaşık 525 kilometre genişliğindeki kayalık Vesta'ya ulaştı.
+EN: Then Dawn did something no spacecraft had done before.
+TR: Sonra Dawn, hiçbir uzay aracının yapmadığı bir şey yaptı.
+EN: It left Vesta, and in 2015 it entered orbit around Ceres, becoming the first spacecraft to orbit two different worlds beyond the Earth-Moon system.
+SAY: It left Vesta, and in twenty fifteen it entered orbit around Ceres, becoming the first spacecraft to orbit two different worlds beyond the Earth Moon system.
+TR: Vesta'dan ayrılıp 2015'te Ceres'in yörüngesine girdi; Dünya-Ay sisteminin ötesinde iki farklı dünyanın yörüngesine giren ilk araç oldu.
+EN: Ceres is about 940 kilometers across, so big that it is classified as a dwarf planet.
+SAY: Ceres is about nine hundred forty kilometers across, so big that it is classified as a dwarf planet.
+TR: Ceres yaklaşık 940 kilometre genişliğinde; o kadar büyük ki cüce gezegen sayılıyor.
+EN: It holds roughly a third of all the mass in the asteroid belt.
+TR: Asteroit kuşağındaki toplam kütlenin kabaca üçte biri onda.
+EN: On its surface, Dawn found bright patches of salt, left behind when salty water from below seeped up and evaporated.
+TR: Dawn yüzeyinde parlak tuz lekeleri buldu; bunlar, alttan sızan tuzlu suyun buharlaşmasıyla kalmıştı.
+EN: Deep underground, Ceres may still hold pockets of liquid brine.
+TR: Ceres'in derinlerinde hâlâ sıvı tuzlu su ceplerinin bulunması mümkün.
+EN: A cratered rock in the belt turned out to be a world with a surprisingly active past.
+TR: Kuşaktaki kraterli bir kaya, şaşırtıcı derecede hareketli bir geçmişi olan bir dünya çıktı.
+[ara 2.0]
+
+## Visitors From Space | Uzaydan Gelen Ziyaretçiler
+EN: Not all asteroids stay in the belt.
+TR: Her asteroit kuşakta kalmaz.
+EN: Those whose orbits bring them close to Earth's path are called near-Earth asteroids, and astronomers have already found tens of thousands of them.
+TR: Yörüngesi Dünya'nın yoluna yaklaşanlara Dünya'ya yakın asteroit denir; gökbilimciler şimdiden on binlercesini buldu.
+EN: Most pass us harmlessly.
+TR: Çoğu bizi zarar vermeden geçip gider.
+EN: But Earth has been hit before, and the evidence is written across our planet.
+TR: Ama Dünya daha önce de çarpıldı ve kanıtlar gezegenimizin her yerinde yazılı.
+EN: About 66 million years ago, an asteroid roughly ten kilometers wide struck what is now Mexico.
+TR: Yaklaşık 66 milyon yıl önce, yaklaşık on kilometre genişliğinde bir asteroit bugünkü Meksika'ya çarptı.
+EN: The impact, and the changes to climate that followed, helped wipe out the non-avian dinosaurs.
+TR: Çarpma ve ardından gelen iklim değişimi, kuş olmayan dinozorların yok olmasına yol açtı.
+EN: Smaller impacts happen far more often.
+TR: Daha küçük çarpmalar çok daha sık yaşanır.
+EN: In Arizona, a crater 1.2 kilometers wide marks the place where a small metallic asteroid struck about 50,000 years ago.
+SAY: In Arizona, a crater one point two kilometers wide marks the place where a small metallic asteroid struck about fifty thousand years ago.
+TR: Arizona'da 1,2 kilometre genişliğindeki bir krater, yaklaşık 50.000 yıl önce küçük bir metal asteroitin çarptığı yeri gösteriyor.
+EN: In June 1908, an object perhaps fifty meters wide exploded above Siberia, flattening some eighty million trees across two thousand square kilometers.
+SAY: In June nineteen oh eight, an object perhaps fifty meters wide exploded above Siberia, flattening some eighty million trees across two thousand square kilometers.
+TR: Haziran 1908'de belki elli metre genişliğinde bir cisim Sibirya üzerinde patladı ve 2.000 kilometrekarede yaklaşık 80 milyon ağacı yere serdi.
+EN: In 2013, a rock about twenty meters across exploded over the Russian city of Chelyabinsk.
+SAY: In twenty thirteen, a rock about twenty meters across exploded over the Russian city of Chelyabinsk.
+TR: 2013'te yaklaşık yirmi metrelik bir kaya Rusya'nın Çelyabinsk kenti üzerinde patladı.
+EN: The shockwave shattered windows across the city and injured more than a thousand people.
+TR: Şok dalgası kentte camları kırdı ve bin kişiden fazlasını yaraladı.
+EN: It was a clear warning.
+TR: Bu açık bir uyarıydı.
+EN: Fortunately, the largest asteroids, the ones that could change life on Earth, are also the easiest to find.
+TR: Neyse ki yaşamı değiştirebilecek en büyük asteroitleri bulmak en kolayı.
+EN: Astronomers believe they have found more than ninety percent of near-Earth asteroids larger than a kilometer, and none of them threatens us for at least the next century.
+TR: Gökbilimciler, bir kilometreden büyük Dünya'ya yakın asteroitlerin yüzde 90'ından fazlasını buldu; hiçbiri önümüzdeki yüzyıl boyunca bizi tehdit etmiyor.
+EN: The harder task is finding the smaller ones, the size that could destroy a city.
+TR: Zor olan, bir kenti yok edebilecek büyüklükteki küçük asteroitleri bulmak.
+[ara 2.5]
+
+## A Time Capsule Called Bennu | Zaman Kapsülü Bennu
+EN: In 2016, NASA launched a spacecraft on an unusual mission: to visit an asteroid, collect a sample, and bring it home.
+SAY: In twenty sixteen, NASA launched a spacecraft on an unusual mission: to visit an asteroid, collect a sample, and bring it home.
+TR: 2016'da NASA, alışılmadık bir görevle bir uzay aracı fırlattı: asteroite gitmek, örnek toplamak ve eve getirmek.
+EN: Its name was OSIRIS-REx, and its target was Bennu, a dark, spinning-top-shaped asteroid about 500 meters wide.
+SAY: Its name was Osiris Rex, and its target was Bennu, a dark, spinning top shaped asteroid about five hundred meters wide.
+TR: Adı OSIRIS-REx, hedefi ise yaklaşık 500 metre genişliğinde, koyu renkli, topaç biçimli Bennu'ydu.
+EN: Bennu is a pile of rubble, held together loosely by its own weak gravity.
+TR: Bennu, kendi zayıf çekimiyle gevşekçe bir arada duran bir moloz yığını.
+EN: Soon after arriving, the team saw something unexpected: Bennu was throwing small pebbles into space, like a slow, quiet fireworks display.
+TR: Varışın hemen ardından ekip beklenmedik bir şey gördü: Bennu uzaya küçük çakıllar fırlatıyordu; yavaş ve sessiz bir havai fişek gösterisi gibi.
+EN: When the spacecraft touched the surface in October 2020, its arm sank in, as if into a pit of plastic balls.
+SAY: When the spacecraft touched the surface in October twenty twenty, its arm sank in, as if into a pit of plastic balls.
+TR: Uzay aracı Ekim 2020'de yüzeye dokunduğunda kolu, plastik top havuzuna dalmış gibi içeri gömüldü.
+EN: So much rock rushed into the collector that some of it escaped, and the team had to hurry to seal the capsule.
+TR: Toplayıcıya o kadar çok kaya doldu ki bir kısmı dışarı kaçtı ve ekip kapsülü mühürlemek için acele etti.
+EN: In September 2023, a capsule parachuted into the Utah desert, carrying about 120 grams of Bennu.
+SAY: In September twenty twenty three, a capsule parachuted into the Utah desert, carrying about one hundred twenty grams of Bennu.
+TR: Eylül 2023'te bir kapsül Utah çölüne paraşütle indi; içinde yaklaşık 120 gram Bennu vardı.
+EN: Inside were ingredients that make life possible: carbon-rich minerals, salts, and 14 of the 20 amino acids that life on Earth uses to build proteins.
+SAY: Inside were ingredients that make life possible: carbon rich minerals, salts, and fourteen of the twenty amino acids that life on Earth uses to build proteins.
+TR: İçinde yaşamı mümkün kılan bileşenler vardı: karbonca zengin mineraller, tuzlar ve yaşamın protein yapmak için kullandığı 20 amino asitten 14'ü.
+EN: That does not mean Bennu had life, but it shows that the building blocks of life were scattered through the early solar system.
+TR: Bu, Bennu'da yaşam olduğu anlamına gelmez; ama yaşamın yapı taşlarının erken Güneş Sistemi'ne saçıldığını gösterir.
+EN: Bennu also has a small chance of hitting Earth, about one in 2,700, on a single day in 2182.
+SAY: Bennu also has a small chance of hitting Earth, about one in twenty seven hundred, on a single day in twenty one eighty two.
+TR: Bennu'nun Dünya'ya çarpma ihtimali de var, ama 2182'de tek bir günde yaklaşık 2.700'de bir.
+EN: Thanks to the mission, we know Bennu's path better than that of almost any other asteroid.
+TR: Bu görev sayesinde Bennu'nun yolunu hemen hemen her asteroitten daha iyi biliyoruz.
+[ara 2.5]
+
+## Metal and Trojans | Metal Dünya ve Truva Asteroitleri
+EN: Not every asteroid is a pile of rock.
+TR: Her asteroit bir kaya yığını değil.
+EN: Psyche, in the outer belt, is about 220 kilometers wide and appears to be rich in metal, perhaps the exposed core of an early planet that never finished forming.
+SAY: Psyche, in the outer belt, is about two hundred twenty kilometers wide and appears to be rich in metal, perhaps the exposed core of an early planet that never finished forming.
+TR: Dış kuşaktaki Psyche yaklaşık 220 kilometre genişliğinde ve metalce zengin görünüyor; belki de hiç tamamlanamamış bir gezegenin açıkta kalan çekirdeği.
+EN: NASA launched a spacecraft to Psyche in October 2023, and it is due to arrive in 2029.
+SAY: NASA launched a spacecraft to Psyche in October twenty twenty three, and it is due to arrive in twenty twenty nine.
+TR: NASA, Ekim 2023'te Psyche'ye bir uzay aracı gönderdi; araç 2029'da orada olacak.
+EN: Another mission, called Lucy, is heading for the Trojan asteroids, two swarms of rocks that share Jupiter's orbit.
+TR: Lucy adlı bir başka görev, Jüpiter'in yörüngesini paylaşan iki kaya sürüsü olan Truva asteroitlerine gidiyor.
+EN: On the way, it has already surprised us.
+TR: Yolda şimdiden bizi şaşırttı.
+EN: In 2023 it flew past a tiny asteroid named Dinkinesh, and found a pair of rocks, one of which was itself two rocks stuck together.
+SAY: In twenty twenty three it flew past a tiny asteroid named Dinkinesh, and found a pair of rocks, one of which was itself two rocks stuck together.
+TR: 2023'te Dinkinesh adlı küçük asteroitin yanından geçti ve bir kaya çifti buldu; eşlerinden biri de birbirine yapışmış iki kayaydı.
+EN: Each of these missions reads a different chapter of the same story.
+TR: Bu görevlerin her biri aynı hikâyenin farklı bir bölümünü okuyor.
+[ara 2.0]
+
+## Hitting a Moving Target | Hareket Eden Hedefi Vurmak
+EN: Finding a dangerous asteroid is only half the job.
+TR: Tehlikeli bir asteroiti bulmak işin yalnızca yarısı.
+EN: The other half is knowing what to do about it.
+TR: Diğer yarısı, onunla ne yapılacağını bilmek.
+EN: In September 2022, NASA tested the first planetary defense technology in history.
+SAY: In September twenty twenty two, NASA tested the first planetary defense technology in history.
+TR: Eylül 2022'de NASA, tarihin ilk gezegen savunma teknolojisini sınadı.
+EN: It was called DART.
+SAY: It was called Dart.
+TR: Adı DART'tı.
+EN: Its target was Dimorphos, a small moonlet about 160 meters wide, orbiting a larger asteroid named Didymos.
+SAY: Its target was Dimorphos, a small moonlet about one hundred sixty meters wide, orbiting a larger asteroid named Didymos.
+TR: Hedefi, Didymos adlı daha büyük bir asteroitin çevresinde dönen, yaklaşık 160 metre genişliğindeki küçük uydu Dimorphos'tu.
+EN: Neither asteroid posed any danger to Earth. That is exactly why they were chosen.
+TR: İki asteroit de Dünya için tehlike oluşturmuyordu. Zaten bu yüzden seçilmişlerdi.
+EN: The plan was simple, and bold: crash a spacecraft into Dimorphos at about 22,000 kilometers per hour, and see whether its orbit would change.
+SAY: The plan was simple, and bold: crash a spacecraft into Dimorphos at about twenty two thousand kilometers per hour, and see whether its orbit would change.
+TR: Plan basit ve cesurdu: bir uzay aracını saatte yaklaşık 22.000 kilometreyle Dimorphos'a çarptırıp yörüngesinin değişip değişmediğine bakmak.
+EN: On September 26th, the spacecraft flew in, its camera sending back pictures until the very last moment.
+TR: 26 Eylül'de araç hedefe uçtu; kamerası son ana kadar görüntü gönderdi.
+EN: Then the signal ended. The impact was a success.
+TR: Sonra sinyal kesildi. Çarpma başarılıydı.
+EN: Telescopes around the world watched a long tail of dust and rock stream away from Dimorphos for weeks.
+TR: Dünyanın dört bir yanındaki teleskoplar, haftalarca Dimorphos'tan uzaklaşan uzun bir toz ve kaya kuyruğunu izledi.
+EN: Before the impact, Dimorphos circled Didymos every 11 hours and 55 minutes.
+SAY: Before the impact, Dimorphos circled Didymos every eleven hours and fifty five minutes.
+TR: Çarpmadan önce Dimorphos, Didymos'un çevresini 11 saat 55 dakikada dönüyordu.
+EN: Afterward, it took 32 minutes less.
+SAY: Afterward, it took thirty two minutes less.
+TR: Sonrasında bu süre 32 dakika kısaldı.
+EN: NASA had hoped for a change of at least 10 minutes. The result was more than three times that.
+SAY: NASA had hoped for a change of at least ten minutes. The result was more than three times that.
+TR: NASA en az 10 dakikalık bir değişim umuyordu. Sonuç bunun üç katından fazlaydı.
+EN: For the first time, humanity had changed the motion of a celestial body.
+TR: İnsanlık ilk kez bir gök cisminin hareketini değiştirmişti.
+EN: The lesson is clear: with enough warning, we can push an asteroid out of the way.
+TR: Ders net: yeterli uyarı süresiyle bir asteroiti yolundan itebiliriz.
+EN: The key is time. A small push, years in advance, becomes a wide miss.
+TR: Anahtar zaman. Yıllar önceden verilen küçük bir itme, büyük bir ıskaya dönüşür.
+[ara 2.5]
+
+## Watching the Sky | Gökyüzünü Gözetlemek
+EN: What did the impact leave behind? The European Space Agency's Hera spacecraft, launched in October 2024, is on its way to find out.
+SAY: What did the impact leave behind? The European Space Agency's Hera spacecraft, launched in October twenty twenty four, is on its way to find out.
+TR: Çarpma geriye ne bıraktı? Avrupa Uzay Ajansı'nın Ekim 2024'te fırlatılan Hera aracı bunu öğrenmek için yolda.
+EN: It is due to reach Didymos at the end of 2026, to measure the crater and weigh Dimorphos for the first time.
+SAY: It is due to reach Didymos at the end of twenty twenty six, to measure the crater and weigh Dimorphos for the first time.
+TR: 2026'nın sonunda Didymos'a ulaşıp krateri ölçecek ve Dimorphos'u ilk kez tartacak.
+EN: Meanwhile, NASA is building NEO Surveyor, a space telescope designed to hunt for the dark asteroids that are hardest to see from the ground.
+SAY: Meanwhile, NASA is building N E O Surveyor, a space telescope designed to hunt for the dark asteroids that are hardest to see from the ground.
+TR: Bu arada NASA, yerden görülmesi en zor koyu asteroitleri aramak için tasarlanmış NEO Surveyor uzay teleskobunu geliştiriyor.
+EN: And in April 2029, an asteroid called Apophis, about 340 meters wide, will pass Earth at a distance of about 32,000 kilometers.
+SAY: And in April twenty twenty nine, an asteroid called Apophis, about three hundred forty meters wide, will pass Earth at a distance of about thirty two thousand kilometers.
+TR: Nisan 2029'da Apophis adlı yaklaşık 340 metre genişliğindeki bir asteroit, Dünya'nın yaklaşık 32.000 kilometre yakınından geçecek.
+EN: That is closer than many of our communications satellites.
+TR: Bu, birçok haberleşme uydumuzdan daha yakın.
+EN: It will be bright enough to see with the naked eye from parts of Europe, Africa, and Asia.
+TR: Avrupa, Afrika ve Asya'nın bazı yerlerinden çıplak gözle görülecek kadar parlak olacak.
+EN: Astronomers have confirmed that it will not hit us, and a spacecraft will follow it to see how Earth's gravity changes it.
+TR: Gökbilimciler çarpmayacağını doğruladı; bir uzay aracı da Dünya'nın çekiminin onu nasıl değiştirdiğini görmek için onu izleyecek.
+[ara 2.0]
+
+## Our Place Among the Rocks | Kayaların Arasındaki Yerimiz
+EN: For billions of years, asteroids have shaped our world, carrying the ingredients of life, and now and then, changing its history.
+TR: Milyarlarca yıldır asteroitler dünyamızı şekillendirdi; yaşamın bileşenlerini taşıdı, arada bir de tarihini değiştirdi.
+EN: The dinosaurs had no way to look up and see what was coming.
+TR: Dinozorların yukarı bakıp neyin geldiğini görme şansı yoktu.
+EN: We do.
+TR: Bizim var.
+EN: For the first time in the history of life on Earth, a species can see the danger, understand it, and prepare.
+TR: Dünya'daki yaşam tarihinde ilk kez bir tür tehlikeyi görebiliyor, anlayabiliyor ve hazırlanabiliyor.
+EN: The rocks are still out there, tumbling quietly around the Sun, as they have for four and a half billion years.
+TR: Kayalar hâlâ orada; dört buçuk milyar yıldır olduğu gibi Güneş'in çevresinde sessizce dönüyor.
+EN: What has changed is that now, we are watching back.
+TR: Değişen tek şey şu: artık biz de onlara bakıyoruz.
+[ara 4.0]

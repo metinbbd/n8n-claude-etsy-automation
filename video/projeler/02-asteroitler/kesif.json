@@ -1,0 +1,30 @@
+{
+  "svs_aramalari": [
+    "asteroid",
+    "asteroid belt",
+    "Bennu",
+    "OSIRIS-REx",
+    "DART Dimorphos",
+    "Didymos",
+    "Ceres",
+    "Vesta",
+    "Dawn spacecraft",
+    "Psyche asteroid",
+    "Lucy Trojan asteroids",
+    "near-Earth object",
+    "planetary defense",
+    "NEO Surveyor",
+    "Apophis",
+    "impact crater",
+    "Chicxulub",
+    "Eros NEAR Shoemaker",
+    "Itokawa",
+    "meteorite",
+    "Hera"
+  ],
+  "svs_limit": 12,
+  "baslik_atla": "fulldome|hyperwall|stamp|toolkit",
+  "aramalar": ["asteroid", "DART asteroid impact", "Bennu"],
+  "tablo_limiti": 130,
+  "muzik_adaylari": []
+}

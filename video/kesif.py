@@ -93,6 +93,8 @@ def svs_candidates(cfg):
         for r in get_json(f"{SVS}/search/?{q}").get("results", []):
             if r["id"] in seen or r.get("result_type") in ("Gallery",):
                 continue
+            if cfg.get("baslik_atla") and re.search(cfg["baslik_atla"], r["title"], re.I):
+                continue
             seen.add(r["id"])
             out.append({"id": f"svs{r['id']}", "svs": r["id"], "baslik": r["title"],
                         "tur": r.get("result_type"), "tarih": (r.get("release_date") or "")[:10],
@@ -157,7 +159,7 @@ def main(config_path, out_dir):
         try:
             if c.get("svs"):
                 small = svs_prepare(c)
-                if not small:
+                if not small or c["kaynak"]["h"] > c["kaynak"]["w"]:  # dikey/bos olanlari atla
                     continue
                 tmp = "/tmp/kesif.mp4"
                 req = urllib.request.Request(small, headers={"User-Agent": "Mozilla/5.0"})

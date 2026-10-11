@@ -1,0 +1,586 @@
+{
+ "baslik": "ASTEROIDS",
+ "alt_baslik": "The rocks that shaped our world",
+ "dosya_adi": "asteroids-asteroitler",
+ "kapak_yazisi": "ASTEROIDS",
+ "kapak_an": 335,
+ "muzik": [
+  "Dreams Become Real",
+  "Eternal Hope",
+  "Clean Soul"
+ ],
+ "kaynaklar": {
+  "BFW": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20210510_M13854_BennuFarewell/GSFC_20210510_M13854_BennuFarewell~large.mp4",
+   "id": "GSFC_20210510_M13854_BennuFarewell"
+  },
+  "BJ": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20141118_M20220_BennuHalfRes83/GSFC_20141118_M20220_BennuHalfRes83~orig.mp4",
+   "id": "GSFC_20141118_M20220_BennuHalfRes83"
+  },
+  "DR": {
+   "url": "https://images-assets.nasa.gov/video/DART%20Recap%20Video/DART%20Recap%20Video~orig.mp4",
+   "id": "DART Recap Video"
+  },
+  "JT": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20160907_M20261_Journey_to_Bennu_Trailer_4K/GSFC_20160907_M20261_Journey_to_Bennu_Trailer_4K~large.mp4",
+   "id": "GSFC_20160907_M20261_Journey_to_Bennu_Trailer_4K"
+  },
+  "NEA": {
+   "url": "https://images-assets.nasa.gov/video/Near-Earth%20Asteroids%20Discovered%20to%20Date%20-%20June%202023%20Video/Near-Earth%20Asteroids%20Discovered%20to%20Date%20-%20June%202023%20Video~orig.mp4",
+   "id": "Near-Earth Asteroids Discovered to Date - June 2023 Video"
+  },
+  "PSY": {
+   "url": "https://images-assets.nasa.gov/video/210027_ASU_SESE_PsycheMission_ChartingAMetallicWorld_NoPsycheBadge_UHD2398/210027_ASU_SESE_PsycheMission_ChartingAMetallicWorld_NoPsycheBadge_UHD2398~large.mp4",
+   "id": "210027_ASU_SESE_PsycheMission_ChartingAMetallicWorld_NoPsycheBadge_UHD2398"
+  },
+  "S11231": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a011200/a011231/AllSky-540-MASTER_high.mp4",
+   "id": "svs11231"
+  },
+  "S11833": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a011800/a011833/2061-540-MASTER_high.mp4",
+   "id": "svs11833"
+  },
+  "S12140": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012100/a012140/BARON_SERVICE_NASA_on_Air-CERES_baron.mp4",
+   "id": "svs12140"
+  },
+  "S12346": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012300/a012346/Interview_Clips_Lucy_McFadden.mp4",
+   "id": "svs12346"
+  },
+  "S13095": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013095/13095_CERES_Bright_Spot_JPL_high.mp4",
+   "id": "svs13095"
+  },
+  "S13896": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013800/a013896/FACEBOOK_720_13896_Bennu_Impact_Hazard_MASTER_facebook_720.mp4",
+   "id": "svs13896"
+  },
+  "S14426": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a014400/a014426/14426_LucyDinkineshFlyby_YouTubeHD.mp4",
+   "id": "svs14426"
+  },
+  "S20381": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a020000/a020300/a020381/20381_OSIRIS-REx_RETURN_MONTAGE_1080.mp4",
+   "id": "svs20381"
+  },
+  "S20414": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a020000/a020400/a020414/OREX_APEX_Rendezvous_1080_30fps_h264.mp4",
+   "id": "svs20414"
+  },
+  "S30525": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a030500/a030525/dawn_departure_flyover.mp4",
+   "id": "svs30525"
+  },
+  "S31194": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031194/DART_Infographic_KgIMeWpalQ0.mp4",
+   "id": "svs31194"
+  },
+  "S5651": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005651/apophis_2029_flyby_pov_1080p60.mp4",
+   "id": "svs5651"
+  },
+  "SUR": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20200923_M13718_surprises/GSFC_20200923_M13718_surprises~large.mp4",
+   "id": "GSFC_20200923_M13718_surprises"
+  },
+  "TAG": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20201021_M13745_TAG/GSFC_20201021_M13745_TAG~large.mp4",
+   "id": "GSFC_20201021_M13745_TAG"
+  }
+ },
+ "bolumler": [
+  [
+   [
+    "BJ",
+    60,
+    73,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ],
+   [
+    "BJ",
+    85,
+    98,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ],
+   [
+    "BJ",
+    120,
+    133,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ],
+   [
+    "BJ",
+    165,
+    178,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ],
+   [
+    "BJ",
+    195,
+    208,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ]
+  ],
+  [
+   [
+    "S12346",
+    0.5,
+    9.5
+   ],
+   [
+    "BJ",
+    240,
+    253,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ],
+   [
+    "S14426",
+    8,
+    21
+   ],
+   [
+    "BJ",
+    255,
+    268,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ],
+   [
+    "S14426",
+    68,
+    80
+   ],
+   [
+    "S14426",
+    119,
+    132
+   ]
+  ],
+  [
+   [
+    "S30525",
+    28,
+    40
+   ],
+   [
+    "S30525",
+    52,
+    63
+   ],
+   [
+    "S12140",
+    0,
+    9
+   ],
+   [
+    "S12140",
+    10,
+    19
+   ],
+   [
+    "S13095",
+    19,
+    35
+   ],
+   [
+    "S30525",
+    64,
+    76
+   ]
+  ],
+  [
+   [
+    "S11833",
+    0,
+    12
+   ],
+   [
+    "NEA",
+    6,
+    20
+   ],
+   [
+    "BJ",
+    210,
+    224,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ],
+   [
+    "S11231",
+    25,
+    34
+   ],
+   [
+    "S11833",
+    14,
+    27
+   ],
+   [
+    "S11231",
+    47,
+    55
+   ],
+   [
+    "S11231",
+    90,
+    100
+   ],
+   [
+    "S11833",
+    28,
+    34
+   ],
+   [
+    "NEA",
+    24,
+    38
+   ],
+   [
+    "NEA",
+    38,
+    48
+   ]
+  ],
+  [
+   [
+    "JT",
+    18,
+    30
+   ],
+   [
+    "SUR",
+    8,
+    20
+   ],
+   [
+    "SUR",
+    21,
+    33
+   ],
+   [
+    "TAG",
+    17,
+    29
+   ],
+   [
+    "TAG",
+    49,
+    57
+   ],
+   [
+    "S20381",
+    34,
+    46
+   ],
+   [
+    "S20381",
+    70,
+    82
+   ],
+   [
+    "S20381",
+    84,
+    96
+   ],
+   [
+    "S20381",
+    100,
+    112
+   ],
+   [
+    "S13896",
+    77,
+    95
+   ]
+  ],
+  [
+   [
+    "PSY",
+    6,
+    19
+   ],
+   [
+    "PSY",
+    37,
+    48
+   ],
+   [
+    "PSY",
+    86,
+    96
+   ],
+   [
+    "S14426",
+    111,
+    124
+   ],
+   [
+    "S14426",
+    170,
+    182
+   ],
+   [
+    "PSY",
+    112,
+    119
+   ]
+  ],
+  [
+   [
+    "DR",
+    9,
+    21
+   ],
+   [
+    "DR",
+    26,
+    40
+   ],
+   [
+    "DR",
+    44,
+    52
+   ],
+   [
+    "S31194",
+    0,
+    13
+   ],
+   [
+    "S31194",
+    13,
+    26
+   ],
+   [
+    "S31194",
+    26,
+    33
+   ],
+   [
+    "DR",
+    67,
+    79
+   ],
+   [
+    "DR",
+    79,
+    91
+   ],
+   [
+    "DR",
+    91,
+    102
+   ]
+  ],
+  [
+   [
+    "NEA",
+    36,
+    62
+   ],
+   [
+    "S5651",
+    0,
+    20
+   ],
+   [
+    "S20414",
+    0,
+    26
+   ]
+  ],
+  [
+   [
+    "BFW",
+    123,
+    136
+   ],
+   [
+    "BFW",
+    143,
+    153
+   ],
+   [
+    "BJ",
+    270,
+    284,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ],
+   [
+    "BJ",
+    330,
+    343,
+    {
+     "kirp": [
+      0.16666666666666666,
+      0,
+      0.6666666666666666,
+      1
+     ]
+    }
+   ]
+  ]
+ ],
+ "kaynakca": [
+  "Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS) and NASA Image and Video Library",
+  "OSIRIS-REx: NASA/Goddard/University of Arizona/Lockheed Martin",
+  "Dawn (Vesta, Ceres): NASA/JPL-Caltech/UCLA/MPS/DLR/IDA",
+  "DART: NASA/Johns Hopkins APL  -  Lucy: NASA/Goddard/SwRI  -  Psyche: NASA/JPL-Caltech/ASU",
+  "Fireball imagery: NASA Meteoroid Environment Office  -  Near-Earth object statistics: NASA/JPL CNEOS (June 2023)",
+  "Music: \"Dreams Become Real\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Music: \"Eternal Hope\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Music: \"Clean Soul\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original."
+ ],
+ "kaynakca_ekran": [
+  [
+   "h",
+   "Footage"
+  ],
+  [
+   "t",
+   "NASA / Goddard Space Flight Center - Scientific Visualization Studio"
+  ],
+  [
+   "t",
+   "NASA/Goddard/University of Arizona/Lockheed Martin (OSIRIS-REx)  -  NASA/JPL-Caltech/UCLA/MPS/DLR/IDA (Dawn)"
+  ],
+  [
+   "t",
+   "NASA/Johns Hopkins APL (DART)  -  NASA/Goddard/SwRI (Lucy)  -  NASA/JPL-Caltech/ASU (Psyche)"
+  ],
+  [
+   "h",
+   "Music"
+  ],
+  [
+   "t",
+   "\"Dreams Become Real\" Kevin MacLeod (incompetech.com)"
+  ],
+  [
+   "t",
+   "\"Eternal Hope\" Kevin MacLeod (incompetech.com)"
+  ],
+  [
+   "t",
+   "\"Clean Soul\" Kevin MacLeod (incompetech.com)"
+  ],
+  [
+   "t",
+   "Licensed under Creative Commons: By Attribution 4.0 - creativecommons.org/licenses/by/4.0/"
+  ],
+  [
+   "h",
+   "Narration"
+  ],
+  [
+   "t",
+   "Synthetic voice (Kokoro TTS)"
+  ]
+ ],
+ "bilgi_kaynaklari": [
+  "https://science.nasa.gov/solar-system/asteroids/",
+  "https://science.nasa.gov/mission/osiris-rex/",
+  "https://science.nasa.gov/mission/dart/",
+  "https://science.nasa.gov/mission/dawn/",
+  "https://science.nasa.gov/mission/lucy/",
+  "https://science.nasa.gov/mission/psyche/",
+  "https://www.esa.int/Space_Safety/Hera",
+  "https://cneos.jpl.nasa.gov/",
+  "https://science.nasa.gov/solar-system/asteroids/apophis/"
+ ],
+ "youtube": {
+  "tr": {
+   "baslik": "Asteroitler: Dünyamızı Şekillendiren Kayalar | Gerçek NASA Görüntüleriyle Uzay Belgeseli",
+   "aciklama": "Asteroitler Güneş Sistemi'nin 4,5 milyar yıllık zaman kapsülleri. Bu belgeselde asteroit kuşağını, Dawn'ın Vesta ve Ceres keşfini, OSIRIS-REx'in Bennu'dan getirdiği örneği, Psyche ve Lucy görevlerini, Dünya'ya çarpan asteroitleri ve insanlığın ilk gezegen savunma testi DART'ı gerçek NASA görüntüleriyle anlatıyoruz."
+  },
+  "en": {
+   "baslik": "Asteroids: The Rocks That Shaped Our World | Space Documentary with Real NASA Footage",
+   "aciklama": "Asteroids are 4.5-billion-year-old time capsules of the solar system. This documentary uses real NASA imagery to explore the asteroid belt, Dawn's visits to Vesta and Ceres, the sample OSIRIS-REx brought home from Bennu, the Psyche and Lucy missions, the impacts that have shaped Earth, and DART, humanity's first planetary defense test."
+  },
+  "etiketler": [
+   "asteroid",
+   "asteroit",
+   "asteroids documentary",
+   "Bennu",
+   "OSIRIS-REx",
+   "DART mission",
+   "planetary defense",
+   "Apophis",
+   "Ceres",
+   "Vesta",
+   "Psyche",
+   "Lucy mission",
+   "NASA",
+   "uzay belgeseli",
+   "space documentary",
+   "near-Earth asteroid",
+   "asteroit kuşağı"
+  ]
+ }
+}

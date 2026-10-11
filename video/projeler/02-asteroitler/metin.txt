@@ -189,9 +189,9 @@ TR: Çarpmadan önce Dimorphos, Didymos'un çevresini 11 saat 55 dakikada dönü
 EN: Afterward, it took 32 minutes less.
 SAY: Afterward, it took thirty two minutes less.
 TR: Sonrasında bu süre 32 dakika kısaldı.
-EN: NASA had hoped for a change of at least 10 minutes. The result was more than three times that.
-SAY: NASA had hoped for a change of at least ten minutes. The result was more than three times that.
-TR: NASA en az 10 dakikalık bir değişim umuyordu. Sonuç bunun üç katından fazlaydı.
+EN: NASA had defined success as a change of at least 73 seconds. The result was more than twenty times that.
+SAY: NASA had defined success as a change of at least seventy three seconds. The result was more than twenty times that.
+TR: NASA başarıyı en az 73 saniyelik bir değişim olarak tanımlamıştı. Sonuç bunun yirmi katından fazlaydı.
 EN: For the first time, humanity had changed the motion of a celestial body.
 TR: İnsanlık ilk kez bir gök cisminin hareketini değiştirmişti.
 EN: The lesson is clear: with enough warning, we can push an asteroid out of the way.

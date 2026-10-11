@@ -297,9 +297,17 @@ def fetch_sources(edit, src_dir):
     return paths
 
 
-def render_segment(src, start, length, dur, zoom, out):
+def crop_filter(kirp):
+    """kirp = [x, y, w, h] (kaynagin oranlari). Letterbox/genis kaynaklar icin."""
+    if not kirp:
+        return ""
+    x, y, w, h = kirp
+    return f"crop=iw*{w:.5f}:ih*{h:.5f}:iw*{x:.5f}:ih*{y:.5f},"
+
+
+def render_segment(src, start, length, dur, zoom, out, kirp=None):
     k = dur / length  # >1 yavaslatma
-    vf = (f"setpts={k:.5f}*(PTS-STARTPTS),"
+    vf = (f"{crop_filter(kirp)}setpts={k:.5f}*(PTS-STARTPTS),"
           f"scale={int(W * zoom)}:{int(H * zoom)}:force_original_aspect_ratio=increase,"
           f"crop={W}:{H},fps={FPS},format=yuv420p")
     run(["ffmpeg", "-loglevel", "error", "-y", "-ss", f"{start:.3f}", "-t", f"{length:.3f}",
@@ -318,7 +326,7 @@ def render_chapter(idx, segs, D, paths, work, overlay=None, label=None):
     for j, (key, a, b, *opt) in enumerate(segs):
         o = opt[0] if opt else {}
         out = f"{work}/b{idx:02d}_{j:02d}.mp4"
-        render_segment(paths[key], a, b - a, (b - a) * k, o.get("zoom", 1.0), out)
+        render_segment(paths[key], a, b - a, (b - a) * k, o.get("zoom", 1.0), out, o.get("kirp"))
         files.append(out)
     inputs, chain, prev, off = [], [], "0:v", 0.0
     for j, f in enumerate(files):
@@ -459,7 +467,7 @@ def check_segments(cfg, paths, out_dir):
                           ["format"]["duration"])
     for i, segs in enumerate(cfg["bolumler"]):
         rows = []
-        for j, (key, a, b, *_) in enumerate(segs):
+        for j, (key, a, b, *opt) in enumerate(segs):
             row = Image.new("RGB", (3 * 320 + 260, 180), (0, 0, 0))
             d = ImageDraw.Draw(row)
             d.text((970, 20), f"{i}.{j} {key}", font=font(FONT_B, 22), fill=(255, 220, 0))
@@ -469,8 +477,11 @@ def check_segments(cfg, paths, out_dir):
                    fill=(255, 80, 80) if "KISA" in warn else (180, 180, 180))
             for m, t in enumerate((a + 0.3, (a + b) / 2, b - 0.3)):
                 tmp = f"/tmp/kare_{m}.png"
+                o = opt[0] if opt else {}
                 run(["ffmpeg", "-loglevel", "error", "-y", "-ss", f"{min(t, durs[key] - 0.1):.2f}",
-                     "-i", paths[key], "-frames:v", "1", "-vf", "scale=320:180", tmp])
+                     "-i", paths[key], "-frames:v", "1", "-vf",
+                     f"{crop_filter(o.get('kirp'))}scale=320:180:force_original_aspect_ratio=increase,"
+                     "crop=320:180", tmp])
                 row.paste(Image.open(tmp).convert("RGB"), (m * 320, 0))
             rows.append(row)
         sheet = Image.new("RGB", (rows[0].width, 180 * len(rows)))

@@ -1,0 +1,92 @@
+=== BASLIK (Turkce) ===
+Asteroitler: Dünyamızı Şekillendiren Kayalar | Gerçek NASA Görüntüleriyle Uzay Belgeseli
+
+=== BASLIK (English) ===
+Asteroids: The Rocks That Shaped Our World | Space Documentary with Real NASA Footage
+
+=== ACIKLAMA (Turkce kanal icin) ===
+Asteroitler Güneş Sistemi'nin 4,5 milyar yıllık zaman kapsülleri. Bu belgeselde asteroit kuşağını, Dawn'ın Vesta ve Ceres keşfini, OSIRIS-REx'in Bennu'dan getirdiği örneği, Psyche ve Lucy görevlerini, Dünya'ya çarpan asteroitleri ve insanlığın ilk gezegen savunma testi DART'ı gerçek NASA görüntüleriyle anlatıyoruz.
+
+Bölümler:
+00:00 Yaratılıştan Kalanlar
+00:54 Asteroit Kuşağı
+01:55 Ziyaret Edilen İki Dünya
+02:58 Uzaydan Gelen Ziyaretçiler
+04:41 Zaman Kapsülü Bennu
+06:20 Metal Dünya ve Truva Asteroitleri
+07:12 Hareket Eden Hedefi Vurmak
+08:53 Gökyüzünü Gözetlemek
+09:55 Kayaların Arasındaki Yerimiz
+
+Türkçe altyazı mevcuttur (CC).
+
+Kaynaklar ve lisanslar:
+Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS) and NASA Image and Video Library
+OSIRIS-REx: NASA/Goddard/University of Arizona/Lockheed Martin
+Dawn (Vesta, Ceres): NASA/JPL-Caltech/UCLA/MPS/DLR/IDA
+DART: NASA/Johns Hopkins APL  -  Lucy: NASA/Goddard/SwRI  -  Psyche: NASA/JPL-Caltech/ASU
+Fireball imagery: NASA Meteoroid Environment Office  -  Near-Earth object statistics: NASA/JPL CNEOS (June 2023)
+Music: "Dreams Become Real" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Eternal Hope" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Clean Soul" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
+
+Bilgi kaynakları:
+https://science.nasa.gov/solar-system/asteroids/
+https://science.nasa.gov/mission/osiris-rex/
+https://science.nasa.gov/mission/dart/
+https://science.nasa.gov/mission/dawn/
+https://science.nasa.gov/mission/lucy/
+https://science.nasa.gov/mission/psyche/
+https://www.esa.int/Space_Safety/Hera
+https://cneos.jpl.nasa.gov/
+https://science.nasa.gov/solar-system/asteroids/apophis/
+
+=== DESCRIPTION (English channel) ===
+Asteroids are 4.5-billion-year-old time capsules of the solar system. This documentary uses real NASA imagery to explore the asteroid belt, Dawn's visits to Vesta and Ceres, the sample OSIRIS-REx brought home from Bennu, the Psyche and Lucy missions, the impacts that have shaped Earth, and DART, humanity's first planetary defense test.
+
+Chapters:
+00:00 Leftovers of Creation
+00:54 The Asteroid Belt
+01:55 Two Worlds Visited
+02:58 Visitors From Space
+04:41 A Time Capsule Called Bennu
+06:20 Metal and Trojans
+07:12 Hitting a Moving Target
+08:53 Watching the Sky
+09:55 Our Place Among the Rocks
+
+Credits & licenses:
+Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS) and NASA Image and Video Library
+OSIRIS-REx: NASA/Goddard/University of Arizona/Lockheed Martin
+Dawn (Vesta, Ceres): NASA/JPL-Caltech/UCLA/MPS/DLR/IDA
+DART: NASA/Johns Hopkins APL  -  Lucy: NASA/Goddard/SwRI  -  Psyche: NASA/JPL-Caltech/ASU
+Fireball imagery: NASA Meteoroid Environment Office  -  Near-Earth object statistics: NASA/JPL CNEOS (June 2023)
+Music: "Dreams Become Real" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Eternal Hope" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Clean Soul" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
+
+Sources:
+https://science.nasa.gov/solar-system/asteroids/
+https://science.nasa.gov/mission/osiris-rex/
+https://science.nasa.gov/mission/dart/
+https://science.nasa.gov/mission/dawn/
+https://science.nasa.gov/mission/lucy/
+https://science.nasa.gov/mission/psyche/
+https://www.esa.int/Space_Safety/Hera
+https://cneos.jpl.nasa.gov/
+https://science.nasa.gov/solar-system/asteroids/apophis/
+
+=== ETIKETLER / TAGS ===
+asteroid, asteroit, asteroids documentary, Bennu, OSIRIS-REx, DART mission, planetary defense, Apophis, Ceres, Vesta, Psyche, Lucy mission, NASA, uzay belgeseli, space documentary, near-Earth asteroid, asteroit kuşağı
+
+=== YOUTUBE AYARLARI ===
+- Video dili: English
+- Altyazi: altyazi_tr.srt -> Turkce, altyazi_en.srt -> English
+- "Altered or synthetic content" sorusu: YouTube bunu gercek kisi/olay sanilabilecek sahte
+  goruntu ve sesler icin istiyor. Bu videoda gorseller gercek NASA kayitlari, anlatici kimseyi
+  taklit etmiyor; bu yuzden "Hayir" uygundur. Bu etiket para kazanmayi etkilemez.
+- Para kazanma icin: videolari aralikli yukleyin (or. haftada 1-2), her videoda kendi basliginizi
+  ve aciklamanizi kisisellestirin, yorumlara cevap verin.
+- Sure: 10:49

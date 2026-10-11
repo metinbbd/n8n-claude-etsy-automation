@@ -8,7 +8,7 @@ Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF
   warnings.warn(
    anlatim + aralar: 10.60 dk; kaynakca ile 10.83 dk
 2/6 Altyazilar
-   134 Turkce altyazi; en uzun satir 42 karakter; okuma hizi maks 17.3 kar/sn, 18 ustu 0 adet
+   134 Turkce altyazi; en uzun satir 42 karakter; okuma hizi maks 17.4 kar/sn, 18 ustu 0 adet
 3/6 Klipler
   indiriliyor: BFW
   indiriliyor: BJ
@@ -18,7 +18,6 @@ Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF
   indiriliyor: PSY
   indiriliyor: S11833
   indiriliyor: S12140
-  indiriliyor: S13095
   indiriliyor: S13896
   indiriliyor: S14426
   indiriliyor: S20381
@@ -29,15 +28,15 @@ Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF
   indiriliyor: SUR
   indiriliyor: TAG
   bolum 0: 5 parca, 54.3 sn, hiz carpani 1.13x
-  bolum 1: 6 parca, 61.3 sn, hiz carpani 1.10x
-  bolum 2: 6 parca, 62.7 sn, hiz carpani 1.03x
-  bolum 3: 8 parca, 103.1 sn, hiz carpani 0.95x
-  bolum 4: 10 parca, 98.8 sn, hiz carpani 1.15x
+  bolum 1: 6 parca, 61.4 sn, hiz carpani 1.10x
+  bolum 2: 6 parca, 62.6 sn, hiz carpani 1.04x
+  bolum 3: 8 parca, 103.1 sn, hiz carpani 0.91x
+  bolum 4: 10 parca, 98.9 sn, hiz carpani 1.15x
   bolum 5: 6 parca, 52.3 sn, hiz carpani 1.17x
-  bolum 6: 7 parca, 100.5 sn, hiz carpani 0.95x
-  bolum 7: 3 parca, 62.5 sn, hiz carpani 1.00x
+  bolum 6: 8 parca, 100.5 sn, hiz carpani 1.01x
+  bolum 7: 3 parca, 62.4 sn, hiz carpani 0.97x
   bolum 8: 4 parca, 40.3 sn, hiz carpani 1.03x
 4/6 Muzik ve ses karisimi
 5/6 Birlestirme
 6/6 YouTube paketi
-   video: 10.83 dk, 330 MB
+   video: 10.83 dk, 331 MB

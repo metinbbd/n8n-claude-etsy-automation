@@ -3,7 +3,7 @@
  "alt_baslik": "The rocks that shaped our world",
  "dosya_adi": "asteroids-asteroitler",
  "kapak_yazisi": "ASTEROIDS",
- "kapak_an": 335,
+ "kapak_an": 300,
  "muzik": [
   "Dreams Become Real",
   "Eternal Hope",
@@ -41,10 +41,6 @@
   "S12140": {
    "url": "https://svs.gsfc.nasa.gov/vis/a010000/a012100/a012140/BARON_SERVICE_NASA_on_Air-CERES_baron.mp4",
    "id": "svs12140"
-  },
-  "S13095": {
-   "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013000/a013095/13095_CERES_Bright_Spot_JPL_high.mp4",
-   "id": "svs13095"
   },
   "S13896": {
    "url": "https://svs.gsfc.nasa.gov/vis/a010000/a013800/a013896/FACEBOOK_720_13896_Bennu_Impact_Hazard_MASTER_facebook_720.mp4",
@@ -237,9 +233,9 @@
     19
    ],
    [
-    "S13095",
-    19,
-    35
+    "S30525",
+    130,
+    146
    ],
    [
     "S30525",
@@ -283,8 +279,8 @@
    ],
    [
     "BJ",
-    224,
     236,
+    244,
     {
      "kirp": [
       0.16666666666666666,
@@ -428,17 +424,22 @@
    ],
    [
     "S31194I",
+    0,
+    12
+   ],
+   [
+    "S31194I",
     30,
     45
    ],
    [
     "DR",
-    73,
-    82
+    79,
+    84
    ],
    [
     "DR",
-    90,
+    91,
     102
    ]
   ],
@@ -450,8 +451,8 @@
    ],
    [
     "DR",
-    82,
-    90
+    85,
+    91
    ],
    [
     "S20414",

@@ -1,0 +1,32 @@
+{
+  "svs_aramalari": [
+    "black hole",
+    "black hole accretion disk",
+    "supermassive black hole",
+    "Sagittarius A*",
+    "galactic center stars orbit",
+    "gravitational waves",
+    "binary black hole merger",
+    "LIGO",
+    "tidal disruption event",
+    "Event Horizon Telescope",
+    "M87 jet",
+    "quasar",
+    "gravitational lensing",
+    "Cygnus X-1",
+    "Chandra black hole",
+    "X-ray binary",
+    "supernova collapse",
+    "relativity spacetime",
+    "neutron star merger",
+    "Webb early black hole",
+    "Gaia black hole",
+    "active galactic nucleus"
+  ],
+  "svs_limit": 14,
+  "baslik_atla": "fulldome|hyperwall|stamp|toolkit|dome",
+  "aramalar": ["black hole", "supermassive black hole", "gravitational waves"],
+  "supheliler_dahil": true,
+  "tablo_limiti": 140,
+  "muzik_adaylari": []
+}

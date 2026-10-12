@@ -4,7 +4,6 @@
   indiriliyor: S12005
   indiriliyor: S13043
   indiriliyor: S13239
-  indiriliyor: S13326
   indiriliyor: S13831
   indiriliyor: S14000
   indiriliyor: S14335
@@ -16,9 +15,7 @@
   indiriliyor: S5586
   indiriliyor: SOFIA
   indiriliyor: SONI
-  bolum 0: 5 parca, 51.2 sn, hiz carpani 1.05x
-    UYARI: parca 0.1 (S13326 0-14.5) planlanan 13.8 sn, gercek 5.3 sn
-    UYARI: bolum 0 42.6 sn cikacak, hedef 51.2 sn; son kare dondurulup tamamlanacak
+  bolum 0: 5 parca, 51.2 sn, hiz carpani 1.00x
   >> bolum 0: hedef 51.2 sn, uretilen 51.2 sn TAMAM
   bolum 1: 6 parca, 54.1 sn, hiz carpani 1.05x
   >> bolum 1: hedef 54.1 sn, uretilen 54.1 sn TAMAM
@@ -30,9 +27,7 @@
   >> bolum 4: hedef 78.0 sn, uretilen 78.0 sn TAMAM
   bolum 5: 8 parca, 102.1 sn, hiz carpani 1.10x
   >> bolum 5: hedef 102.1 sn, uretilen 102.1 sn TAMAM
-  bolum 6: 4 parca, 46.5 sn, hiz carpani 1.09x
-    UYARI: parca 6.0 (S14619 0-13.5) planlanan 12.3 sn, gercek 9.1 sn
-    UYARI: bolum 6 43.3 sn cikacak, hedef 46.5 sn; son kare dondurulup tamamlanacak
+  bolum 6: 4 parca, 46.5 sn, hiz carpani 0.99x
   >> bolum 6: hedef 46.5 sn, uretilen 46.5 sn TAMAM
   bolum 7: 4 parca, 44.6 sn, hiz carpani 1.16x
   >> bolum 7: hedef 44.6 sn, uretilen 44.6 sn TAMAM

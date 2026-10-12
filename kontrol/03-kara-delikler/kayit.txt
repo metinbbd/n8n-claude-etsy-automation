@@ -1,15 +1,3 @@
-1/6 Seslendirme
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-/home/runner/.local/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
-  super().__init__("LSTM", *args, **kwargs)
-/home/runner/.local/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
-  WeightNorm.apply(module, name, dim)
-/home/runner/.local/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
-  warnings.warn(
-   anlatim + aralar: 10.40 dk; kaynakca ile 10.63 dk
-2/6 Altyazilar
-   139 Turkce altyazi; en uzun satir 42 karakter; okuma hizi maks 19.6 kar/sn, 18 ustu 1 adet
-3/6 Klipler
   indiriliyor: S10082
   indiriliyor: S10142
   indiriliyor: S11108
@@ -29,16 +17,26 @@ Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF
   indiriliyor: SOFIA
   indiriliyor: SONI
   bolum 0: 5 parca, 51.2 sn, hiz carpani 1.05x
+    UYARI: parca 0.1 (S13326 0-14.5) planlanan 13.8 sn, gercek 5.3 sn
+    UYARI: bolum 0 42.6 sn cikacak, hedef 51.2 sn; son kare dondurulup tamamlanacak
+  >> bolum 0: hedef 51.2 sn, uretilen 51.2 sn TAMAM
   bolum 1: 6 parca, 54.1 sn, hiz carpani 1.05x
+  >> bolum 1: hedef 54.1 sn, uretilen 54.1 sn TAMAM
   bolum 2: 5 parca, 80.0 sn, hiz carpani 1.15x
+  >> bolum 2: hedef 80.0 sn, uretilen 80.0 sn TAMAM
   bolum 3: 7 parca, 74.9 sn, hiz carpani 1.03x
+  >> bolum 3: hedef 74.9 sn, uretilen 74.9 sn TAMAM
   bolum 4: 5 parca, 78.0 sn, hiz carpani 0.90x
+  >> bolum 4: hedef 78.0 sn, uretilen 78.0 sn TAMAM
   bolum 5: 8 parca, 102.1 sn, hiz carpani 1.10x
+  >> bolum 5: hedef 102.1 sn, uretilen 102.1 sn TAMAM
   bolum 6: 4 parca, 46.5 sn, hiz carpani 1.09x
+    UYARI: parca 6.0 (S14619 0-13.5) planlanan 12.3 sn, gercek 9.1 sn
+    UYARI: bolum 6 43.3 sn cikacak, hedef 46.5 sn; son kare dondurulup tamamlanacak
+  >> bolum 6: hedef 46.5 sn, uretilen 46.5 sn TAMAM
   bolum 7: 4 parca, 44.6 sn, hiz carpani 1.16x
+  >> bolum 7: hedef 44.6 sn, uretilen 44.6 sn TAMAM
   bolum 8: 3 parca, 42.0 sn, hiz carpani 1.24x
+  >> bolum 8: hedef 42.0 sn, uretilen 42.0 sn TAMAM
   bolum 9: 5 parca, 50.6 sn, hiz carpani 1.09x
-4/6 Muzik ve ses karisimi
-5/6 Birlestirme
-6/6 YouTube paketi
-   video: 9.52 dk, 243 MB
+  >> bolum 9: hedef 50.6 sn, uretilen 50.6 sn TAMAM

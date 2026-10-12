@@ -1,0 +1,469 @@
+{
+ "baslik": "BLACK HOLES",
+ "alt_baslik": "The darkest objects in the universe",
+ "dosya_adi": "black-holes-kara-delikler",
+ "kapak_yazisi": "BLACK HOLES",
+ "kapak_an": 440,
+ "muzik": [
+  "Dark Fog",
+  "Floating Cities",
+  "Long Note Four"
+ ],
+ "kaynaklar": {
+  "S10082": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a010000/a010082/SDSS1133_Zoom-Simulation_MPEG4_1920x1080_29.97.mp4",
+   "id": "svs10082"
+  },
+  "S10142": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a010100/a010142/GravityWaves_HD_LARGE_QT_Video_1.mp4",
+   "id": "svs10142"
+  },
+  "S11108": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a011100/a011108/11108_Flaring_BH_MPEG4_1280X720_29.97.mp4",
+   "id": "svs11108"
+  },
+  "S12005": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012000/a012005/12005_Swift_Tidal_Music_MPEG4_1920X1080_2997.mp4",
+   "id": "svs12005"
+  },
+  "S13043": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013000/a013043/13043_SMBH_Simulation_NO_TEXT.mp4",
+   "id": "svs13043"
+  },
+  "S13197": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013100/a013197/BlackHoleMerger_GravitationalWaveSimulation_Text-On-Screen_Best_1080.mp4",
+   "id": "svs13197"
+  },
+  "S13239": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013200/a013239/M87_zoom_final_no_text_LQ.mp4",
+   "id": "svs13239"
+  },
+  "S13326": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_Stationary_1080.mp4",
+   "id": "svs13326"
+  },
+  "S13831": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013800/a013831/13831_BlackHoleBinary_Simulation_1080.mp4",
+   "id": "svs13831"
+  },
+  "S13886": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013800/a013886/Long_GRB_Diagram_Version_1080.mp4",
+   "id": "svs13886"
+  },
+  "S14000": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014000/a014000/14000_TDE_Simulation_1080.mp4",
+   "id": "svs14000"
+  },
+  "S14335": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014300/a014335/A_SMBHSizeComparison_textless_1080p_vFinal.mp4",
+   "id": "svs14335"
+  },
+  "S14576": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014500/a014576/14576_BH_FlyBy_Zoom2_1920x1080_30.mp4",
+   "id": "svs14576"
+  },
+  "S14619": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014600/a014619/6-Black_hole_grid_flyover-HD.mp4",
+   "id": "svs14619"
+  },
+  "S14620": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014600/a014620/3-Tidal_disruption_by_black_hole-HD.mp4",
+   "id": "svs14620"
+  },
+  "S20367": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020367/A_Gravitational_Wave_h264.mp4",
+   "id": "svs20367"
+  },
+  "S20413": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020400/a020413/SN_HQ_Full_1080_V001.mp4",
+   "id": "svs20413"
+  },
+  "S4807": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a000000/a004800/a004807/M87_EHT_Multiwavelength_Zoom_1080p30.mp4",
+   "id": "svs4807"
+  },
+  "S5586": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005586/zoom_whirl_windows3_HD.mp4",
+   "id": "svs5586"
+  },
+  "SOFIA": {
+   "url": "https://images-assets.nasa.gov/video/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb/ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb~orig.mp4",
+   "id": "ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb"
+  },
+  "SONI": {
+   "url": "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~orig.mp4",
+   "id": "sonify_galactic_all"
+  }
+ },
+ "bolumler": [
+  [
+   [
+    "S14620",
+    0,
+    14.5
+   ],
+   [
+    "S13326",
+    0,
+    15
+   ],
+   [
+    "S12005",
+    18,
+    30
+   ],
+   [
+    "S4807",
+    0,
+    8,
+    {
+     "zoom": 1.08
+    }
+   ],
+   [
+    "S14576",
+    14,
+    26
+   ]
+  ],
+  [
+   [
+    "S20413",
+    0,
+    13
+   ],
+   [
+    "S20413",
+    13,
+    26
+   ],
+   [
+    "S20413",
+    26,
+    39
+   ],
+   [
+    "S13886",
+    99,
+    106
+   ],
+   [
+    "S13886",
+    107,
+    114
+   ],
+   [
+    "S13886",
+    114,
+    120
+   ]
+  ],
+  [
+   [
+    "S14335",
+    4,
+    30
+   ],
+   [
+    "S14576",
+    14,
+    29
+   ],
+   [
+    "S14000",
+    16,
+    34
+   ],
+   [
+    "S14335",
+    34,
+    56
+   ],
+   [
+    "S14576",
+    30,
+    45
+   ]
+  ],
+  [
+   [
+    "S11108",
+    74,
+    86
+   ],
+   [
+    "S11108",
+    86,
+    98
+   ],
+   [
+    "S11108",
+    98,
+    110
+   ],
+   [
+    "S12005",
+    18,
+    30
+   ],
+   [
+    "S13043",
+    26,
+    38
+   ],
+   [
+    "S4807",
+    20,
+    34
+   ]
+  ],
+  [
+   [
+    "S20367",
+    0,
+    17
+   ],
+   [
+    "S20367",
+    17,
+    34
+   ],
+   [
+    "S13197",
+    10,
+    26
+   ],
+   [
+    "S13197",
+    26,
+    42
+   ],
+   [
+    "S13197",
+    42,
+    58
+   ],
+   [
+    "S10142",
+    0,
+    7
+   ]
+  ],
+  [
+   [
+    "SOFIA",
+    0,
+    8
+   ],
+   [
+    "SONI",
+    0,
+    14
+   ],
+   [
+    "SOFIA",
+    28,
+    52
+   ],
+   [
+    "S13239",
+    0,
+    16
+   ],
+   [
+    "S13239",
+    16,
+    32
+   ],
+   [
+    "S13239",
+    40,
+    56
+   ],
+   [
+    "S13239",
+    62,
+    78
+   ],
+   [
+    "S4807",
+    0,
+    10
+   ]
+  ],
+  [
+   [
+    "S14619",
+    0,
+    15
+   ],
+   [
+    "S13831",
+    10,
+    24
+   ],
+   [
+    "S13831",
+    24,
+    38
+   ],
+   [
+    "S13831",
+    44,
+    58
+   ]
+  ],
+  [
+   [
+    "S13043",
+    0,
+    16
+   ],
+   [
+    "S14335",
+    62,
+    78
+   ],
+   [
+    "S10082",
+    0,
+    14.5
+   ]
+  ],
+  [
+   [
+    "S5586",
+    0,
+    24
+   ],
+   [
+    "S13326",
+    0,
+    15
+   ],
+   [
+    "S14576",
+    40,
+    56
+   ]
+  ],
+  [
+   [
+    "S14335",
+    0,
+    16
+   ],
+   [
+    "S13831",
+    45,
+    60
+   ],
+   [
+    "S13043",
+    26,
+    42
+   ],
+   [
+    "S4807",
+    0,
+    10
+   ]
+  ]
+ ],
+ "kaynakca": [
+  "Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS) and NASA Image and Video Library",
+  "Black hole visualizations and simulations: NASA's Goddard Space Flight Center / J. Schnittman, S. Gezari, C. Henze, A. Mallia",
+  "First image of a black hole (M87*): Event Horizon Telescope Collaboration",
+  "Multiwavelength M87 imagery: ALMA, Hubble, Chandra, NuSTAR, Swift, Fermi, H.E.S.S., MAGIC, VERITAS, NRAO, EVN",
+  "Galactic center: NASA/SOFIA, Spitzer, Herschel, Hubble, Chandra  -  Gravitational waves: LIGO, NASA/Goddard",
+  "Music: \"Dark Fog\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Music: \"Floating Cities\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Music: \"Long Note Four\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original."
+ ],
+ "kaynakca_ekran": [
+  [
+   "h",
+   "Footage"
+  ],
+  [
+   "t",
+   "NASA / Goddard Space Flight Center - Scientific Visualization Studio"
+  ],
+  [
+   "t",
+   "Event Horizon Telescope Collaboration (M87*)  -  LIGO  -  NASA/SOFIA  -  Hubble  -  Chandra  -  Swift"
+  ],
+  [
+   "t",
+   "ALMA  -  NuSTAR  -  Fermi  -  NRAO  -  H.E.S.S., MAGIC, VERITAS"
+  ],
+  [
+   "h",
+   "Music"
+  ],
+  [
+   "t",
+   "\"Dark Fog\" Kevin MacLeod (incompetech.com)"
+  ],
+  [
+   "t",
+   "\"Floating Cities\" Kevin MacLeod (incompetech.com)"
+  ],
+  [
+   "t",
+   "\"Long Note Four\" Kevin MacLeod (incompetech.com)"
+  ],
+  [
+   "t",
+   "Licensed under Creative Commons: By Attribution 4.0 - creativecommons.org/licenses/by/4.0/"
+  ],
+  [
+   "h",
+   "Narration"
+  ],
+  [
+   "t",
+   "Synthetic voice (Kokoro TTS)"
+  ]
+ ],
+ "bilgi_kaynaklari": [
+  "https://science.nasa.gov/universe/black-holes/",
+  "https://science.nasa.gov/universe/black-holes/types/",
+  "https://eventhorizontelescope.org/",
+  "https://www.ligo.caltech.edu/page/what-are-gw",
+  "https://chandra.harvard.edu/blackholes/",
+  "https://www.nobelprize.org/prizes/physics/2020/press-release/",
+  "https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_discovers_the_most_massive_stellar_black_hole_in_our_galaxy",
+  "https://svs.gsfc.nasa.gov/14576/",
+  "https://svs.gsfc.nasa.gov/13831/"
+ ],
+ "youtube": {
+  "tr": {
+   "baslik": "Kara Delikler: Evrenin En Karanlık Nesneleri | Gerçek NASA Görüntüleriyle Uzay Belgeseli",
+   "aciklama": "Kara delikler nasıl doğar, nasıl keşfedilir ve bize evren hakkında ne öğretir? Bu belgeselde ölen dev yıldızlardan olay ufkuna, kütleçekim dalgalarının ilk tespitinden Olay Ufku Teleskobu'nun M87 fotoğrafına, süper kütleli kara deliklerden Hawking ışımasına kadar kara delikleri gerçek NASA görüntüleri ve simülasyonlarıyla anlatıyoruz."
+  },
+  "en": {
+   "baslik": "Black Holes: The Darkest Objects in the Universe | Space Documentary with Real NASA Footage",
+   "aciklama": "How are black holes born, how do we find them, and what do they teach us about the universe? This documentary uses real NASA imagery and simulations to explore dying giant stars, the event horizon, the first detection of gravitational waves, the Event Horizon Telescope's image of M87, supermassive black holes and Hawking radiation."
+  },
+  "etiketler": [
+   "black hole",
+   "kara delik",
+   "black holes documentary",
+   "event horizon",
+   "supermassive black hole",
+   "gravitational waves",
+   "Event Horizon Telescope",
+   "M87",
+   "Sagittarius A*",
+   "Hawking radiation",
+   "NASA",
+   "uzay belgeseli",
+   "space documentary",
+   "accretion disk",
+   "LIGO",
+   "Chandra"
+  ]
+ }
+}

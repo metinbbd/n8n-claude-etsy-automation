@@ -1,19 +1,84 @@
 21 benzersiz video bulundu
-Traceback (most recent call last):
-  File "/home/runner/work/n8n-claude-etsy-automation/n8n-claude-etsy-automation/video/kesif.py", line 228, in <module>
-    main(*sys.argv[1:3])
-  File "/home/runner/work/n8n-claude-etsy-automation/n8n-claude-etsy-automation/video/kesif.py", line 145, in main
-    skip |= {c["id"] for c in json.load(open(cfg["onceki"])) if c.get("tablo")}
-                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/json/__init__.py", line 293, in load
-    return loads(fp.read(),
-           ^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
-    return _default_decoder.decode(s)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
-    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
-    raise JSONDecodeError("Expecting value", s, err.value) from None
-json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+SVS: 143 sonuc
+  ✓ GSFC_20190107_TESS_m12853_1stPlanet4k 50.5s kaynak=3840x2160  TESS Rounds Up its First Planets, Snares Far-flung Supernova
+  ✓ GSFC_20190319_Fermi_m13156_Pulsar 119.9s kaynak=1920x1080  NASA’s Fermi Satellite Clocks a ‘Cannonball’ Pulsar
+  ✓ ksc_052004_chandra 51.7s kaynak=320x212  KSC-04-S-00174
+  ✓ sonify_galactic_all 64.0s kaynak=1920x1080  Sounds from Around the Milky Way
+  ✓ ksc_121704_pulsar 99.7s kaynak=320x212  KSC-04-S-00399
+  ✓ GSFC_20180703_STEM_m12985_Fenway 212.5s kaynak=1920x1080  NASA at Fenway
+  ✓ We Did Some Amazing Things This Year @NASA – December 21, 2021 674.5s kaynak=1920x1080  We Did Some Amazing Things This Year @NASA – December 21, 20
+  ✓ svs10906 [Produced Video] 181.9s kaynak=1920x1080  NASA's IBEX Spacecraft Reveals New Observations of Interstel
+  ✓ svs10858 [Produced Video] 197.4s kaynak=1280x720  Fermi Discovers Youngest Millisecond Pulsar
+  ✓ svs14968 [Produced Video] 7.5s kaynak=1920x1080  XRISM Clocks Hot Wind of Galaxy M82
+  ✗ svs14924: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14957 [B-Roll] 120.5s kaynak=1920x1080  IMAP Arrives at L1
+  ✓ svs14942 [Produced Video] 34.7s kaynak=1920x1080  Roman and Webb Comparison Graphics from Far and Wide
+  ✓ svs14917 [Infographic] 43.0s kaynak=3840x2160  Roman Galactic Plane Survey
+  ✓ svs15099 [Produced Video] 61.9s kaynak=1920x1080  NASA-JAXA XRISM Mission Sees Pulsar Accreting Companion's 'W
+  ✓ svs20417 [Animation] 21.5s kaynak=3840x2160  Wind-Accreting Pulsar Visualization
+  ✓ svs15090 [Produced Video] 19.5s kaynak=1920x1080  Flash Talk: Roman Spacecraft Overview
+  ✗ svs15041: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs20413 [Animation] 40.0s kaynak=1920x1080  Supernova explosion animation, with & without pulsar
+  ✓ svs13886 [Produced Video] 170.5s kaynak=1920x1080  NASA's Fermi Spots 'Fizzled' Burst from Collapsing Star
+  ✓ svs14408 [Produced Video] 80.4s kaynak=1920x1080  Swift Spots a Snacking Black Hole Using a New Trick
+  ✓ svs14374 [Infographic] 10.0s kaynak=1920x1080  A Guide to Cosmic Temperatures
+  ✓ svs14350 [Produced Video] 93.2s kaynak=1920x1080  Hubble Hunts for Intermediate-Sized Black Hole Close to Home
+  ✓ svs14301 [Produced Video] 22.0s kaynak=1920x1080  Millions of Galaxies Emerge in New Simulated Images From NAS
+  ✓ svs14239 [Produced Video] 118.1s kaynak=1920x1080  Hubble Captures 3 Faces of Evolving Supernova
+  ✓ svs13924 [Produced Video] 60.0s kaynak=1920x1080  Einstein Ring Spotted By Hubble
+  ✓ svs13795 [Produced Video] 20.5s kaynak=1920x1080  NASA’s Roman Mission Will Probe Galaxy’s Core for Hot Jupite
+  ✓ svs13606 [Produced Video] 53.6s kaynak=1920x1080  A New Portrait of the Cosmos is Coming
+  ✓ svs20315 [Animation] 7.7s kaynak=1920x1080  Roman Space Telescope Microlensing Animations
+  ✗ svs14289: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs13831 [Produced Video] 190.7s kaynak=1920x1080  NASA Visualization Probes the Doubly Warped World of Binary 
+  ✓ svs13326 [Produced Video] 15.2s kaynak=1920x1080  Black Hole Accretion Disk Visualization
+  ✓ svs12880 [Produced Video] 30.0s kaynak=1920x1080  Cosmic Designs and The Planets
+  ✓ svs30094 [Hyperwall Visual] 118.8s kaynak=1280x720  Chandra and the Bullet Cluster
+  ✗ svs12956: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14281 [Produced Video] 6.1s kaynak=900x600  Fermi Spots Gamma-ray Eclipsing 'Spider Systems'
+  ✓ svs14209 [Produced Video] 90.7s kaynak=1920x1080  NASA’s Compton Mission Glimpses Supersized Neutron Stars
+  ✗ svs14217: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14189 [Produced Video] 191.0s kaynak=1440x1080  50th Anniversary of NASA's Copernicus Mission
+  ✗ svs12783: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs31302 [Hyperwall Visual] 75.5s kaynak=1920x1080  NASA's Balloon Program
+  ✓ svs14220 [Produced Video] 106.8s kaynak=1920x1080  Hubble Reveals Ultra-Relativistic Jet
+  ✓ svs4646 [Visualization] 36.7s kaynak=1920x1080  Pulsar Current Sheets - Positron Flows
+  ✓ svs4649 [Visualization] 20.0s kaynak=1920x1080  Plasma Zoo: Gyroresonant Scattering
+  ✓ svs12543 [Produced Video] 48.9s kaynak=1280x720  The Electron Beltway
+  ✓ svs4557 [Visualization] 49.9s kaynak=1920x1080  Leaky Radiation Belts
+  ✗ svs14905: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14800 [Produced Video] 29.7s kaynak=1080x1080  Astrophysics Holiday Vertical Video
+  ✓ svs14834 [Produced Video] 22.2s kaynak=1920x1080  Cosmic Dawn: The Untold Story of the James Webb Space Telesc
+  ✗ svs14762: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14737: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14721 [Produced Video] 162.0s kaynak=1920x1080  What's In A Name? NASA's Swift Mission
+  ✗ svs13083: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14818: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs12969 [Produced Video] 143.4s kaynak=1920x1080  Fermi Satellite Celebrates 10 Years of Discoveries
+  ✗ svs12587: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs11922 [Produced Video] 26.9s kaynak=960x540  Black Hole or Mega Star?
+  ✓ svs13332 [Produced Video] 179.9s kaynak=1920x1080  How LISA Pathfinder Detected Dozens of 'Comet Crumbs'
+  ✓ svs30569 [Hyperwall Visual] 40.4s kaynak=1280x720  Listening to the Universe with Gravitational Waves
+  ✓ svs10544 [Produced Video] 60.6s kaynak=720x486  Black Hole Binary Creates Gravity Waves
+  ✓ svs10125 [Produced Video] 6.7s kaynak=1280x720  The LISA Spacecraft
+  ✓ svs14738 [Produced Video] 185.0s kaynak=1920x1080  What Are Gamma-ray Bursts?
+  ✗ svs13792: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14871: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14673 [Produced Video] 141.9s kaynak=1920x1080  NASA’s Hubble, Chandra Find Supermassive Black Hole Duo
+  ✓ svs31303 [Hyperwall Visual] 45.1s kaynak=1280x720  25 Images for Chandra's 25th: 25 Images to Celebrate!
+  ✓ svs31304 [Hyperwall Visual] 45.1s kaynak=1280x720  Take a Cosmic Road Trip this Summer with Chandra and Webb
+  ✓ svs14498 [Produced Video] 11.0s kaynak=1920x1080  Finding A New Galactic 'Fossil'
+  ✓ svs14331 [Produced Video] 116.7s kaynak=1920x1080  Hubble Catches Possible Runaway Black Hole
+  ✓ svs14937 [Produced Video] 88.9s kaynak=1920x1080  NASA's Roman Space Telescope: Widening Our Gaze
+  ✓ svs14699 [Produced Video] 119.2s kaynak=1920x1080  "Firefly Sparkle" Reveals Early Galaxy
+  ✓ svs14561 [Produced Video] 89.7s kaynak=1920x1080  NASA's Webb Probes an Extreme Starburst Galaxy
+  ✗ svs15102: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs31402 [Hyperwall Visual] 67.9s kaynak=1920x1080  Nancy Grace Roman Turntable
+  ✗ svs15050: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14983 [Produced Video] 489.0s kaynak=1920x1080  “Cosmic Echoes” Audio Activation
+  ✗ svs14912: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs31393 [Hyperwall Visual] 61.0s kaynak=1920x1080  Messier 101
+  ✗ svs15016: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs10142 [Produced Video] 7.5s kaynak=1280x720  Gravitational Waves from Black Holes
+  ✓ svs5366 [Visualization] 48.0s kaynak=1920x1080  Solar Eclipse Shadow Shape Explained
+[]

@@ -1,0 +1,2937 @@
+[
+ {
+  "id": "GSFC_20100126_Nova_m10547_SuperNova",
+  "baslik": "Supernova with Expanding Shell",
+  "merkez": "GSFC",
+  "tarih": "2010-01-26",
+  "aciklama": "Stars which are 8 times or more massive than our Sun end their lives in a most spectacular way; they go supernova. A supernova explosion will occur when there is no longer enough fuel for the fusion process in the core of the star to create an outward pressure which combats the inward gravitational pull of the star's great mass. In less than a second, the star begins the final phase of gravitation",
+  "insan_suphesi": false,
+  "sorgu": "supernova remnant",
+  "href": "https://images-assets.nasa.gov/video/GSFC_20100126_Nova_m10547_SuperNova/collection.json"
+ },
+ {
+  "id": "IXPE Polarization",
+  "baslik": "IXPE Polarization",
+  "merkez": "MSFC",
+  "tarih": "2021-12-08",
+  "aciklama": "NASA’s Imaging X-ray Polarimetry Explorer, or IXPE, is a space observatory built to discover the secrets of some of the most extreme objects in the universe – the remnants of supernova explosions, powerful particle streams spit out by feeding black holes, and more. IXPE is NASA’s first mission to study the polarization of X-rays from many different types of celestial objects. Measuring the polariz",
+  "insan_suphesi": false,
+  "sorgu": "supernova remnant",
+  "href": "https://images-assets.nasa.gov/video/IXPE Polarization/collection.json"
+ },
+ {
+  "id": "GSFC_20190107_TESS_m12853_1stPlanet4k",
+  "baslik": "TESS Rounds Up its First Planets, Snares Far-flung Supernovae",
+  "merkez": "GSFC",
+  "tarih": "2019-01-07",
+  "aciklama": "NASA’s Transiting Exoplanet Survey Satellite (TESS) has found three confirmed exoplanets, or worlds beyond our solar system, in its first three months of observations. The mission’s sensitive cameras also captured 100 short-lived changes — most of them likely stellar outbursts — in the same region of the sky. They include six supernova explosions whose brightening light was recorded by TESS even b",
+  "insan_suphesi": false,
+  "sorgu": "supernova remnant",
+  "href": "https://images-assets.nasa.gov/video/GSFC_20190107_TESS_m12853_1stPlanet4k/collection.json",
+  "dosyalar": {
+   "orig.mp4": "https://images-assets.nasa.gov/video/GSFC_20190107_TESS_m12853_1stPlanet4k/GSFC_20190107_TESS_m12853_1stPlanet4k~orig.mp4",
+   "large.mp4": "https://images-assets.nasa.gov/video/GSFC_20190107_TESS_m12853_1stPlanet4k/GSFC_20190107_TESS_m12853_1stPlanet4k~large.mp4",
+   "medium.mp4": "https://images-assets.nasa.gov/video/GSFC_20190107_TESS_m12853_1stPlanet4k/GSFC_20190107_TESS_m12853_1stPlanet4k~medium.mp4",
+   "mobile.mp4": "https://images-assets.nasa.gov/video/GSFC_20190107_TESS_m12853_1stPlanet4k/GSFC_20190107_TESS_m12853_1stPlanet4k~mobile.mp4",
+   "preview.mp4": "https://images-assets.nasa.gov/video/GSFC_20190107_TESS_m12853_1stPlanet4k/GSFC_20190107_TESS_m12853_1stPlanet4k~preview.mp4",
+   "small.mp4": "https://images-assets.nasa.gov/video/GSFC_20190107_TESS_m12853_1stPlanet4k/GSFC_20190107_TESS_m12853_1stPlanet4k~small.mp4"
+  },
+  "kaynak": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20190107_TESS_m12853_1stPlanet4k/GSFC_20190107_TESS_m12853_1stPlanet4k~orig.mp4",
+   "w": 3840,
+   "h": 2160,
+   "fps": "30000/1001",
+   "sure": 50.3
+  },
+  "sure": 50.5,
+  "tablo": "tablolar/GSFC_20190107_TESS_m12853_1stPlanet4k.jpg"
+ },
+ {
+  "id": "GSFC_20190319_Fermi_m13156_Pulsar",
+  "baslik": "NASA’s Fermi Satellite Clocks a ‘Cannonball’ Pulsar",
+  "merkez": "GSFC",
+  "tarih": "2019-03-19",
+  "aciklama": "Astronomers using NASA’s Fermi Gamma-ray Space Telescope and the National Science Foundation's Karl G. Jansky Very Large Array (VLA) have found a pulsar hurtling through space at nearly 2.5 million miles an hour -- so fast it could travel the distance between Earth and the Moon in just 6 minutes. Pulsars are superdense, rapidly spinning neutron stars left behind when a massive star explodes. This ",
+  "insan_suphesi": false,
+  "sorgu": "supernova remnant",
+  "href": "https://images-assets.nasa.gov/video/GSFC_20190319_Fermi_m13156_Pulsar/collection.json",
+  "dosyalar": {
+   "orig.mp4": "https://images-assets.nasa.gov/video/GSFC_20190319_Fermi_m13156_Pulsar/GSFC_20190319_Fermi_m13156_Pulsar~orig.mp4",
+   "large.mp4": "https://images-assets.nasa.gov/video/GSFC_20190319_Fermi_m13156_Pulsar/GSFC_20190319_Fermi_m13156_Pulsar~large.mp4",
+   "medium.mp4": "https://images-assets.nasa.gov/video/GSFC_20190319_Fermi_m13156_Pulsar/GSFC_20190319_Fermi_m13156_Pulsar~medium.mp4",
+   "mobile.mp4": "https://images-assets.nasa.gov/video/GSFC_20190319_Fermi_m13156_Pulsar/GSFC_20190319_Fermi_m13156_Pulsar~mobile.mp4",
+   "preview.mp4": "https://images-assets.nasa.gov/video/GSFC_20190319_Fermi_m13156_Pulsar/GSFC_20190319_Fermi_m13156_Pulsar~preview.mp4",
+   "small.mp4": "https://images-assets.nasa.gov/video/GSFC_20190319_Fermi_m13156_Pulsar/GSFC_20190319_Fermi_m13156_Pulsar~small.mp4"
+  },
+  "kaynak": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20190319_Fermi_m13156_Pulsar/GSFC_20190319_Fermi_m13156_Pulsar~orig.mp4",
+   "w": 1920,
+   "h": 1080,
+   "fps": "30000/1001",
+   "sure": 119.9
+  },
+  "sure": 119.9,
+  "tablo": "tablolar/GSFC_20190319_Fermi_m13156_Pulsar.jpg"
+ },
+ {
+  "id": "ksc_082604_chandra",
+  "baslik": "KSC-04-S-00307",
+  "merkez": "KSC",
+  "tarih": "2004-08-27",
+  "aciklama": "A new era in stellar astronomy began five years ago when the Chandra X-ray Observatory first opened its sunshade to focus on former supernova Cassiopeia A. Sensitive to invisible x-ray light, Chandra can see the heat given off by massive stellar objects regardless of their distance. This ability to peer into the overwhelming darkness of space has revealed a hidden thermal universe previously veile",
+  "insan_suphesi": false,
+  "sorgu": "supernova remnant",
+  "href": "https://images-assets.nasa.gov/video/ksc_082604_chandra/collection.json"
+ },
+ {
+  "id": "Our Webb Space Telescope’s New Look at an Exploded Star on This Week @NASA – December 15, 2023",
+  "baslik": "Our Webb Space Telescope’s New Look at an Exploded Star on This Week @NASA – December 15, 2023",
+  "merkez": "HQ",
+  "tarih": "2023-12-15",
+  "aciklama": "Our Webb Space Telescope’s new look at an exploded star, teams prepare to install some Moon rocket hardware, and completing NASA’s first two-way, end-to-end laser relay system … a few of the stories to tell you about – This Week at NASA!",
+  "insan_suphesi": false,
+  "sorgu": "supernova remnant",
+  "href": "https://images-assets.nasa.gov/video/Our Webb Space Telescope’s New Look at an Exploded Star on This Week @NASA – December 15, 2023/collection.json"
+ },
+ {
+  "id": "ksc_042507_chandra_2",
+  "baslik": "KSC-07-S-00077",
+  "merkez": "KSC",
+  "tarih": "2007-08-14",
+  "aciklama": "The bad boys of astronomy, black holes inspire well-deserved wariness and strange fascination. But what exactly are they? Since the Chandra X-ray Observatory's deployment in 1999, the telescope has revealed missing links and led to a better understanding of fascinating phenomena like black holes and supernovas.",
+  "insan_suphesi": false,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/ksc_042507_chandra_2/collection.json"
+ },
+ {
+  "id": "ksc_052004_chandra",
+  "baslik": "KSC-04-S-00174",
+  "merkez": "KSC",
+  "tarih": "2004-05-20",
+  "aciklama": "New information from NASA's Chandra X-ray Observatory is teaching us about the destiny of the universe. A study of 26 galaxy clusters revealed that about 6 billion years ago, the universe began expanding faster. Dark energy is the enigmatic force that scientists believe pushes galaxies apart, causing the expansion. Judging from the Chandra study, the density of dark energy is fairly constant. If t",
+  "insan_suphesi": true,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/ksc_052004_chandra/collection.json",
+  "dosyalar": {
+   "orig.mp4": "https://images-assets.nasa.gov/video/ksc_052004_chandra/ksc_052004_chandra~orig.mp4",
+   "mobile.mp4": "https://images-assets.nasa.gov/video/ksc_052004_chandra/ksc_052004_chandra~mobile.mp4",
+   "preview.mp4": "https://images-assets.nasa.gov/video/ksc_052004_chandra/ksc_052004_chandra~preview.mp4"
+  },
+  "kaynak": {
+   "url": "https://images-assets.nasa.gov/video/ksc_052004_chandra/ksc_052004_chandra~orig.mp4",
+   "w": 320,
+   "h": 212,
+   "fps": "12/1",
+   "sure": 51.7
+  },
+  "sure": 51.7,
+  "tablo": "tablolar/ksc_052004_chandra.jpg"
+ },
+ {
+  "id": "sonify_galactic_all",
+  "baslik": "Sounds from Around the Milky Way",
+  "merkez": "MSFC",
+  "tarih": "2020-09-22",
+  "aciklama": "A new project using sonification turns astronomical images from NASA's Chandra X-Ray Observatory and other telescopes into sound. This allows users to \"listen\" to the center of the Milky Way as observed in X-ray, optical, and infrared light. As the cursor moves across the image, sounds represent the position and brightness of the sources.",
+  "insan_suphesi": false,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/sonify_galactic_all/collection.json",
+  "dosyalar": {
+   "orig.mp4": "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~orig.mp4",
+   "large.mp4": "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~large.mp4",
+   "medium.mp4": "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~medium.mp4",
+   "mobile.mp4": "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~mobile.mp4",
+   "preview.mp4": "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~preview.mp4",
+   "small.mp4": "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~small.mp4"
+  },
+  "kaynak": {
+   "url": "https://images-assets.nasa.gov/video/sonify_galactic_all/sonify_galactic_all~orig.mp4",
+   "w": 1920,
+   "h": 1080,
+   "fps": "30/1",
+   "sure": 64.0
+  },
+  "sure": 64.0,
+  "tablo": "tablolar/sonify_galactic_all.jpg"
+ },
+ {
+  "id": "Gravity Assist Listening to the Universe",
+  "baslik": "Gravity Assist: Listening to the Universe",
+  "merkez": "HQ",
+  "tarih": "2021-05-21",
+  "aciklama": "NASA spacecraft deliver stunning visual imagery of the cosmos, but we can also experience that data by turning it into sound. Kim Arcand at the Chandra X-Ray Observatory has helped develop many different sonifications including from galaxies, black holes, nebulae and more. Kim chats with NASA’s Chief Scientist Jim Green about her process of choosing instruments to represent different kinds of ligh",
+  "insan_suphesi": true,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/Gravity Assist Listening to the Universe/collection.json"
+ },
+ {
+  "id": "ksc_121704_pulsar",
+  "baslik": "KSC-04-S-00399",
+  "merkez": "KSC",
+  "tarih": "2004-12-21",
+  "aciklama": "Investigating pulsar 3C58 leaves scientists out in the cold. Keywords: Chandra x-ray observatory, pulsars, supernova, neutron stars, cooling, nuclear forces, cosmic magnetism, 3C58 Astronomers with NASA's Chandra X-ray Observatory have found a pulsating star that's too cool to be believed. The object they discovered is a type of neutron star called a pulsar. Pulsars spin and flash radiation like t",
+  "insan_suphesi": true,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/ksc_121704_pulsar/collection.json",
+  "dosyalar": {
+   "orig.mp4": "https://images-assets.nasa.gov/video/ksc_121704_pulsar/ksc_121704_pulsar~orig.mp4",
+   "mobile.mp4": "https://images-assets.nasa.gov/video/ksc_121704_pulsar/ksc_121704_pulsar~mobile.mp4",
+   "preview.mp4": "https://images-assets.nasa.gov/video/ksc_121704_pulsar/ksc_121704_pulsar~preview.mp4"
+  },
+  "kaynak": {
+   "url": "https://images-assets.nasa.gov/video/ksc_121704_pulsar/ksc_121704_pulsar~orig.mp4",
+   "w": 320,
+   "h": 212,
+   "fps": "12/1",
+   "sure": 99.7
+  },
+  "sure": 99.7,
+  "tablo": "tablolar/ksc_121704_pulsar.jpg"
+ },
+ {
+  "id": "GSFC_20180703_STEM_m12985_Fenway",
+  "baslik": "NASA at Fenway",
+  "merkez": "GSFC",
+  "tarih": "2018-07-03",
+  "aciklama": "On May 30th, 2018 NASA descended upon the historic Fenway Park, home of the Boston Red Sox Major League Baseball team, to participate in a STEM Day public engagement event. This collaborative effort was led by members of the Solar System Exploration Division at NASA’s Goddard Space Flight Center with the following participants: • Lunar Reconnaissance Orbiter (LRO), GSFC • Astromaterials Research &",
+  "insan_suphesi": true,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/GSFC_20180703_STEM_m12985_Fenway/collection.json",
+  "dosyalar": {
+   "orig.mp4": "https://images-assets.nasa.gov/video/GSFC_20180703_STEM_m12985_Fenway/GSFC_20180703_STEM_m12985_Fenway~orig.mp4",
+   "large.mp4": "https://images-assets.nasa.gov/video/GSFC_20180703_STEM_m12985_Fenway/GSFC_20180703_STEM_m12985_Fenway~large.mp4",
+   "medium.mp4": "https://images-assets.nasa.gov/video/GSFC_20180703_STEM_m12985_Fenway/GSFC_20180703_STEM_m12985_Fenway~medium.mp4",
+   "mobile.mp4": "https://images-assets.nasa.gov/video/GSFC_20180703_STEM_m12985_Fenway/GSFC_20180703_STEM_m12985_Fenway~mobile.mp4",
+   "preview.mp4": "https://images-assets.nasa.gov/video/GSFC_20180703_STEM_m12985_Fenway/GSFC_20180703_STEM_m12985_Fenway~preview.mp4",
+   "small.mp4": "https://images-assets.nasa.gov/video/GSFC_20180703_STEM_m12985_Fenway/GSFC_20180703_STEM_m12985_Fenway~small.mp4"
+  },
+  "kaynak": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20180703_STEM_m12985_Fenway/GSFC_20180703_STEM_m12985_Fenway~orig.mp4",
+   "w": 1920,
+   "h": 1080,
+   "fps": "30/1",
+   "sure": 212.4
+  },
+  "sure": 212.5,
+  "tablo": "tablolar/GSFC_20180703_STEM_m12985_Fenway.jpg"
+ },
+ {
+  "id": "ksc_062304_chandra",
+  "baslik": "KSC-04-S-00200",
+  "merkez": "KSC",
+  "tarih": "2004-06-24",
+  "aciklama": "There are plenty of mysteries in our galaxy... black holes, white dwarves, and now… hot gas? NASA's Chandra X-Ray Observatory has located an enormous source of x-ray radiation at the center of the Milky Way, and astronomers believe that source is an extremely hot cloud of interstellar gas. Astronomers aren't sure how the gas cloud was formed, but how the gas has stayed so hot is the biggest myster",
+  "insan_suphesi": false,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/ksc_062304_chandra/collection.json"
+ },
+ {
+  "id": "ksc_012505_black_holes",
+  "baslik": "KSC-05-S-00032",
+  "merkez": "KSC",
+  "tarih": "2005-01-27",
+  "aciklama": "Always dramatic and fascinating, black holes are in the news again with three amazing discoveries. NASA researchers have caught masses of hot iron gas speeding around a black hole at a whopping 20,000 miles per second. The reckless masses were clocked using the European Space Agency's XMM-Newton space telescope. This is the first time scientists have pierced through the bright X-ray light of a bla",
+  "insan_suphesi": true,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/ksc_012505_black_holes/collection.json"
+ },
+ {
+  "id": "We Did Some Amazing Things This Year @NASA – December 21, 2021",
+  "baslik": "We Did Some Amazing Things This Year @NASA – December 21, 2021",
+  "merkez": "HQ",
+  "tarih": "2021-12-21",
+  "aciklama": "2021 was the busiest year yet for NASA in low-Earth orbit, we also made progress preparing for a flight test around the Moon, and had a very active year exploring space, studying Earth, testing technologies for next generation aircraft, and much more. Here’s a look back at those and other things we did this year at NASA.",
+  "insan_suphesi": false,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/We Did Some Amazing Things This Year @NASA – December 21, 2021/collection.json",
+  "dosyalar": {
+   "orig.mp4": "https://images-assets.nasa.gov/video/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021~orig.mp4",
+   "large.mp4": "https://images-assets.nasa.gov/video/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021~large.mp4",
+   "medium.mp4": "https://images-assets.nasa.gov/video/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021~medium.mp4",
+   "mobile.mp4": "https://images-assets.nasa.gov/video/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021~mobile.mp4",
+   "preview.mp4": "https://images-assets.nasa.gov/video/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021~preview.mp4",
+   "small.mp4": "https://images-assets.nasa.gov/video/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021~small.mp4"
+  },
+  "kaynak": {
+   "url": "https://images-assets.nasa.gov/video/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021/We%20Did%20Some%20Amazing%20Things%20This%20Year%20%40NASA%20%E2%80%93%20December%2021%2C%202021~orig.mp4",
+   "w": 1920,
+   "h": 1080,
+   "fps": "30000/1001",
+   "sure": 674.3
+  },
+  "sure": 674.5,
+  "tablo": "tablolar/We_Did_Some_Amazing_Things_This_Year__NASA___December_21__2021.jpg"
+ },
+ {
+  "id": "The Next Crew Headed to the Space Station on This Week at NASA – February 24, 2023",
+  "baslik": "The Next Crew Headed to the Space Station on This Week at NASA – February 24, 2023",
+  "merkez": "HQ",
+  "tarih": "2023-02-24",
+  "aciklama": "The next crew headed to the space station, black holes on a collision course, and an anniversary on Mars … a few of the stories to tell you about – This Week at NASA!",
+  "insan_suphesi": true,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/The Next Crew Headed to the Space Station on This Week at NASA – February 24, 2023/collection.json"
+ },
+ {
+  "id": "The Crew-3 Astronauts Arrive at the Launch Site on This Week @NASA – October 29, 2021mp4",
+  "baslik": "The Crew-3 Astronauts Arrive at the Launch Site on This Week @NASA – October 29, 2021mp4",
+  "merkez": "HQ",
+  "tarih": "2021-10-29",
+  "aciklama": "The Crew-3 astronauts arrive at the launch site, a critical milestone for our water-hunting lunar robot, and a deeper, more full view down into Jupiter’s atmosphere … a few of the stories to tell you about – This Week at NASA!",
+  "insan_suphesi": true,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/The Crew-3 Astronauts Arrive at the Launch Site on This Week @NASA – October 29, 2021mp4/collection.json"
+ },
+ {
+  "id": "Celebrating the NASA Worm on This Week @NASA – November 10, 2023",
+  "baslik": "Celebrating the NASA Worm on This Week @NASA – November 10, 2023",
+  "merkez": "HQ",
+  "tarih": "2023-11-09",
+  "aciklama": "Celebrating the NASA worm, NASA telescopes spot a record-breaking black hole, and the first science images from a new space observatory … a few of the stories to tell you about – This Week at NASA!",
+  "insan_suphesi": false,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/Celebrating the NASA Worm on This Week @NASA – November 10, 2023/collection.json"
+ },
+ {
+  "id": "Continuing a Collaboration in Space Exploration on This Week @NASA – January 13, 2023",
+  "baslik": "Continuing a Collaboration in Space Exploration on This Week @NASA – January 13, 2023",
+  "merkez": "HQ",
+  "tarih": "2023-01-13",
+  "aciklama": "Continuing a collaboration in space exploration, space station research heads back to Earth, and highlighting new science from NASA missions … a few of the stories to tell you about – This Week at NASA!",
+  "insan_suphesi": false,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/Continuing a Collaboration in Space Exploration on This Week @NASA – January 13, 2023/collection.json"
+ },
+ {
+  "id": "A Major Milestone for the James Webb Space Telescope on This Week @NASA – January 14, 2022",
+  "baslik": "A Major Milestone for the James Webb Space Telescope on This Week @NASA – January 14, 2022",
+  "merkez": "HQ",
+  "tarih": "2022-01-14",
+  "aciklama": "A major milestone for the James Webb Space Telescope, what astronomers could learn from a “mini” monster black hole, and the latest assessment of our planet’s global surface temperature … a few of the stories to tell you about – This Week at NASA!",
+  "insan_suphesi": false,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/A Major Milestone for the James Webb Space Telescope on This Week @NASA – January 14, 2022/collection.json"
+ },
+ {
+  "id": "The Webb Telescope is Closer to Starting Its Mission of Science on This Week @NASA – May 13, 2022",
+  "baslik": "The Webb Telescope is Closer to Starting Its Mission of Science on This Week @NASA – May 13, 2022",
+  "merkez": "HQ",
+  "tarih": "2022-05-13",
+  "aciklama": "The Webb Telescope is closer to starting its mission of science, an historic look at the center of our galaxy, and the Crew-3 astronauts reflect on their mission … a few of the stories to tell you about – This Week at NASA!",
+  "insan_suphesi": true,
+  "sorgu": "Chandra X-ray",
+  "href": "https://images-assets.nasa.gov/video/The Webb Telescope is Closer to Starting Its Mission of Science on This Week @NASA – May 13, 2022/collection.json"
+ },
+ {
+  "id": "svs14335",
+  "svs": 14335,
+  "baslik": "NASA Animation Sizes Up the Universe’s Biggest Black Holes",
+  "tur": "Produced Video",
+  "tarih": "2023-05-01",
+  "aciklama": "All monster black holes are not equal. Watch this video to see how they compare to each other and to our solar system. The black holes shown, which range from 100,000 to more than 60 billion times our Sun’s mass, are scaled according to the sizes of their shadows – a circular zone about twice the size of their event horizons. Only one of these colossal objects resides in our own galaxy, and it lie",
+  "sorgu": "Sagittarius A* stars orbit",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs3959",
+  "svs": 3959,
+  "baslik": "RXTE Views X-ray Pulsar Occulted by the Moon",
+  "tur": "Visualization",
+  "tarih": "2012-09-27",
+  "aciklama": "On Oct. 13, 2010, NASA's Rossi X-ray Timing Explorer (RXTE), a satellite in low-Earth orbit, observed a bursting X-ray pulsar as it was eclipsed by the Moon. This provided scientists with an unusual opportunity to calculate the precise position of the pulsar by timing its disappearance and reappearance at the edge of the Moon's disk.The story began a few days earlier, on Oct. 10, when the European",
+  "sorgu": "Sagittarius A* stars orbit",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs10906",
+  "svs": 10906,
+  "baslik": "NASA's IBEX Spacecraft Reveals New Observations of Interstellar Matter",
+  "tur": "Produced Video",
+  "tarih": "2012-01-31",
+  "aciklama": "A great magnetic bubble surrounds the solar system as it cruises through the galaxy. The sun pumps the inside of the bubble full of solar particles that stream out to the edge until they collide with the material that fills the rest of the galaxy, at a complex boundary called the heliosheath. On the other side of the boundary, electrically charged particles from the galactic wind blow by, but rebo",
+  "sorgu": "Sagittarius A* stars orbit",
+  "insan_suphesi": true,
+  "krediler": [
+   "Animator: ",
+   "Video editor: ",
+   "Narrator: ",
+   "Producer: ",
+   "Scientist: ",
+   "Writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a010900/a010906/B1-Adler_Galaxy_Zoom_MPEG4_1920x1080_29.97.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 4,
+  "sure": 181.9,
+  "tablo": "tablolar/svs10906.jpg"
+ },
+ {
+  "id": "svs10858",
+  "svs": 10858,
+  "baslik": "Fermi Discovers Youngest Millisecond Pulsar",
+  "tur": "Produced Video",
+  "tarih": "2011-11-03",
+  "aciklama": "An international team of scientists using NASA's Fermi Gamma-ray Space Telescope has discovered a surprisingly powerful millisecond pulsar that challenges existing theories about how these objects form. At the same time, another team has exploited improved analytical techniques to locate nine new gamma-ray pulsars in Fermi data.A pulsar, also called a neutron star, is the closest thing to a black ",
+  "sorgu": "Sagittarius A* stars orbit",
+  "insan_suphesi": true,
+  "krediler": [
+   "Animator: ",
+   "Video editor: ",
+   "Narrator: ",
+   "Producer: ",
+   "Project support: ",
+   "Science writer: ",
+   "Writer: ",
+   "Graphics: ",
+   "Visualizer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a010800/a010858/10858_Pulsar_Detection_SFX_MPEG4_1280X720_29.97.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 4,
+  "sure": 197.4,
+  "tablo": "tablolar/svs10858.jpg"
+ },
+ {
+  "id": "svs15053",
+  "svs": 15053,
+  "baslik": "NASA’s Fermi Mission Reveals Related Supernova Remnants",
+  "tur": "Produced Video",
+  "tarih": "2026-06-17",
+  "aciklama": "This multiwavelength scene shows the Jellyfish Nebula supernova remnant (right), the interstellar cloud it’s interacting with, and a distinctive curving filament to its upper left. The filament, which is shown here both in optical and ultraviolet (UV) light, is the visible part of an overlapping supernova remnant, G189.6+3.3, that is more prominent in radio and X-rays. Data inlcudes NASA’s Neil Ge",
+  "sorgu": "galactic center",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Scientist: "
+  ]
+ },
+ {
+  "id": "svs15047",
+  "svs": 15047,
+  "baslik": "Milky Way Habitable Zone",
+  "tur": "Produced Video",
+  "tarih": "2026-05-28",
+  "aciklama": "This infographic features artist's concept views of our Milky Way galaxy: face-on at the left and edge-on at the right. It highlights different galactic environments that could influence the development of planets and potentially life. The center of the galaxy is rich in the elements that form planets (like silicon, oxygen, and magnesium), which are forged by multiple generations of stars and supe",
+  "sorgu": "galactic center",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Animator: ",
+   "Graphic designer: "
+  ]
+ },
+ {
+  "id": "svs14979",
+  "svs": 14979,
+  "baslik": "Early Testing of Aerogel and Silicon Detectors for TIGERISS",
+  "tur": "Produced Video",
+  "tarih": "2026-03-26",
+  "aciklama": "Nick Cannady, an astrophysicist at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, examines a block of silica aerogel in May 2025. Cannady uses the light weight material in detectors for the upcoming TIGERISS (Trans-Iron Galactic Element Recorder for the International Space Station) mission, which is designed to study high-speed charged particles called cosmic rays.Credit: NASA/Scott Wi",
+  "sorgu": "galactic center",
+  "insan_suphesi": false,
+  "krediler": [
+   "Photographer: ",
+   "Science writer: "
+  ]
+ },
+ {
+  "id": "svs14968",
+  "svs": 14968,
+  "baslik": "XRISM Clocks Hot Wind of Galaxy M82",
+  "tur": "Produced Video",
+  "tarih": "2026-03-25",
+  "aciklama": "The Resolve instrument aboard the XRISM (X-ray Imaging and Spectroscopy Mission) spacecraft captured data revealing the velocity of the hot wind at the center of starburst galaxy M82. The energy range of iron emission lines show that the gas moves around 2 million miles (about 3 million kilometers) per hour. Inset: XRISM Xtend instrument’s image of M82.Credit: NASA’s Goddard Space Flight Center, J",
+  "sorgu": "galactic center",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Graphics: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014968/m82_Fe25_line.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 7.5,
+  "tablo": "tablolar/svs14968.jpg"
+ },
+ {
+  "id": "svs14976",
+  "svs": 14976,
+  "baslik": "Fermi's 15-year View of the Gamma-Ray Sky",
+  "tur": "Produced Video",
+  "tarih": "2026-02-20",
+  "aciklama": "This image shows the entire sky as seen by Fermi's Large Area Telescope. Lighter colors indicate brighter gamma-ray sources. The map is centered on the center of our galaxy. The most prominent feature is the bright, diffuse glow running along the middle of the map, which marks the central plane of our Milky Way galaxy. The gamma rays there are mostly produced when energetic particles accelerated i",
+  "sorgu": "galactic center",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Producer: ",
+   "Science writer: "
+  ]
+ },
+ {
+  "id": "svs14924",
+  "svs": 14924,
+  "baslik": "\"Dark Galaxy\" Identified by Hubble",
+  "tur": "Produced Video",
+  "tarih": "2026-02-18",
+  "aciklama": "Master VersionHorizontal version. This is for use on any YouTube or non-YouTube platform where you want to display the video horizontally. || 14924_DARK_WIDE_PRINT.jpg (1920x1080) [759.2 KB] || 14924_DARK_WIDE_THUMB.jpg (1920x1080) [759.2 KB] || 14924_DARK_WIDE_SEARCH.jpg (320x180) [32.1 KB] || 14924_DARK_WIDE_MP4.mp4 (1920x1080) [239.9 MB] || 14924_DARK_WIDE_MP4.en_US.srt [3.6 KB] || 14924_DARK_W",
+  "sorgu": "galactic center",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014924/14924_DARK_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2
+ },
+ {
+  "id": "svs14957",
+  "svs": 14957,
+  "baslik": "IMAP Arrives at L1",
+  "tur": "B-Roll",
+  "tarih": "2026-02-02",
+  "aciklama": "NASA’s IMAP (Interstellar Mapping and Acceleration Probe) reached its destination at Lagrange point 1, or L1, approximately 1 million miles from Earth toward the Sun on Jan. 10, 2026.",
+  "sorgu": "galactic center",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014957/26-01422_-_IMAP_Arrival_at_L1_-_Segment_11_Completion_B-Roll_1080HD.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 11,
+  "sure": 120.5,
+  "tablo": "tablolar/svs14957.jpg"
+ },
+ {
+  "id": "svs14942",
+  "svs": 14942,
+  "baslik": "Roman and Webb Comparison Graphics from Far and Wide",
+  "tur": "Produced Video",
+  "tarih": "2026-01-20",
+  "aciklama": "This page contains individual animation clips from the Far and Wide series. These clips all focus on the relationship between the Nancy Grace Roman and James Webb space telescopes: how they are different and how they will work together. These animations may be useful in presentations and other video products. || ",
+  "sorgu": "galactic center",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Animator: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014942/FaW_WebbTemperatures.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 9,
+  "sure": 34.7,
+  "tablo": "tablolar/svs14942.jpg"
+ },
+ {
+  "id": "svs14930",
+  "svs": 14930,
+  "baslik": "NASA’s Fermi Spots Young Star Cluster Blowing Gamma-Ray Bubbles",
+  "tur": "Infographic",
+  "tarih": "2025-12-18",
+  "aciklama": "Artist's concepts and images of Westerlund 1 and its budding gamma-ray-emitting outflow. Includes a multiwavelength reel",
+  "sorgu": "galactic center",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014700/a014798/Westerlund_1_Multiwavelength_ Reel.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 1
+ },
+ {
+  "id": "svs14917",
+  "svs": 14917,
+  "baslik": "Roman Galactic Plane Survey",
+  "tur": "Infographic",
+  "tarih": "2025-12-12",
+  "aciklama": "No description available.",
+  "sorgu": "galactic center",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Visualizer: ",
+   "Designer: ",
+   "Science writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014917/Roman_GPS_Carina_Zoom_Out_1080.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 4,
+  "sure": 43.0,
+  "tablo": "tablolar/svs14917.jpg"
+ },
+ {
+  "id": "svs15099",
+  "svs": 15099,
+  "baslik": "NASA-JAXA XRISM Mission Sees Pulsar Accreting Companion's 'Wind'",
+  "tur": "Produced Video",
+  "tarih": "2026-09-18",
+  "aciklama": "This artist’s concept of the BP Crucis system follows the pulsar on a passage through the dense stream of plasma flowing from its companion, a blue hypergiant 40 times the Sun’s mass. During each four-day passage, the pulsar’s X-ray brightness flares as it pulls in some of the gas. At first, the gas forms a messy, turbulent accretion disk around the pulsar, and plasma spirals down to it. But as th",
+  "sorgu": "S2 star orbit",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Producer: ",
+   "Animator: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/XRISM2.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 61.9,
+  "tablo": "tablolar/svs15099.jpg"
+ },
+ {
+  "id": "svs20417",
+  "svs": 20417,
+  "baslik": "Wind-Accreting Pulsar Visualization",
+  "tur": "Animation",
+  "tarih": "2026-09-18",
+  "aciklama": "Visualization of the BP Crucis system showing the pulsar near closest approach to its companion, a blue hypergiant 40 times the Sun’s mass. Twice each orbit, the pulsar passes throuh a dense stream of plasma flowing from the companion, flaring up in X-rays as it does. In this sequence, the pulsar approaches, enters, and exits the stream. || XRISM_IM_SHOT_01_alt_30fps_4k_h264.00012_print.jpg (1024x",
+  "sorgu": "S2 star orbit",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Technical support: ",
+   "Writer: ",
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020400/a020417/XRISM_IM_SHOT_01_alt_30fps_4k_h264.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 2,
+  "sure": 21.5,
+  "tablo": "tablolar/svs20417.jpg"
+ },
+ {
+  "id": "svs15098",
+  "svs": 15098,
+  "baslik": "NASA, Partners Prepare EXCITE for Antarctic Flight",
+  "tur": "Produced Video",
+  "tarih": "2026-09-15",
+  "aciklama": "The EXCITE (EXoplanet Climate Infrared TElescope) payload hangs inside the Integration and Testing complex at NASA’s Goddard Space Flight Center in Greenbelt, Md., on June 11, 2026. The team, including Principal Investigator Peter Nagler, seen at lower right, prepared EXCITE for shipment to NASA’s CSBF (Columbia Scientific Balloon Facility) in Palestine, Texas. Credit: NASA/Scott Wiessinger Alt te",
+  "sorgu": "S2 star orbit",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Scientist: ",
+   "Photographer: "
+  ]
+ },
+ {
+  "id": "svs15090",
+  "svs": 15090,
+  "baslik": "Flash Talk: Roman Spacecraft Overview",
+  "tur": "Produced Video",
+  "tarih": "2026-09-04",
+  "aciklama": "This presentation was orginally given by Josh Schlieder at special day-of-launch event. It was designed specifically to be followed by the Science Overview presentation.His script notes for a five-minute presentation are available with each individual graphic and also collected here . || ",
+  "sorgu": "S2 star orbit",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Writer: ",
+   "Editor: ",
+   "Videographer: ",
+   "Photographer: ",
+   "Animator: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a015000/a015090/Launch_Flash_Talk_Spacecraft_Overview_Slide_18.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 16,
+  "sure": 19.5,
+  "tablo": "tablolar/svs15090.jpg"
+ },
+ {
+  "id": "svs14974",
+  "svs": 14974,
+  "baslik": "Infographic: NASA’s Pandora Mission",
+  "tur": "Infographic",
+  "tarih": "2026-08-20",
+  "aciklama": "Pandora is a NASA small satellite (SmallSat) mission designed to study exoplanet atmospheres and their host stars. In its first year, it will observe about 20 exoplanets using visible and near-infrared light, revisiting each planet 10 times for 24-hour observations to separate the planet’s signal from its star and reveal the composition of the planet’s atmosphere. || ",
+  "sorgu": "S2 star orbit",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs14985",
+  "svs": 14985,
+  "baslik": "TESS Reveals Dazzling Night Sky",
+  "tur": "Produced Video",
+  "tarih": "2026-05-13",
+  "aciklama": "This view of the whole sky was constructed from 96 TESS sectors. By the end of September 2025, when the last image of this mosaic was captured, TESS had discovered 679 exoplanets (blue dots) and 5,165 candidates (orange dots). The glowing arc running through the center is the plane of the Milky Way. The Large Magellanic Cloud can be seen along the bottom edge just left of center. Black areas withi",
+  "sorgu": "S2 star orbit",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Project support: "
+  ]
+ },
+ {
+  "id": "svs15033",
+  "svs": 15033,
+  "baslik": "TESS Finds Possible New Worlds Using Stellar Eclipses",
+  "tur": "Produced Video",
+  "tarih": "2026-05-12",
+  "aciklama": "A gas giant planet looms in the foreground at right, illuminated by a pair of stars, in this artist’s concept of a world in a binary system. NASA’s TESS (Transiting Exoplanet Survey Satellite) has found planets in two binary star systems by looking for stellar dimming as the planets cross in front of one of the stars. Astronomers have now demonstrated a new method of finding planets in these syste",
+  "sorgu": "S2 star orbit",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Scientist: "
+  ]
+ },
+ {
+  "id": "svs31347",
+  "svs": 31347,
+  "baslik": "Astronaut Don Pettit’s Photos from Space",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-03-03",
+  "aciklama": "hyperwall hwshows for photos from https://www.nasa.gov/gallery/astronaut-don-pettits-photos-from-space/",
+  "sorgu": "S2 star orbit",
+  "insan_suphesi": true,
+  "krediler": [
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs14884",
+  "svs": 14884,
+  "baslik": "NASA Supercomputer Probes Tangled Magnetospheres of Merging Neutron Stars",
+  "tur": "Produced Video",
+  "tarih": "2026-01-29",
+  "aciklama": "New supercomputer simulations explore the tangled magnetic structures around merging neutron stars. These structures, called magnetospheres, interact as the city-sized stars enter their final orbits. Magnetic field lines can connect both stars, break, and reconnect, while currents surge through surrounding plasma moving at nearly the speed of light. The simulations show that these systems may prod",
+  "sorgu": "S2 star orbit",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs15046",
+  "svs": 15046,
+  "baslik": "Swift Multitool Infographic",
+  "tur": "Infographic",
+  "tarih": "2026-06-05",
+  "aciklama": "This infographic highlights some of the achievements of NASA’s Neil Gehrels Swift Observatory, which has become the agency’s astrophysics multitool since launching in 2004. The spacecraft studies a wide range of objects, from those near Earth, to stars, black holes, and gamma-ray bursts — the most powerful explosions in the cosmos. Credit: NASA’s Goddard Space Flight CenterAlt text: Infographic of",
+  "sorgu": "supernova",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Graphic designer: ",
+   "Science writer: "
+  ]
+ },
+ {
+  "id": "svs15041",
+  "svs": 15041,
+  "baslik": "NASA's Fermi Spies a Supercharged Supernova",
+  "tur": "Produced Video",
+  "tarih": "2026-05-20",
+  "aciklama": "Gamma rays detected by NASA’s Fermi Gamma-ray Space Telescope gave scientists a look under the hood of a rare supernova that produced much more light than normal.Credit: NASA’s Goddard Space Flight CenterMusic credits:\"Granular Game\" by John Bisset \"In The Zone\" by Daniel Migdal, Jonas Pomo\"Ornaments\" by Lisa Van Hal || Fermi_Spies_a_Supercharged_Supernova_Thumbnail.jpg (1280x720) [231.5 KB] || 15",
+  "sorgu": "supernova",
+  "insan_suphesi": true,
+  "krediler": [
+   "Science writer: ",
+   "Scientist: ",
+   "Producer: ",
+   "Animator: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a015000/a015041/15041-_Fermi_Spies_a_Supercharged_Supernova.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 1
+ },
+ {
+  "id": "svs20413",
+  "svs": 20413,
+  "baslik": "Supernova explosion animation, with & without pulsar",
+  "tur": "Animation",
+  "tarih": "2026-05-20",
+  "aciklama": "This animation shows a supernova — the explosion of a massive star — and the formation of an expanding cloud of debris called a supernova remnant. As the brightness fades, a pulsing light source appears at the center, surrounded by a small expanding nebula. The pulsing object is a pulsar, a type of neutron star, which represents the core of the massive star that exploded. The cloud around it is a ",
+  "sorgu": "supernova",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Science writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020400/a020413/SN_HQ_Full_1080_V001.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 40.0,
+  "tablo": "tablolar/svs20413.jpg"
+ },
+ {
+  "id": "svs14991",
+  "svs": 14991,
+  "baslik": "Argonne Assembles, Tests Early ComPair-2 Hardware",
+  "tur": "Produced Video",
+  "tarih": "2026-03-20",
+  "aciklama": "Tim Cundiff, an engineering specialist at Argonne National Laboratory in Lemont, Illinois, monitors the automated wire bond of a ComPair-2 detector layer in April 2025. Image courtesy of Argonne National LaboratoryAlt text: A man in a lab uses a microscope.Image description: A man in a white clean suit, gloves, safety glasses, and a hairnet sits in front of a piece of machinery in a laboratory and",
+  "sorgu": "supernova",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: ",
+   "Science writer: "
+  ]
+ },
+ {
+  "id": "svs14980",
+  "svs": 14980,
+  "baslik": "Prototype ComPair-2 Gamma-Ray Detectors Complete Thermal Vacuum Testing",
+  "tur": "Produced Video",
+  "tarih": "2026-02-26",
+  "aciklama": "Prototype gamma-ray detectors for the ComPair-2 mission rests in a thermal vacuum chamber after testing in June 2025 at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. The ComPair-2 team tested the detectors’ performance at hot and cold temperatures over the course of a week and the overall survivability of the layer itself. Credit: NASA/Sophia RobertsAlt text: A piece of equipment sits",
+  "sorgu": "supernova",
+  "insan_suphesi": false,
+  "krediler": [
+   "Photographer: ",
+   "Science writer: "
+  ]
+ },
+ {
+  "id": "svs13886",
+  "svs": 13886,
+  "baslik": "NASA's Fermi Spots 'Fizzled' Burst from Collapsing Star",
+  "tur": "Produced Video",
+  "tarih": "2021-07-26",
+  "aciklama": "Astronomers combined data from NASA's Fermi Gamma-ray Space Telescope, other space missions, and ground-based observatories to reveal the origin of GRB 200826A, a brief but powerful burst of radiation. It’s the shortest burst known to be powered by a collapsing star – and almost didn’t happen at all. Credit: NASA's Goddard Space Flight CenterMusic: \"Inducing Waves\" from Universal Production MusicW",
+  "sorgu": "collapsar gamma-ray burst",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Animator: ",
+   "Narrator: ",
+   "Scientist: ",
+   "Narrator (spanish): "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013800/a013886/Long_GRB_Diagram_Version_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 14,
+  "sure": 170.5,
+  "tablo": "tablolar/svs13886.jpg"
+ },
+ {
+  "id": "svs5586",
+  "svs": 5586,
+  "baslik": "Extreme Mass Ratio Black Hole Inspirals (EMRIs)",
+  "tur": "Visualization",
+  "tarih": "2026-01-20",
+  "aciklama": "Shows seven unique black hole inspirals.",
+  "sorgu": "stellar mass black hole",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14916",
+  "svs": 14916,
+  "baslik": "Black Hole Eats Star: The Longest GRB Ever Seen",
+  "tur": "Produced Video",
+  "tarih": "2025-12-08",
+  "aciklama": "Unusually long gamma-ray bursts require more exotic origins than typical GRBs. This animation illustrates one proposed explanation for GRB 250702B — the merger of a stellar-mass black hole with its stellar companion. As the black hole makes its last few orbits, it pulls large amounts of gas from the star. At some point in this process, the system begins to shine brightly in X-rays. Then, as the bl",
+  "sorgu": "stellar mass black hole",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14802",
+  "svs": 14802,
+  "baslik": "Earth to Space: A National Symphony Orchestra Concert",
+  "tur": "Produced Video",
+  "tarih": "2025-03-28",
+  "aciklama": "Explore the vastness of space with music inspired by the planets, stars, and beyond! In anticipation of the upcoming voyage of Artemis II, the National Symphony Orchestra celebrates the discoveries and beauty of space through music and images produced by NASA. Explore this page to learn more about the visuals used in the Kennedy Center's 2025 Earth to Space Festival NSO Family Concert.",
+  "sorgu": "stellar mass black hole",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs14753",
+  "svs": 14753,
+  "baslik": "Astronomers Track Jet Launch, Fluctuating X-Rays from Brink of Active Black Hole",
+  "tur": "Produced Video",
+  "tarih": "2025-01-13",
+  "aciklama": "Active galaxy 1ES 1927+654, circled, has exhibited extraordinary changes since 2018, when a major outburst occurred in visible, ultraviolet, and X-ray light. The galaxy harbors a central black hole weighing about 1.4 million solar masses and is located 270 million light-years away.Credit: Pan-STARRSUnannotated versions available.Image description: On a mottled black background, soft circles rangin",
+  "sorgu": "stellar mass black hole",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Scientist: "
+  ]
+ },
+ {
+  "id": "svs14707",
+  "svs": 14707,
+  "baslik": "XRISM's Resolve Instrument Gazes into Cygnus X-3",
+  "tur": "Produced Video",
+  "tarih": "2024-11-25",
+  "aciklama": "Cygnus X-3 is a high-mass X-ray binary system consisting of a compact object (likely a black hole) and a Wolf-Rayet star. This artist's concept shows one interpretation of the system. High-resolution X-ray spectroscopy indicates two gas components: a heavy background outflow, or wind, produced by the massive star and a turbulent structure — perhaps a wake carved into the wind — located close to th",
+  "sorgu": "stellar mass black hole",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14620",
+  "svs": 14620,
+  "baslik": "Isolated Black Hole Visualization",
+  "tur": "Produced Video",
+  "tarih": "2024-07-17",
+  "aciklama": "This visualization shows the strange ways that light is gravitationally warped in the region around a black hole. The distortions seen in this image are due to the physics of general relativity, which informs us how the path of light is deflected in the presence of a gravitational field. The material forming a black hole has been compressed to densities so high that it is hidden within an “event h",
+  "sorgu": "stellar mass black hole",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14607",
+  "svs": 14607,
+  "baslik": "Hubble Finds New Evidence for Intermediate-Mass Black Hole in Omega Centauri",
+  "tur": "Produced Video",
+  "tarih": "2024-07-10",
+  "aciklama": "Intermediate-mass black holes are a long-sought “missing link” in black hole evolution. They are smaller than the supermassive black holes that lie at the cores of large galaxies, but larger than stellar-mass black holes formed by the collapse of massive stars. Only a few candidates have been found to date. Now, a team of astronomers analyzed over 500 images from 20 years of NASA's Hubble Space Te",
+  "sorgu": "stellar mass black hole",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs14408",
+  "svs": 14408,
+  "baslik": "Swift Spots a Snacking Black Hole Using a New Trick",
+  "tur": "Produced Video",
+  "tarih": "2023-09-07",
+  "aciklama": "Watch to learn how an update to NASA’s Neil Gehrels Swift Observatory allowed it to catch a supersized black hole in a distant galaxy munching repeatedly on a circling star. Credit: NASA’s Goddard Space Flight CenterMusic: \"Teapot Waltz\" by Benjamin Parsons from Universal Production MusicWatch this video on the NASA Goddard YouTube channel.Complete transcript available. || Repeating_TDE_Still.jpg ",
+  "sorgu": "stellar mass black hole",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Narrator: ",
+   "Editor: ",
+   "Science writer: ",
+   "Project support: ",
+   "Animator: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014400/a014408/14408_Repeating_TDE_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 80.4,
+  "tablo": "tablolar/svs14408.jpg"
+ },
+ {
+  "id": "svs14374",
+  "svs": 14374,
+  "baslik": "A Guide to Cosmic Temperatures",
+  "tur": "Infographic",
+  "tarih": "2023-08-03",
+  "aciklama": "Explore the temperatures of the cosmos, from absolute zero to the hottest temperatures yet achieved, with this infographic. Targets for the XRISM mission include supernova remnants, binary systems with stellar-mass black holes, galaxies powered by supermassive black holes, and vast clusters of galaxies.Credit: NASA's Goddard Space Flight Center/Scott WiessingerMachine-readable PDF copy || Cosmic_T",
+  "sorgu": "stellar mass black hole",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Producer: ",
+   "Graphic designer: ",
+   "Writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014300/a014374/Temp_Infographic_Individual_16x9_MOVEMENT_LHC.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 8,
+  "sure": 10.0,
+  "tablo": "tablolar/svs14374.jpg"
+ },
+ {
+  "id": "svs14350",
+  "svs": 14350,
+  "baslik": "Hubble Hunts for Intermediate-Sized Black Hole Close to Home",
+  "tur": "Produced Video",
+  "tarih": "2023-05-23",
+  "aciklama": "Astronomers using NASA’s Hubble Space Telescope have come up with what they say is some of their best evidence yet for the presence of a rare class of “intermediate-sized” black hole that may be lurking in the heart of the closest globular star cluster to Earth, located 6,000 light-years away.Like intense gravitational potholes in the fabric of space, virtually all black holes seem to come in two ",
+  "sorgu": "stellar mass black hole",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014300/a014350/14350_MID_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 93.2,
+  "tablo": "tablolar/svs14350.jpg"
+ },
+ {
+  "id": "svs14857",
+  "svs": 14857,
+  "baslik": "NASA’s Webb Reveals Galaxy Population Driving Cosmic Renovation",
+  "tur": "Produced Video",
+  "tarih": "2025-06-11",
+  "aciklama": "Symbols mark the locations of young, low-mass galaxies bursting with new stars when the universe was about 800 million years old. Using a filter sensitive to such galaxies, NASA’s James Webb Space Telescope imaged them with the help of a natural gravitational lens created by the massive galaxy cluster Abell 2744. In all, 83 young galaxies were found, but only the 20 shown here (white diamonds) wer",
+  "sorgu": "gravitational lens",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Scientist: "
+  ]
+ },
+ {
+  "id": "svs14619",
+  "svs": 14619,
+  "baslik": "Black Hole with Accretion Disk Visualization",
+  "tur": "Produced Video",
+  "tarih": "2024-07-17",
+  "aciklama": "This visualization shows the strange ways that light is gravitationally warped in the region around a black hole surrounded by a rapidly-rotating disk of gas and dust. The distortions seen in this image are due to the physics of general relativity, which informs us how the path of light is deflected in the presence of a gravitational field. The material forming a black hole has been compressed to ",
+  "sorgu": "gravitational lens",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs31287",
+  "svs": 31287,
+  "baslik": "Webb and Hubble Combine to Create Most Colorful View of Universe",
+  "tur": "Hyperwall Visual",
+  "tarih": "2024-06-12",
+  "aciklama": "This panchromatic view of galaxy cluster MACS0416 was created by combining infrared observations from NASA’s James Webb Space Telescope with visible-light data from NASA’s Hubble Space Telescope. To make the image, in general the shortest wavelengths of light were color-coded blue, the longest wavelengths red, and intermediate wavelengths green. The resulting wavelength coverage, from 0.4 to 5 mic",
+  "sorgu": "gravitational lens",
+  "insan_suphesi": false,
+  "krediler": [
+   "Technical support: ",
+   "Scientist: "
+  ]
+ },
+ {
+  "id": "svs14301",
+  "svs": 14301,
+  "baslik": "Millions of Galaxies Emerge in New Simulated Images From NASA's Roman",
+  "tur": "Produced Video",
+  "tarih": "2023-03-08",
+  "aciklama": "This video begins by showing the most distant galaxies in the simulated deep field image in red. As it zooms out, layers of nearer (yellow and white) galaxies are added to the frame. By studying different cosmic epochs, Roman will be able to trace the universe's expansion history, study how galaxies developed over time, and much more.Credit: Caltech-IPAC/R. Hurt and M. Troxel || Roman_Zoom_still.j",
+  "sorgu": "gravitational lens",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Visualizer: ",
+   "Producer: ",
+   "Graphics: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014300/a014301/Roman_Lensing_Wide-HD2K.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 22.0,
+  "tablo": "tablolar/svs14301.jpg"
+ },
+ {
+  "id": "svs14269",
+  "svs": 14269,
+  "baslik": "NASA’s Webb Telescope Links Galaxies Near and Far",
+  "tur": "Produced Video",
+  "tarih": "2023-01-09",
+  "aciklama": "A trio of faint objects (circled) captured in the James Webb Space Telescope’s deep image of the galaxy cluster SMACS 0723 exhibit properties remarkably similar to rare, small galaxies called “green peas” found much closer to home. The cluster’s mass makes it a gravitational lens, which both magnifies and distorts the appearance of background galaxies. We view these early peas as they existed when",
+  "sorgu": "gravitational lens",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Scientist: ",
+   "Graphics: "
+  ]
+ },
+ {
+  "id": "svs14239",
+  "svs": 14239,
+  "baslik": "Hubble Captures 3 Faces of Evolving Supernova",
+  "tur": "Produced Video",
+  "tarih": "2022-11-09",
+  "aciklama": "Through a “trick” of light-bending gravity, the Hubble Space Telescope captured three different moments in the explosion of a very far-off supernova—all in one snapshot! Einstein first predicted this phenomenon, called gravitational lensing, in his theory of general relativity. In this case, the immense gravity of the galaxy cluster Abell 370 acted as a cosmic lens, bending and magnifying the ligh",
+  "sorgu": "gravitational lens",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014200/a014239/14239_SUPERNOVA_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 118.1,
+  "tablo": "tablolar/svs14239.jpg"
+ },
+ {
+  "id": "svs13924",
+  "svs": 13924,
+  "baslik": "Einstein Ring Spotted By Hubble",
+  "tur": "Produced Video",
+  "tarih": "2021-09-23",
+  "aciklama": "This image, taken with the Hubble Space Telescope, shows a distant galaxy located in the constellation Fornax. It is the largest and one of the most complete Einstein rings ever discovered.This object’s unusual shape is the result of gravitational lensing. Albert Einstein, in his general theory of relativity, first theorised that a large gravitational field could act as a lens. For more informatio",
+  "sorgu": "gravitational lens",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013900/a013924/13924_Einstein_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 60.0,
+  "tablo": "tablolar/svs13924.jpg"
+ },
+ {
+  "id": "svs13795",
+  "svs": 13795,
+  "baslik": "NASA’s Roman Mission Will Probe Galaxy’s Core for Hot Jupiters, Brown Dwarfs",
+  "tur": "Produced Video",
+  "tarih": "2021-01-25",
+  "aciklama": "Illustration depicting a brown dwarf, which range from about 4,000 to 25,000 times Earth’s mass. They’re too heavy to be characterized as planets, but not quite massive enough to undergo nuclear fusion in their cores like stars. Watch this video on the NASA.gov Video YouTube channel. || Brown_Dwarf_Still.png (1920x1080) [2.0 MB] || Brown_Dwarf_Still.jpg (1920x1080) [742.2 KB] || Brown_Dwarf_Still_",
+  "sorgu": "gravitational lens",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Producer: ",
+   "Science writer: ",
+   "Public affairs officer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013700/a013795/Xallarap_Effect_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 5,
+  "sure": 20.5,
+  "tablo": "tablolar/svs13795.jpg"
+ },
+ {
+  "id": "svs13606",
+  "svs": 13606,
+  "baslik": "A New Portrait of the Cosmos is Coming",
+  "tur": "Produced Video",
+  "tarih": "2020-05-20",
+  "aciklama": "Welcome to NASA's Nancy Grace Roman Space Telescope infrared survey mission, taking a wider view of the cosmos. 2026 version removing an outdated end tag.Credit: NASA's Goddard Space Flight CenterMusic: “The Decision,” Michael Schluecker, Raphael Schalz [GEMA], and Axel Tenner [BMI], Universal Production MusicWatch this video on the NASA Goddard YouTube channel.Complete transcript available. || Ne",
+  "sorgu": "gravitational lens",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Public affairs officer: ",
+   "Animator: ",
+   "Science advisor: ",
+   "Editor: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013600/a013606/Roman_Space_Telescope_Trailer_Best_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 6,
+  "sure": 53.6,
+  "tablo": "tablolar/svs13606.jpg"
+ },
+ {
+  "id": "svs20315",
+  "svs": 20315,
+  "baslik": "Roman Space Telescope Microlensing Animations",
+  "tur": "Animation",
+  "tarih": "2020-03-30",
+  "aciklama": "This animation illustrates the concept of gravitational microlensing. When one star in the sky appears to pass nearly in front of another, the light rays of the background source star become bent due to the warped space-time around the foreground star. This star is then a virtual magnifying glass, amplifying the brightness of the background source star, so we refer to the foreground star as the le",
+  "sorgu": "gravitational lens",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Producer: ",
+   "Communications lead: ",
+   "Science writer: ",
+   "Scientist: ",
+   "Science advisor: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020315/Microlensing_insert_BH_30fps_h264.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 10,
+  "sure": 7.7,
+  "tablo": "tablolar/svs20315.jpg"
+ },
+ {
+  "id": "svs30949",
+  "svs": 30949,
+  "baslik": "Galaxy Cluster Abell 2744 from Hubble",
+  "tur": "Hyperwall Visual",
+  "tarih": "2018-05-15",
+  "aciklama": "The galaxy cluster Abell 2744 is so massive that it distorts the space around it and produces an effect called gravitational lensing. || a2744-hst-3909x4360_print.jpg (1024x1142) [180.6 KB] || a2744-hst-3909x4360.png (3909x4360) [29.8 MB] || a2744-hst-3909x4360_searchweb.png (320x180) [88.7 KB] || a2744-hst-3909x4360_thm.png (80x40) [6.2 KB] || galaxy-cluster-abell-2744-from-hubble.hwshow [224 byt",
+  "sorgu": "gravitational lens",
+  "insan_suphesi": false,
+  "krediler": [
+   "Project support: ",
+   "Scientist: "
+  ]
+ },
+ {
+  "id": "svs14576",
+  "svs": 14576,
+  "baslik": "NASA Black Hole Visualization Takes Viewers Beyond the Brink",
+  "tur": "Visualization",
+  "tarih": "2024-05-06",
+  "aciklama": "In this flight toward a supermassive black hole, labels highlight many of the fascinating features produced by the effects of general relativity along the way. This supercomputer visualization tracks a camera as it approaches, briefly orbits, and then crosses the event horizon — the point of no return — of a supersized black hole similar in mass to the one at the center of our galaxy. Credit: NASA",
+  "sorgu": "Einstein ring",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14289",
+  "svs": 14289,
+  "baslik": "Hubble Science: Einstein Rings, Optical Illusions",
+  "tur": "Produced Video",
+  "tarih": "2023-03-14",
+  "aciklama": "An Einstein Ring can be explained by a phenomenon called gravitational lensing, which causes light shining from a faraway galaxy to be warped by the gravity of an object between its source and the observer. This effect was first theorized by Albert Einstein in 1912, and later worked into his theory of general relativity.In this video, Dr. Brian Welch explains this fascinating phenomenon of nature,",
+  "sorgu": "Einstein ring",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Support: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014200/a014289/14289_RING_VERT_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3
+ },
+ {
+  "id": "svs13831",
+  "svs": 13831,
+  "baslik": "NASA Visualization Probes the Doubly Warped World of Binary Black Holes",
+  "tur": "Produced Video",
+  "tarih": "2021-04-15",
+  "aciklama": "Explore how the extreme gravity of two orbiting supermassive black holes distorts our view. In this visualization, disks of bright, hot, churning gas encircle both black holes, shown in red and blue to better track the light source. The red disk orbits the larger black hole, which weighs 200 million times the mass of our Sun, while its smaller blue companion weighs half as much. Zooming into each ",
+  "sorgu": "Einstein ring",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Visualizer: ",
+   "Science writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013800/a013831/13831_BlackHoleBinary_Simulation_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 6,
+  "sure": 190.7,
+  "tablo": "tablolar/svs13831.jpg"
+ },
+ {
+  "id": "svs13326",
+  "svs": 13326,
+  "baslik": "Black Hole Accretion Disk Visualization",
+  "tur": "Produced Video",
+  "tarih": "2019-09-25",
+  "aciklama": "This movie shows a complete revolution around a simulated black hole and its accretion disk following a path that is perpendicular to the disk. The black hole’s extreme gravitational field redirects and distorts light coming from different parts of the disk, but exactly what we see depends on our viewing angle. The greatest distortion occurs when viewing the system nearly edgewise. As our viewpoin",
+  "sorgu": "Einstein ring",
+  "insan_suphesi": true,
+  "krediler": [
+   "Visualizer: ",
+   "Producer: ",
+   "Science writer: ",
+   "Graphics: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_Stationary_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 15,
+  "sure": 15.2,
+  "tablo": "tablolar/svs13326.jpg"
+ },
+ {
+  "id": "svs13043",
+  "svs": 13043,
+  "baslik": "New Simulation Sheds Light on Spiraling Supermassive Black Holes",
+  "tur": "Produced Video",
+  "tarih": "2018-10-02",
+  "aciklama": "Gas glows brightly in this computer simulation of supermassive black holes only 40 orbits from merging. Models like this may eventually help scientists pinpoint real examples of these powerful binary systems. Credit: NASA's Goddard Space Flight Center/Scott Noble; simulation data, d'Ascoli et al. 2018Music: \"Games Show Sphere 01\" from Killer TracksWatch this video on the NASA Goddard YouTube chann",
+  "sorgu": "Einstein ring",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs12880",
+  "svs": 12880,
+  "baslik": "Cosmic Designs and The Planets",
+  "tur": "Produced Video",
+  "tarih": "2018-03-05",
+  "aciklama": "Greetings and welcome to “Cosmic Designs” a performance by the National Philharmonic presented in partnership with NASA’s Goddard Space Flight Center.“Cosmic Designs” is a voyage that blends together science and art. The pursuit of knowledge and the creative drive for artistic expression are inherent to the human condition. The melding of NASA imagery and symphonic music we present here showcases ",
+  "sorgu": "Einstein ring",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Animator: ",
+   "Science writer: ",
+   "Project support: ",
+   "Editor: ",
+   "Visualizer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012800/a012880/11.Neptune.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 13,
+  "sure": 30.0,
+  "tablo": "tablolar/svs12880.jpg"
+ },
+ {
+  "id": "svs14499",
+  "svs": 14499,
+  "baslik": "Hubble’s Inside The Image: Abell 2744",
+  "tur": "Produced Video",
+  "tarih": "2024-01-05",
+  "aciklama": "The Hubble Space Telescope has taken over 1.5 million observations over the years. One of them is the incredible image of Abell 2744.Abell 2744, known as Pandora's Cluster, nestled in the Sculptor constellation, emerges as a celestial marvel. This cosmic spectacle showcases an intricate dance of galaxies, clusters, and dark matter, captivating astronomers and enthusiasts alike.In this video, Dr. B",
+  "sorgu": "dark matter lensing cluster",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs20244",
+  "svs": 20244,
+  "baslik": "Dark Matter Gravitational Lensing Animation",
+  "tur": "Animation",
+  "tarih": "2016-09-20",
+  "aciklama": "Animation illustrating light from a cluster of galaxies being lensed by dark matter. || GravLens_fr_00168_print.jpg (1024x576) [59.0 KB] || GravLens_fr_00168.png (3840x2160) [3.1 MB] || GravLens_fr_00168_searchweb.png (320x180) [43.7 KB] || GravLens_fr_00168_thm.png (80x40) [4.4 KB] || GravLens_H2641080p.mov (1920x1080) [27.1 MB] || GravLens_H2641080p.webm (1920x1080) [1.7 MB] || 3840x2160_16x9_30",
+  "sorgu": "dark matter lensing cluster",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Scientist: ",
+   "Producer: "
+  ]
+ },
+ {
+  "id": "svs30094",
+  "svs": 30094,
+  "baslik": "Chandra and the Bullet Cluster",
+  "tur": "Hyperwall Visual",
+  "tarih": "2013-10-17",
+  "aciklama": "This composite image shows the galaxy cluster 1E 0657-56, also known as the \"bullet cluster.\" This cluster was formed after the collision of two large clusters of galaxies, the most energetic event known in the universe since the Big Bang. Hot gas detected by Chandra in X-rays is seen as two pink clumps in the image and contains most of the \"normal,\" or baryonic, matter in the two clusters. The bu",
+  "sorgu": "dark matter lensing cluster",
+  "insan_suphesi": false,
+  "krediler": [
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a000000/a001700/a001703/4559_Kepler_Neptune_Twitter_720.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 1,
+  "sure": 118.8,
+  "tablo": "tablolar/svs30094.jpg"
+ },
+ {
+  "id": "svs14801",
+  "svs": 14801,
+  "baslik": "Astrophysics Explainer Vertical Video",
+  "tur": "Produced Video",
+  "tarih": "2025-05-27",
+  "aciklama": "This page contains vertically-formatted Astrophysics videos related to explainer videos.",
+  "sorgu": "black hole spin",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Project support: ",
+   "Social Media Producer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014905/Final_-_Vertical_-_Jets_-_BHE.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 14
+ },
+ {
+  "id": "svs12956",
+  "svs": 12956,
+  "baslik": "Spectroscopy, Explained",
+  "tur": "Produced Video",
+  "tarih": "2023-08-15",
+  "aciklama": "Video producer Sophia Roberts explains the basic principles behind spectroscopy, the science of reading light to determine the size, distance, spin and chemical composition of distant objects in space. Complete transcript available.Music Credits:Universal Production MusicOxygenate the Idea – by Amon Turner, Banksman, Eben StoneJungle Bounce – by Siddharth NadkarniSilent Patient – by Paul Reeves Ba",
+  "sorgu": "black hole spin",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Technical support: ",
+   "Videographer: ",
+   "Editor: ",
+   "Science writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012900/a012956/Spectroscopy,_Explained_Final_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3
+ },
+ {
+  "id": "svs14281",
+  "svs": 14281,
+  "baslik": "Fermi Spots Gamma-ray Eclipsing 'Spider Systems'",
+  "tur": "Produced Video",
+  "tarih": "2023-01-26",
+  "aciklama": "An orbiting star begins to eclipse its partner, a rapidly rotating, superdense stellar remnant called a pulsar, in this illustration. The pulsar emits multiwavelength beams of light that rotate in and out of view and produces outflows that heat the star’s facing side, blowing away material and eroding its partner.Credit: NASA/Sonoma State University, Aurore Simonnet || GamRayEclipseG22.jpg (1800x1",
+  "sorgu": "black hole spin",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Producer: ",
+   "Illustrator: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014200/a014281/GamRayEclipseG22Ani8b.mp4",
+   "w": 900,
+   "h": 600
+  },
+  "dosya_sayisi": 2,
+  "sure": 6.1,
+  "tablo": "tablolar/svs14281.jpg"
+ },
+ {
+  "id": "svs14209",
+  "svs": 14209,
+  "baslik": "NASA’s Compton Mission Glimpses Supersized Neutron Stars",
+  "tur": "Produced Video",
+  "tarih": "2023-01-09",
+  "aciklama": "This simulation tracks the gravitational wave and density changes as two orbiting neutron stars crash together. Dark purple colors represent the lowest densities, while yellow-white shows the highest. An audible tone and a visual frequency scale (at left) track the steady rise in the frequency of gravitational waves as the neutron stars close. When the objects merge at 42 seconds, the gravitationa",
+  "sorgu": "black hole spin",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Scientist: ",
+   "Visualizer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014200/a014209/NS_Merger_Simulation_QPO_AAS_Slide_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 9,
+  "sure": 90.7,
+  "tablo": "tablolar/svs14209.jpg"
+ },
+ {
+  "id": "svs14217",
+  "svs": 14217,
+  "baslik": "Creating Black Hole Jets With a NASA Supercomputer",
+  "tur": "Produced Video",
+  "tarih": "2022-11-15",
+  "aciklama": "New simulations carried out on the NASA Center for Climate Simulation’s Discover supercomputer show how weaker, low-luminosity jets produced by a galaxy's monster black hole interact with their galactic environment. Because these jets are more difficult to detect, the simulations help astronomers link these interactions to features they can observe, such as various gas motions and optical and X-ra",
+  "sorgu": "black hole spin",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Interviewee: ",
+   "Scientist: ",
+   "Videographer: ",
+   "Video editor: ",
+   "Editor: ",
+   "Visualizer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014200/a014217/14217_AGN_Outflow_FINAL_1080_Best.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2
+ },
+ {
+  "id": "svs14189",
+  "svs": 14189,
+  "baslik": "50th Anniversary of NASA's Copernicus Mission",
+  "tur": "Produced Video",
+  "tarih": "2022-08-19",
+  "aciklama": "Watch: This vintage segment on Copernicus comes from a 1973 edition of “The Science Report,” a long-running film series produced by the U.S. Information Agency. Credit: National Archives (306-SR-138B)Watch this video on the NASA Goddard YouTube channel.Complete transcript available. || OAO-CopernicusFilm.02735_print.jpg (1024x768) [108.8 KB] || OAO-CopernicusFilm.mov (1440x1080) [2.1 GB] || OAO-Co",
+  "sorgu": "black hole spin",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014100/a014189/OAO-Copernicus-ColorCorrected.mp4",
+   "w": 1440,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 191.0,
+  "tablo": "tablolar/svs14189.jpg"
+ },
+ {
+  "id": "svs14132",
+  "svs": 14132,
+  "baslik": "Black Hole Week: Black Hole GIFs",
+  "tur": "Produced Video",
+  "tarih": "2022-04-12",
+  "aciklama": "Black Hole WeekThis page provides social media assets used during previous celebrations of Black Hole Week. Join in! Below, you'll find many GIFs to use. || ",
+  "sorgu": "black hole spin",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Support: "
+  ]
+ },
+ {
+  "id": "svs12783",
+  "svs": 12783,
+  "baslik": "SuperTIGER Ready to Fly Again in Study of Heavy Cosmic Rays",
+  "tur": "Infographic",
+  "tarih": "2017-12-06",
+  "aciklama": "SuperTIGER team members Brian Rauch, Jason Link and Nathan Walsh join NASA Blueshift's Sara Mitchell for a Skype conversation in November 2017 about the instrument's science, technology and upcoming launch from McMurdo Station, Antarctica. Credit: NASA's Goddard Space Flight CenterComplete transcript available. || SuperTIGER_Skype_Still.png (1280x720) [1.2 MB] || SuperTIGER_Skype2.webm (1280x720) ",
+  "sorgu": "black hole spin",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Associate producer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012700/a012783/SuperTIGER_Skype2_best.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 2
+ },
+ {
+  "id": "svs14922",
+  "svs": 14922,
+  "baslik": "Anatomy of an Active Galactic Nucleus",
+  "tur": "Produced Video",
+  "tarih": "2025-12-01",
+  "aciklama": "An active galactic nucleus, or AGN, is a supermassive black hole at the center of a galaxy that is consuming surrounding matter. Although the black hole itself is not visible, the structures around it emit light across many wavelengths. The artist’s concepts here highlight distinct structures that can accompany an AGN — the photon ring, accretion disk, corona, dusty torus, and relativistic jets. |",
+  "sorgu": "relativistic jet",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Producer: ",
+   "Science writer: "
+  ]
+ },
+ {
+  "id": "svs31302",
+  "svs": 31302,
+  "baslik": "NASA's Balloon Program",
+  "tur": "Hyperwall Visual",
+  "tarih": "2024-08-02",
+  "aciklama": "Scientific Balloon Program Infographic || nasa-scientific-balloon-facts_print.jpg (1024x576) [171.2 KB] || nasa-scientific-balloon-facts.png (3840x2160) [3.0 MB] || nasa-scientific-balloon-facts_searchweb.png (320x180) [58.8 KB] || nasa-scientific-balloon-facts_thm.png (80x40) [6.3 KB] || nasas-balloon-program-infographic.hwshow [280 bytes] || ",
+  "sorgu": "relativistic jet",
+  "insan_suphesi": false,
+  "krediler": [
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a031300/a031302/LIFT-OFF-NZ-Super-Pressure-Balloon-launch.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 1,
+  "sure": 75.5,
+  "tablo": "tablolar/svs31302.jpg"
+ },
+ {
+  "id": "svs14585",
+  "svs": 14585,
+  "baslik": "Beyond the Brink: Tracking a Simulated Plunge into a Black Hole",
+  "tur": "Visualization",
+  "tarih": "2024-05-06",
+  "aciklama": "In this all-sky view, the camera approaches a supermassive black hole weighing 4.3 million Suns. It is about 70 million miles (113 million kilometers) from the black hole’s event horizon, the boundary of no return. It’s moving inward at 19% the speed of light — nearly 127 million mph (205 million kph). A flat, swirling cloud of hot, glowing gas called an accretion disk surrounds the black hole and",
+  "sorgu": "relativistic jet",
+  "insan_suphesi": false,
+  "krediler": [
+   "Writer: ",
+   "Support: ",
+   "Producer: ",
+   "Visualizer: "
+  ]
+ },
+ {
+  "id": "svs14220",
+  "svs": 14220,
+  "baslik": "Hubble Reveals Ultra-Relativistic Jet",
+  "tur": "Produced Video",
+  "tarih": "2022-10-12",
+  "aciklama": "Astronomers using NASA’s Hubble Space Telescope have found a jet propelled through space at nearly the speed of light by the titanic collision between two neutron stars, which are the collapsed cores of massive supergiant stars.For more information, visit https://nasa.gov/hubble. Music & Sound“Grip the Nation” by JKyle Gabbidon [PRS] via Ninja Tune Production Music [PRS] and Universal Production M",
+  "sorgu": "relativistic jet",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Narrator: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014200/a014220/14220_JET_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 106.8,
+  "tablo": "tablolar/svs14220.jpg"
+ },
+ {
+  "id": "svs4646",
+  "svs": 4646,
+  "baslik": "Pulsar Current Sheets - Positron Flows",
+  "tur": "Visualization",
+  "tarih": "2018-10-10",
+  "aciklama": "This movie presents a basic tour around the simulation magnetic field including motion of the high-energy positrons. This version is generated with some simple reference objects for more general use. || PulsarParticles_grid_positrons_tour_inertial.HD1080i.01001_print.jpg (1024x576) [114.9 KB] || tour-glyph (1920x1080) [0 Item(s)] || PulsarParticles_grid_positrons_tour.HD1080i_p30.mp4 (1920x1080) [",
+  "sorgu": "relativistic jet",
+  "insan_suphesi": false,
+  "krediler": [
+   "Data visualizer: ",
+   "Producer: ",
+   "Writer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a000000/a004600/a004646/PulsarParticles_positrons_polar_inertial.HD1080i_p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 12,
+  "sure": 36.7,
+  "tablo": "tablolar/svs4646.jpg"
+ },
+ {
+  "id": "svs4649",
+  "svs": 4649,
+  "baslik": "Plasma Zoo: Gyroresonant Scattering",
+  "tur": "Visualization",
+  "tarih": "2018-05-29",
+  "aciklama": "In a background magnetic field, represented by the cyan arrows, two electrons are propagating to the right, executing identical gyromotion. A circularly polarized electromagnetic wave approaches the upper electron from the left. || GyroresonanceV3_RideAlong_inertial.HD1080i.0150_print.jpg (1024x576) [85.3 KB] || GyroresonanceV3_RideAlong_inertial.HD1080i.0150_searchweb.png (320x180) [55.9 KB] || G",
+  "sorgu": "relativistic jet",
+  "insan_suphesi": false,
+  "krediler": [
+   "Data visualizer: ",
+   "Writer: ",
+   "Scientist: ",
+   "Project support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a000000/a004600/a004649/GyroresonanceV3_ZAxisTravel.HD1080i_p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 4,
+  "sure": 20.0,
+  "tablo": "tablolar/svs4649.jpg"
+ },
+ {
+  "id": "svs12543",
+  "svs": 12543,
+  "baslik": "The Electron Beltway",
+  "tur": "Produced Video",
+  "tarih": "2018-04-30",
+  "aciklama": "NASA's Van Allen Probes reveal how electrons move through the radiation belts that surround Earth. || 12249_1280.jpg (1280x720) [576.4 KB] || 12249_1280_1024x576.jpg (1024x576) [386.3 KB] || ",
+  "sorgu": "relativistic jet",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Producer: ",
+   "Scientist: ",
+   "Writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012500/a012543/12328_SuperchargingtheRadiationBeltsV2_high.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 2,
+  "sure": 48.9,
+  "tablo": "tablolar/svs12543.jpg"
+ },
+ {
+  "id": "svs4557",
+  "svs": 4557,
+  "baslik": "Leaky Radiation Belts",
+  "tur": "Visualization",
+  "tarih": "2017-03-15",
+  "aciklama": "This visualization opens with a full view of the radiation belt of trapped electrons circling Earth. We open a slice of the belts, to display a cross-section for clarity and move the camera to a more equatorial view. Earth rotation and solar motion have been turned off for this visualization to reduce distracting additional motions. || LeakyBelts_FullData_ObliqueIntro.slate_CRTT.HD1080i.0600_print",
+  "sorgu": "relativistic jet",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Scientist: ",
+   "Writer: ",
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a000000/a004500/a004557/LeakyBelts_FullData_ObliqueIntro.HD1080i_p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 49.9,
+  "tablo": "tablolar/svs4557.jpg"
+ },
+ {
+  "id": "svs14905",
+  "svs": 14905,
+  "baslik": "Black Hole Environments, Explained",
+  "tur": "Produced Video",
+  "tarih": "2025-11-28",
+  "aciklama": "If light can’t escape black holes, how do we know where they are? The regions around them tell an incredible story. From blazing coronas and swirling accretion disks to powerful jets that stretch millions of miles, these extreme environments reveal black holes' secrets and how these mysterious objects shape the universe.Join host Sophia Roberts as she talks with researchers Jenna Cann and Cecilia ",
+  "sorgu": "blazar",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Scientist: ",
+   "Animator: ",
+   "Science writer: ",
+   "Camera operator: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014905/FINAL_-_14905_-_Black_Hole_Environments_Explained_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 10
+ },
+ {
+  "id": "svs14800",
+  "svs": 14800,
+  "baslik": "Astrophysics Holiday Vertical Video",
+  "tur": "Produced Video",
+  "tarih": "2025-05-27",
+  "aciklama": "This page contains vertically-formatted Astrophysics videos related to holidays or fun projects.",
+  "sorgu": "blazar",
+  "insan_suphesi": false,
+  "krediler": [
+   "Social Media Producer: ",
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014800/a014800/toasted_marshmallows_cropped.mp4",
+   "w": 1080,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 29.7,
+  "tablo": "tablolar/svs14800.jpg"
+ },
+ {
+  "id": "svs14799",
+  "svs": 14799,
+  "baslik": "Astrophysics: Observing the Universe Vertical Video",
+  "tur": "Produced Video",
+  "tarih": "2025-05-27",
+  "aciklama": "This page contains vertically-formatted Astrophysics videos related to general astrophysical imagery.",
+  "sorgu": "blazar",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14834",
+  "svs": 14834,
+  "baslik": "Cosmic Dawn: The Untold Story of the James Webb Space Telescope",
+  "tur": "Produced Video",
+  "tarih": "2025-05-12",
+  "aciklama": "For more than three decades, NASA and an international team of scientists and engineers pushed the limits of technology, innovation, and perseverance to build and launch the James Webb Space Telescope, the most powerful space observatory ever created. Cosmic Dawn brings audiences behind the scenes with the Webb film crew, and never-before-heard testimonies revealing the real story of how this tele",
+  "sorgu": "blazar",
+  "insan_suphesi": true,
+  "krediler": [
+   "Director: ",
+   "Writer: ",
+   "Producer: ",
+   "Executive producer: ",
+   "Director of photography: ",
+   "Editor: ",
+   "Videographer: ",
+   "Drone crew: ",
+   "Associate producer: ",
+   "Line Producer: ",
+   "Co-Executive Producer: ",
+   "Photographer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014800/a014834/CosmicDawn_Described.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 8,
+  "sure": 22.2,
+  "tablo": "tablolar/svs14834.jpg"
+ },
+ {
+  "id": "svs14762",
+  "svs": 14762,
+  "baslik": "2.5 Billion Pixel Image of Galaxy Shot by Hubble",
+  "tur": "Produced Video",
+  "tarih": "2025-01-16",
+  "aciklama": "The Andromeda galaxy holds over 1 trillion stars and has been a key to unlocking the secrets of the universe. Thanks to NASA’s Hubble Space Telescope, we’re now seeing Andromeda in stunning new detail, revealing its dynamic history and unique structure.Recent Hubble surveys mapped the galaxy’s entire disk—an effort spanning a decade and over 1,000 orbits—showing everything from young stars to remn",
+  "sorgu": "blazar",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014700/a014762/14762_ANDROMEDA_WIDE_1080_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3
+ },
+ {
+  "id": "svs14737",
+  "svs": 14737,
+  "baslik": "Curious Universe Video Episode: The Mind-bending Math Inside Black Holes",
+  "tur": "Produced Video",
+  "tarih": "2024-12-17",
+  "aciklama": "This is a special video edition of NASA's podcast, Curious Universe.Black holes are mysterious, far away, and can bend the fabric of reality itself—but we're learning more about them all the time. Ronald Gamble, a NASA theoretical astrophysicist, uses math, computer coding, and a dash of creativity to peer inside some of the universe's most extreme objects. We'll explore what it would feel like to",
+  "sorgu": "blazar",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Video editor: ",
+   "Videographer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014700/a014737/CuriousUniverseBHClipJetsHorizFinal.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 5
+ },
+ {
+  "id": "svs14721",
+  "svs": 14721,
+  "baslik": "What's In A Name? NASA's Swift Mission",
+  "tur": "Produced Video",
+  "tarih": "2024-11-20",
+  "aciklama": "Watch to learn how NASA’s Neil Gehrels Swift Observatory got its name.Credit: NASA’s Goddard Space Flight CenterMusic: “In a Conundrum,” Pip Heywood [PRS], Universal Production Music“Spinning Particles,” Christian Telford [ASCAP] and Koichi Sanchez-Imahashi [ASCAP], Universal Production MusicWatch this video on the NASA Goddard YouTube channel.Complete transcript available. || Swift_Name_20_Thumbn",
+  "sorgu": "blazar",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Narrator: ",
+   "Animator: ",
+   "Visualizer: ",
+   "Editor: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014700/a014721/14721_Swift20_WhatsInAName_Best.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 162.0,
+  "tablo": "tablolar/svs14721.jpg"
+ },
+ {
+  "id": "svs11738",
+  "svs": 11738,
+  "baslik": "Infographic: NASA's Neil Gehrels Swift Observatory",
+  "tur": "Infographic",
+  "tarih": "2024-11-20",
+  "aciklama": "This infographic summarizes key aspects of NASA's Swift mission, from its instruments to scientific results gleaned from 20 years of operations. Swift is still going strong, and the observatory remains a key part of NASA’s strategy to monitor the changing sky with multiple telescopes using different approaches for studying the cosmos.Credit: NASA's Goddard Space Flight CenterClick the download but",
+  "sorgu": "blazar",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Design: ",
+   "Writer: ",
+   "Scientist: "
+  ]
+ },
+ {
+  "id": "svs14690",
+  "svs": 14690,
+  "baslik": "Ten Years at Mars with NASA’s MAVEN Mission",
+  "tur": "Produced Video",
+  "tarih": "2024-09-23",
+  "aciklama": "During its first decade at Mars, MAVEN has helped to explain how the Red Planet evolved from warm and wet into the cold, dry world we see today. Complete transcript available.Universal Production Music: “Executive Deceit” by Samuel Karl Bohn [PRS], Chalk Music [PRS]; “Quasar” by Ross Stephen Gilmartin [PRS], Chappell Recorded Music Library Ltd [PRS]; “Modular Odyssey” and “Synthology” by Laetitia ",
+  "sorgu": "quasar",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs14523",
+  "svs": 14523,
+  "baslik": "Understanding Cosmic Dawn",
+  "tur": "Produced Video",
+  "tarih": "2024-07-25",
+  "aciklama": "In this 15-minute \"mini podcast\", NASA astrosphysicist Michelle Thaller talks about the early universe, the cosmic dark ages, cosmic dawn and why these different stages happened.Credit: NASA's Goddard Space Flight CenterComplete transcript available. || CosmicDawnPodcast_ThumbnailFinal.jpg (1920x1080) [178.2 KB] || Cosmic_Dawn_MiniPodcast_FINAL.mp3 [21.8 MB] || CosmicDawnPodcastCaptions.en_US.srt ",
+  "sorgu": "quasar",
+  "insan_suphesi": true,
+  "krediler": [
+   "Graphics: ",
+   "Science writer: ",
+   "Interviewee: ",
+   "Narrator: "
+  ]
+ },
+ {
+  "id": "svs14146",
+  "svs": 14146,
+  "baslik": "Black Hole Desktop & Phone Wallpapers",
+  "tur": "Produced Video",
+  "tarih": "2022-05-04",
+  "aciklama": "While black holes can’t emit their own light, matter surrounding and falling toward it can create quite a light show. Here you’ll find a collection of data visualizations, illustrations, and telescope images of black hole environments. Download these phone and desktop wallpapers for your screens. || ",
+  "sorgu": "quasar",
+  "insan_suphesi": false,
+  "krediler": [
+   "Support: ",
+   "Producer: ",
+   "Science writer: "
+  ]
+ },
+ {
+  "id": "svs4986",
+  "svs": 4986,
+  "baslik": "Space Geodesy Project",
+  "tur": "Visualization",
+  "tarih": "2022-03-29",
+  "aciklama": "NASA's Space Geodesy Project (SGP) uses a variety of space- and land-based techniques to determine the precise shape, position, and orientation of the Earth with respect to the Terrestrial Reference Frame (TRF) and Earth orientation parameters (EOP). This visualization presents a summary of these techniques.The visualization begins with a shot of natural-looking Earth, then transitions to a view t",
+  "sorgu": "quasar",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs13083",
+  "svs": 13083,
+  "baslik": "Hubble Archive - Post-Deployment",
+  "tur": "Produced Video",
+  "tarih": "2018-10-04",
+  "aciklama": "Digitized tape of the press conference from June 27, 1990 where Ed Weiler and others explain the Hubble Space Telescope's spherical aberration problem and its impact to the science instruments. The aberration wouldn't much affect UV or IR observations, but the Wide Field Planetary Camera would be largely affected since it used visible wavelengths. TRT: 30:00Participants: Douglas Broome, HST Progra",
+  "sorgu": "quasar",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013000/a013083/GSFC_19920423_HST_m001.mp4",
+   "w": 720,
+   "h": 480
+  },
+  "dosya_sayisi": 3
+ },
+ {
+  "id": "svs12539",
+  "svs": 12539,
+  "baslik": "Hubble Detects a Rogue Supermassive Black Hole",
+  "tur": "Produced Video",
+  "tarih": "2017-03-23",
+  "aciklama": "The Hubble Space Telescope captured an image of a quasar named 3C 186 that is offset from the center of its galaxy. Astronomers hypothesize that this supermassive black hole was jettisoned from the center of its galaxy by the recoil from gravitational waves produced by the merging of two supermassive black holes. Read the press release here - https://www.nasa.gov/feature/goddard/2017/feature/gravi",
+  "sorgu": "quasar",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs11821",
+  "svs": 11821,
+  "baslik": "Suzaku, Herschel Link a Black-hole 'Wind' to a Galactic Gush",
+  "tur": "Produced Video",
+  "tarih": "2015-03-25",
+  "aciklama": "This movie illustrates how black-hole feedback works in quasars. Dense gas and dust in the center simultaneously fuels the black hole and shrouds it from view. The black-hole wind propels large-scale outflows of cold gas and powers a shock wave that clears gas and dust from the central galaxy.Video credit: NASA's Goddard Space Flight Center || Suzaku_Quasar_Wind_STILL.png (1920x1080) [8.1 MB] || S",
+  "sorgu": "quasar",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs11342",
+  "svs": 11342,
+  "baslik": "Fermi's Five-year View of the Gamma-ray Sky",
+  "tur": "Produced Video",
+  "tarih": "2013-08-21",
+  "aciklama": "This all-sky view shows how the sky appears at energies greater than 1 billion electron volts (GeV) according to five years of data from NASA's Fermi Gamma-ray Space Telescope. (For comparison, the energy of visible light is between 2 and 3 electron volts.) The image contains 60 months of data from Fermi's Large Area Telescope; for better angular resolution, the map shows only gamma rays converted",
+  "sorgu": "quasar",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs11031",
+  "svs": 11031,
+  "baslik": "Space Geodesy Profiles",
+  "tur": "Produced Video",
+  "tarih": "2012-07-05",
+  "aciklama": "Scientists from NASA's Space Geodesy Project discuss the techniques they use to precisely measure the Earth's position in the universe, determine the Earth's center of mass, calibrate satellites, observe sea level rise, and track the movements of the tectonic plates. || ",
+  "sorgu": "quasar",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs10964",
+  "svs": 10964,
+  "baslik": "Using Quasars to Measure the Earth: A Brief History of VLBI",
+  "tur": "Produced Video",
+  "tarih": "2012-06-21",
+  "aciklama": "VLBI, or Very Long Baseline Interferometry, is a technique that uses multiple radio telescopes to very precisely measure the Earth's orientation. It was originally invented back in the 1960s to take better pictures of quasars, but scientists soon found out that if you threw the process in reverse, you could measure how the ground beneath the telescopes moves around, how long days really are, and h",
+  "sorgu": "quasar",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs14818",
+  "svs": 14818,
+  "baslik": "Plunge: Behind the Scenes Creating NASA's Black Hole Visualization",
+  "tur": "Produced Video",
+  "tarih": "2025-09-26",
+  "aciklama": "Behind the scenes video about the Black Hole visualization from 2024",
+  "sorgu": "accretion disk simulation",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Videographer: ",
+   "Interviewee: ",
+   "Science writer: ",
+   "Data visualizer: ",
+   "Narrator: ",
+   "Editor: ",
+   "Interviewer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014800/a014818/14818_Plunge_BlackHoleViz_BTS_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3
+ },
+ {
+  "id": "svs14793",
+  "svs": 14793,
+  "baslik": "Black Holes Vertical Video",
+  "tur": "Produced Video",
+  "tarih": "2025-05-27",
+  "aciklama": "This page collects Astrophysics vertical videos with black-hole-related content",
+  "sorgu": "accretion disk simulation",
+  "insan_suphesi": false,
+  "krediler": [
+   "Social Media Producer: ",
+   "Producer: ",
+   "Science writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014500/a014574/BHW_2024_Hitchcock_Teaser_Reel.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 19
+ },
+ {
+  "id": "svs10662",
+  "svs": 10662,
+  "baslik": "Webb Science Simulations: Planetary Systems and Origins of Life",
+  "tur": "Produced Video",
+  "tarih": "2021-04-14",
+  "aciklama": "Supercomputer simulations of planeratry evolution. Part 1: Turbulent Molecular Cloud Nebula with Protostellar ObjectsThe Advanced Visualization Laboratory (AVL) at the National Center for Supercomputing Applications (NCSA) collaborated with NASA and Drs. Alexei Kritsuk and Michael Norman to visualize a computational data set of a turbulent molecular cloud nebula forming protostellar objects and ac",
+  "sorgu": "accretion disk simulation",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Producer: ",
+   "Scientist: "
+  ]
+ },
+ {
+  "id": "svs20367",
+  "svs": 20367,
+  "baslik": "Gravitational Wave",
+  "tur": "Animation",
+  "tarih": "2022-04-28",
+  "aciklama": "Two black holes orbit around each other and generate space-time ripples called gravitational waves in this animation. As the black holes get closer, the waves increase in frequency. Eventually, the event horizons merge into a peanut-shaped object, generating one very high-frequency wave. Within a rotation, the black holes merge completely. One lower-frequency wave, called the ring down, ripples ou",
+  "sorgu": "black hole merger gravitational waves",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs13197",
+  "svs": 13197,
+  "baslik": "Gravitational Wave Simulations of Merging Black Holes: 1080 and 8k Resolutions",
+  "tur": "Produced Video",
+  "tarih": "2020-02-11",
+  "aciklama": "This visualization shows gravitational waves emitted by two black holes (black spheres) of nearly equal mass as they spiral together and merge. Yellow structures near the black holes illustrate the strong curvature of space-time in the region. Orange ripples represent distortions of space-time caused by the rapidly orbiting masses. These distortions spread out and weaken, ultimately becoming gravi",
+  "sorgu": "black hole merger gravitational waves",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs12969",
+  "svs": 12969,
+  "baslik": "Fermi Satellite Celebrates 10 Years of Discoveries",
+  "tur": "Produced Video",
+  "tarih": "2018-06-11",
+  "aciklama": "Watch a two-minute video on how NASA's Fermi Gamma-ray Space Telescope has revolutionized our understanding of the high-energy sky over its first 10 years in space. Credit: NASA's Goddard Space Flight CenterMusic: \"Unseen Husband\" from Killer TracksWatch this video on the NASA Goddard YouTube channel.Complete transcript available. || Fermi_10_Still.jpg (1920x1080) [134.3 KB] || 12969_Fermi_10th_Sh",
+  "sorgu": "black hole merger gravitational waves",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Narrator: ",
+   "Animator: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012900/a012969/12969_Fermi_10th_Long.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 143.4,
+  "tablo": "tablolar/svs12969.jpg"
+ },
+ {
+  "id": "svs12587",
+  "svs": 12587,
+  "baslik": "Gigantic Wave Discovered in Perseus Galaxy Cluster",
+  "tur": "Produced Video",
+  "tarih": "2017-05-02",
+  "aciklama": "A wave spanning 200,000 light-years is rolling through the Perseus galaxy cluster, according to observations from NASA's Chandra X-ray Observatory coupled with a computer simulation. The simulation shows the gravitational disturbance resulting from the distant flyby of a galaxy cluster about a tenth the mass of the Perseus cluster. The event causes cooler gas at the heart of the Perseus cluster to",
+  "sorgu": "black hole merger gravitational waves",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Scientist: ",
+   "Visualizer: ",
+   "Graphics: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012500/a012587/12587_Perseus_Wind.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 1
+ },
+ {
+  "id": "svs12216",
+  "svs": 12216,
+  "baslik": "NASA's Fermi Preps to Narrow Down Gravitational Wave Sources",
+  "tur": "Produced Video",
+  "tarih": "2016-04-18",
+  "aciklama": "Fermi's GBM saw a fading X-ray flash at nearly the same moment LIGO detected gravitational waves from a black hole merger in 2015. This movie shows how scientists can narrow down the location of the LIGO source on the assumption that the burst is connected to it. In this case, the LIGO search area is reduced by two-thirds. Greater improvements are possible in future detections.Credit: NASA's Godda",
+  "sorgu": "black hole merger gravitational waves",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs11922",
+  "svs": 11922,
+  "baslik": "Black Hole or Mega Star?",
+  "tur": "Produced Video",
+  "tarih": "2015-10-20",
+  "aciklama": "Scientists probe an exotic object in a distant galaxy. || c-1280.jpg (1280x720) [157.7 KB] || c-1024.jpg (1024x576) [118.3 KB] || c-1024_print.jpg (1024x576) [123.2 KB] || c-1024_searchweb.png (320x180) [40.4 KB] || c-1024_web.png (320x180) [40.4 KB] || c-1024_thm.png (80x40) [13.5 KB] || ",
+  "sorgu": "black hole merger gravitational waves",
+  "insan_suphesi": true,
+  "krediler": [
+   "Writer: ",
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a011900/a011922/10082-1280-MASTER_high.mp4",
+   "w": 960,
+   "h": 540
+  },
+  "dosya_sayisi": 2,
+  "sure": 26.9,
+  "tablo": "tablolar/svs11922.jpg"
+ },
+ {
+  "id": "svs10082",
+  "svs": 10082,
+  "baslik": "Swift Probes Exotic Object: 'Kicked' Black Hole or Mega Star?",
+  "tur": "Produced Video",
+  "tarih": "2014-11-19",
+  "aciklama": "Zoom into Markarian 177 and SDSS1133 and see how they compare with a simulated galaxy collision. When the central black holes in these galaxies combine, a \"kick\" launches the merged black hole on a wide orbit taking it far from the galaxy's core. Credit: NASA's Goddard Space Flight Center/L. Blecha (UMD) || Zoom_Still.jpg (1920x1080) [363.8 KB] || Zoom_Still_print.jpg (1024x576) [137.1 KB] || Zoom",
+  "sorgu": "black hole merger gravitational waves",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14955",
+  "svs": 14955,
+  "baslik": "NASA Tests LISA Development Units",
+  "tur": "Produced Video",
+  "tarih": "2026-01-27",
+  "aciklama": "A prototype charge management device for the future LISA (Laser Interferometer Space Antenna) mission sits on a lab bench at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. The device will reduce the buildup of electric charge on the gold-platinum test masses that float freely inside each of the three LISA spacecraft. The University of Florida in Gainesville and Fibertek Inc. in McNair,",
+  "sorgu": "LISA gravitational waves",
+  "insan_suphesi": false,
+  "krediler": [
+   "Photographer: ",
+   "Science writer: ",
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs14698",
+  "svs": 14698,
+  "baslik": "NASA Reveals LISA Engineering Development Unit Telescope",
+  "tur": "Produced Video",
+  "tarih": "2024-10-22",
+  "aciklama": "NASA has revealed the first look at a full-scale prototype for six telescopes that will enable, in the next decade, the space-based detection of gravitational waves — ripples in space-time caused by merging black holes and other cosmic sources.The LISA (Laser Interferometer Space Antenna) mission is led by ESA (European Space Agency) in partnership with NASA to detect gravitational waves by using ",
+  "sorgu": "LISA gravitational waves",
+  "insan_suphesi": true,
+  "krediler": [
+   "Science writer: ",
+   "Technical support: ",
+   "Photographer: "
+  ]
+ },
+ {
+  "id": "svs14402",
+  "svs": 14402,
+  "baslik": "Simulated Gravitational Wave All-Sky Image",
+  "tur": "Produced Video",
+  "tarih": "2023-09-20",
+  "aciklama": "Watch as gravitational waves from a simulated population of compact binary systems combine into a synthetic map of the entire sky. Such systems contain white dwarfs, neutron stars, or black holes in tight orbits. Maps like this using real data will be possible once space-based gravitational wave observatories become active in the next decade. The center of our Milky Way galaxy lies at the center o",
+  "sorgu": "LISA gravitational waves",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs13332",
+  "svs": 13332,
+  "baslik": "How LISA Pathfinder Detected Dozens of 'Comet Crumbs'",
+  "tur": "Produced Video",
+  "tarih": "2019-11-18",
+  "aciklama": "NASA scientists used data from ESA’s (the European Space Agency’s) LISA Pathfinder mission to detect 54 micrometeoroid impacts on the spacecraft. The research will help scientists learn more about how dust behaves in our planetary system and those around other stars. Credit: NASA’s Goddard Space Flight CenterMusic: \"Vibrating\" (Instrumental) and \"Treacherous Path\" (Instrumental) both from Universa",
+  "sorgu": "LISA gravitational waves",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Visualizer: ",
+   "Animator: ",
+   "Scientist: ",
+   "Narrator: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013300/a013332/13332_LPF_Impacts_2_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 179.9,
+  "tablo": "tablolar/svs13332.jpg"
+ },
+ {
+  "id": "svs12453",
+  "svs": 12453,
+  "baslik": "NASA Team Explores Using LISA Pathfinder as a 'Comet Crumb' Detector",
+  "tur": "Produced Video",
+  "tarih": "2017-04-17",
+  "aciklama": "In a proof-of-concept study, NASA scientists are exploring using the European Space Agency's LISA Pathfinder spacecraft as a micrometeoroid detector. When tiny particles shed by asteroids and comets impact LISA Pathfinder, its thrusters work to quickly counteract any change in the spacecraft's motion. Researchers are monitoring these signals to learn more about the impacting particles.Credit: NASA",
+  "sorgu": "LISA gravitational waves",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Animator: ",
+   "Science writer: ",
+   "Scientist: "
+  ]
+ },
+ {
+  "id": "svs12264",
+  "svs": 12264,
+  "baslik": "LISA Pathfinder Spaceflight Experiment a Rousing Success",
+  "tur": "Produced Video",
+  "tarih": "2016-06-07",
+  "aciklama": "The LISA Pathfinder mission is an ESA-led effort to demonstrate technologies for a future gravitational wave observatory in space. NASA Goddard astrophysicist Ira Thorpe, a member of the team, discusses the mission and its spectacular results so far. Credit: NASA's Goddard Space Flight CenterWatch this video on the NASA Goddard YouTube channel.Complete transcript available. || LPF_Still.png (1920x",
+  "sorgu": "LISA gravitational waves",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs30569",
+  "svs": 30569,
+  "baslik": "Listening to the Universe with Gravitational Waves",
+  "tur": "Hyperwall Visual",
+  "tarih": "2015-01-15",
+  "aciklama": "First image in presentation. || 2014_aas_ira_thorpe_01_title_slide_print.jpg (1024x574) [63.5 KB] || 2014_aas_ira_thorpe_01_title_slide.png (4104x2304) [2.3 MB] || 2014_aas_ira_thorpe_01_title_slide_searchweb.png (320x180) [28.0 KB] || 2014_aas_ira_thorpe_01_title_slide_web.png (320x179) [28.0 KB] || 2014_aas_ira_thorpe_01_title_slide_thm.png (80x40) [2.8 KB] || 2014_aas_ira_thorpe_12_title_slide.",
+  "sorgu": "LISA gravitational waves",
+  "insan_suphesi": false,
+  "krediler": [
+   "Technical support: ",
+   "Project support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030500/a030569/slide_10-B1_BH_inspiral.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 7,
+  "sure": 40.4,
+  "tablo": "tablolar/svs30569.jpg"
+ },
+ {
+  "id": "svs10544",
+  "svs": 10544,
+  "baslik": "Black Hole Binary Creates Gravity Waves",
+  "tur": "Produced Video",
+  "tarih": "2010-01-26",
+  "aciklama": "When smaller black holes orbit around a supermassive black hole, Einstein's theory of general relativity predicts that they will emit gravitational radiation. These ripples of space-time cause the orbits to shrink and gradually brings the black holes closer enough together to merge. || ",
+  "sorgu": "LISA gravitational waves",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a010500/a010544/LISA_BHClear_MP4_720x486_29.97.mp4",
+   "w": 720,
+   "h": 486
+  },
+  "dosya_sayisi": 3,
+  "sure": 60.6,
+  "tablo": "tablolar/svs10544.jpg"
+ },
+ {
+  "id": "svs10125",
+  "svs": 10125,
+  "baslik": "The LISA Spacecraft",
+  "tur": "Produced Video",
+  "tarih": "2007-07-03",
+  "aciklama": "The Laser Interferometer Space Antenna (LISA) consists of three spacecraft orbiting the sun in a triangular configuration. The LISA mission will study the mergers of supermassive black holes, test Einstein's theory of general relativity, probe the early universe, and search for gravitational waves. As these passing waves ripple space and time, they will alter the laser beams shining between the sp",
+  "sorgu": "LISA gravitational waves",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a010100/a010125/LISA3craft_HD_LARGE_QT_Video_1.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 1,
+  "sure": 6.7,
+  "tablo": "tablolar/svs10125.jpg"
+ },
+ {
+  "id": "svs14738",
+  "svs": 14738,
+  "baslik": "What Are Gamma-ray Bursts?",
+  "tur": "Produced Video",
+  "tarih": "2024-12-20",
+  "aciklama": "Watch to learn more about gamma-ray bursts, the most powerful explosions in the cosmos. They first came to the attention of astronomers in the 1970s when new satellites detected this surprising phenomenon. Over decades, scientists have found that these blasts could be detected somewhere in the sky almost every day, and that they were both extremely distant — the closest known is over 100 million l",
+  "sorgu": "neutron star collision",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Scientist: ",
+   "Narrator: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014700/a014738/14738_GRBexplainer_Best.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 185.0,
+  "tablo": "tablolar/svs14738.jpg"
+ },
+ {
+  "id": "svs13792",
+  "svs": 13792,
+  "baslik": "NASA Missions Unveil Magnetar Eruptions in Nearby Galaxies",
+  "tur": "Produced Video",
+  "tarih": "2021-01-13",
+  "aciklama": "On April 15, 2020, a wave of X-rays and gamma rays lasting only a fraction of a second triggered detectors on NASA and European spacecraft. The event was a giant flare from a magnetar, a type of city-sized stellar remnant that boasts the strongest magnetic fields known. Watch to learn more.Credit: NASA’s Goddard Space Flight CenterMusic: \"Collision Course-Alternative Version\" from Universal Produc",
+  "sorgu": "neutron star collision",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Animator: ",
+   "Narrator: ",
+   "Editor: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013700/a013792/Magnetar_Light_Curve_Change_With_Distance_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 18
+ },
+ {
+  "id": "svs12949",
+  "svs": 12949,
+  "baslik": "Star Collision",
+  "tur": "Produced Video",
+  "tarih": "2018-07-02",
+  "aciklama": "Light bursts from the collision of two neutron stars. || Neutron_Star_Merger_Still_1_1024x576.jpg (1024x576) [148.9 KB] || Neutron_Star_Merger_Still_1.jpg (3840x2160) [2.4 MB] || Neutron_Star_Merger_Still_1_searchweb.png (320x180) [88.4 KB] || Neutron_Star_Merger_Still_1_thm.png (80x40) [7.3 KB] || ",
+  "sorgu": "neutron star collision",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs12740",
+  "svs": 12740,
+  "baslik": "Doomed Neutron Stars Create Blast of Light and Gravitational Waves",
+  "tur": "Produced Video",
+  "tarih": "2017-10-16",
+  "aciklama": "This animation captures phenomena observed over the course of nine days following the neutron star merger known as GW170817, detected on Aug. 17, 2017. They include gravitational waves (pale arcs), a near-light-speed jet that produced gamma rays (magenta), expanding debris from a kilonova that produced ultraviolet (violet), optical and infrared (blue-white to red) emission, and, once the jet direc",
+  "sorgu": "neutron star collision",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14871",
+  "svs": 14871,
+  "baslik": "Hubble Catches Intermediate-Sized Black Hole",
+  "tur": "Produced Video",
+  "tarih": "2025-07-24",
+  "aciklama": "NASA's Hubble Space Telescope revealed that most galaxies have supermassive black holes at their centers, but there's a mysterious middle category that's been nearly impossible to find: intermediate mass black holes. These elusive objects only are incredibly difficult to detect.Hubble and NASA's Chandra X-ray Observatory teamed up to study one of these rare items in galaxy NGC 6099. Chandra detect",
+  "sorgu": "Chandra X-ray black hole",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014800/a014871/14871_IMBH_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2
+ },
+ {
+  "id": "svs14866",
+  "svs": 14866,
+  "baslik": "Cosmic Desktop & Phone Wallpapers",
+  "tur": "Produced Video",
+  "tarih": "2025-07-15",
+  "aciklama": "We can’t clean up your messy desktop, but we can provide a bit of beauty from the universe to act as a backdrop to it. Here you’ll find a collection of images from across the universe. Download these phone and desktop wallpapers for your screens. ||",
+  "sorgu": "Chandra X-ray black hole",
+  "insan_suphesi": false,
+  "krediler": [
+   "Project support: ",
+   "Producer: ",
+   "Writer: "
+  ]
+ },
+ {
+  "id": "svs14673",
+  "svs": 14673,
+  "baslik": "NASA’s Hubble, Chandra Find Supermassive Black Hole Duo",
+  "tur": "Produced Video",
+  "tarih": "2024-09-09",
+  "aciklama": "The closest confirmed pair of supermassive black holes have been observed in tight proximity. These are located approximately 300 light-years apart and were detected using NASA’s Hubble Space Telescope and the Chandra X-ray Observatory. These black holes, buried deep within a pair of colliding galaxies, are fueled by infalling gas and dust, causing them to shine brightly as active galactic nuclei ",
+  "sorgu": "Chandra X-ray black hole",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Animator: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014600/a014673/14673_DUO_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 141.9,
+  "tablo": "tablolar/svs14673.jpg"
+ },
+ {
+  "id": "svs31303",
+  "svs": 31303,
+  "baslik": "25 Images for Chandra's 25th: 25 Images to Celebrate!",
+  "tur": "Hyperwall Visual",
+  "tarih": "2024-08-06",
+  "aciklama": "25 images from 25 years, still image || 25th-chandra-hw_print.jpg (1024x576) [248.2 KB] || 25th-chandra-hw.png (5760x3240) [16.0 MB] || 25th-chandra-hw_searchweb.png (320x180) [92.1 KB] || 25th-chandra-hw_thm.png (80x40) [12.7 KB] || 25-images-to-celebrate-chandras-25th.hwshow [290 bytes] || ",
+  "sorgu": "Chandra X-ray black hole",
+  "insan_suphesi": false,
+  "krediler": [
+   "Technical support: ",
+   "Scientist: ",
+   "Data visualizer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a031300/a031303/Quick-Look-25-Images-Chandra-25th.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 1,
+  "sure": 45.1,
+  "tablo": "tablolar/svs31303.jpg"
+ },
+ {
+  "id": "svs31304",
+  "svs": 31304,
+  "baslik": "Take a Cosmic Road Trip this Summer with Chandra and Webb",
+  "tur": "Hyperwall Visual",
+  "tarih": "2024-08-06",
+  "aciklama": "Images combining data from NASA’s Chandra and Webb telescopes, of a cloud complex, a region of star formation, a spiral galaxy, and a galaxy cluster. || chandrawebb3-hw_print.jpg (1024x576) [176.0 KB] || chandrawebb3-hw_searchweb.png (320x180) [65.0 KB] || chandrawebb3-hw_thm.png (80x40) [6.0 KB] || chandrawebb3-hw.tif (5760x3240) [53.4 MB] || take-a-cosmic-road-trip-this-summer-with-chandra-and-w",
+  "sorgu": "Chandra X-ray black hole",
+  "insan_suphesi": false,
+  "krediler": [
+   "Technical support: ",
+   "Scientist: ",
+   "Data visualizer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a031300/a031304/Summer-Cosmic-Road-Trip-Chandra-Webb.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 1,
+  "sure": 45.1,
+  "tablo": "tablolar/svs31304.jpg"
+ },
+ {
+  "id": "svs14584",
+  "svs": 14584,
+  "baslik": "XRISM Spots Iron Fingerprints in Nearby Active Galaxy",
+  "tur": "Produced Video",
+  "tarih": "2024-05-08",
+  "aciklama": "The Resolve instrument aboard XRISM (X-ray Imaging and Spectroscopy Mission) captured data from the center of galaxy NGC 4151, where a supermassive black hole is slowly consuming material from the surrounding accretion disk. The resulting spectrum reveals the presence of iron in the peak around 6.5 keV and the dips around 7 keV, light thousands of times more energetic that what our eyes can see. B",
+  "sorgu": "Chandra X-ray black hole",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: ",
+   "Science writer: "
+  ]
+ },
+ {
+  "id": "svs14498",
+  "svs": 14498,
+  "baslik": "Finding A New Galactic 'Fossil'",
+  "tur": "Produced Video",
+  "tarih": "2024-01-11",
+  "aciklama": "Some 5 million years ago, a black hole eruption in the galaxy NGC 4945 set off a star-formation frenzy and shot a vast cloud of gas into intergalactic space. Watch and learn how two X-ray telescopes revealed the story.Music Credits: Universal Production Music\"Planetary Horizons\" by Jia Lee\"Eyes Peeled\" by Bard\"Sprinkle of Mischief\" by Ash and HaroldWatch this video on the NASA Goddard YouTube chan",
+  "sorgu": "Chandra X-ray black hole",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Scientist: ",
+   "Project support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014400/a014498/4945_Concept_Animation.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 4,
+  "sure": 11.0,
+  "tablo": "tablolar/svs14498.jpg"
+ },
+ {
+  "id": "svs14331",
+  "svs": 14331,
+  "baslik": "Hubble Catches Possible Runaway Black Hole",
+  "tur": "Produced Video",
+  "tarih": "2023-04-06",
+  "aciklama": "There’s an invisible monster on the loose! It’s barreling through intergalactic space fast enough to travel from Earth to the Moon in 14 minutes. But don’t worry, luckily this beast is very, very far away!This potential supermassive black hole, weighing as much as 20 million Suns, has left behind a never-before-seen 200,000 light-year-long trail of newborn stars. The streamer is twice the diameter",
+  "sorgu": "Chandra X-ray black hole",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014300/a014331/14331_RUN_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 116.7,
+  "tablo": "tablolar/svs14331.jpg"
+ },
+ {
+  "id": "svs14937",
+  "svs": 14937,
+  "baslik": "NASA's Roman Space Telescope: Widening Our Gaze",
+  "tur": "Produced Video",
+  "tarih": "2025-12-23",
+  "aciklama": "The NASA Astrophysics fleet of spacecraft has an impressive range of capabilities. What is the next step in exploring the cosmos? The Nancy Grace Roman Space Telescope, NASA’s upcoming flagship mission, will take Hubble’s resolution and widen its infrared view to more than 100 times the coverage in every single image. Roman is a survey telescope that can peer through the Milky Way’s obscuring dust",
+  "sorgu": "Webb galaxy early universe",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Videographer: ",
+   "Producer: ",
+   "Editor: ",
+   "Public affairs officer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014937/14937_RomanWideningOurGaze_NoText_Best.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 7,
+  "sure": 88.9,
+  "tablo": "tablolar/svs14937.jpg"
+ },
+ {
+  "id": "svs14699",
+  "svs": 14699,
+  "baslik": "\"Firefly Sparkle\" Reveals Early Galaxy",
+  "tur": "Produced Video",
+  "tarih": "2024-12-11",
+  "aciklama": "Dr. Jon Gardner presents the latest JWST images of the “Firefly Sparkle” galaxy, showcasing intricate details and structures.There is so much going on inside this seemingly tiny galaxy, it appears like a swarm of lightning bugs on a warm summer night, this galaxy is gleaming with star clusters.This is the very first time NASA’s James Webb Space Telescope has detected and examined a galaxy that exi",
+  "sorgu": "Webb galaxy early universe",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Writer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014600/a014699/14699_SPARKLE_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 119.2,
+  "tablo": "tablolar/svs14699.jpg"
+ },
+ {
+  "id": "svs31293",
+  "svs": 31293,
+  "baslik": "Webb, Hubble Telescopes Affirm Universe's Expansion Rate",
+  "tur": "Hyperwall Visual",
+  "tarih": "2024-06-13",
+  "aciklama": "This image of NGC 5468, a galaxy located about 130 million light-years from Earth, combines data from the Hubble and James Webb space telescopes. This is the farthest galaxy in which Hubble has identified Cepheid variable stars. These are important milepost markers for measuring the expansion rate of the universe. The distance calculated from Cepheids has been cross-correlated with a type Ia super",
+  "sorgu": "Webb galaxy early universe",
+  "insan_suphesi": false,
+  "krediler": [
+   "Technical support: ",
+   "Scientist: "
+  ]
+ },
+ {
+  "id": "svs14561",
+  "svs": 14561,
+  "baslik": "NASA's Webb Probes an Extreme Starburst Galaxy",
+  "tur": "Produced Video",
+  "tarih": "2024-04-03",
+  "aciklama": "A team of astronomers has used NASA’s James Webb Space Telescope to survey the starburst galaxy Messier 82 (M82). Located 12 million light-years away in the constellation Ursa Major, this galaxy is relatively compact in size but hosts a frenzy of star formation activity. For comparison, M82 is sprouting new stars 10 times faster than the Milky Way galaxy.Using Webb to Inspect the activity in galax",
+  "sorgu": "Webb galaxy early universe",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Narrator: ",
+   "Writer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014500/a014561/14561_M82_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 89.7,
+  "tablo": "tablolar/svs14561.jpg"
+ },
+ {
+  "id": "svs15102",
+  "svs": 15102,
+  "baslik": "Dying Star Creates Brand New Planet",
+  "tur": "Produced Video",
+  "tarih": "2026-10-05",
+  "aciklama": "What if a star’s death could give rise to an entirely new planet?Astronomers revisiting decades-old observations from NASA’s Hubble Space Telescope found an unexpected chemical clue around a white dwarf: niobium, a heavy element forged during the final stages of a star’s life. Combined with observations from other NASA missions, the evidence points to an intriguing possibility: a Jupiter-sized wor",
+  "sorgu": "Hubble galaxy M87",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a015100/a015102/15102_SECONDGEN_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2
+ },
+ {
+  "id": "svs15091",
+  "svs": 15091,
+  "baslik": "Flash Talk: Roman Science Overview",
+  "tur": "Produced Video",
+  "tarih": "2026-09-04",
+  "aciklama": "This presentation was orginally given by Julie McEnery at special day-of-launch event. It was designed specifically to follow the Spacecraft Overview presentation. || ",
+  "sorgu": "Hubble galaxy M87",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs15081",
+  "svs": 15081,
+  "baslik": "NASA's Nancy Grace Roman Space Telescope: Official Mission Trailer",
+  "tur": "Produced Video",
+  "tarih": "2026-08-24",
+  "aciklama": "Named after NASA’s first chief astronomer, the ‘mother of the Hubble Space Telescope,’ the Nancy Grace Roman Space Telescope will have a field of view at least 100 times larger than Hubble's, measuring light from more than a billion galaxies during its five-year primary mission. This observatory will also be able to block starlight to directly see exoplanets and planet-forming disks, complete a st",
+  "sorgu": "Hubble galaxy M87",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Editor: ",
+   "Animator: ",
+   "Camera operator: ",
+   "Videographer: ",
+   "Drone pilot: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a015000/a015081/15081-_Trailer_Long_Vertical.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 6
+ },
+ {
+  "id": "svs15070",
+  "svs": 15070,
+  "baslik": "Roman and Hubble Scale Graphic with Andromeda Galaxy and Moon",
+  "tur": "Produced Video",
+  "tarih": "2026-07-31",
+  "aciklama": "This ground-based image of the Andromeda Galaxy highlights the large field of view of NASA's soon-to-launch Nancy Grace Roman Space Telescope, with Hubble's field of view and a full moon shown for comparison.Credit: Background image: Digitized Sky Survey and R. Gendler; Moon image: NASA’s Goddard Space Flight Center and Arizona State UniversityAlt text: An image of a spiral galaxy seen from a down",
+  "sorgu": "Hubble galaxy M87",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Producer: "
+  ]
+ },
+ {
+  "id": "svs31402",
+  "svs": 31402,
+  "baslik": "Nancy Grace Roman Turntable",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-07-27",
+  "aciklama": "Turntable highlighting systems on the Nancy Grace Roman Telescope",
+  "sorgu": "Hubble galaxy M87",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a031400/a031402/spiral_path_with_roman-horizontal-07-22-26b-1080p.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 5,
+  "sure": 67.9,
+  "tablo": "tablolar/svs31402.jpg"
+ },
+ {
+  "id": "svs15050",
+  "svs": 15050,
+  "baslik": "Ancient Galaxy Amazes Scientists",
+  "tur": "Produced Video",
+  "tarih": "2026-06-23",
+  "aciklama": "Master VersionHorizontal version. This is for use on any YouTube or non-YouTube platform where you want to display the video horizontally. || 15050_REIONIZTION_WIDE_PRINT.jpg (1920x1080) [1.3 MB] || 15050_REIONIZTION_WIDE_THUMB.jpg (1920x1080) [1.3 MB] || 15050_REIONIZTION_WIDE_SEARCH.jpg (320x180) [39.9 KB] || 15050_REIONIZTION_WIDE_MP4.mp4 (1920x1080) [243.7 MB] || 15050_REIONIZATION_WIDE_CAP.en",
+  "sorgu": "Hubble galaxy M87",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a015000/a015050/15050_REIONIZTION_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2
+ },
+ {
+  "id": "svs14983",
+  "svs": 14983,
+  "baslik": "“Cosmic Echoes” Audio Activation",
+  "tur": "Produced Video",
+  "tarih": "2026-05-08",
+  "aciklama": "The experience guides listeners through a narrative journey across space exploration and science.",
+  "sorgu": "Hubble galaxy M87",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Editor: ",
+   "Narrator: ",
+   "Scientist: ",
+   "Technical support: ",
+   "Accessibility: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014983/CosmicEchoes.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 489.0,
+  "tablo": "tablolar/svs14983.jpg"
+ },
+ {
+  "id": "svs14912",
+  "svs": 14912,
+  "baslik": "The Weirdest Worlds Hubble Has Seen",
+  "tur": "Produced Video",
+  "tarih": "2026-05-08",
+  "aciklama": "Over 6,000 worlds and counting! NASA recently reached an incredible milestone in the search for planets beyond our solar system: more than six thousand confirmed exoplanets. From blazing hot Jupiters to mysterious super-Earths and puffy gas giants, each new discovery expands our view of the galaxy and deepens our oldest questions.When the Hubble Space Telescope launched in 1990, not a single exopl",
+  "sorgu": "Hubble galaxy M87",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014912/14912_EXOPLANET_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2
+ },
+ {
+  "id": "svs31393",
+  "svs": 31393,
+  "baslik": "Messier 101",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-05-05",
+  "aciklama": "A stunning view of M101, also known as the Pinwheel galaxy, one of the largest images Hubble has captured of a spiral galaxy. Assembled from 51 exposures taken over nearly ten years, this infrared and visible-light image measures 16,000 by 12,000 pixels. Ground-based images were used to fill in the portions of the galaxy. The heart of Messier 101, or the Pinwheel Galaxy, shines in this image that ",
+  "sorgu": "Hubble galaxy M87",
+  "insan_suphesi": false,
+  "krediler": [
+   "Editor: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a031300/a031393/Messier-101_1920-HD.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 61.0,
+  "tablo": "tablolar/svs31393.jpg"
+ },
+ {
+  "id": "svs15016",
+  "svs": 15016,
+  "baslik": "The Universe Needs Your Eyes! Hubble's Citizen Scientists",
+  "tur": "Produced Video",
+  "tarih": "2026-05-02",
+  "aciklama": "Since its launch in April 1990, NASA’s Hubble Space Telescope has captured more than 1.7 million observations of the universe. That enormous archive of images and data open the door not only for professional astronomers, but also for anyone who’s interested! Citizen scientists, who volunteer their time to help make real scientific discoveries.Because Hubble produces such detailed images, many of t",
+  "sorgu": "Hubble galaxy M87",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a015000/a015016/CITIZEN_SCIENCE_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2
+ },
+ {
+  "id": "svs10142",
+  "svs": 10142,
+  "baslik": "Gravitational Waves from Black Holes",
+  "tur": "Produced Video",
+  "tarih": "2007-07-03",
+  "aciklama": "A gravitational wave is a theoretical fluctuation in the curvature of spacetime caused by the movement of incredibly massive objects. In this animation, two massive black holes orbit each other, creating gravitational waves. || ",
+  "sorgu": "spacetime curvature",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a010100/a010142/GravityWaves_HD_LARGE_QT_Video_1.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 1,
+  "sure": 7.5,
+  "tablo": "tablolar/svs10142.jpg"
+ },
+ {
+  "id": "svs5366",
+  "svs": 5366,
+  "baslik": "Solar Eclipse Shadow Shape Explained",
+  "tur": "Visualization",
+  "tarih": "2024-09-19",
+  "aciklama": "Valleys around the lunar limb act like pinholes projecting images of the Sun onto the surface of the Earth during the August 21, 2017 total solar eclipse. This visualization shows the projected Sun images forming a flower-like pattern with a gap in the center, where the eclipse is total. || pinhole.0885_print.jpg (1024x576) [175.2 KB] || pinhole.0885_searchweb.png (320x180) [73.1 KB] || pinhole.08",
+  "sorgu": "black hole shadow",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a000000/a005300/a005366/pinhole_valleys_1080p30.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 8,
+  "sure": 48.0,
+  "tablo": "tablolar/svs5366.jpg"
+ },
+ {
+  "id": "svs4807",
+  "svs": 4807,
+  "baslik": "M87: Telescopes Unite in Unprecedented Observations of Famous Black Hole",
+  "tur": "Visualization",
+  "tarih": "2021-04-21",
+  "aciklama": "Beginning with the Event Horizon Telescope's now iconic image of M87, this video takes viewers on a journey through the data from several telescopes. The video shows data across many factors of 10 in scale, both of wavelengths of light and physical size. || M87_EHT_Multiwavelength_Zoom_print.png (1024x576) [271.1 KB] || M87_EHT_Multiwavelength_Zoom_print.jpg (1024x576) [70.0 KB] || M87_EHT_Multiwa",
+  "sorgu": "black hole shadow",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs13239",
+  "svs": 13239,
+  "baslik": "Zoom In on Galaxy M87",
+  "tur": "Produced Video",
+  "tarih": "2019-09-24",
+  "aciklama": "This movie zooms into galaxy M87 using real visible light, X-ray and radio pictures of the galaxy, its jet of high-speed particles, and the shadow of its central black hole. || ",
+  "sorgu": "black hole shadow",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14524",
+  "svs": 14524,
+  "baslik": "Primordial Black Holes",
+  "tur": "Infographic",
+  "tarih": "2024-05-07",
+  "aciklama": "This artist's concept takes a fanciful approach to imagining small primordial black holes. In reality, such tiny black holes would have a difficult time forming the accretion disks that make them visible here.Credit: NASA's Goddard Space Flight Center || Primordial_Black_Hole_Still_1080.jpg (1920x1080) [275.1 KB] || Primordial_Black_Hole_Still_4k_print.jpg (1024x576) [51.1 KB] || Primordial_Black_",
+  "sorgu": "Hawking radiation",
+  "insan_suphesi": false
+ }
+]

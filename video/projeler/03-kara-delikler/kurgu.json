@@ -34,10 +34,6 @@
    "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013200/a013239/M87_zoom_final_no_text_LQ.mp4",
    "id": "svs13239"
   },
-  "S13326": {
-   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_Stationary_1080.mp4",
-   "id": "svs13326"
-  },
   "S13831": {
    "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013800/a013831/13831_BlackHoleBinary_Simulation_1080.mp4",
    "id": "svs13831"
@@ -91,9 +87,9 @@
     14.5
    ],
    [
-    "S13326",
-    0,
-    14.5
+    "S13043",
+    26,
+    38
    ],
    [
     "S12005",
@@ -283,7 +279,7 @@
    [
     "S14619",
     0,
-    13.5
+    8.5
    ],
    [
     "S13831",

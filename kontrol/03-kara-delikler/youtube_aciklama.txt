@@ -1,0 +1,94 @@
+=== BASLIK (Turkce) ===
+Kara Delikler: Evrenin En Karanlık Nesneleri | Gerçek NASA Görüntüleriyle Uzay Belgeseli
+
+=== BASLIK (English) ===
+Black Holes: The Darkest Objects in the Universe | Space Documentary with Real NASA Footage
+
+=== ACIKLAMA (Turkce kanal icin) ===
+Kara delikler nasıl doğar, nasıl keşfedilir ve bize evren hakkında ne öğretir? Bu belgeselde ölen dev yıldızlardan olay ufkuna, kütleçekim dalgalarının ilk tespitinden Olay Ufku Teleskobu'nun M87 fotoğrafına, süper kütleli kara deliklerden Hawking ışımasına kadar kara delikleri gerçek NASA görüntüleri ve simülasyonlarıyla anlatıyoruz.
+
+Bölümler:
+00:00 Işığın Kaçamadığı Yer
+00:51 Dev Bir Yıldızın Ölümü
+01:45 Dönüşü Olmayan Nokta
+03:05 Görünmeyeni Görmek
+04:20 Uzayzamandaki Dalgalar
+05:38 Galaksilerin Kalbindeki Devler
+07:20 Işığı Bükmek
+08:06 En Eski Devler
+08:51 Her Şeyin Sonu
+09:33 Karanlıkla Yaşamak
+
+Türkçe altyazı mevcuttur (CC).
+
+Kaynaklar ve lisanslar:
+Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS) and NASA Image and Video Library
+Black hole visualizations and simulations: NASA's Goddard Space Flight Center / J. Schnittman, S. Gezari, C. Henze, A. Mallia
+First image of a black hole (M87*): Event Horizon Telescope Collaboration
+Multiwavelength M87 imagery: ALMA, Hubble, Chandra, NuSTAR, Swift, Fermi, H.E.S.S., MAGIC, VERITAS, NRAO, EVN
+Galactic center: NASA/SOFIA, Spitzer, Herschel, Hubble, Chandra  -  Gravitational waves: LIGO, NASA/Goddard
+Music: "Dark Fog" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Floating Cities" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Long Note Four" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
+
+Bilgi kaynakları:
+https://science.nasa.gov/universe/black-holes/
+https://science.nasa.gov/universe/black-holes/types/
+https://eventhorizontelescope.org/
+https://www.ligo.caltech.edu/page/what-are-gw
+https://chandra.harvard.edu/blackholes/
+https://www.nobelprize.org/prizes/physics/2020/press-release/
+https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_discovers_the_most_massive_stellar_black_hole_in_our_galaxy
+https://svs.gsfc.nasa.gov/14576/
+https://svs.gsfc.nasa.gov/13831/
+
+=== DESCRIPTION (English channel) ===
+How are black holes born, how do we find them, and what do they teach us about the universe? This documentary uses real NASA imagery and simulations to explore dying giant stars, the event horizon, the first detection of gravitational waves, the Event Horizon Telescope's image of M87, supermassive black holes and Hawking radiation.
+
+Chapters:
+00:00 Where Light Cannot Escape
+00:51 The Death of a Giant Star
+01:45 The Point of No Return
+03:05 Seeing the Invisible
+04:20 Ripples in Spacetime
+05:38 Giants at the Hearts of Galaxies
+07:20 Bending the Light
+08:06 The Oldest Giants
+08:51 The Fate of Everything
+09:33 Living With the Dark
+
+Credits & licenses:
+Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS) and NASA Image and Video Library
+Black hole visualizations and simulations: NASA's Goddard Space Flight Center / J. Schnittman, S. Gezari, C. Henze, A. Mallia
+First image of a black hole (M87*): Event Horizon Telescope Collaboration
+Multiwavelength M87 imagery: ALMA, Hubble, Chandra, NuSTAR, Swift, Fermi, H.E.S.S., MAGIC, VERITAS, NRAO, EVN
+Galactic center: NASA/SOFIA, Spitzer, Herschel, Hubble, Chandra  -  Gravitational waves: LIGO, NASA/Goddard
+Music: "Dark Fog" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Floating Cities" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Long Note Four" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
+
+Sources:
+https://science.nasa.gov/universe/black-holes/
+https://science.nasa.gov/universe/black-holes/types/
+https://eventhorizontelescope.org/
+https://www.ligo.caltech.edu/page/what-are-gw
+https://chandra.harvard.edu/blackholes/
+https://www.nobelprize.org/prizes/physics/2020/press-release/
+https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_discovers_the_most_massive_stellar_black_hole_in_our_galaxy
+https://svs.gsfc.nasa.gov/14576/
+https://svs.gsfc.nasa.gov/13831/
+
+=== ETIKETLER / TAGS ===
+black hole, kara delik, black holes documentary, event horizon, supermassive black hole, gravitational waves, Event Horizon Telescope, M87, Sagittarius A*, Hawking radiation, NASA, uzay belgeseli, space documentary, accretion disk, LIGO, Chandra
+
+=== YOUTUBE AYARLARI ===
+- Video dili: English
+- Altyazi: altyazi_tr.srt -> Turkce, altyazi_en.srt -> English
+- "Altered or synthetic content" sorusu: YouTube bunu gercek kisi/olay sanilabilecek sahte
+  goruntu ve sesler icin istiyor. Bu videoda gorseller gercek NASA kayitlari, anlatici kimseyi
+  taklit etmiyor; bu yuzden "Hayir" uygundur. Bu etiket para kazanmayi etkilemez.
+- Para kazanma icin: videolari aralikli yukleyin (or. haftada 1-2), her videoda kendi basliginizi
+  ve aciklamanizi kisisellestirin, yorumlara cevap verin.
+- Sure: 10:37

@@ -297,6 +297,12 @@ def fetch_sources(edit, src_dir):
     return paths
 
 
+def media_duration(path):
+    d = json.loads(run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "json",
+                        path]).stdout)
+    return float(d["format"]["duration"])
+
+
 def crop_filter(kirp):
     """kirp = [x, y, w, h] (kaynagin oranlari). Letterbox/genis kaynaklar icin."""
     if not kirp:
@@ -322,20 +328,31 @@ def render_chapter(idx, segs, D, paths, work, overlay=None, label=None):
     log(f"  bolum {idx}: {n} parca, {D:.1f} sn, hiz carpani {1 / k:.2f}x")
     if not 0.5 <= k <= 2.2:
         raise SystemExit(f"Bolum {idx}: klip suresi uygun degil (k={k:.2f}). Kurguyu duzeltin.")
-    files = []
+    files, real = [], []
     for j, (key, a, b, *opt) in enumerate(segs):
         o = opt[0] if opt else {}
         out = f"{work}/b{idx:02d}_{j:02d}.mp4"
         render_segment(paths[key], a, b - a, (b - a) * k, o.get("zoom", 1.0), out, o.get("kirp"))
         files.append(out)
+        d = media_duration(out)
+        real.append(d)
+        plan = (b - a) * k
+        if d < plan - 0.5:
+            log(f"    UYARI: parca {idx}.{j} ({key} {a}-{b}) planlanan {plan:.1f} sn, gercek {d:.1f} sn")
     inputs, chain, prev, off = [], [], "0:v", 0.0
     for j, f in enumerate(files):
         inputs += ["-i", f]
     for j in range(1, n):
-        off += lengths[j - 1] * k - XFADE
+        off += real[j - 1] - XFADE
         lbl = f"x{j}"
         chain.append(f"[{prev}][{j}:v]xfade=transition=fade:duration={XFADE}:offset={off:.3f}[{lbl}]")
         prev = lbl
+    got = sum(real) - (n - 1) * XFADE
+    if got < D - 0.3:
+        log(f"    UYARI: bolum {idx} {got:.1f} sn cikacak, hedef {D:.1f} sn; son kare dondurulup tamamlanacak")
+    # eksik kalirsa son kareyi tutarak hedef sureye tamamla (anlatimla senkron kalsin)
+    chain.append(f"[{prev}]tpad=stop_mode=clone:stop_duration={max(D - got, 0) + 0.2:.2f}[tp]")
+    prev = "tp"
     fades = f"fade=t=in:st=0:d=0.6,fade=t=out:st={D - 0.6:.3f}:d=0.6"
     chain.append(f"[{prev}]{fades}[base]")
     cur = "base"
@@ -496,6 +513,21 @@ def main(project, out_dir):
     work = "/tmp/uretim"
     os.makedirs(work, exist_ok=True)
     os.makedirs(out_dir, exist_ok=True)
+    if os.environ.get("SEGMENT_TEST"):
+        paths = fetch_sources(cfg, f"{work}/kaynak")
+        sure = cfg["bolum_sureleri"]
+        title_png(cfg["baslik"], cfg["alt_baslik"], f"{work}/baslik.png")
+        for i, segs in enumerate(cfg["bolumler"]):
+            lbl = None
+            if i > 0:
+                lbl = f"{work}/bolum_{i:02d}.png"
+                chapter_png(f"Bolum {i}", lbl)
+            out = render_chapter(i, segs, sure[i], paths, work,
+                                 overlay=f"{work}/baslik.png" if i == 0 else None, label=lbl)
+            got = media_duration(out)
+            log(f"  >> bolum {i}: hedef {sure[i]:.1f} sn, uretilen {got:.1f} sn "
+                f"{'TAMAM' if abs(got - sure[i]) < 0.5 else 'FARKLI!'}")
+        return
     if os.environ.get("SADECE_KONTROL"):
         check_segments(cfg, fetch_sources(cfg, f"{work}/kaynak"), out_dir)
         return

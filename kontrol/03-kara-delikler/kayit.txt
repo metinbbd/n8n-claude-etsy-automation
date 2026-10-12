@@ -3,16 +3,14 @@
   indiriliyor: S11108
   indiriliyor: S12005
   indiriliyor: S13043
-  indiriliyor: S13197
   indiriliyor: S13239
   indiriliyor: S13326
   indiriliyor: S13831
-  indiriliyor: S13886
   indiriliyor: S14000
   indiriliyor: S14335
-  indiriliyor: S14576
   indiriliyor: S14619
   indiriliyor: S14620
+  indiriliyor: S14916
   indiriliyor: S20367
   indiriliyor: S20413
   indiriliyor: S4807

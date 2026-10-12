@@ -1,0 +1,124 @@
+52 benzersiz video bulundu
+SVS: 162 sonuc
+  ✓ What is a Black Hole 93.3s kaynak=1920x1080  What is a Black Hole | We Asked a NASA Expert
+  ✓ GSFC_20200302_M13568_OIRISRExBH 109.9s kaynak=1280x720  OSIRIS-REx Observes a Black Hole
+  ✓ GSFC_20181002_SMBH_m13043_Simulation 133.5s kaynak=1920x1080  New Simulation Sheds Light on Spiraling Supermassive Black H
+  ✓ 301_BlackHoles 246.8s kaynak=1920x1076  NASA ScienceCasts: Shedding Light on Black Holes
+  ✓ JPL-20250409-NUSTARf-0001-Hunting_Hidden_Black_Holes_2160cc 152.8s kaynak=3840x2160  NuSTAR-Hunting Hidden Black Holes
+  ✓ GSFC_20190110_AT2018COW_m12855_4k 102.6s kaynak=3840x2160  Mysterious ‘Cow’ Blast Studied with NASA Telescopes
+  ✓ IXPE Polarization 137.7s kaynak=1280x720  IXPE Polarization
+  ✓ The Next Crew Headed to the Space Station on This Week at NASA – February 24, 2023 111.7s kaynak=1920x1080  The Next Crew Headed to the Space Station on This Week at NA
+  ✓ ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb 85.2s kaynak=1280x720  SOFIA Reveals New View of Milky Way’s Center
+  ✓ ksc_042507_chandra_2 188.5s kaynak=800x450  KSC-07-S-00077
+  ✓ ksc_012505_black_holes 93.9s kaynak=320x212  KSC-05-S-00032
+  ✓ 325_SS101-Astrophysics-4k 201.7s kaynak=3840x2160  Station Science 101: Astrophysics on the ISS
+  ✓ ksc_111604_swift_three_theories 116.0s kaynak=320x212  KSC-04-S-00359
+  ✓ MSFC IXPE L30 Rev D 11 5 21 246.9s kaynak=1920x1080  MSFC IXPE L30 Rev D 11 5 21
+  ✓ GSFC_20190424_HST_m13189_Hubble29 182.6s kaynak=1920x1080  Hubble's 29th Anniversary
+  ✓ ksc_042310_hubble 484.5s kaynak=800x450  KSC-10-S-00043
+  ✓ KSC-20211209-MH-AJW01-0001-IXPE_Isolated_Launch_Views_720p_WON_3292315 1595.1s kaynak=1280x720  IXPE Isolated Launch Views - 720p
+  ✓ KSC-20211209-MH-AJW01-0001-IXPE_Isolated_Launch_Views_4K_WON_3292315 228.7s kaynak=3840x2160  IXPE Isolated Launch Views - 4K
+  ✓ KSC-20211209-VP-CDC01-0001-IXPE_Live_Launch_Coverage_WON_3292315 4550.0s kaynak=1280x720  IXPE Live Launch Coverage
+  ✓ GSFC_20181108_FERMI_m13042_Luck4K 303.8s kaynak=3840x2160  NASA's Fermi Mission Shows How Luck Favors the Prepared
+  ✓ Gravity Assist Listening to the Universe 213.5s kaynak=1920x1080  Gravity Assist: Listening to the Universe
+  ✓ ksc_110104_swiftexplained 108.3s kaynak=320x212  KSC-04-S-00343
+  ✓ GSFC_20070917_GLAST_m10172_Promo 45.1s kaynak=1280x720  GLAST Promo Video
+  ✓ KSC-20211119-VP-MWC01-001-KENNEDYCOUNTDOWN-3291728 132.3s kaynak=3840x2160  Kennedy Countdown for Nov. 19, 2021
+  ✓ GSFC_20140515_MMS_m11526_Trailer 47.3s kaynak=1920x1080  MMS Mission Trailer
+  ✓ ksc_082604_chandra 118.9s kaynak=320x212  KSC-04-S-00307
+  ✓ GSFC_20100917_Firefly_m10650_Orbit 16.8s kaynak=1280x720  Firefly in Orbit
+  ✓ GSFC_20100917_Firefly_m10652_Lines 13.5s kaynak=1280x720  Firefly Sees Electrons Populate the Radiation Belts
+  ✓ GSFC_20100917_Firefly_m10647_Beauty_Pass 16.8s kaynak=1280x720  Firefly Beauty Pass
+  ✓ GSFC_20100917_Firefly_m10651_Pro_Elec_Gamma 11.8s kaynak=1280x720  Radiation Generated in Electric Fields Over Thunderstorms
+  ✓ ksc_092804_gammaray_burst 103.6s kaynak=320x212  KSC-04-S-00325
+  ✓ ksc_062304_chandra 73.8s kaynak=320x212  KSC-04-S-00200
+  ✓ GSFC_20100917_Firefly_m10649_Deploy 17.5s kaynak=1280x720  Firefly Deployment
+  ✓ GSFC_20190725_TESS_m13238_First_Year_1min 59.3s kaynak=1920x1080  Highlights From TESS's First Year (short)
+  ✓ GSFC_20181129_FERMI_m13104_Starlight 113.1s kaynak=1920x1080  Tracing the History of Starlight with NASA's Fermi Mission
+  ✓ GSFC_20190725_TESS_m13238_First_Year 152.8s kaynak=1920x1080  Highlights From TESS's First Year
+  ✓ GSFC_20100126_Nova_m10547_SuperNova 7.7s kaynak=1280x720  Supernova with Expanding Shell
+  ✓ svs15091 [Produced Video] 17.9s kaynak=1920x1080  Flash Talk: Roman Science Overview
+  ✗ svs15073: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs15061: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs15041: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs5586 [Visualization] 60.0s kaynak=1920x1080  Extreme Mass Ratio Black Hole Inspirals (EMRIs)
+  ✓ svs14916 [Produced Video] 55.5s kaynak=1920x1080  Black Hole Eats Star: The Longest GRB Ever Seen
+  ✗ svs14905: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14818: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14802 [Produced Video] 25.6s kaynak=1920x1080  Earth to Space: A National Symphony Orchestra Concert
+  ✗ svs14737: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14707 [Produced Video] 4.4s kaynak=1920x1080  XRISM's Resolve Instrument Gazes into Cygnus X-3
+  ✓ svs14619 [Produced Video] 15.0s kaynak=1920x1080  Black Hole with Accretion Disk Visualization
+  ✓ svs14620 [Produced Video] 15.0s kaynak=1920x1080  Isolated Black Hole Visualization
+  ✓ svs14576 [Visualization] 58.6s kaynak=1920x1080  NASA Black Hole Visualization Takes Viewers Beyond the Brink
+  ✗ svs14871: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs31353 [Animation] 152.8s kaynak=1920x1080  Supermassive Black Holes
+  ✓ svs14799 [Produced Video] 61.7s kaynak=1920x1080  Astrophysics: Observing the Universe Vertical Video
+  ✓ svs14819 [Produced Video] 111.2s kaynak=1920x1080  NASA's NICER Studies Recurring Cosmic Crashes
+  ✓ svs14787 [Produced Video] 135.3s kaynak=1920x1080  WEBB Catches Black Hole Fireworks
+  ✓ svs31358 [Hyperwall Visual] 50.1s kaynak=1920x1080  Sagittarius B2 | NIRCam MIRI Filter comparison
+  ✓ svs14335 [Produced Video] 103.4s kaynak=1920x1080  NASA Animation Sizes Up the Universe’s Biggest Black Holes
+  ✓ svs4851 [Visualization] 120.0s kaynak=1920x1080  Deep Star Maps 2020
+  ✓ svs13419 [Animation] 113.5s kaynak=1920x1080  NICER Catches Milestone X-ray Burst
+  ✓ svs30576 [Hyperwall Visual] 3.8s kaynak=1920x1080  X-ray Telescopes Find Black Hole May Be a Neutrino Factory
+  ✓ svs11584 [Produced Video] 118.8s kaynak=1280x720  Amazing Universe
+  ✓ svs11476 [Produced Video] 38.3s kaynak=960x540  Hunting Black Holes
+  ✓ svs11118 [Produced Video] 17.0s kaynak=1280x720  Swift Catches X-ray Activity at the Galaxy's Center
+  ✓ svs11149 [Produced Video] 185.3s kaynak=960x540  Galactic Snacks
+  ✓ svs11108 [Produced Video] 136.3s kaynak=1280x720  X-ray Nova Reveals a New Black Hole in Our Galaxy
+  ✓ svs3959 [Visualization] 60.0s kaynak=1920x1080  RXTE Views X-ray Pulsar Occulted by the Moon
+  ✗ svs15040: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14847 [Produced Video] 153.3s kaynak=1920x1080  100,000 Computer Simulations Reveal Milky Way's Fate
+  ✓ svs14438 [Produced Video] 59.8s kaynak=1920x1080  Why NASA's Roman Mission Will Study Milky Way's Flickering L
+  ✓ svs13798 [Produced Video] 28.1s kaynak=1920x1080  Swift, TESS Catch Eruptions from an Active Galaxy
+  ✓ svs30952 [Hyperwall Visual] 36.0s kaynak=1920x1080  The Whirlpool Galaxy: Visible and X-ray Views
+  ✓ svs12425 [Produced Video] 204.1s kaynak=320x240  Microlensing Study: Most Common Outer Planets Likely Neptune
+  ✓ svs10082 [Produced Video] 14.5s kaynak=1920x1080  Swift Probes Exotic Object: 'Kicked' Black Hole or Mega Star
+  ✓ svs14884 [Produced Video] 81.4s kaynak=1920x1080  NASA Supercomputer Probes Tangled Magnetospheres of Merging 
+  ✓ svs14499 [Produced Video] 147.3s kaynak=1920x1080  Hubble’s Inside The Image: Abell 2744
+  ✓ svs14434 [Produced Video] 75.8s kaynak=1920x1080  NASA’s Fermi Mission Finds 300 Gamma-Ray Pulsars
+  ✓ svs14402 [Produced Video] 3.3s kaynak=1920x1080  Simulated Gravitational Wave All-Sky Image
+  ✗ svs14358: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14323: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14293: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14255: 'ascii' codec can't encode character '\u2019' in position 37: ordinal not in range(128)
+  ✓ svs20367 [Animation] 35.1s kaynak=3840x2160  Gravitational Wave
+  ✓ svs13197 [Produced Video] 85.8s kaynak=1920x1080  Gravitational Wave Simulations of Merging Black Holes: 1080 
+  ✓ svs13043 [Produced Video] 52.8s kaynak=1920x1080  New Simulation Sheds Light on Spiraling Supermassive Black H
+  ✓ svs12399 [Produced Video] 122.4s kaynak=320x240  NASA's Kepler, Swift Missions Harvest ‘Pumpkin’ Stars
+  ✓ svs12216 [Produced Video] 23.9s kaynak=1920x1080  NASA's Fermi Preps to Narrow Down Gravitational Wave Sources
+  ✓ svs11250 [Produced Video] 103.7s kaynak=1280x720  A Trio of Swift Bursts Form A New Class of GRBs
+  ✓ svs10808 [Produced Video] 99.9s kaynak=1280x720  The Dual Personality of the 'Christmas Burst'
+  ✓ svs12949 [Produced Video] 42.4s kaynak=1280x720  Star Collision
+  ✓ svs12740 [Produced Video] 42.3s kaynak=1920x1080  Doomed Neutron Stars Create Blast of Light and Gravitational
+  ✓ svs12264 [Produced Video] 226.3s kaynak=1920x1080  LISA Pathfinder Spaceflight Experiment a Rousing Success
+  ✓ svs11093 [Produced Video] 149.9s kaynak=320x240  Atomic Interferometry
+  ✓ svs14131 [Produced Video] 118.8s kaynak=1280x720  Black Hole Week: Traveler and Friends GIFs
+  ✓ svs14000 [Produced Video] 133.6s kaynak=1920x1080  Supercomputer Simulations Test Star-destroying Black Holes
+  ✗ svs13805: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs13556 [Produced Video] 46.0s kaynak=1920x1080  Astrophysics Valentines
+  ✗ svs13237: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs12265 [Produced Video] 244.3s kaynak=480x272  X-ray Echoes Map a 'Killer' Black Hole
+  ✓ svs12005 [Produced Video] 62.1s kaynak=1920x1080  Massive Black Hole Shreds Passing Star
+  ✓ svs14524 [Infographic] 118.8s kaynak=1280x720  Primordial Black Holes
+  ✓ svs4807 [Visualization] 70.6s kaynak=1920x1080  M87: Telescopes Unite in Unprecedented Observations of Famou
+  ✗ svs13036: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs12292 [Produced Video] 22.2s kaynak=1920x1080  Solar Highlights of 2016/2017
+  ✓ svs12004 [Produced Video] 204.9s kaynak=1920x1080  NASA's Fermi Satellite Kicks Off a Blazar Bonanza
+  ✓ svs11894 [Produced Video] 193.3s kaynak=1920x1080  Turning Black Holes into Dark Matter Labs
+  ✓ svs10869 [Produced Video] 30.0s kaynak=1280x720  NASA's RXTE Helps Pinpoint Launch of 'Bullets' in a Black Ho
+  ✗ svs14674: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14457: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs13239 [Produced Video] 103.7s kaynak=1920x1080  Zoom In on Galaxy M87
+  ✓ svs11342 [Produced Video] 10.0s kaynak=1000x1000  Fermi's Five-year View of the Gamma-ray Sky
+  ✓ svs14690 [Produced Video] 355.1s kaynak=1920x1080  Ten Years at Mars with NASA’s MAVEN Mission
+  ✓ svs4986 [Visualization] 76.7s kaynak=1920x1080  Space Geodesy Project
+  ✗ svs13083: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs12539 [Produced Video] 183.1s kaynak=1920x1080  Hubble Detects a Rogue Supermassive Black Hole
+  ✓ svs11821 [Produced Video] 28.4s kaynak=1920x1080  Suzaku, Herschel Link a Black-hole 'Wind' to a Galactic Gush
+  ✓ svs11031 [Produced Video] 119.9s kaynak=320x240  Space Geodesy Profiles
+  ✓ svs10964 [Produced Video] 111.1s kaynak=320x240  Using Quasars to Measure the Earth: A Brief History of VLBI
+  ✓ svs10698 [Produced Video] 169.2s kaynak=1280x720  NASA's Swift Finds 'Missing' Active Galaxies
+  ✓ svs10549 [Produced Video] 98.1s kaynak=1280x720  Swift Survey Finds 'Smoking Gun' of Black Hole Activation
+  ✓ svs14891 [Produced Video] 60.1s kaynak=1920x1080  Far and Wide: Roman and Webb's Overlapping Roles in Understa
+[]

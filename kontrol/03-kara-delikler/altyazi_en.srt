@@ -1,0 +1,692 @@
+1
+00:00:06,000 --> 00:00:09,219
+There are places in the
+universe where gravity becomes
+
+2
+00:00:09,299 --> 00:00:12,724
+so strong that nothing can
+escape, not even light.
+
+3
+00:00:12,804 --> 00:00:14,994
+We call them black holes.
+
+4
+00:00:15,144 --> 00:00:17,937
+They are not empty voids,
+and they do not roam
+
+5
+00:00:18,017 --> 00:00:21,323
+the cosmos swallowing
+everything in their path.
+
+6
+00:00:21,403 --> 00:00:25,560
+They are objects with enormous
+mass squeezed into a tiny space,
+
+7
+00:00:25,640 --> 00:00:30,517
+and they bend the world around them
+in ways that still astonish us.
+
+8
+00:00:30,597 --> 00:00:33,417
+A black hole can be
+born from a dying star,
+
+9
+00:00:33,497 --> 00:00:36,903
+or grow to weigh as much
+as billions of suns.
+
+10
+00:00:36,983 --> 00:00:40,155
+We cannot see one directly,
+yet we have weighed them,
+
+11
+00:00:40,235 --> 00:00:43,918
+listened to them, and even
+photographed their shadows.
+
+12
+00:00:43,998 --> 00:00:48,815
+This is how we learned to find the
+darkest objects in the universe.
+
+13
+00:00:51,165 --> 00:00:54,815
+Every star lives in a
+balance between two forces.
+
+14
+00:00:54,895 --> 00:00:57,706
+Gravity pulls inward, trying to crush it.
+
+15
+00:00:57,786 --> 00:01:02,427
+The heat and pressure from nuclear
+fusion in its core push outward.
+
+16
+00:01:02,507 --> 00:01:07,748
+For millions or billions of years,
+the two forces cancel each other out.
+
+17
+00:01:07,828 --> 00:01:12,598
+But when a very massive star runs
+out of fuel, the balance breaks.
+
+18
+00:01:12,678 --> 00:01:15,639
+Its core collapses in
+a fraction of a second,
+
+19
+00:01:15,719 --> 00:01:19,535
+and the outer layers are
+blown away in a supernova.
+
+20
+00:01:19,615 --> 00:01:23,291
+If what remains is heavy enough,
+roughly more than three
+
+21
+00:01:23,371 --> 00:01:27,563
+times the mass of the Sun,
+nothing can stop the collapse.
+
+22
+00:01:27,643 --> 00:01:31,145
+The core keeps shrinking,
+and a black hole is born.
+
+23
+00:01:31,225 --> 00:01:34,727
+Astronomers estimate that
+our own galaxy may hold as
+
+24
+00:01:34,807 --> 00:01:38,966
+many as a hundred million of
+these stellar black holes.
+
+25
+00:01:39,046 --> 00:01:43,419
+Most are invisible,
+drifting quietly among the stars.
+
+26
+00:01:45,269 --> 00:01:50,070
+Around every black hole is a
+boundary called the event horizon.
+
+27
+00:01:50,150 --> 00:01:54,855
+It is not a surface you could
+touch. It is the point of no return.
+
+28
+00:01:54,935 --> 00:01:58,741
+Inside it, the escape speed is
+greater than the speed of light,
+
+29
+00:01:58,821 --> 00:02:01,720
+and nothing can travel faster than light.
+
+30
+00:02:01,800 --> 00:02:05,847
+So whatever crosses the horizon
+can never come back out.
+
+31
+00:02:05,927 --> 00:02:09,294
+The size of the horizon
+depends on the mass.
+
+32
+00:02:09,374 --> 00:02:15,110
+A black hole with the mass of our Sun
+would be only about six kilometers across.
+
+33
+00:02:15,190 --> 00:02:19,662
+And here is a surprise: if the Sun
+were suddenly replaced by a black
+
+34
+00:02:19,742 --> 00:02:24,395
+hole of the same mass, Earth would
+keep orbiting just as before.
+
+35
+00:02:24,475 --> 00:02:29,685
+Gravity depends on mass and distance,
+not on what the mass is made of.
+
+36
+00:02:29,765 --> 00:02:33,008
+The danger comes only
+when you get very close.
+
+37
+00:02:33,088 --> 00:02:35,728
+There, gravity pulls much harder on the
+
+38
+00:02:35,808 --> 00:02:38,797
+near side of an object
+than on the far side,
+
+39
+00:02:38,877 --> 00:02:45,036
+stretching it into a long thin strand, a
+process physicists call spaghettification.
+
+40
+00:02:45,116 --> 00:02:49,093
+Time itself slows near a black
+hole. Seen from far away,
+
+41
+00:02:49,173 --> 00:02:51,992
+a clock falling toward the horizon would
+
+42
+00:02:52,072 --> 00:02:55,702
+tick slower and slower,
+and appear to freeze.
+
+43
+00:02:55,782 --> 00:02:58,721
+At the center, theory
+predicts a singularity,
+
+44
+00:02:58,801 --> 00:03:02,957
+a point where our known laws
+of physics stop working.
+
+45
+00:03:05,307 --> 00:03:09,161
+If black holes give off no
+light, how do we find them?
+
+46
+00:03:09,361 --> 00:03:12,044
+By watching what happens around them.
+
+47
+00:03:12,194 --> 00:03:17,180
+When a black hole has a companion star,
+it can pull gas away from it.
+
+48
+00:03:17,260 --> 00:03:21,300
+That gas does not fall straight
+in. It spirals into a flat,
+
+49
+00:03:21,380 --> 00:03:24,544
+spinning disk, called an accretion disk.
+
+50
+00:03:24,624 --> 00:03:27,874
+Friction heats the disk
+to millions of degrees,
+
+51
+00:03:27,954 --> 00:03:31,228
+so hot that it shines brightly in X-rays.
+
+52
+00:03:31,308 --> 00:03:36,317
+One of the first strong candidates
+was an X-ray source in the
+
+53
+00:03:36,397 --> 00:03:41,939
+constellation Cygnus, known as
+Cygnus X-1, identified in 1971.
+
+54
+00:03:42,019 --> 00:03:44,948
+It is about seven
+thousand light-years away.
+
+55
+00:03:45,028 --> 00:03:49,394
+NASA's Chandra X-ray Observatory,
+launched in 1999,
+
+56
+00:03:49,474 --> 00:03:53,592
+has since found black
+holes across the sky.
+
+57
+00:03:53,672 --> 00:03:59,160
+Sometimes, a black hole does something
+even more dramatic: it launches jets.
+
+58
+00:03:59,240 --> 00:04:04,121
+Twisted magnetic fields near the
+horizon can blast part of the infalling
+
+59
+00:04:04,201 --> 00:04:09,669
+matter outward as beams of particles,
+moving at nearly the speed of light.
+
+60
+00:04:09,749 --> 00:04:13,628
+A black hole is not only a
+place where things disappear. It
+
+61
+00:04:13,708 --> 00:04:18,401
+can also be one of the most
+powerful engines in the universe.
+
+62
+00:04:20,251 --> 00:04:26,085
+In 1915, Albert Einstein published
+his theory of general relativity.
+
+63
+00:04:26,165 --> 00:04:32,472
+It describes gravity not as a force, but
+as the bending of space and time by mass.
+
+64
+00:04:32,552 --> 00:04:36,500
+It also predicted that when
+massive objects accelerate,
+
+65
+00:04:36,580 --> 00:04:41,563
+they send ripples across spacetime,
+called gravitational waves.
+
+66
+00:04:41,643 --> 00:04:45,433
+Two black holes circling each
+other lose energy as waves,
+
+67
+00:04:45,513 --> 00:04:49,006
+and spiral closer and
+closer until they merge.
+
+68
+00:04:49,086 --> 00:04:54,024
+On September 14, 2015,
+detectors of the LIGO observatory
+
+69
+00:04:54,104 --> 00:04:59,761
+in the United States felt such
+a ripple for the first time.
+
+70
+00:04:59,841 --> 00:05:06,109
+It came from two black holes, about
+36 and 29 times the mass of the Sun,
+
+71
+00:05:06,189 --> 00:05:09,909
+that had merged 1.3 billion years ago.
+
+72
+00:05:09,989 --> 00:05:14,031
+The whole signal lasted
+only a fraction of a second.
+
+73
+00:05:14,111 --> 00:05:16,972
+In that instant,
+about three times the mass
+
+74
+00:05:17,052 --> 00:05:20,090
+of the Sun was turned into pure energy.
+
+75
+00:05:20,170 --> 00:05:25,816
+For a fraction of a second, the merger
+radiated more power than all the stars in
+
+76
+00:05:25,896 --> 00:05:28,178
+the observable universe combined,
+
+77
+00:05:28,258 --> 00:05:32,207
+almost all of it as invisible
+gravitational waves.
+
+78
+00:05:32,287 --> 00:05:35,873
+A new way of observing
+the universe had begun.
+
+79
+00:05:38,223 --> 00:05:41,697
+Not all black holes are
+born from single stars.
+
+80
+00:05:41,777 --> 00:05:46,936
+At the center of almost every large
+galaxy sits a supermassive black hole,
+
+81
+00:05:47,016 --> 00:05:51,492
+weighing millions or billions
+of times as much as the Sun.
+
+82
+00:05:51,572 --> 00:05:57,763
+Ours is called Sagittarius A-star,
+about 26,000 light-years from Earth.
+
+83
+00:05:57,843 --> 00:06:00,587
+It weighs about four million Suns.
+
+84
+00:06:00,737 --> 00:06:03,442
+We know this because
+for almost thirty years,
+
+85
+00:06:03,522 --> 00:06:06,554
+astronomers have tracked
+stars orbiting it.
+
+86
+00:06:06,634 --> 00:06:11,256
+One of them, named S2, circles
+the center every sixteen years,
+
+87
+00:06:11,336 --> 00:06:16,407
+racing past at more than seven
+thousand kilometers per second.
+
+88
+00:06:16,487 --> 00:06:19,773
+Only something extremely
+massive and extremely
+
+89
+00:06:19,853 --> 00:06:23,224
+compact can hold a star on such an orbit.
+
+90
+00:06:23,304 --> 00:06:27,640
+In 2020, the Nobel Prize in
+Physics honored this discovery,
+
+91
+00:06:27,720 --> 00:06:31,757
+together with the theory
+of how black holes form.
+
+92
+00:06:31,837 --> 00:06:35,920
+Then, in 2019, a global
+network of radio telescopes,
+
+93
+00:06:36,000 --> 00:06:42,294
+called the Event Horizon Telescope,
+did something once thought impossible.
+
+94
+00:06:42,374 --> 00:06:45,889
+It captured the first
+image of a black hole,
+
+95
+00:06:45,969 --> 00:06:50,751
+in the galaxy Messier 87,
+55 million light-years away.
+
+96
+00:06:50,831 --> 00:06:56,239
+The glowing ring surrounds a dark shadow,
+the silhouette of the horizon itself.
+
+97
+00:06:56,319 --> 00:07:00,156
+That black hole weighs about
+six and a half billion Suns.
+
+98
+00:07:00,236 --> 00:07:05,674
+In 2022, the same team showed us
+the shadow of Sagittarius A-star,
+
+99
+00:07:05,754 --> 00:07:08,716
+at the heart of our own galaxy.
+
+100
+00:07:08,796 --> 00:07:12,718
+And the jet of M87 stretches
+thousands of light-years,
+
+101
+00:07:12,798 --> 00:07:18,066
+a beam of particles visible even
+to the Hubble Space Telescope.
+
+102
+00:07:20,416 --> 00:07:25,780
+Black holes do not only bend space.
+They bend the paths of light itself.
+
+103
+00:07:25,860 --> 00:07:29,062
+This effect is called
+gravitational lensing,
+
+104
+00:07:29,142 --> 00:07:31,747
+and any massive object can cause it,
+
+105
+00:07:31,827 --> 00:07:35,926
+from a single star to a
+whole cluster of galaxies.
+
+106
+00:07:36,006 --> 00:07:39,168
+The light from a distant
+galaxy gets stretched into
+
+107
+00:07:39,248 --> 00:07:43,176
+arcs and rings around the
+massive object in front of it.
+
+108
+00:07:43,256 --> 00:07:47,290
+Astronomers use these natural
+magnifying glasses to see
+
+109
+00:07:47,370 --> 00:07:51,703
+galaxies that would otherwise
+be too faint to detect.
+
+110
+00:07:51,783 --> 00:07:55,319
+Near a black hole,
+the effect becomes extreme.
+
+111
+00:07:55,399 --> 00:07:59,100
+Light from the disk behind it
+is bent around the horizon,
+
+112
+00:07:59,180 --> 00:08:05,085
+so we can see the far side of the disk
+appearing above and below the black hole.
+
+113
+00:08:06,935 --> 00:08:11,175
+Perhaps the biggest surprise is
+how early black holes appear.
+
+114
+00:08:11,255 --> 00:08:15,491
+The James Webb Space Telescope
+has found black holes that already
+
+115
+00:08:15,571 --> 00:08:19,859
+existed within a few hundred
+million years of the Big Bang.
+
+116
+00:08:19,939 --> 00:08:25,567
+One of them, found together with NASA's
+Chandra, was already millions of times the
+
+117
+00:08:25,647 --> 00:08:31,516
+mass of the Sun when the universe was
+less than five hundred million years old.
+
+118
+00:08:31,596 --> 00:08:33,989
+How could they grow so fast?
+
+119
+00:08:34,189 --> 00:08:38,001
+Maybe they were born large,
+from collapsing clouds of gas.
+
+120
+00:08:38,081 --> 00:08:42,275
+Maybe they fed on matter faster
+than we thought possible.
+
+121
+00:08:42,355 --> 00:08:44,578
+Scientists do not know yet.
+
+122
+00:08:44,728 --> 00:08:49,662
+That is what makes this one of the
+liveliest questions in astronomy today.
+
+123
+00:08:51,512 --> 00:08:57,719
+In 1974, Stephen Hawking showed that
+black holes are not completely black.
+
+124
+00:08:57,799 --> 00:09:00,737
+Because of quantum
+effects near the horizon,
+
+125
+00:09:00,817 --> 00:09:06,333
+a black hole should slowly leak a faint
+glow, now called Hawking radiation.
+
+126
+00:09:06,413 --> 00:09:11,013
+For a black hole as heavy as a star,
+this glow is unimaginably weak,
+
+127
+00:09:11,093 --> 00:09:16,350
+and it would take far longer than
+the age of the universe to fade away.
+
+128
+00:09:16,430 --> 00:09:21,782
+No one has ever detected Hawking
+radiation. It remains a prediction.
+
+129
+00:09:21,862 --> 00:09:23,610
+And it raises a deep puzzle:
+
+130
+00:09:23,690 --> 00:09:28,336
+what happens to the information
+about everything that fell in?
+
+131
+00:09:28,536 --> 00:09:31,616
+Physicists are still
+working on the answer.
+
+132
+00:09:33,466 --> 00:09:35,807
+Is there a black hole near us?
+
+133
+00:09:36,007 --> 00:09:41,209
+One of the closest we know of is about
+sixteen hundred light-years away,
+
+134
+00:09:41,289 --> 00:09:46,427
+found with data from the European
+Space Agency's Gaia spacecraft.
+
+135
+00:09:46,507 --> 00:09:49,968
+Our Sun will never become
+one. It is far too light,
+
+136
+00:09:50,048 --> 00:09:53,542
+and will end its life
+as a quiet white dwarf.
+
+137
+00:09:53,622 --> 00:09:56,455
+Black holes are not monsters in the dark.
+
+138
+00:09:56,535 --> 00:10:00,924
+They are a natural result of gravity,
+and they shape galaxies,
+
+139
+00:10:01,004 --> 00:10:04,761
+power jets, and send
+ripples across the cosmos.
+
+140
+00:10:04,841 --> 00:10:07,990
+We found them by looking at
+what they do to the light,
+
+141
+00:10:08,070 --> 00:10:10,891
+the matter, and space itself around them.
+
+142
+00:10:10,971 --> 00:10:13,878
+The darkest objects in
+the universe have taught
+
+143
+00:10:13,958 --> 00:10:17,227
+us some of the brightest ideas in science.

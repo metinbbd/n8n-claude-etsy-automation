@@ -32,7 +32,7 @@ jobs:
         run: |
           set -o pipefail
           mkdir -p /tmp/kesif /tmp/onceki
-          git fetch -q origin medya-onizleme && git show "origin/medya-onizleme:kesif/${{ inputs.proje }}/adaylar.json" > /tmp/onceki/adaylar.json 2>/dev/null || true
+          git fetch -q origin medya-onizleme && for f in adaylar.json kesif/adaylar.json; do git show "origin/medya-onizleme:kesif/${{ inputs.proje }}/$f" > /tmp/onceki/adaylar.json 2>/dev/null && python3 -c "import json; json.load(open('/tmp/onceki/adaylar.json'))" 2>/dev/null && break; echo "[]" > /tmp/onceki/adaylar.json; done
           if [ "${{ inputs.tur }}" = "yokla" ]; then
             python3 video/yokla.py 2>&1 | tee /tmp/kesif/kayit.txt
           else

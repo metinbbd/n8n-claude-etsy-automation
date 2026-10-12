@@ -143,7 +143,7 @@ def main(config_path, out_dir):
     if cfg.get("onceki"):
         try:
             skip |= {c["id"] for c in json.load(open(cfg["onceki"])) if c.get("tablo")}
-        except OSError:
+        except (OSError, ValueError):
             pass
     if cfg.get("supheliler_dahil"):
         ok = [c for c in cands if not STRONG_PEOPLE.search(c["baslik"] + " " + c["id"])]

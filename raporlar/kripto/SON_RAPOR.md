@@ -1,12 +1,10 @@
-# Kripto sanal portföy – 15.10.2026
+# Kripto sanal portföy – 16.10.2026
 
 ⚠️ SAHTE PARA ile simülasyon. Borsa hesabı yok, gerçek emir verilmedi. Fiyatlar Binance halka açık verisi.
 
-## Bugün hareket VAR
+## Bugün hareket YOK
 
-| Coin | İşlem | Fiyat | Teminat / Sonuç |
-|---|---|---|---|
-| BTC | LONG kapandı (trend bozuldu) | 80.591,73 | -1,88 USDT |
+Yeni pozisyon açılmadı, kapanan pozisyon yok.
 
 ## Portföy
 
@@ -17,7 +15,7 @@
 | Cüzdan bakiyesi | 173,27 USDT |
 | Açık pozisyon kâr/zarar | 0,00 USDT |
 | Kullanılan teminat | 0,00 USDT |
-| Son 7 gün | -23,60 USDT |
+| Son 7 gün | -9,04 USDT |
 
 ## Açık pozisyonlar
 
@@ -27,16 +25,16 @@ Açık pozisyon yok.
 
 | Coin | Fiyat | Dünkü değişim | Trend | RSI | Sinyal | Durum |
 |---|---|---|---|---|---|---|
-| BTC | 80.591,73 | -1,8% | yukarı | 47 | BEKLE | — |
-| ETH | 2.349,60 | -3,1% | yukarı | 38 | BEKLE | — |
-| SOL | 101,47 | -2,4% | yukarı | 38 | BEKLE | — |
-| BNB | 713,68 | -1,5% | yukarı | 42 | BEKLE | — |
-| XRP | 1,2938 | -2,5% | yukarı | 38 | BEKLE | — |
-| ADA | 0,21910 | -2,5% | yukarı | 45 | BEKLE | — |
-| DOGE | 0,07901 | -3,0% | yukarı | 39 | BEKLE | — |
-| AVAX | 9,5050 | -2,1% | yukarı | 48 | BEKLE | — |
-| LINK | 11,9910 | -3,5% | yukarı | 44 | BEKLE | — |
-| DOT | 1,0870 | -1,1% | yukarı | 49 | BEKLE | — |
+| BTC | 82.162,86 | +0,7% | yukarı | 49 | BEKLE | — |
+| ETH | 2.447,25 | +0,8% | yukarı | 40 | BEKLE | — |
+| SOL | 105,96 | +1,1% | yukarı | 40 | BEKLE | — |
+| BNB | 730,72 | -0,1% | yukarı | 42 | BEKLE | — |
+| XRP | 1,3384 | +0,2% | yukarı | 39 | BEKLE | — |
+| ADA | 0,23010 | -0,0% | yukarı | 45 | BEKLE | — |
+| DOGE | 0,08234 | -0,9% | yukarı | 38 | BEKLE | — |
+| AVAX | 10,0950 | +0,2% | yukarı | 48 | BEKLE | — |
+| LINK | 12,4820 | +0,2% | yukarı | 44 | BEKLE | — |
+| DOT | 1,1470 | +0,3% | yukarı | 49 | BEKLE | — |
 
 ## Kapanan işlemler (tümü)
 

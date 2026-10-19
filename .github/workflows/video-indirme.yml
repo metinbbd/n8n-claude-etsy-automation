@@ -34,3 +34,11 @@ jobs:
               -F draft=$DRAFT -f make_latest=false \
               --jq '"DURUM draft=\(.draft)", (.assets[] | "INDIR \(.name) \(.size) \(.browser_download_url)")'
           done < /tmp/yayinlar.txt
+          if [ "$DURUM" = "acik" ]; then
+            echo "--- giris yapmadan erisim testi (206 = basarili)"
+            gh api "repos/$GITHUB_REPOSITORY/releases?per_page=100" \
+              --jq '.[] | select(.name | startswith("Belgesel: ")) | .assets[] | select(.name | endswith(".mp4")) | .browser_download_url' |
+            while read -r U; do
+              curl -s -L -o /dev/null -r 0-99 -w "TEST %{http_code} $U\n" "$U"
+            done
+          fi

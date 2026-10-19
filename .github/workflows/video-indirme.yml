@@ -1,0 +1,36 @@
+name: Video indirme linkleri
+# Taslak belgesel yayinlarini herkese acik indirme linklerine cevirir (GitHub'a girmeden indirilebilsin diye)
+# ya da tekrar taslaga (gizli) alir. Dosyalara dokunmaz, sadece yayin durumunu degistirir.
+on:
+  workflow_dispatch:
+    inputs:
+      durum:
+        description: "acik = herkes indirebilir, gizli = tekrar taslak"
+        required: true
+        default: "acik"
+        type: choice
+        options: [acik, gizli]
+
+permissions:
+  contents: write
+
+jobs:
+  indirme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Yayin durumunu degistir ve linkleri yaz
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DURUM: ${{ inputs.durum }}
+        run: |
+          set -euo pipefail
+          if [ "$DURUM" = "acik" ]; then DRAFT=false; else DRAFT=true; fi
+          gh api "repos/$GITHUB_REPOSITORY/releases?per_page=100" \
+            --jq '.[] | select(.name | startswith("Belgesel: ")) | "\(.id)\t\(.tag_name)"' > /tmp/yayinlar.txt
+          cat /tmp/yayinlar.txt
+          while IFS=$'\t' read -r ID TAG; do
+            echo "=== $TAG"
+            gh api -X PATCH "repos/$GITHUB_REPOSITORY/releases/$ID" \
+              -F draft=$DRAFT -f make_latest=false \
+              --jq '"DURUM draft=\(.draft)", (.assets[] | "INDIR \(.name) \(.size) \(.browser_download_url)")'
+          done < /tmp/yayinlar.txt

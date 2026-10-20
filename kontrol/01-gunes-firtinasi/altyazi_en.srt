@@ -4,765 +4,765 @@ Ninety-three million miles
 away, our star is restless.
 
 2
-00:00:10,218 --> 00:00:16,387
+00:00:10,218 --> 00:00:16,383
 Beneath its glowing surface, twisted
 magnetic fields store unimaginable energy.
 
 3
-00:00:16,467 --> 00:00:18,941
+00:00:16,463 --> 00:00:18,937
 And when those fields finally snap,
 
 4
-00:00:19,021 --> 00:00:23,843
+00:00:19,017 --> 00:00:23,839
 the Sun hurls billions of tons
 of superheated gas into space.
 
 5
-00:00:23,923 --> 00:00:26,139
+00:00:23,919 --> 00:00:26,133
 A solar storm is born.
 
 6
-00:00:26,289 --> 00:00:30,485
+00:00:26,283 --> 00:00:30,479
 Within days, it can reach Earth,
 painting our skies with light,
 
 7
-00:00:30,565 --> 00:00:34,668
+00:00:30,559 --> 00:00:34,662
 and testing the technology
 our modern world depends on.
 
 8
-00:00:34,748 --> 00:00:37,944
+00:00:34,742 --> 00:00:37,940
 This is the story of those
 storms, of how they form,
 
 9
-00:00:38,024 --> 00:00:42,090
+00:00:38,020 --> 00:00:42,087
 how they travel, and how we
 have learned to watch them.
 
 10
-00:00:44,440 --> 00:00:47,082
+00:00:44,437 --> 00:00:47,079
 The Sun holds more than
 ninety-nine percent
 
 11
-00:00:47,162 --> 00:00:49,811
+00:00:47,159 --> 00:00:49,808
 of all the mass in our solar system.
 
 12
-00:00:49,891 --> 00:00:53,834
+00:00:49,888 --> 00:00:53,831
 Deep in its core, at fifteen
 million degrees Celsius,
 
 13
-00:00:53,914 --> 00:00:59,598
+00:00:53,911 --> 00:00:59,595
 hydrogen fuses into helium,
 releasing the energy that lights our days.
 
 14
-00:00:59,678 --> 00:01:05,177
+00:00:59,675 --> 00:01:05,175
 That energy takes many thousands of
 years to work its way out to the surface.
 
 15
-00:01:05,257 --> 00:01:10,154
+00:01:05,255 --> 00:01:10,149
 Then, as light, it crosses the gap
 to Earth in just over eight minutes.
 
 16
-00:01:10,234 --> 00:01:15,117
+00:01:10,229 --> 00:01:15,113
 Its visible surface glows at about
 five and a half thousand degrees.
 
 17
-00:01:15,197 --> 00:01:18,512
+00:01:15,193 --> 00:01:18,508
 Yet above it, the thin
 outer atmosphere called the
 
 18
-00:01:18,592 --> 00:01:22,561
+00:01:18,588 --> 00:01:22,557
 corona is far hotter,
 at more than a million degrees.
 
 19
-00:01:22,641 --> 00:01:25,343
+00:01:22,637 --> 00:01:25,339
 Exactly how the corona is heated remains
 
 20
-00:01:25,423 --> 00:01:28,853
+00:01:25,419 --> 00:01:28,849
 one of the great mysteries
 of solar science.
 
 21
-00:01:28,933 --> 00:01:31,835
+00:01:28,929 --> 00:01:31,830
 But the Sun is not a calm, solid ball.
 
 22
-00:01:31,915 --> 00:01:35,050
+00:01:31,910 --> 00:01:35,046
 It is made of plasma,
 gas so hot that its atoms
 
 23
-00:01:35,130 --> 00:01:38,510
+00:01:35,126 --> 00:01:38,506
 have been torn apart
 into charged particles.
 
 24
-00:01:38,590 --> 00:01:42,667
+00:01:38,586 --> 00:01:42,665
 And charged particles in
 motion create magnetic fields.
 
 25
-00:01:42,747 --> 00:01:47,551
+00:01:42,745 --> 00:01:47,549
 The Sun also spins faster at
 its equator than near its poles.
 
 26
-00:01:47,631 --> 00:01:52,992
+00:01:47,629 --> 00:01:52,990
 Over time, this uneven rotation stretches
 and twists the magnetic field lines,
 
 27
-00:01:53,072 --> 00:01:56,511
+00:01:53,070 --> 00:01:56,509
 like rubber bands wound
 tighter and tighter.
 
 28
-00:01:56,591 --> 00:02:02,284
+00:01:56,589 --> 00:02:02,284
 Where these tangled fields push up through
 the surface, they leave a mark we can see.
 
 29
-00:02:04,134 --> 00:02:07,955
+00:02:04,134 --> 00:02:07,928
 Sunspots look like dark
 blemishes on the face of the Sun.
 
 30
-00:02:08,035 --> 00:02:10,440
+00:02:08,008 --> 00:02:10,416
 They are regions where intense magnetic
 
 31
-00:02:10,520 --> 00:02:13,758
+00:02:10,496 --> 00:02:13,737
 fields hold back the
 flow of heat from below.
 
 32
-00:02:13,838 --> 00:02:18,452
+00:02:13,817 --> 00:02:18,431
 At around four thousand degrees,
 they are cooler than their surroundings,
 
 33
-00:02:18,532 --> 00:02:21,474
+00:02:18,511 --> 00:02:21,453
 so they appear dark,
 yet they would still blaze
 
 34
-00:02:21,554 --> 00:02:24,946
+00:02:21,533 --> 00:02:24,925
 brighter than a full moon
 if seen on their own.
 
 35
-00:02:25,026 --> 00:02:28,626
+00:02:25,005 --> 00:02:28,605
 Many sunspots are larger
 than the entire Earth.
 
 36
-00:02:28,706 --> 00:02:32,768
+00:02:28,685 --> 00:02:32,747
 Their numbers rise and fall in
 a rhythm called the solar cycle,
 
 37
-00:02:32,848 --> 00:02:35,256
+00:02:32,827 --> 00:02:35,235
 which lasts about eleven years.
 
 38
-00:02:35,336 --> 00:02:39,718
+00:02:35,315 --> 00:02:39,698
 At solar minimum, the Sun can
 go weeks without a single spot.
 
 39
-00:02:39,798 --> 00:02:43,018
+00:02:39,778 --> 00:02:42,991
 At solar maximum,
 it can be covered with them,
 
 40
-00:02:43,098 --> 00:02:47,628
+00:02:43,071 --> 00:02:47,593
 and its entire magnetic field
 flips, north becoming south.
 
 41
-00:02:47,708 --> 00:02:51,005
+00:02:47,673 --> 00:02:50,951
 In 2024, scientists
 announced that the Sun had
 
 42
-00:02:51,085 --> 00:02:54,906
+00:02:51,031 --> 00:02:54,831
 entered the maximum phase
 of its current cycle.
 
 43
-00:02:54,986 --> 00:03:00,853
+00:02:54,911 --> 00:03:00,778
 And the more active the Sun becomes,
 the more often its magnetic fields erupt.
 
 44
-00:03:02,703 --> 00:03:06,931
+00:03:02,628 --> 00:03:06,769
 When twisted magnetic field lines
 suddenly snap and reconnect,
 
 45
-00:03:07,011 --> 00:03:10,647
+00:03:06,849 --> 00:03:10,418
 they release their stored
 energy in an instant.
 
 46
-00:03:10,727 --> 00:03:14,325
+00:03:10,498 --> 00:03:14,095
 The result is a solar flare,
 an intense flash of
 
 47
-00:03:14,405 --> 00:03:18,913
+00:03:14,175 --> 00:03:18,681
 light across the spectrum,
 from radio waves to X-rays.
 
 48
-00:03:18,993 --> 00:03:22,116
+00:03:18,761 --> 00:03:21,884
 A large flare can
 release as much energy as
 
 49
-00:03:22,196 --> 00:03:25,918
+00:03:21,964 --> 00:03:25,686
 millions of hydrogen
 bombs exploding at once.
 
 50
-00:03:25,998 --> 00:03:28,693
+00:03:25,766 --> 00:03:28,460
 Scientists rank flares by their strength,
 
 51
-00:03:28,773 --> 00:03:32,323
+00:03:28,540 --> 00:03:32,091
 with the most powerful
 known as X-class flares.
 
 52
-00:03:32,403 --> 00:03:37,509
+00:03:32,171 --> 00:03:37,268
 The largest flare ever measured
 erupted in November 2003.
 
 53
-00:03:37,589 --> 00:03:42,564
+00:03:37,348 --> 00:03:42,325
 It was so intense that it overwhelmed
 the instruments built to record it.
 
 54
-00:03:42,644 --> 00:03:47,697
+00:03:42,405 --> 00:03:47,457
 Because a flare is light, its radiation
 reaches Earth in about eight minutes,
 
 55
-00:03:47,777 --> 00:03:53,479
+00:03:47,537 --> 00:03:53,240
 and it can disrupt radio communication
 on the side of the planet facing the Sun.
 
 56
-00:03:53,559 --> 00:03:56,854
+00:03:53,320 --> 00:03:56,575
 Often, a flare comes with
 something even bigger.
 
 57
-00:03:56,934 --> 00:04:00,152
+00:03:56,655 --> 00:03:59,873
 Above the surface,
 magnetic fields can also
 
 58
-00:04:00,232 --> 00:04:03,143
+00:03:59,953 --> 00:04:02,864
 lift enormous arches of glowing plasma,
 
 59
-00:04:03,223 --> 00:04:07,658
+00:04:02,944 --> 00:04:07,379
 called prominences,
 that hang in the corona for days.
 
 60
-00:04:07,738 --> 00:04:12,560
+00:04:07,459 --> 00:04:12,284
 When their magnetic support breaks,
 they too can be flung out into space.
 
 61
-00:04:12,640 --> 00:04:18,351
+00:04:12,364 --> 00:04:18,075
 A coronal mass ejection, or CME,
 is a vast cloud of plasma and magnetic
 
 62
-00:04:18,431 --> 00:04:23,940
+00:04:18,155 --> 00:04:23,664
 field blasted away from the Sun's
 outer atmosphere, the corona.
 
 63
-00:04:24,020 --> 00:04:28,370
+00:04:23,744 --> 00:04:28,100
 A single eruption can carry
 a billion tons of material.
 
 64
-00:04:28,450 --> 00:04:33,551
+00:04:28,180 --> 00:04:33,281
 The fastest race outward at around
 three thousand kilometers per second.
 
 65
-00:04:33,631 --> 00:04:38,580
+00:04:33,361 --> 00:04:38,310
 As it expands, a CME can grow
 larger than the Sun itself.
 
 66
-00:04:38,660 --> 00:04:42,500
+00:04:38,390 --> 00:04:42,215
 Most of these eruptions head
 off harmlessly into space.
 
 67
-00:04:42,580 --> 00:04:45,853
+00:04:42,295 --> 00:04:45,569
 But sometimes, one is
 aimed straight at us.
 
 68
-00:04:48,203 --> 00:04:51,594
+00:04:47,919 --> 00:04:51,309
 Even on quiet days,
 the Sun constantly breathes out
 
 69
-00:04:51,674 --> 00:04:55,582
+00:04:51,389 --> 00:04:55,297
 a stream of charged particles
 called the solar wind.
 
 70
-00:04:55,662 --> 00:04:59,448
+00:04:55,377 --> 00:04:59,166
 It flows past Earth at nearly
 a million miles per hour.
 
 71
-00:04:59,528 --> 00:05:03,308
+00:04:59,246 --> 00:05:03,024
 A coronal mass ejection is
 like a gust inside that wind,
 
 72
-00:05:03,388 --> 00:05:06,239
+00:05:03,104 --> 00:05:05,955
 a shock front plowing through space.
 
 73
-00:05:06,319 --> 00:05:10,839
+00:05:06,035 --> 00:05:10,556
 Depending on its speed, it can
 cross the hundred and fifty million
 
 74
-00:05:10,919 --> 00:05:16,306
+00:05:10,636 --> 00:05:16,026
 kilometers to Earth in as little as
 fifteen hours, or take several days.
 
 75
-00:05:16,386 --> 00:05:19,401
+00:05:16,106 --> 00:05:19,121
 Fortunately, our planet has a shield.
 
 76
-00:05:19,551 --> 00:05:25,186
+00:05:19,271 --> 00:05:24,907
 Earth's molten iron core generates a
 magnetic field that surrounds the planet,
 
 77
-00:05:25,266 --> 00:05:28,933
+00:05:24,987 --> 00:05:28,654
 a protective bubble
 called the magnetosphere.
 
 78
-00:05:29,013 --> 00:05:33,168
+00:05:28,734 --> 00:05:32,886
 Most of the time, it deflects
 the solar wind around us.
 
 79
-00:05:33,248 --> 00:05:38,684
+00:05:32,966 --> 00:05:38,401
 But when a powerful CME strikes,
 the magnetosphere is squeezed and shaken.
 
 80
-00:05:38,764 --> 00:05:44,391
+00:05:38,481 --> 00:05:44,109
 If the magnetic field of the cloud points
 in the opposite direction to Earth's own,
 
 81
-00:05:44,471 --> 00:05:49,516
+00:05:44,189 --> 00:05:49,235
 the two can link up, and energy
 pours into our magnetic environment.
 
 82
-00:05:49,596 --> 00:05:52,248
+00:05:49,315 --> 00:05:51,966
 This is a geomagnetic storm.
 
 83
-00:05:52,398 --> 00:05:54,054
+00:05:52,116 --> 00:05:53,779
 On the night side of Earth,
 
 84
-00:05:54,134 --> 00:05:57,142
+00:05:53,859 --> 00:05:56,878
 the magnetosphere is
 stretched into a long tail,
 
 85
-00:05:57,222 --> 00:06:00,293
+00:05:56,958 --> 00:06:00,040
 reaching far beyond the orbit of the Moon.
 
 86
-00:06:00,373 --> 00:06:03,071
+00:06:00,120 --> 00:06:02,818
 During a storm, that tail stores energy,
 
 87
-00:06:03,151 --> 00:06:08,057
+00:06:02,898 --> 00:06:07,804
 then suddenly snaps back,
 hurling particles toward the planet.
 
 88
-00:06:09,907 --> 00:06:13,921
+00:06:09,654 --> 00:06:13,667
 The most beautiful sign of
 a solar storm is the aurora.
 
 89
-00:06:14,001 --> 00:06:17,405
+00:06:13,747 --> 00:06:17,150
 Charged particles guided
 by Earth's magnetic field
 
 90
-00:06:17,485 --> 00:06:21,408
+00:06:17,230 --> 00:06:21,153
 rain down into the upper
 atmosphere near the poles.
 
 91
-00:06:21,488 --> 00:06:25,993
+00:06:21,233 --> 00:06:25,738
 There, they collide with oxygen
 and nitrogen, making them glow.
 
 92
-00:06:26,073 --> 00:06:31,851
+00:06:25,818 --> 00:06:31,596
 Oxygen shines green and red, while
 nitrogen adds shades of blue and purple.
 
 93
-00:06:31,931 --> 00:06:36,661
+00:06:31,676 --> 00:06:36,407
 Auroras appear around both poles at
 the same time, the northern lights
 
 94
-00:06:36,741 --> 00:06:41,853
+00:06:36,487 --> 00:06:41,598
 and the southern lights, mirror
 images on opposite ends of the world.
 
 95
-00:06:41,933 --> 00:06:45,335
+00:06:41,678 --> 00:06:45,080
 Seen from orbit, auroras
 ripple across the planet
 
 96
-00:06:45,415 --> 00:06:49,339
+00:06:45,160 --> 00:06:49,082
 like living curtains,
 hundreds of kilometers tall.
 
 97
-00:06:49,419 --> 00:06:54,051
+00:06:49,162 --> 00:06:53,795
 During strong storms, they spread
 far beyond the polar regions.
 
 98
-00:06:54,131 --> 00:06:58,654
+00:06:53,875 --> 00:06:58,385
 In May 2024, the strongest
 geomagnetic storm in more than
 
 99
-00:06:58,734 --> 00:07:04,030
+00:06:58,465 --> 00:07:03,746
 twenty years lit up skies as
 far south as Florida and Mexico.
 
 100
-00:07:04,110 --> 00:07:07,923
+00:07:03,826 --> 00:07:07,640
 Millions of people saw an
 aurora for the very first time.
 
 101
-00:07:08,003 --> 00:07:13,282
+00:07:07,720 --> 00:07:12,999
 But the same storms that create such
 beauty can also cause real damage.
 
 102
-00:07:15,632 --> 00:07:17,385
+00:07:15,349 --> 00:07:17,102
 On September 1st, 1859,
 
 103
-00:07:17,465 --> 00:07:21,767
+00:07:17,182 --> 00:07:21,485
 the English astronomer Richard
 Carrington was sketching
 
 104
-00:07:21,847 --> 00:07:28,273
+00:07:21,565 --> 00:07:27,992
 sunspots when he saw two brilliant beads
 of white light flare up on the Sun.
 
 105
-00:07:28,353 --> 00:07:31,476
+00:07:28,072 --> 00:07:31,196
 It was the first solar
 flare ever recorded.
 
 106
-00:07:31,556 --> 00:07:34,739
+00:07:31,276 --> 00:07:34,458
 Less than a day later,
 the eruption reached Earth.
 
 107
-00:07:34,819 --> 00:07:36,907
+00:07:34,538 --> 00:07:36,626
 Auroras glowed over the Caribbean,
 
 108
-00:07:36,987 --> 00:07:41,949
+00:07:36,706 --> 00:07:41,668
 so bright that people in some places
 could read by their light at night.
 
 109
-00:07:42,029 --> 00:07:46,311
+00:07:41,748 --> 00:07:46,032
 Telegraph systems across Europe
 and North America failed.
 
 110
-00:07:46,391 --> 00:07:51,285
+00:07:46,112 --> 00:07:51,010
 Some operators received electric shocks,
 and some lines kept working even
 
 111
-00:07:51,365 --> 00:07:56,436
+00:07:51,090 --> 00:07:56,165
 after their batteries were disconnected,
 powered by the storm itself.
 
 112
-00:07:56,516 --> 00:08:01,335
+00:07:56,245 --> 00:08:01,065
 In 1859, the world had
 little technology to lose.
 
 113
-00:08:01,415 --> 00:08:03,883
+00:08:01,145 --> 00:08:03,613
 Today, it is very different.
 
 114
-00:08:04,033 --> 00:08:06,768
+00:08:03,763 --> 00:08:06,498
 In March 1989, a geomagnetic storm
 
 115
-00:08:06,848 --> 00:08:10,328
+00:08:06,578 --> 00:08:10,058
 collapsed the power
 grid in Quebec, Canada,
 
 116
-00:08:10,408 --> 00:08:13,971
+00:08:10,138 --> 00:08:13,701
 in about ninety seconds,
 leaving six million
 
 117
-00:08:14,051 --> 00:08:17,898
+00:08:13,781 --> 00:08:17,628
 people without electricity for nine hours.
 
 118
-00:08:17,978 --> 00:08:23,405
+00:08:17,708 --> 00:08:23,133
 In 2022, even a minor storm warmed
 and expanded Earth's upper atmosphere,
 
 119
-00:08:23,485 --> 00:08:28,230
+00:08:23,213 --> 00:08:27,958
 dragging dozens of newly
 launched satellites out of orbit.
 
 120
-00:08:28,310 --> 00:08:33,698
+00:08:28,038 --> 00:08:33,427
 Strong storms can disturb GPS navigation,
 satellite communications,
 
 121
-00:08:33,778 --> 00:08:38,963
+00:08:33,507 --> 00:08:38,693
 and the radio links used by
 aircraft flying over the poles.
 
 122
-00:08:39,043 --> 00:08:41,457
+00:08:38,773 --> 00:08:41,187
 Astronauts are at risk too.
 
 123
-00:08:41,607 --> 00:08:47,470
+00:08:41,337 --> 00:08:47,199
 Outside the protection of Earth's magnetic
 field, on the way to the Moon or Mars,
 
 124
-00:08:47,550 --> 00:08:50,552
+00:08:47,279 --> 00:08:50,281
 a burst of solar particles could deliver a
 
 125
-00:08:50,632 --> 00:08:54,597
+00:08:50,361 --> 00:08:54,325
 dangerous dose of radiation
 in a matter of hours.
 
 126
-00:08:54,677 --> 00:08:57,679
+00:08:54,405 --> 00:08:57,407
 And in July 2012,
 an eruption as powerful as
 
 127
-00:08:57,759 --> 00:09:01,490
+00:08:57,487 --> 00:09:01,219
 the Carrington event tore
 through Earth's orbit.
 
 128
-00:09:01,570 --> 00:09:04,315
+00:09:01,299 --> 00:09:04,044
 We missed it by about nine days.
 
 129
-00:09:06,665 --> 00:09:11,760
+00:09:06,394 --> 00:09:11,490
 That is why a fleet of spacecraft
 now watches the Sun around the clock.
 
 130
-00:09:11,840 --> 00:09:17,727
+00:09:11,570 --> 00:09:17,459
 NASA's Solar Dynamics Observatory captures
 the Sun in many wavelengths of light,
 
 131
-00:09:17,807 --> 00:09:21,384
+00:09:17,539 --> 00:09:21,117
 recording a new image
 every twelve seconds.
 
 132
-00:09:21,464 --> 00:09:24,722
+00:09:21,197 --> 00:09:24,454
 The joint European and
 American observatory
 
 133
-00:09:24,802 --> 00:09:27,361
+00:09:24,534 --> 00:09:27,093
 SOHO has been watching since 1995,
 
 134
-00:09:27,441 --> 00:09:30,854
+00:09:27,173 --> 00:09:30,585
 blocking the bright disk
 of the Sun to reveal
 
 135
-00:09:30,934 --> 00:09:34,332
+00:09:30,665 --> 00:09:34,062
 eruptions streaming through the corona.
 
 136
-00:09:34,412 --> 00:09:38,629
+00:09:34,142 --> 00:09:38,359
 And NASA's Parker Solar Probe
 has flown closer to the Sun than
 
 137
-00:09:38,709 --> 00:09:43,307
+00:09:38,439 --> 00:09:43,037
 any spacecraft in history,
 passing through the corona itself.
 
 138
-00:09:43,387 --> 00:09:48,022
+00:09:43,117 --> 00:09:47,752
 At its closest, it races past
 at around seven hundred thousand
 
 139
-00:09:48,102 --> 00:09:53,110
+00:09:47,832 --> 00:09:52,841
 kilometers per hour, the fastest
 object ever built by humans.
 
 140
-00:09:53,190 --> 00:09:58,969
+00:09:52,921 --> 00:09:58,699
 The European Space Agency's Solar Orbiter,
 built in partnership with NASA,
 
 141
-00:09:59,049 --> 00:10:02,452
+00:09:58,779 --> 00:10:02,182
 has climbed out of the
 plane of the planets,
 
 142
-00:10:02,532 --> 00:10:07,890
+00:10:02,262 --> 00:10:07,620
 and in 2025 it gave us our first
 ever views of the Sun's poles.
 
 143
-00:10:07,970 --> 00:10:12,102
+00:10:07,700 --> 00:10:11,832
 The poles are where the Sun's
 magnetic cycle may be decided.
 
 144
-00:10:12,182 --> 00:10:17,415
+00:10:11,912 --> 00:10:17,145
 Closer to home, spacecraft parked
 about one and a half million kilometers
 
 145
-00:10:17,495 --> 00:10:23,468
+00:10:17,225 --> 00:10:23,199
 from Earth, between us and the Sun,
 measure the solar wind before it arrives.
 
 146
-00:10:23,548 --> 00:10:26,539
+00:10:23,279 --> 00:10:26,270
 They give forecasters
 a warning of up to an
 
 147
-00:10:26,619 --> 00:10:30,417
+00:10:26,350 --> 00:10:30,147
 hour before a storm's
 magnetic cloud reaches us.
 
 148
-00:10:30,497 --> 00:10:33,652
+00:10:30,227 --> 00:10:33,382
 That is enough time for
 power companies to protect
 
 149
-00:10:33,732 --> 00:10:37,402
+00:10:33,462 --> 00:10:37,132
 their grids and for satellite
 operators to prepare.
 
 150
-00:10:37,482 --> 00:10:41,033
+00:10:37,212 --> 00:10:40,763
 Space weather forecasters rate geomagnetic
 
 151
-00:10:41,113 --> 00:10:45,720
+00:10:40,843 --> 00:10:45,450
 storms on a scale from G1,
 minor, to G5, extreme.
 
 152
-00:10:45,800 --> 00:10:49,440
+00:10:45,530 --> 00:10:49,170
 Like weather forecasts on Earth,
 their predictions are
 
 153
-00:10:49,520 --> 00:10:53,979
+00:10:49,250 --> 00:10:53,709
 improving every year,
 but the Sun can still surprise us.
 
 154
-00:10:55,829 --> 00:10:59,367
+00:10:55,559 --> 00:10:59,097
 The Sun gives us light,
 warmth, and life itself.
 
 155
-00:10:59,447 --> 00:11:05,671
+00:10:59,177 --> 00:11:05,400
 But it is also a dynamic, violent star,
 and we live inside its outer atmosphere.
 
 156
-00:11:05,751 --> 00:11:11,563
+00:11:05,480 --> 00:11:11,289
 Every aurora that dances across the night
 sky is a reminder of that connection.
 
 157
-00:11:11,643 --> 00:11:15,816
+00:11:11,369 --> 00:11:15,511
 The next great solar storm is
 not a question of if, but when.
 
 158
-00:11:15,896 --> 00:11:18,537
+00:11:15,591 --> 00:11:18,232
 And thanks to the
 spacecraft that keep watch
 
 159
-00:11:18,617 --> 00:11:21,939
+00:11:18,312 --> 00:11:21,634
 on our restless star,
 we will see it coming.

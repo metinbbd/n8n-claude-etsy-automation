@@ -12,7 +12,7 @@ Bölümler:
 00:44 Ateş ve Manyetizmadan Bir Küre
 02:04 Güneş Lekeleri ve Güneş Döngüsü
 03:02 Patlamalar ve Püskürmeler
-04:48 Dünya'ya Yolculuk
+04:47 Dünya'ya Yolculuk
 06:09 Işık Perdeleri
 07:15 Güneş Vurduğunda
 09:06 Yıldızımızı İzlemek
@@ -26,9 +26,9 @@ Solar imagery: NASA/SDO and the AIA, EVE and HMI science teams
 Coronagraph imagery: SOHO (ESA & NASA) - LASCO and EIT
 Aurora and night Earth from the ISS: NASA Johnson Space Center, Earth Science and Remote Sensing Unit
 Parker Solar Probe animations: NASA/Johns Hopkins APL/Goddard
-Music: "Lightless Dawn" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
-Music: "Echoes of Time v2" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
-Music: "Long Note Two" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Stormfront" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Rising Tide (faster)" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Magistar" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
 Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
 
 Bilgi kaynakları:
@@ -50,7 +50,7 @@ Chapters:
 00:44 A Ball of Fire and Magnetism
 02:04 Sunspots and the Solar Cycle
 03:02 Flares and Eruptions
-04:48 The Journey to Earth
+04:47 The Journey to Earth
 06:09 Curtains of Light
 07:15 When the Sun Strikes
 09:06 Watching Our Star
@@ -62,9 +62,9 @@ Solar imagery: NASA/SDO and the AIA, EVE and HMI science teams
 Coronagraph imagery: SOHO (ESA & NASA) - LASCO and EIT
 Aurora and night Earth from the ISS: NASA Johnson Space Center, Earth Science and Remote Sensing Unit
 Parker Solar Probe animations: NASA/Johns Hopkins APL/Goddard
-Music: "Lightless Dawn" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
-Music: "Echoes of Time v2" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
-Music: "Long Note Two" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Stormfront" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Rising Tide (faster)" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Magistar" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
 Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
 
 Sources:

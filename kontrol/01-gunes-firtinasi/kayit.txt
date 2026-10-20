@@ -6,7 +6,7 @@
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 /home/runner/.local/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
   warnings.warn(
-   anlatim + aralar: 11.48 dk; kaynakca ile 11.71 dk
+   anlatim + aralar: 11.47 dk; kaynakca ile 11.71 dk
 2/6 Altyazilar
    151 Turkce altyazi; en uzun satir 42 karakter; okuma hizi maks 17.6 kar/sn, 18 ustu 0 adet
 3/6 Klipler
@@ -44,14 +44,16 @@ Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF
   indiriliyor: Y5
   bolum 0: 6 parca, 44.4 sn, hiz carpani 0.88x
   bolum 1: 10 parca, 79.7 sn, hiz carpani 1.06x
-  bolum 2: 8 parca, 58.6 sn, hiz carpani 0.80x
-  bolum 3: 9 parca, 105.5 sn, hiz carpani 1.07x
+  bolum 2: 8 parca, 58.5 sn, hiz carpani 0.81x
+  bolum 3: 9 parca, 105.3 sn, hiz carpani 1.07x
   bolum 4: 10 parca, 81.7 sn, hiz carpani 1.18x
-  bolum 5: 5 parca, 65.7 sn, hiz carpani 1.04x
+  bolum 5: 5 parca, 65.7 sn, hiz carpani 1.05x
   bolum 6: 11 parca, 111.0 sn, hiz carpani 0.77x
   bolum 7: 14 parca, 109.2 sn, hiz carpani 1.00x
-  bolum 8: 4 parca, 33.0 sn, hiz carpani 1.00x
+  bolum 8: 4 parca, 32.9 sn, hiz carpani 1.00x
 4/6 Muzik ve ses karisimi
+   muzik/anlatim: konusma sirasinda muzik anlatimdan 11.5 dB altta; aralarda 4.9 dB altta
 5/6 Birlestirme
+5b/6 Altyazili surum (Turkce altyazi goruntuye yazilir)
 6/6 YouTube paketi
-   video: 11.71 dk, 791 MB
+   video: 11.70 dk, 791 MB

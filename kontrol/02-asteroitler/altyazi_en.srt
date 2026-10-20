@@ -14,393 +14,393 @@ together into planets, moons,
 and countless smaller worlds.
 
 4
-00:00:21,052 --> 00:00:24,769
+00:00:21,052 --> 00:00:24,787
 Most of those smaller worlds
 were swallowed by the planets,
 
 5
-00:00:24,849 --> 00:00:27,344
+00:00:24,867 --> 00:00:27,371
 or flung out of the solar system.
 
 6
-00:00:27,424 --> 00:00:33,355
+00:00:27,451 --> 00:00:33,382
 But some survived, almost unchanged,
 for the entire age of the solar system.
 
 7
-00:00:33,435 --> 00:00:35,691
+00:00:33,462 --> 00:00:35,719
 We call them asteroids.
 
 8
-00:00:35,841 --> 00:00:40,792
+00:00:35,869 --> 00:00:40,819
 They are time capsules, carrying the
 story of how our planets were built.
 
 9
-00:00:40,872 --> 00:00:45,448
+00:00:40,899 --> 00:00:45,476
 And some of them are on a path
 that may, one day, cross ours.
 
 10
-00:00:45,528 --> 00:00:48,652
+00:00:45,556 --> 00:00:48,679
 This is the story of the
 rocks that shaped our world,
 
 11
-00:00:48,732 --> 00:00:51,991
+00:00:48,759 --> 00:00:52,018
 and of how we are
 learning to watch over it.
 
 12
-00:00:54,341 --> 00:00:57,447
+00:00:54,368 --> 00:00:57,476
 Between the orbits of
 Mars and Jupiter lies a
 
 13
-00:00:57,527 --> 00:01:01,296
+00:00:57,556 --> 00:01:01,326
 wide ring of rock called
 the main asteroid belt.
 
 14
-00:01:01,376 --> 00:01:03,512
+00:01:01,406 --> 00:01:03,543
 It holds millions of asteroids,
 
 15
-00:01:03,592 --> 00:01:07,824
+00:01:03,623 --> 00:01:07,854
 from boulders to bodies
 hundreds of kilometers across.
 
 16
-00:01:07,904 --> 00:01:12,594
+00:01:07,934 --> 00:01:12,625
 Yet if you gathered all of them together,
 they would weigh less than our Moon.
 
 17
-00:01:12,674 --> 00:01:14,757
+00:01:12,705 --> 00:01:14,786
 The belt is not the crowded field of
 
 18
-00:01:14,837 --> 00:01:17,790
+00:01:14,866 --> 00:01:17,819
 tumbling rocks you may
 have seen in movies.
 
 19
-00:01:17,870 --> 00:01:21,385
+00:01:17,899 --> 00:01:21,393
 The asteroids are so widely
 scattered that spacecraft
 
 20
-00:01:21,465 --> 00:01:25,566
+00:01:21,473 --> 00:01:25,553
 have crossed it many times
 without a single close call.
 
 21
-00:01:25,646 --> 00:01:28,387
+00:01:25,633 --> 00:01:28,374
 Some of them even have moons of their own.
 
 22
-00:01:28,467 --> 00:01:31,650
+00:01:28,454 --> 00:01:31,637
 Why did these rocks never become a planet?
 
 23
-00:01:31,850 --> 00:01:34,102
+00:01:31,837 --> 00:01:34,085
 The answer is Jupiter.
 
 24
-00:01:34,252 --> 00:01:37,596
+00:01:34,235 --> 00:01:37,579
 Its enormous gravity stirred
 the region again and again,
 
 25
-00:01:37,676 --> 00:01:42,266
+00:01:37,659 --> 00:01:42,249
 until the rocks smashed into each
 other instead of sticking together.
 
 26
-00:01:42,346 --> 00:01:47,733
+00:01:42,329 --> 00:01:47,716
 Over time, Jupiter also carved gaps in
 the belt, and its pull can still nudge
 
 27
-00:01:47,813 --> 00:01:53,879
+00:01:47,796 --> 00:01:53,863
 asteroids onto new paths, some of them
 leading toward the inner solar system.
 
 28
-00:01:55,729 --> 00:01:59,724
+00:01:55,713 --> 00:01:59,702
 The two largest bodies in
 the belt are Vesta and Ceres.
 
 29
-00:01:59,804 --> 00:02:04,656
+00:01:59,782 --> 00:02:04,633
 In 2011, NASA's Dawn
 spacecraft arrived at Vesta,
 
 30
-00:02:04,736 --> 00:02:09,132
+00:02:04,713 --> 00:02:09,109
 a rocky world about 525 kilometers wide.
 
 31
-00:02:09,212 --> 00:02:12,962
+00:02:09,189 --> 00:02:12,940
 Then Dawn did something no
 spacecraft had done before.
 
 32
-00:02:13,042 --> 00:02:17,201
+00:02:13,020 --> 00:02:17,162
 It left Vesta, and in 2015 it
 entered orbit around Ceres,
 
 33
-00:02:17,281 --> 00:02:20,325
+00:02:17,242 --> 00:02:20,274
 becoming the first spacecraft to orbit two
 
 34
-00:02:20,405 --> 00:02:24,196
+00:02:20,354 --> 00:02:24,132
 different worlds beyond
 the Earth-Moon system.
 
 35
-00:02:24,276 --> 00:02:27,402
+00:02:24,212 --> 00:02:27,337
 Ceres is about 940 kilometers across,
 
 36
-00:02:27,482 --> 00:02:31,924
+00:02:27,417 --> 00:02:31,860
 so big that it is classified
 as a dwarf planet.
 
 37
-00:02:32,004 --> 00:02:36,565
+00:02:31,940 --> 00:02:36,502
 It holds roughly a third of all
 the mass in the asteroid belt.
 
 38
-00:02:36,645 --> 00:02:40,158
+00:02:36,582 --> 00:02:40,133
 On its surface, Dawn found
 bright patches of salt,
 
 39
-00:02:40,238 --> 00:02:45,279
+00:02:40,213 --> 00:02:45,304
 left behind when salty water from
 below seeped up and evaporated.
 
 40
-00:02:45,359 --> 00:02:50,108
+00:02:45,384 --> 00:02:50,132
 Deep underground, Ceres may still
 hold pockets of liquid brine.
 
 41
-00:02:50,188 --> 00:02:52,899
+00:02:50,212 --> 00:02:52,923
 A cratered rock in the belt turned out to
 
 42
-00:02:52,979 --> 00:02:56,506
+00:02:53,003 --> 00:02:56,530
 be a world with a
 surprisingly active past.
 
 43
-00:02:58,356 --> 00:03:00,832
+00:02:58,380 --> 00:03:00,857
 Not all asteroids stay in the belt.
 
 44
-00:03:00,912 --> 00:03:03,310
+00:03:00,937 --> 00:03:03,334
 Those whose orbits bring them close to
 
 45
-00:03:03,390 --> 00:03:06,244
+00:03:03,414 --> 00:03:06,266
 Earth's path are called
 near-Earth asteroids,
 
 46
-00:03:06,324 --> 00:03:10,671
+00:03:06,346 --> 00:03:10,692
 and astronomers have already
 found tens of thousands of them.
 
 47
-00:03:10,751 --> 00:03:12,958
+00:03:10,772 --> 00:03:12,981
 Most pass us harmlessly.
 
 48
-00:03:13,108 --> 00:03:18,320
+00:03:13,131 --> 00:03:18,343
 But Earth has been hit before, and the
 evidence is written across our planet.
 
 49
-00:03:18,400 --> 00:03:22,053
+00:03:18,423 --> 00:03:22,074
 About 66 million years ago,
 an asteroid roughly
 
 50
-00:03:22,133 --> 00:03:26,156
+00:03:22,154 --> 00:03:26,176
 ten kilometers wide
 struck what is now Mexico.
 
 51
-00:03:26,236 --> 00:03:29,893
+00:03:26,256 --> 00:03:29,914
 The impact, and the changes
 to climate that followed,
 
 52
-00:03:29,973 --> 00:03:33,164
+00:03:29,994 --> 00:03:33,185
 helped wipe out the non-avian dinosaurs.
 
 53
-00:03:33,244 --> 00:03:36,334
+00:03:33,265 --> 00:03:36,355
 Smaller impacts happen far more often.
 
 54
-00:03:36,484 --> 00:03:41,060
+00:03:36,505 --> 00:03:41,081
 In Arizona, a crater 1.2
 kilometers wide marks the place
 
 55
-00:03:41,140 --> 00:03:46,665
+00:03:41,161 --> 00:03:46,686
 where a small metallic asteroid
 struck about 50,000 years ago.
 
 56
-00:03:46,745 --> 00:03:52,415
+00:03:46,766 --> 00:03:52,437
 In June 1908, an object perhaps fifty
 meters wide exploded above Siberia,
 
 57
-00:03:52,495 --> 00:03:58,774
+00:03:52,517 --> 00:03:58,795
 flattening some eighty million trees
 across two thousand square kilometers.
 
 58
-00:03:58,854 --> 00:04:02,096
+00:03:58,875 --> 00:04:02,119
 In 2013, a rock about twenty meters across
 
 59
-00:04:02,176 --> 00:04:06,185
+00:04:02,199 --> 00:04:06,209
 exploded over the Russian
 city of Chelyabinsk.
 
 60
-00:04:06,265 --> 00:04:08,865
+00:04:06,289 --> 00:04:08,889
 The shockwave shattered windows across the
 
 61
-00:04:08,945 --> 00:04:12,186
+00:04:08,969 --> 00:04:12,210
 city and injured more
 than a thousand people.
 
 62
-00:04:12,266 --> 00:04:14,256
+00:04:12,290 --> 00:04:14,280
 It was a clear warning.
 
 63
-00:04:14,406 --> 00:04:16,757
+00:04:14,430 --> 00:04:16,781
 Fortunately, the largest asteroids,
 
 64
-00:04:16,837 --> 00:04:22,138
+00:04:16,861 --> 00:04:22,162
 the ones that could change life on
 Earth, are also the easiest to find.
 
 65
-00:04:22,218 --> 00:04:24,659
+00:04:22,242 --> 00:04:24,683
 Astronomers believe they have found more
 
 66
-00:04:24,739 --> 00:04:27,369
+00:04:24,763 --> 00:04:27,394
 than ninety percent of
 near-Earth asteroids
 
 67
-00:04:27,449 --> 00:04:28,882
+00:04:27,474 --> 00:04:28,906
 larger than a kilometer,
 
 68
-00:04:28,962 --> 00:04:33,114
+00:04:28,986 --> 00:04:33,138
 and none of them threatens us
 for at least the next century.
 
 69
-00:04:33,194 --> 00:04:39,143
+00:04:33,218 --> 00:04:39,144
 The harder task is finding the smaller
 ones, the size that could destroy a city.
 
 70
-00:04:41,493 --> 00:04:46,103
+00:04:41,494 --> 00:04:46,104
 In 2016, NASA launched a
 spacecraft on an unusual mission:
 
 71
-00:04:46,183 --> 00:04:51,243
+00:04:46,184 --> 00:04:51,244
 to visit an asteroid, collect
 a sample, and bring it home.
 
 72
-00:04:51,323 --> 00:04:55,957
+00:04:51,324 --> 00:04:55,958
 Its name was OSIRIS-REx,
 and its target was Bennu, a dark,
 
 73
-00:04:56,037 --> 00:05:00,552
+00:04:56,038 --> 00:05:00,554
 spinning-top-shaped asteroid
 about 500 meters wide.
 
 74
-00:05:00,632 --> 00:05:06,038
+00:05:00,634 --> 00:05:06,039
 Bennu is a pile of rubble, held together
 loosely by its own weak gravity.
 
 75
-00:05:06,118 --> 00:05:10,150
+00:05:06,119 --> 00:05:10,150
 Soon after arriving,
 the team saw something unexpected:
 
 76
-00:05:10,230 --> 00:05:13,440
+00:05:10,230 --> 00:05:13,439
 Bennu was throwing small
 pebbles into space,
 
 77
-00:05:13,520 --> 00:05:16,657
+00:05:13,519 --> 00:05:16,655
 like a slow, quiet fireworks display.
 
 78
-00:05:16,737 --> 00:05:21,130
+00:05:16,735 --> 00:05:21,128
 When the spacecraft touched
 the surface in October 2020,
 
 79
-00:05:21,210 --> 00:05:25,654
+00:05:21,208 --> 00:05:25,652
 its arm sank in, as if into
 a pit of plastic balls.
 
 80
-00:05:25,734 --> 00:05:29,514
+00:05:25,732 --> 00:05:29,511
 So much rock rushed into the
 collector that some of it escaped,
 
 81
-00:05:29,594 --> 00:05:32,781
+00:05:29,591 --> 00:05:32,779
 and the team had to hurry
 to seal the capsule.
 
 82
-00:05:32,861 --> 00:05:38,477
+00:05:32,859 --> 00:05:38,475
 In September 2023, a capsule
 parachuted into the Utah desert,
 
 83
-00:05:38,557 --> 00:05:42,101
+00:05:38,555 --> 00:05:42,100
 carrying about 120 grams of Bennu.
 
 84
-00:05:42,181 --> 00:05:48,188
+00:05:42,180 --> 00:05:48,188
 Inside were ingredients that make life
 possible: carbon-rich minerals, salts,
 
 85
-00:05:48,268 --> 00:05:54,250
+00:05:48,268 --> 00:05:54,251
 and 14 of the 20 amino acids that
 life on Earth uses to build proteins.
 
 86
-00:05:54,330 --> 00:05:58,342
+00:05:54,331 --> 00:05:58,342
 That does not mean Bennu had life,
 but it shows that the building
 
@@ -410,287 +410,287 @@ blocks of life were scattered
 through the early solar system.
 
 88
-00:06:02,712 --> 00:06:07,124
+00:06:02,712 --> 00:06:07,125
 Bennu also has a small
 chance of hitting Earth,
 
 89
-00:06:07,204 --> 00:06:11,780
+00:06:07,205 --> 00:06:11,781
 about one in 2,700,
 on a single day in 2182.
 
 90
-00:06:11,860 --> 00:06:14,473
+00:06:11,861 --> 00:06:14,473
 Thanks to the mission,
 we know Bennu's path
 
 91
-00:06:14,553 --> 00:06:18,033
+00:06:14,553 --> 00:06:18,034
 better than that of
 almost any other asteroid.
 
 92
-00:06:20,383 --> 00:06:23,377
+00:06:20,384 --> 00:06:23,378
 Not every asteroid is a pile of rock.
 
 93
-00:06:23,457 --> 00:06:29,523
+00:06:23,458 --> 00:06:29,513
 Psyche, in the outer belt, is about 220
 kilometers wide and appears to be rich in
 
 94
-00:06:29,603 --> 00:06:35,968
+00:06:29,593 --> 00:06:35,946
 metal, perhaps the exposed core of an
 early planet that never finished forming.
 
 95
-00:06:36,048 --> 00:06:40,685
+00:06:36,026 --> 00:06:40,664
 NASA launched a spacecraft
 to Psyche in October 2023,
 
 96
-00:06:40,765 --> 00:06:43,984
+00:06:40,744 --> 00:06:43,962
 and it is due to arrive in 2029.
 
 97
-00:06:44,064 --> 00:06:48,605
+00:06:44,042 --> 00:06:48,584
 Another mission, called Lucy,
 is heading for the Trojan asteroids,
 
 98
-00:06:48,685 --> 00:06:52,346
+00:06:48,664 --> 00:06:52,325
 two swarms of rocks that
 share Jupiter's orbit.
 
 99
-00:06:52,426 --> 00:06:55,292
+00:06:52,405 --> 00:06:55,271
 On the way, it has already surprised us.
 
 100
-00:06:55,372 --> 00:06:59,541
+00:06:55,351 --> 00:06:59,521
 In 2023 it flew past a tiny
 asteroid named Dinkinesh,
 
 101
-00:06:59,621 --> 00:07:06,085
+00:06:59,601 --> 00:07:06,064
 and found a pair of rocks, one of which
 was itself two rocks stuck together.
 
 102
-00:07:06,165 --> 00:07:10,840
+00:07:06,144 --> 00:07:10,789
 Each of these missions reads a
 different chapter of the same story.
 
 103
-00:07:12,690 --> 00:07:16,587
+00:07:12,639 --> 00:07:16,536
 Finding a dangerous asteroid
 is only half the job.
 
 104
-00:07:16,667 --> 00:07:19,686
+00:07:16,616 --> 00:07:19,634
 The other half is knowing
 what to do about it.
 
 105
-00:07:19,766 --> 00:07:26,673
+00:07:19,714 --> 00:07:26,621
 In September 2022, NASA tested the first
 planetary defense technology in history.
 
 106
-00:07:26,753 --> 00:07:28,574
+00:07:26,701 --> 00:07:28,519
 It was called DART.
 
 107
-00:07:28,724 --> 00:07:34,220
+00:07:28,669 --> 00:07:34,165
 Its target was Dimorphos,
 a small moonlet about 160 meters wide,
 
 108
-00:07:34,300 --> 00:07:38,243
+00:07:34,245 --> 00:07:38,187
 orbiting a larger asteroid named Didymos.
 
 109
-00:07:38,323 --> 00:07:41,244
+00:07:38,267 --> 00:07:41,188
 Neither asteroid posed
 any danger to Earth.
 
 110
-00:07:41,324 --> 00:07:44,277
+00:07:41,268 --> 00:07:44,221
 That is exactly why they were chosen.
 
 111
-00:07:44,357 --> 00:07:49,646
+00:07:44,301 --> 00:07:49,589
 The plan was simple, and bold:
 crash a spacecraft into Dimorphos at
 
 112
-00:07:49,726 --> 00:07:55,946
+00:07:49,669 --> 00:07:55,889
 about 22,000 kilometers per hour,
 and see whether its orbit would change.
 
 113
-00:07:56,026 --> 00:07:59,161
+00:07:55,969 --> 00:07:59,105
 On September 26th, the spacecraft flew in,
 
 114
-00:07:59,241 --> 00:08:04,203
+00:07:59,185 --> 00:08:04,149
 its camera sending back pictures
 until the very last moment.
 
 115
-00:08:04,283 --> 00:08:08,092
+00:08:04,229 --> 00:08:08,036
 Then the signal ended.
 The impact was a success.
 
 116
-00:08:08,172 --> 00:08:11,612
+00:08:08,116 --> 00:08:11,557
 Telescopes around the world
 watched a long tail of
 
 117
-00:08:11,692 --> 00:08:15,653
+00:08:11,637 --> 00:08:15,598
 dust and rock stream away
 from Dimorphos for weeks.
 
 118
-00:08:15,733 --> 00:08:22,380
+00:08:15,678 --> 00:08:22,325
 Before the impact, Dimorphos circled
 Didymos every 11 hours and 55 minutes.
 
 119
-00:08:22,460 --> 00:08:25,604
+00:08:22,405 --> 00:08:25,548
 Afterward, it took 32 minutes less.
 
 120
-00:08:25,754 --> 00:08:29,712
+00:08:25,698 --> 00:08:29,658
 NASA had defined success
 as a change of at least 73
 
 121
-00:08:29,792 --> 00:08:34,280
+00:08:29,738 --> 00:08:34,227
 seconds. The result was
 more than twenty times that.
 
 122
-00:08:34,360 --> 00:08:39,523
+00:08:34,307 --> 00:08:39,491
 For the first time, humanity had
 changed the motion of a celestial body.
 
 123
-00:08:39,603 --> 00:08:45,036
+00:08:39,571 --> 00:08:45,004
 The lesson is clear: with enough warning,
 we can push an asteroid out of the way.
 
 124
-00:08:45,116 --> 00:08:50,851
+00:08:45,084 --> 00:08:50,820
 The key is time. A small push,
 years in advance, becomes a wide miss.
 
 125
-00:08:53,201 --> 00:08:59,366
+00:08:53,170 --> 00:08:59,335
 What did the impact leave behind? The
 European Space Agency's Hera spacecraft,
 
 126
-00:08:59,446 --> 00:09:03,980
+00:08:59,415 --> 00:09:03,949
 launched in October 2024,
 is on its way to find out.
 
 127
-00:09:04,060 --> 00:09:07,360
+00:09:04,029 --> 00:09:07,329
 It is due to reach Didymos
 at the end of 2026,
 
 128
-00:09:07,440 --> 00:09:12,293
+00:09:07,409 --> 00:09:12,261
 to measure the crater and weigh
 Dimorphos for the first time.
 
 129
-00:09:12,373 --> 00:09:17,339
+00:09:12,341 --> 00:09:17,308
 Meanwhile, NASA is building NEO
 Surveyor, a space telescope designed
 
 130
-00:09:17,419 --> 00:09:23,058
+00:09:17,388 --> 00:09:23,027
 to hunt for the dark asteroids that
 are hardest to see from the ground.
 
 131
-00:09:23,138 --> 00:09:29,703
+00:09:23,107 --> 00:09:29,671
 And in April 2029, an asteroid called
 Apophis, about 340 meters wide,
 
 132
-00:09:29,783 --> 00:09:35,642
+00:09:29,751 --> 00:09:35,611
 will pass Earth at a distance
 of about 32,000 kilometers.
 
 133
-00:09:35,722 --> 00:09:39,599
+00:09:35,691 --> 00:09:39,567
 That is closer than many of
 our communications satellites.
 
 134
-00:09:39,679 --> 00:09:42,462
+00:09:39,647 --> 00:09:42,431
 It will be bright enough
 to see with the naked
 
 135
-00:09:42,542 --> 00:09:45,588
+00:09:42,511 --> 00:09:45,558
 eye from parts of Europe,
 Africa, and Asia.
 
 136
-00:09:45,668 --> 00:09:48,761
+00:09:45,638 --> 00:09:48,740
 Astronomers have confirmed
 that it will not hit us,
 
 137
-00:09:48,841 --> 00:09:53,797
+00:09:48,820 --> 00:09:53,789
 and a spacecraft will follow it to
 see how Earth's gravity changes it.
 
 138
-00:09:55,647 --> 00:09:59,272
+00:09:55,639 --> 00:09:59,264
 For billions of years,
 asteroids have shaped our world,
 
 139
-00:09:59,352 --> 00:10:04,641
+00:09:59,344 --> 00:10:04,633
 carrying the ingredients of life,
 and now and then, changing its history.
 
 140
-00:10:04,721 --> 00:10:08,645
+00:10:04,713 --> 00:10:08,637
 The dinosaurs had no way to
 look up and see what was coming.
 
 141
-00:10:08,725 --> 00:10:10,103
+00:10:08,717 --> 00:10:10,096
 We do.
 
 142
-00:10:10,253 --> 00:10:13,577
+00:10:10,246 --> 00:10:13,556
 For the first time in the
 history of life on Earth,
 
 143
-00:10:13,657 --> 00:10:17,831
+00:10:13,636 --> 00:10:17,796
 a species can see the danger,
 understand it, and prepare.
 
 144
-00:10:17,911 --> 00:10:21,888
+00:10:17,876 --> 00:10:21,852
 The rocks are still out there,
 tumbling quietly around the Sun,
 
 145
-00:10:21,968 --> 00:10:25,364
+00:10:21,932 --> 00:10:25,329
 as they have for four
 and a half billion years.
 
 146
-00:10:25,444 --> 00:10:29,143
+00:10:25,409 --> 00:10:29,108
 What has changed is that now,
 we are watching back.

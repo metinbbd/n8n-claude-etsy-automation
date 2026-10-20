@@ -14,624 +14,624 @@ uyduları ve sayısız
 küçük dünyayı oluşturdu.
 
 4
-00:00:21,052 --> 00:00:23,833
+00:00:21,052 --> 00:00:23,846
 Bu küçük dünyaların
 çoğunu gezegenler yuttu
 
 5
-00:00:23,913 --> 00:00:27,344
+00:00:23,926 --> 00:00:27,371
 ya da Güneş Sistemi'nden
 dışarı fırlatıldılar.
 
 6
-00:00:27,424 --> 00:00:33,355
+00:00:27,451 --> 00:00:33,382
 Ama bazıları, Güneş Sistemi'nin tüm ömrü
 boyunca neredeyse hiç değişmeden kaldı.
 
 7
-00:00:33,435 --> 00:00:35,691
+00:00:33,462 --> 00:00:35,719
 Onlara asteroit diyoruz.
 
 8
-00:00:35,841 --> 00:00:40,792
+00:00:35,869 --> 00:00:40,819
 Onlar, gezegenlerimizin nasıl
 kurulduğunu anlatan zaman kapsülleri.
 
 9
-00:00:40,872 --> 00:00:45,448
+00:00:40,899 --> 00:00:45,476
 Ve bazılarının yolu,
 bir gün bizimkiyle kesişebilir.
 
 10
-00:00:45,528 --> 00:00:48,283
+00:00:45,556 --> 00:00:48,310
 Bu, dünyamızı şekillendiren
 kayaların ve ona
 
 11
-00:00:48,363 --> 00:00:51,991
+00:00:48,390 --> 00:00:52,018
 göz kulak olmayı nasıl
 öğrendiğimizin hikâyesi.
 
 12
-00:00:54,341 --> 00:00:57,044
+00:00:54,368 --> 00:00:57,073
 Mars ile Jüpiter'in yörüngeleri arasında,
 
 13
-00:00:57,124 --> 00:01:01,296
+00:00:57,153 --> 00:01:01,326
 ana asteroit kuşağı denen
 geniş bir kaya halkası uzanır.
 
 14
-00:01:01,376 --> 00:01:07,824
+00:01:01,406 --> 00:01:07,854
 Kuşakta, kayalardan yüzlerce kilometrelik
 cisimlere kadar milyonlarca asteroit var.
 
 15
-00:01:07,904 --> 00:01:12,594
+00:01:07,934 --> 00:01:12,625
 Yine de hepsini bir araya toplasanız,
 Ay'ımızdan daha hafif olurlardı.
 
 16
-00:01:12,674 --> 00:01:17,790
+00:01:12,705 --> 00:01:17,819
 Kuşak, filmlerde gördüğünüz
 kalabalık kaya yığını değil.
 
 17
-00:01:17,870 --> 00:01:22,259
+00:01:17,899 --> 00:01:22,262
 Asteroitler o kadar seyrek ki
 uzay araçları kuşağı defalarca,
 
 18
-00:01:22,339 --> 00:01:25,566
+00:01:22,342 --> 00:01:25,553
 tehlikeli bir yaklaşma yaşamadan geçti.
 
 19
-00:01:25,646 --> 00:01:28,387
+00:01:25,633 --> 00:01:28,374
 Bazılarının kendi küçük uyduları bile var.
 
 20
-00:01:28,467 --> 00:01:31,650
+00:01:28,454 --> 00:01:31,637
 Bu kayalar neden hiç gezegen olmadı?
 
 21
-00:01:31,850 --> 00:01:34,102
+00:01:31,837 --> 00:01:34,085
 Cevap Jüpiter.
 
 22
-00:01:34,252 --> 00:01:38,326
+00:01:34,235 --> 00:01:38,309
 Dev kütle çekimi bölgeyi
 tekrar tekrar karıştırdı;
 
 23
-00:01:38,406 --> 00:01:42,266
+00:01:38,389 --> 00:01:42,249
 kayalar birleşmek yerine birbirine çarptı.
 
 24
-00:01:42,346 --> 00:01:46,030
+00:01:42,329 --> 00:01:46,013
 Zamanla Jüpiter kuşakta boşluklar da açtı;
 
 25
-00:01:46,110 --> 00:01:53,879
+00:01:46,093 --> 00:01:53,863
 çekimi hâlâ bazı asteroitleri iç Güneş
 Sistemi'ne doğru yeni yollara itebiliyor.
 
 26
-00:01:55,729 --> 00:01:59,724
+00:01:55,713 --> 00:01:59,702
 Kuşağın en büyük iki cismi Vesta ve Ceres.
 
 27
-00:01:59,804 --> 00:02:02,511
+00:01:59,782 --> 00:02:02,489
 2011'de NASA'nın Dawn aracı,
 
 28
-00:02:02,591 --> 00:02:09,132
+00:02:02,569 --> 00:02:09,109
 yaklaşık 525 kilometre genişliğindeki
 kayalık Vesta'ya ulaştı.
 
 29
-00:02:09,212 --> 00:02:12,962
+00:02:09,189 --> 00:02:12,940
 Sonra Dawn, hiçbir uzay aracının
 yapmadığı bir şey yaptı.
 
 30
-00:02:13,042 --> 00:02:17,227
+00:02:13,020 --> 00:02:17,188
 Vesta'dan ayrılıp 2015'te
 Ceres'in yörüngesine girdi;
 
 31
-00:02:17,307 --> 00:02:24,196
+00:02:17,268 --> 00:02:24,132
 Dünya-Ay sisteminin ötesinde iki farklı
 dünyanın yörüngesine giren ilk araç oldu.
 
 32
-00:02:24,276 --> 00:02:31,924
+00:02:24,212 --> 00:02:31,860
 Ceres yaklaşık 940 kilometre genişliğinde;
 o kadar büyük ki cüce gezegen sayılıyor.
 
 33
-00:02:32,004 --> 00:02:36,565
+00:02:31,940 --> 00:02:36,502
 Asteroit kuşağındaki toplam
 kütlenin kabaca üçte biri onda.
 
 34
-00:02:36,645 --> 00:02:40,655
+00:02:36,582 --> 00:02:40,635
 Dawn yüzeyinde parlak tuz
 lekeleri buldu; bunlar,
 
 35
-00:02:40,735 --> 00:02:45,279
+00:02:40,715 --> 00:02:45,304
 alttan sızan tuzlu suyun
 buharlaşmasıyla kalmıştı.
 
 36
-00:02:45,359 --> 00:02:50,108
+00:02:45,384 --> 00:02:50,132
 Ceres'in derinlerinde hâlâ sıvı
 tuzlu su ceplerinin bulunması mümkün.
 
 37
-00:02:50,188 --> 00:02:51,887
+00:02:50,212 --> 00:02:51,911
 Kuşaktaki kraterli bir kaya,
 
 38
-00:02:51,967 --> 00:02:56,506
+00:02:51,991 --> 00:02:56,530
 şaşırtıcı derecede hareketli bir
 geçmişi olan bir dünya çıktı.
 
 39
-00:02:58,356 --> 00:03:00,832
+00:02:58,380 --> 00:03:00,857
 Her asteroit kuşakta kalmaz.
 
 40
-00:03:00,912 --> 00:03:06,547
+00:03:00,937 --> 00:03:06,570
 Yörüngesi Dünya'nın yoluna yaklaşanlara
 Dünya'ya yakın asteroit denir;
 
 41
-00:03:06,627 --> 00:03:10,671
+00:03:06,650 --> 00:03:10,692
 gökbilimciler şimdiden
 on binlercesini buldu.
 
 42
-00:03:10,751 --> 00:03:12,958
+00:03:10,772 --> 00:03:12,981
 Çoğu bizi zarar vermeden geçip gider.
 
 43
-00:03:13,108 --> 00:03:18,320
+00:03:13,131 --> 00:03:18,343
 Ama Dünya daha önce de çarpıldı ve
 kanıtlar gezegenimizin her yerinde yazılı.
 
 44
-00:03:18,400 --> 00:03:21,940
+00:03:18,423 --> 00:03:21,962
 Yaklaşık 66 milyon yıl önce,
 yaklaşık on kilometre
 
 45
-00:03:22,020 --> 00:03:26,156
+00:03:22,042 --> 00:03:26,176
 genişliğinde bir asteroit
 bugünkü Meksika'ya çarptı.
 
 46
-00:03:26,236 --> 00:03:29,171
+00:03:26,256 --> 00:03:29,191
 Çarpma ve ardından gelen iklim değişimi,
 
 47
-00:03:29,251 --> 00:03:33,164
+00:03:29,271 --> 00:03:33,185
 kuş olmayan dinozorların
 yok olmasına yol açtı.
 
 48
-00:03:33,244 --> 00:03:36,334
+00:03:33,265 --> 00:03:36,355
 Daha küçük çarpmalar çok daha sık yaşanır.
 
 49
-00:03:36,484 --> 00:03:40,313
+00:03:36,505 --> 00:03:40,334
 Arizona'da 1,2 kilometre
 genişliğindeki bir krater,
 
 50
-00:03:40,393 --> 00:03:46,665
+00:03:40,414 --> 00:03:46,686
 yaklaşık 50.000 yıl önce küçük bir metal
 asteroitin çarptığı yeri gösteriyor.
 
 51
-00:03:46,745 --> 00:03:52,618
+00:03:46,766 --> 00:03:52,639
 Haziran 1908'de belki elli metre
 genişliğinde bir cisim Sibirya üzerinde
 
 52
-00:03:52,698 --> 00:03:58,774
+00:03:52,719 --> 00:03:58,795
 patladı ve 2.000 kilometrekarede
 yaklaşık 80 milyon ağacı yere serdi.
 
 53
-00:03:58,854 --> 00:04:02,088
+00:03:58,875 --> 00:04:02,111
 2013'te yaklaşık yirmi metrelik bir kaya
 
 54
-00:04:02,168 --> 00:04:06,185
+00:04:02,191 --> 00:04:06,209
 Rusya'nın Çelyabinsk
 kenti üzerinde patladı.
 
 55
-00:04:06,265 --> 00:04:12,186
+00:04:06,289 --> 00:04:12,210
 Şok dalgası kentte camları kırdı
 ve bin kişiden fazlasını yaraladı.
 
 56
-00:04:12,266 --> 00:04:14,256
+00:04:12,290 --> 00:04:14,280
 Bu açık bir uyarıydı.
 
 57
-00:04:14,406 --> 00:04:22,138
+00:04:14,430 --> 00:04:22,162
 Neyse ki yaşamı değiştirebilecek en
 büyük asteroitleri bulmak en kolayı.
 
 58
-00:04:22,218 --> 00:04:27,157
+00:04:22,242 --> 00:04:27,181
 Gökbilimciler, bir kilometreden büyük
 Dünya'ya yakın asteroitlerin yüzde
 
 59
-00:04:27,237 --> 00:04:28,900
+00:04:27,261 --> 00:04:28,924
 90'ından fazlasını buldu;
 
 60
-00:04:28,980 --> 00:04:33,114
+00:04:29,004 --> 00:04:33,138
 hiçbiri önümüzdeki yüzyıl
 boyunca bizi tehdit etmiyor.
 
 61
-00:04:33,194 --> 00:04:39,143
+00:04:33,218 --> 00:04:39,144
 Zor olan, bir kenti yok edebilecek
 büyüklükteki küçük asteroitleri bulmak.
 
 62
-00:04:41,493 --> 00:04:46,653
+00:04:41,494 --> 00:04:46,654
 2016'da NASA, alışılmadık bir
 görevle bir uzay aracı fırlattı:
 
 63
-00:04:46,733 --> 00:04:51,243
+00:04:46,734 --> 00:04:51,244
 asteroite gitmek, örnek
 toplamak ve eve getirmek.
 
 64
-00:04:51,323 --> 00:04:56,688
+00:04:51,324 --> 00:04:56,689
 Adı OSIRIS-REx, hedefi ise
 yaklaşık 500 metre genişliğinde,
 
 65
-00:04:56,768 --> 00:05:00,552
+00:04:56,769 --> 00:05:00,554
 koyu renkli, topaç biçimli Bennu'ydu.
 
 66
-00:05:00,632 --> 00:05:06,038
+00:05:00,634 --> 00:05:06,039
 Bennu, kendi zayıf çekimiyle gevşekçe
 bir arada duran bir moloz yığını.
 
 67
-00:05:06,118 --> 00:05:09,932
+00:05:06,119 --> 00:05:09,932
 Varışın hemen ardından ekip
 beklenmedik bir şey gördü:
 
 68
-00:05:10,012 --> 00:05:12,817
+00:05:10,012 --> 00:05:12,816
 Bennu uzaya küçük çakıllar fırlatıyordu;
 
 69
-00:05:12,897 --> 00:05:16,657
+00:05:12,896 --> 00:05:16,655
 yavaş ve sessiz bir havai
 fişek gösterisi gibi.
 
 70
-00:05:16,737 --> 00:05:21,020
+00:05:16,735 --> 00:05:21,017
 Uzay aracı Ekim 2020'de
 yüzeye dokunduğunda kolu,
 
 71
-00:05:21,100 --> 00:05:25,654
+00:05:21,097 --> 00:05:25,652
 plastik top havuzuna
 dalmış gibi içeri gömüldü.
 
 72
-00:05:25,734 --> 00:05:29,155
+00:05:25,732 --> 00:05:29,153
 Toplayıcıya o kadar çok kaya
 doldu ki bir kısmı dışarı
 
 73
-00:05:29,235 --> 00:05:32,781
+00:05:29,233 --> 00:05:32,779
 kaçtı ve ekip kapsülü
 mühürlemek için acele etti.
 
 74
-00:05:32,861 --> 00:05:37,964
+00:05:32,859 --> 00:05:37,962
 Eylül 2023'te bir kapsül
 Utah çölüne paraşütle indi;
 
 75
-00:05:38,044 --> 00:05:42,101
+00:05:38,042 --> 00:05:42,100
 içinde yaklaşık 120 gram Bennu vardı.
 
 76
-00:05:42,181 --> 00:05:47,991
+00:05:42,180 --> 00:05:47,992
 İçinde yaşamı mümkün kılan bileşenler
 vardı: karbonca zengin mineraller,
 
 77
-00:05:48,071 --> 00:05:54,250
+00:05:48,072 --> 00:05:54,251
 tuzlar ve yaşamın protein yapmak için
 kullandığı 20 amino asitten 14'ü.
 
 78
-00:05:54,330 --> 00:05:57,172
+00:05:54,331 --> 00:05:57,173
 Bu, Bennu'da yaşam olduğu anlamına gelmez;
 
 79
-00:05:57,252 --> 00:06:02,632
+00:05:57,253 --> 00:06:02,632
 ama yaşamın yapı taşlarının erken
 Güneş Sistemi'ne saçıldığını gösterir.
 
 80
-00:06:02,712 --> 00:06:06,691
+00:06:02,712 --> 00:06:06,692
 Bennu'nun Dünya'ya çarpma ihtimali de var,
 
 81
-00:06:06,771 --> 00:06:11,780
+00:06:06,772 --> 00:06:11,781
 ama 2182'de tek bir günde
 yaklaşık 2.700'de bir.
 
 82
-00:06:11,860 --> 00:06:18,033
+00:06:11,861 --> 00:06:18,034
 Bu görev sayesinde Bennu'nun yolunu hemen
 hemen her asteroitten daha iyi biliyoruz.
 
 83
-00:06:20,383 --> 00:06:23,377
+00:06:20,384 --> 00:06:23,378
 Her asteroit bir kaya yığını değil.
 
 84
-00:06:23,457 --> 00:06:29,367
+00:06:23,458 --> 00:06:29,356
 Dış kuşaktaki Psyche yaklaşık 220
 kilometre genişliğinde ve metalce zengin
 
 85
-00:06:29,447 --> 00:06:35,968
+00:06:29,436 --> 00:06:35,946
 görünüyor; belki de hiç tamamlanamamış
 bir gezegenin açıkta kalan çekirdeği.
 
 86
-00:06:36,048 --> 00:06:43,984
+00:06:36,026 --> 00:06:43,962
 NASA, Ekim 2023'te Psyche'ye bir uzay
 aracı gönderdi; araç 2029'da orada olacak.
 
 87
-00:06:44,064 --> 00:06:48,233
+00:06:44,042 --> 00:06:48,212
 Lucy adlı bir başka görev,
 Jüpiter'in yörüngesini paylaşan
 
 88
-00:06:48,313 --> 00:06:52,346
+00:06:48,292 --> 00:06:52,325
 iki kaya sürüsü olan Truva
 asteroitlerine gidiyor.
 
 89
-00:06:52,426 --> 00:06:55,292
+00:06:52,405 --> 00:06:55,271
 Yolda şimdiden bizi şaşırttı.
 
 90
-00:06:55,372 --> 00:07:01,626
+00:06:55,351 --> 00:07:01,605
 2023'te Dinkinesh adlı küçük asteroitin
 yanından geçti ve bir kaya çifti buldu;
 
 91
-00:07:01,706 --> 00:07:06,085
+00:07:01,685 --> 00:07:06,064
 eşlerinden biri de birbirine
 yapışmış iki kayaydı.
 
 92
-00:07:06,165 --> 00:07:10,840
+00:07:06,144 --> 00:07:10,789
 Bu görevlerin her biri aynı
 hikâyenin farklı bir bölümünü okuyor.
 
 93
-00:07:12,690 --> 00:07:16,587
+00:07:12,639 --> 00:07:16,536
 Tehlikeli bir asteroiti
 bulmak işin yalnızca yarısı.
 
 94
-00:07:16,667 --> 00:07:19,686
+00:07:16,616 --> 00:07:19,634
 Diğer yarısı, onunla
 ne yapılacağını bilmek.
 
 95
-00:07:19,766 --> 00:07:26,673
+00:07:19,714 --> 00:07:26,621
 Eylül 2022'de NASA, tarihin ilk
 gezegen savunma teknolojisini sınadı.
 
 96
-00:07:26,753 --> 00:07:28,574
+00:07:26,701 --> 00:07:28,519
 Adı DART'tı.
 
 97
-00:07:28,724 --> 00:07:33,443
+00:07:28,669 --> 00:07:33,388
 Hedefi, Didymos adlı daha büyük
 bir asteroitin çevresinde dönen,
 
 98
-00:07:33,523 --> 00:07:38,243
+00:07:33,468 --> 00:07:38,187
 yaklaşık 160 metre genişliğindeki
 küçük uydu Dimorphos'tu.
 
 99
-00:07:38,323 --> 00:07:40,616
+00:07:38,267 --> 00:07:40,560
 İki asteroit de Dünya için tehlike
 
 100
-00:07:40,696 --> 00:07:44,277
+00:07:40,640 --> 00:07:44,221
 oluşturmuyordu. Zaten
 bu yüzden seçilmişlerdi.
 
 101
-00:07:44,357 --> 00:07:50,330
+00:07:44,301 --> 00:07:50,274
 Plan basit ve cesurdu: bir uzay aracını
 saatte yaklaşık 22.000 kilometreyle
 
 102
-00:07:50,410 --> 00:07:55,946
+00:07:50,354 --> 00:07:55,889
 Dimorphos'a çarptırıp yörüngesinin
 değişip değişmediğine bakmak.
 
 103
-00:07:56,026 --> 00:08:04,203
+00:07:55,969 --> 00:08:04,149
 26 Eylül'de araç hedefe uçtu;
 kamerası son ana kadar görüntü gönderdi.
 
 104
-00:08:04,283 --> 00:08:08,092
+00:08:04,229 --> 00:08:08,036
 Sonra sinyal kesildi. Çarpma başarılıydı.
 
 105
-00:08:08,172 --> 00:08:10,609
+00:08:08,116 --> 00:08:10,554
 Dünyanın dört bir yanındaki teleskoplar,
 
 106
-00:08:10,689 --> 00:08:15,653
+00:08:10,634 --> 00:08:15,598
 haftalarca Dimorphos'tan uzaklaşan
 uzun bir toz ve kaya kuyruğunu izledi.
 
 107
-00:08:15,733 --> 00:08:22,380
+00:08:15,678 --> 00:08:22,325
 Çarpmadan önce Dimorphos, Didymos'un
 çevresini 11 saat 55 dakikada dönüyordu.
 
 108
-00:08:22,460 --> 00:08:25,604
+00:08:22,405 --> 00:08:25,548
 Sonrasında bu süre 32 dakika kısaldı.
 
 109
-00:08:25,754 --> 00:08:29,792
+00:08:25,698 --> 00:08:29,738
 NASA başarıyı en az 73
 saniyelik bir değişim olarak
 
 110
-00:08:29,872 --> 00:08:34,280
+00:08:29,818 --> 00:08:34,227
 tanımlamıştı. Sonuç bunun
 yirmi katından fazlaydı.
 
 111
-00:08:34,360 --> 00:08:39,523
+00:08:34,307 --> 00:08:39,491
 İnsanlık ilk kez bir gök cisminin
 hareketini değiştirmişti.
 
 112
-00:08:39,603 --> 00:08:45,036
+00:08:39,571 --> 00:08:45,004
 Ders net: yeterli uyarı süresiyle
 bir asteroiti yolundan itebiliriz.
 
 113
-00:08:45,116 --> 00:08:50,851
+00:08:45,084 --> 00:08:50,820
 Anahtar zaman. Yıllar önceden verilen
 küçük bir itme, büyük bir ıskaya dönüşür.
 
 114
-00:08:53,201 --> 00:08:58,229
+00:08:53,170 --> 00:08:58,198
 Çarpma geriye ne bıraktı?
 Avrupa Uzay Ajansı'nın Ekim
 
 115
-00:08:58,309 --> 00:09:03,980
+00:08:58,278 --> 00:09:03,949
 2024'te fırlatılan Hera aracı
 bunu öğrenmek için yolda.
 
 116
-00:09:04,060 --> 00:09:12,293
+00:09:04,029 --> 00:09:12,261
 2026'nın sonunda Didymos'a ulaşıp krateri
 ölçecek ve Dimorphos'u ilk kez tartacak.
 
 117
-00:09:12,373 --> 00:09:17,576
+00:09:12,341 --> 00:09:17,545
 Bu arada NASA, yerden görülmesi
 en zor koyu asteroitleri aramak
 
 118
-00:09:17,656 --> 00:09:23,058
+00:09:17,625 --> 00:09:23,027
 için tasarlanmış NEO Surveyor
 uzay teleskobunu geliştiriyor.
 
 119
-00:09:23,138 --> 00:09:30,018
+00:09:23,107 --> 00:09:29,987
 Nisan 2029'da Apophis adlı yaklaşık
 340 metre genişliğindeki bir asteroit,
 
 120
-00:09:30,098 --> 00:09:35,642
+00:09:30,067 --> 00:09:35,611
 Dünya'nın yaklaşık 32.000
 kilometre yakınından geçecek.
 
 121
-00:09:35,722 --> 00:09:39,599
+00:09:35,691 --> 00:09:39,567
 Bu, birçok haberleşme
 uydumuzdan daha yakın.
 
 122
-00:09:39,679 --> 00:09:42,368
+00:09:39,647 --> 00:09:42,338
 Avrupa, Afrika ve
 Asya'nın bazı yerlerinden
 
 123
-00:09:42,448 --> 00:09:45,588
+00:09:42,418 --> 00:09:45,558
 çıplak gözle görülecek
 kadar parlak olacak.
 
 124
-00:09:45,668 --> 00:09:49,529
+00:09:45,638 --> 00:09:49,510
 Gökbilimciler çarpmayacağını doğruladı;
 bir uzay aracı da Dünya'nın
 
 125
-00:09:49,609 --> 00:09:53,797
+00:09:49,590 --> 00:09:53,789
 çekiminin onu nasıl değiştirdiğini
 görmek için onu izleyecek.
 
 126
-00:09:55,647 --> 00:09:59,586
+00:09:55,639 --> 00:09:59,578
 Milyarlarca yıldır asteroitler
 dünyamızı şekillendirdi;
 
 127
-00:09:59,666 --> 00:10:04,641
+00:09:59,658 --> 00:10:04,633
 yaşamın bileşenlerini taşıdı,
 arada bir de tarihini değiştirdi.
 
 128
-00:10:04,721 --> 00:10:08,645
+00:10:04,713 --> 00:10:08,637
 Dinozorların yukarı bakıp neyin
 geldiğini görme şansı yoktu.
 
 129
-00:10:08,725 --> 00:10:10,103
+00:10:08,717 --> 00:10:10,096
 Bizim var.
 
 130
-00:10:10,253 --> 00:10:14,906
+00:10:10,246 --> 00:10:14,880
 Dünya'daki yaşam tarihinde ilk
 kez bir tür tehlikeyi görebiliyor,
 
 131
-00:10:14,986 --> 00:10:17,831
+00:10:14,960 --> 00:10:17,796
 anlayabiliyor ve hazırlanabiliyor.
 
 132
-00:10:17,911 --> 00:10:21,182
+00:10:17,876 --> 00:10:21,147
 Kayalar hâlâ orada;
 dört buçuk milyar yıldır
 
 133
-00:10:21,262 --> 00:10:25,364
+00:10:21,227 --> 00:10:25,329
 olduğu gibi Güneş'in
 çevresinde sessizce dönüyor.
 
 134
-00:10:25,444 --> 00:10:29,143
+00:10:25,409 --> 00:10:29,108
 Değişen tek şey şu:
 artık biz de onlara bakıyoruz.

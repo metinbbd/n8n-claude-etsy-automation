@@ -1,14 +1,14 @@
 1/6 Seslendirme
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 /home/runner/.local/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
   super().__init__("LSTM", *args, **kwargs)
 /home/runner/.local/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
   WeightNorm.apply(module, name, dim)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
 /home/runner/.local/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
   warnings.warn(
    anlatim + aralar: 10.60 dk; kaynakca ile 10.83 dk
 2/6 Altyazilar
-   134 Turkce altyazi; en uzun satir 42 karakter; okuma hizi maks 17.4 kar/sn, 18 ustu 0 adet
+   134 Turkce altyazi; en uzun satir 42 karakter; okuma hizi maks 17.3 kar/sn, 18 ustu 0 adet
 3/6 Klipler
   indiriliyor: BFW
   indiriliyor: BJ
@@ -27,16 +27,18 @@ Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF
   indiriliyor: S31194I
   indiriliyor: SUR
   indiriliyor: TAG
-  bolum 0: 5 parca, 54.3 sn, hiz carpani 1.13x
-  bolum 1: 6 parca, 61.4 sn, hiz carpani 1.10x
-  bolum 2: 6 parca, 62.6 sn, hiz carpani 1.04x
+  bolum 0: 5 parca, 54.4 sn, hiz carpani 1.13x
+  bolum 1: 6 parca, 61.3 sn, hiz carpani 1.10x
+  bolum 2: 6 parca, 62.7 sn, hiz carpani 1.04x
   bolum 3: 8 parca, 103.1 sn, hiz carpani 0.91x
   bolum 4: 10 parca, 98.9 sn, hiz carpani 1.15x
   bolum 5: 6 parca, 52.3 sn, hiz carpani 1.17x
   bolum 6: 8 parca, 100.5 sn, hiz carpani 1.01x
-  bolum 7: 3 parca, 62.4 sn, hiz carpani 0.97x
+  bolum 7: 3 parca, 62.5 sn, hiz carpani 0.97x
   bolum 8: 4 parca, 40.3 sn, hiz carpani 1.03x
 4/6 Muzik ve ses karisimi
+   muzik/anlatim: konusma sirasinda muzik anlatimdan 9.5 dB altta; aralarda 4.9 dB altta
 5/6 Birlestirme
+5b/6 Altyazili surum (Turkce altyazi goruntuye yazilir)
 6/6 YouTube paketi
    video: 10.83 dk, 331 MB

@@ -85,10 +85,10 @@ def isle(p):
             os.remove(yol)
     if not a or a["sure"] < 150:
         return None
-    satir = (f"{ad:34s} dosya_ayni={dosya == ad + '.mp3'!s:5s} bpm={p.get('bpm', '?'):>4s} "
+    satir = (f"{ad:34s} dosya_ayni={dosya == ad + '.mp3'!s:5s} bpm={str(p.get('bpm') or '?'):>4s} "
              f"olcum={a['bpm_olcum']:6.1f} hareket={a['hareket']:.3f} ritim={a['ritim']:.3f} "
              f"dinamik={a['dinamik']:5.1f} sure={a['sure']:.0f}  g{p.get('genre')} "
-             f"{p.get('feel', '')[:44]} | {p.get('instruments', '')[:40]}")
+             f"{str(p.get('feel') or '')[:44]} | {str(p.get('instruments') or '')[:40]}")
     print(satir, flush=True)
     return (a["hareket"] + a["ritim"], satir)
 
@@ -107,7 +107,7 @@ def main(cikti):
                 "description")) + "\n")
     adaylar = []
     for p in parcalar:
-        metin = f"{p.get('feel', '')} {p.get('instruments', '')}"
+        metin = f"{p.get('feel') or ''} {p.get('instruments') or ''}"
         if saniye(p.get("length")) < 150 or not p.get("filename"):
             continue
         uzay = bool(UZAY.search(p["title"]))

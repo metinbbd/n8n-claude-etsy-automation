@@ -1,0 +1,81 @@
+75 benzersiz video bulundu
+SVS: 57 sonuc
+  ✓ JPL-20240515-CLIPPRf-0001-Europa Clipper Science Overview Video 298.8s kaynak=3840x2160  Why Does NASA Want to Explore Jupiter’s Ocean Moon? (Europa 
+  ✓ JPL-20240311-CLIPPRf-0001-NASA Unveils Design for Message Heading to Jupiters Moon Europa 183.7s kaynak=3840x2160  JPL-20240311-CLIPPRf-0001-NASA Unveils Design for Message He
+  ✓ JPL-20220310-CLIPPRf-0001-Europa Clipper Mission Animations 614.1s kaynak=3840x2160  NASA’s Europa Clipper Mission Animations
+  ✓ JPL-20230601-CLIPPRf-0001-Ada Limon In Praise of Mystery 103.2s kaynak=3840x2160  A Poem for Europa by U.S. Poet Laureate Ada Limón
+  ✓ JPL-20240909-CLIPPRf-0001-Spacecraft Makers EP06 Planetary Protection 213.4s kaynak=3840x2160  Spacecraft Makers: How We Keep Europa Clipper Super Clean
+  ✓ JPL-20241014-CLIPPRf-0002-Europa Launch Wrap Video 86.7s kaynak=3840x2160  NASA’s Europa Clipper Mission Launches From Kennedy Space Ce
+  ✓ JPL-20230817-CLIPPRf-0001-Europa Clipper Spacecraft Assembly Media Reel 546.4s kaynak=3840x2160  Europa Clipper Spacecraft Assembly Media Reel
+  ✓ NASA 2024 Onward and Upward 142.7s kaynak=1920x1080  NASA 2024: Onward and Upward
+  ✓ The Release of NASA's Budget Request on This Week @NASA - May 28, 2021 169.3s kaynak=1920x1080  The Release of NASA's Budget Request on This Week @NASA - Ma
+  ✓ KSC-20240523-MH-CSH01-0001-Europa_Clipper_Arrival_LLF-M6669 434.3s kaynak=3840x2160  Europa Clipper Arrival
+  ✓ KSC-.20240307-MH-CSH01-0001-Europa_Clipper_Solar_Array_Antenna_Install_PHSF-M5495 323.6s kaynak=3840x2160  Europa Clipper Solar Array Install
+  ✓ KSC-20240221-MH-KLS01-0002-NASA's_Europa_Clipper_Solar_Array_Arrival -M3392 234.1s kaynak=3840x2160  NASA's Europa Clipper Solar Array Arrival and Offload
+  ✓ JPL-20231206-CLIPPRf-0001-Spacecraft_Makers_Episode_03 174.1s kaynak=3840x2160  Spacecraft Makers: Sewing Blankets for NASA’s Europa Clipper
+  ✓ What You Need to Know About Europa 106.3s kaynak=1920x1080  What You Need to Know About Europa
+  ✓ JPL-20241119-TECHf-0001-Underwater_Robots_for_Space_Exploration 59.5s kaynak=3840x2160  NASA Tests Swimming Robots for Exploring Oceans on Icy Moons
+  ✓ KSC-20240823-VP-MWC01-001-EUROPA-CLIPPER-CAM-TIMELAPSE-M8789 113.9s kaynak=1280x720  Europa Clipper Cam Solar Arrays Installation Timelapse
+  ✓ KSC-20240821-MH-GEB01-0001-Europa_Clipper_Solar_Array_Deployment_PHSF-M8663 323.1s kaynak=3840x2160  Europa Clipper Solar Array Deployment 
+  ✓ KSC-20240524-MH-ILW01-0002-Europa_Clipper_Lift_and_Push_into_PHSF-M6668 204.1s kaynak=3840x2160  NASA's Europa Clipper Lift and Push into PHSF at the Kennedy
+  ✓ KSC-20240815-MH-GEB01-0001-Europa_Clipper_Solar_Panel_Installation_and_Integration_Part_2-M8368 141.2s kaynak=3840x2160  Europa Clipper Solar Array Installation & Integration (Part 
+  ✓ KSC-20240823-MH-CSH01-0001-Europa_Clipper_Second_Solar_Array_Work-M8663 199.0s kaynak=3840x2160  Europa Clipper Second Solar Array Stow
+  ✓ KSC-20240802-MH-GEB01-0001-Europa_Clipper_Solar_Array_Install_PHSF-M8368 175.1s kaynak=3840x2160  Europa Clipper Solar Array Install
+  ✓ KSC-20240528-MH-FJM01-0001-Europa_Clipper_Spacecraft_Rotate_to_Vertical_Lift_and_Mate_to_Work_Stand-M6668 720.1s kaynak=3840x2160  Europa Clipper Spacecraft Rotate to Vertical, Lift and Mate 
+  ✓ Underwater Robots for Space Exploration - videographer of the year 75.7s kaynak=3840x2160  Underwater Robots for Space Exploration - videographer of th
+  ✓ KSC-20241004-MH-CSH01-0001-Europa_Clipper_Transport_to_Pad39A_PHSF-M9447 77.0s kaynak=3840x2160  Europa Clipper Transport
+  ✓ KSC-20241014-VP-CDC01-0001-SpaceX_Europa_Clipper_Live_Launch_Coverage_720p 9063.7s kaynak=1920x1080  NASA's SpaceX Europa Clipper Live Launch Coverage - 720p
+  ✓ KSC-20241014-MH-AJN01-0001-SpaceX_Europa_Clipper_Isolated_Launch_Views-M9336 1993.0s kaynak=3840x2160  NASA'S SpaceX Europa Clipper Isolated Launch Views
+  ✓ KSC-20241014-VP-CDC01-0001-SpaceX_Europa_Clipper_Live_Launch_Coverage_4K 9066.7s kaynak=3840x2160  NASA's SpaceX Europa Clipper Live Launch Coverage - 4K
+  ✓ The World’s First-Ever Planetary Defense Test on This Week @NASA – September 30, 2022 227.9s kaynak=1920x1080  The World’s First-Ever Planetary Defense Test on This Week @
+  ✓ KSC-20240306-MH-FMX01_Europa_Clipper_Solar_Wing_Deployment-WON_M5059 211.4s kaynak=4096x2160  Europa Clipper Solar Wing Deployment
+  ✓ Showcasing Our Efforts to Monitor Earth’s Climate on This Week @NASA – March 11, 2022 184.1s kaynak=1920x1080  Showcasing Our Efforts to Monitor Earth’s Climate on This We
+  ✓ JPL-20231101-WHATSUf-0001-Whats_Up_November_2023cc 249.0s kaynak=1920x1080  What's Up: November 2023 Skywatching Tips from NASA 
+  ✓ Discussing the Strong State of NASA on This Week @NASA – March 15, 2024 149.7s kaynak=1920x1080  Discussing the Strong State of NASA on This Week @NASA – Mar
+  ✓ Our Webb Space Telescope’s New Look at an Exploded Star on This Week @NASA – December 15, 2023 145.5s kaynak=1920x1080  Our Webb Space Telescope’s New Look at an Exploded Star on T
+  ✓ GSFC_El lanzamiento de Europa Clipper 4616.3s kaynak=1920x1080  El lanzamiento de Europa Clipper
+  ✓ JPL-20220811-Europa Clipper Arrives in its New Home-UHD_wMetadata 46.6s kaynak=3840x2160  JPL-20220811-Europa Clipper Arrives in its New Home-UHD_wMet
+  ✓ GSFC_NSL_ESP_EuroClipper_Ep59 3075.9s kaynak=1920x1080  NASA Science Live: ¿Podría la luna Europa de Júpiter alberga
+  ✓ v1_Roque_MensajeenunaBotella 358.1s kaynak=1920x1080  Mensaje en una botella: un poema a bordo de la nave espacial
+  ✓ Exploring the Secrets of the Universe for the Benefit of All 117.0s kaynak=1920x1080  Exploring the Secrets of the Universe for the Benefit of All
+  ✓ GSFC_20251210_NSL_Moon_Mars 3566.9s kaynak=1920x1080  NASA Science Live: Inside NASA’s Prep for the Moon, Mars, an
+  ✓ GSFC_20121025_Saturn_m11038_Storm 140.5s kaynak=NonexNone  Saturn's Record-Setting Storm
+  ✓ ksc_061404_cassini 71.9s kaynak=320x212  KSC-04-S-00195
+  ✓ ksc_012805_touchdown 82.4s kaynak=320x212  KSC-05-S-00034
+  ✓ svs5571 [Visualization] 205.0s kaynak=1920x1080  NASA's Fleet of Active Satellites (July 2025)
+  ✓ svs13692 [Produced Video] 41.9s kaynak=1920x1080  Ocean Worlds Social Videos
+  ✓ svs20384 [Animation] 11.2s kaynak=1920x1080  Enceladus
+  ✓ svs13947 [Produced Video] 77.0s kaynak=1920x1080  Video Visions of the Future
+  ✓ svs12735 [Produced Video] 220.0s kaynak=1280x720  Cassini's Last Images
+  ✓ svs12709 [Produced Video] 392.3s kaynak=1920x1080  Cassini's Infrared Saturn
+  ✓ svs5674 [Visualization] 20.0s kaynak=3840x1080  Solar System: EIC Display
+  ✓ svs14983 [Produced Video] 489.0s kaynak=1920x1080  “Cosmic Echoes” Audio Activation
+  (buyuk dosya, adresten okunuyor: svs14989)
+  ✓ svs14989 [Produced Video] 256.6s kaynak=1920x1080  Hubble Accidentally Catches Comet Breaking Up
+  ✓ svs13966 [Produced Video] 59.9s kaynak=1920x1080  Water Vapor Detected In Europa’s Atmosphere
+  ✓ svs13892 [Produced Video] 151.3s kaynak=1920x1080  Hubble Finds Evidence of Water Vapor at Jupiter’s Moon Ganym
+  ✓ svs12772 [Produced Video] 132.0s kaynak=1920x1080  2017 Hurricanes and Aerosols Simulation
+  ✓ svs5618 [Visualization] 121.0s kaynak=1920x1080  SWOT River Volume Variations
+  ✓ svs5619 [Visualization] 29.3s kaynak=1920x1080  SWOT River Volume Variations (rivers only)
+  ✓ svs14951 [Produced Video] 150.3s kaynak=1920x1080  Are Titan’s Lakes Teeming with Primitive Cells?
+  ✓ svs20403 [Animation] 33.9s kaynak=1920x1080  Titan science results from James Webb Space Telescope: anima
+  ✓ svs5530 [Visualization] 51.3s kaynak=1920x1080  Webb Confirms Seasonal Variations in Titan Climate Model
+  ✓ svs12570 [Produced Video] 152.1s kaynak=1920x1080  Hubble Views Jupiter at Opposition
+  ✓ svs11346 [Produced Video] 36.0s kaynak=960x540  Triple Eclipse
+  ✓ svs31296 [Hyperwall Visual] 60.0s kaynak=1280x720  Coming in Hot — NASA’s Chandra Checks Habitability of Exopla
+  ✓ svs13307 [Produced Video] 87.1s kaynak=1920x1080  Hubble’s Brand New Image of Saturn
+  (buyuk dosya, adresten okunuyor: svs15102)
+  ✓ svs15102 [Produced Video] 148.5s kaynak=1920x1080  Dying Star Creates Brand New Planet
+  ✓ svs13635 [Produced Video] 121.3s kaynak=1920x1080  NASA’s TESS Provides New Insights Into an Ultrahot World
+  ✓ svs13000 [Produced Video] 118.8s kaynak=1280x720  Pluto's Underground Ocean
+  ✓ svs11821 [Produced Video] 28.4s kaynak=1920x1080  Suzaku, Herschel Link a Black-hole 'Wind' to a Galactic Gush
+  ✗ svs2946: HTTP Error 503: Service Unavailable
+  ✗ svs15103: HTTP Error 503: Service Unavailable
+  ✓ svs15101 [Produced Video] 90.0s kaynak=1920x1080  NASA’s OSIRIS-APEX Mission Will Explore Asteroid Apophis
+  ✓ svs5673 [Visualization] 30.0s kaynak=1920x1080  Roman Telescope Launch and Orbit at L2
+  ✓ svs5672 [Visualization] 93.0s kaynak=1920x1080  August 27-28, 2026 Deep Partial Lunar Eclipse
+  ✓ svs5675 [Visualization] 16.7s kaynak=3840x2160  US-India Satellite Captures Time-Lapse Video of Volcanic Eru
+  ✓ svs5572 [Visualization] 60.0s kaynak=1920x540  GEOS Aerosols
+  ✓ svs5552 [Visualization] 74.5s kaynak=2048x1024  Science On A Sphere: Aerosols in the Air
+  ✓ svs14652 [Produced Video] 255.3s kaynak=1920x1080  Exploring Volcanoes with NASA’s GEODES Team
+[]

@@ -15,19 +15,15 @@
    "id": "GSFC_20150630_SDO_m11908_ArchingEruption"
   },
   "AN": {
-   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030990/STScI-J-Andromeda_2x-1920x1080.mp4",
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030990/STScI-J-Andromeda_1x-1920x1080.mp4",
    "id": "svs30990"
-  },
-  "CG": {
-   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a010600/a010658/JWST-Colliding_Galaxies_youtube_hq.mov",
-   "id": "svs10658"
   },
   "CI": {
    "url": "http://svs.gsfc.nasa.gov/vis/a030000/a031300/a031362/Circinus-Galaxy-Zoom_1080.mp4",
    "id": "svs31362"
   },
   "GC": {
-   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030961/STScI-H-MWC_2x-1920x1080.mp4",
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030961/STScI-H-MWC_1x-1920x1080.mp4",
    "id": "svs30961"
   },
   "JC": {
@@ -35,11 +31,11 @@
    "id": "svs10687"
   },
   "M1": {
-   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030969/STScI-H-M101_2x-1920x1080.mp4",
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030969/STScI-H-M101_1x-1920x1080.mp4",
    "id": "svs30969"
   },
   "NG": {
-   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030941/STScI-H-NGC2207_2x-1920x1080.mp4",
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030941/STScI-H-NGC2207_1x-1920x1080.mp4",
    "id": "svs30941"
   },
   "PN": {
@@ -62,16 +58,12 @@
    "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020367/A_Gravitational_Wave_h264.mp4",
    "id": "svs20367"
   },
-  "S31281": {
-   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031281/ISS067_20220817_aurora_1080p25.mp4",
-   "id": "svs31281"
-  },
-  "S5586": {
-   "url": "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005586/zoom_whirl_windows3_HD.mp4",
-   "id": "svs5586"
+  "S31375": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031300/a031375/ISS_20251112_071350-20251112_073549_1080p30.mp4",
+   "id": "svs31375"
   },
   "SB": {
-   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030995/STScI-H-Sombrero_2x-1920x1080.mp4",
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030995/STScI-H-Sombrero_1x-1920x1080.mp4",
    "id": "svs30995"
   },
   "SK": {
@@ -100,8 +92,8 @@
    ],
    [
     "SK",
-    8.5,
-    19.5,
+    11,
+    18.4,
     {
      "kirp": [
       0,
@@ -167,7 +159,7 @@
   [
    [
     "CI",
-    4.5,
+    5,
     22.5
    ],
    [
@@ -185,8 +177,8 @@
    ],
    [
     "AN",
-    11,
-    23.5,
+    12,
+    23,
     {
      "kirp": [
       0,
@@ -282,14 +274,14 @@
     58
    ],
    [
-    "CG",
-    0,
-    15
-   ],
-   [
     "JC",
     20,
     40
+   ],
+   [
+    "JC",
+    40,
+    55
    ],
    [
     "T",
@@ -364,18 +356,18 @@
    ],
    [
     "S13831",
-    70,
-    85
-   ],
-   [
-    "S5586",
-    0,
-    24
+    68,
+    78
    ],
    [
     "S20367",
     0,
     17
+   ],
+   [
+    "S20367",
+    17,
+    34
    ]
   ],
   [
@@ -385,22 +377,14 @@
     56
    ],
    [
-    "SK",
-    9,
-    20,
-    {
-     "kirp": [
-      0,
-      0.08,
-      1,
-      0.92
-     ]
-    }
+    "JC",
+    55,
+    75
    ],
    [
-    "M1",
-    36,
-    46,
+    "AN",
+    12,
+    23,
     {
      "kirp": [
       0,
@@ -414,23 +398,34 @@
   [
    [
     "A",
-    0,
-    12
+    62.3,
+    77
    ],
    [
     "Y5",
-    0,
-    12
+    80.5,
+    87
    ],
    [
-    "S31281",
-    0,
-    12
+    "S31375",
+    10,
+    30,
+    {
+     "zoom": 1.1
+    }
    ],
    [
     "PN",
     0,
-    6
+    6,
+    {
+     "kirp": [
+      0,
+      0.12,
+      1,
+      0.88
+     ]
+    }
    ],
    [
     "PN",
@@ -439,9 +434,9 @@
     {
      "kirp": [
       0,
-      0.08,
+      0.12,
       1,
-      0.92
+      0.88
      ]
     }
    ]

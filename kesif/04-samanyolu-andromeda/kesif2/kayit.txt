@@ -1,0 +1,19 @@
+0 benzersiz video bulundu
+SVS: 32 sonuc
+  ✗ svs30955: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14673 [Produced Video] 141.9s kaynak=1920x1080  NASA’s Hubble, Chandra Find Supermassive Black Hole Duo
+  ✓ svs14515 [Produced Video] 118.8s kaynak=1920x1080  Sonification of the Mice Galaxies
+  ✗ svs14715: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14618 [Produced Video] 718.7s kaynak=1920x1080  New Image to be Released from the James Webb Space Telescope
+  ✗ svs14504: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14762: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs5586 [Visualization] 60.0s kaynak=1920x1080  Extreme Mass Ratio Black Hole Inspirals (EMRIs)
+  ✓ svs30094 [Hyperwall Visual] 118.8s kaynak=1280x720  Chandra and the Bullet Cluster
+  ✗ svs14924: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs30995 [Hyperwall Visual] 36.0s kaynak=1920x1080  Sombrero Galaxy in Multiple Wavelengths
+  ✓ svs31362 [Hyperwall Visual] 28.0s kaynak=1920x1080  Circinus Galaxy Zoom
+  ✓ svs31393 [Hyperwall Visual] 61.0s kaynak=1920x1080  Messier 101
+  ✓ svs14522 [Produced Video] 126.2s kaynak=1920x1080  Fermi Sees No Gamma Rays from Nearby Supernova
+  ✓ svs31286 [Hyperwall Visual] 22.7s kaynak=1920x1080  Webb Space Telescope Studies the Pillars of Creation
+  ✓ svs12399 [Produced Video] 122.4s kaynak=320x240  NASA's Kepler, Swift Missions Harvest ‘Pumpkin’ Stars
+[]

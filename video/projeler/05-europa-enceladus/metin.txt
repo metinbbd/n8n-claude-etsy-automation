@@ -1,0 +1,246 @@
+# Bicim:
+#   ## Ingilizce bolum basligi | Turkce bolum basligi
+#   EN: anlatilan ve Ingilizce altyaziya yazilan cumle
+#   SAY: (istege bagli) seslendirme icin farkli yazim (sayilar, kisaltmalar)
+#   TR: Turkce altyazi
+#   [ara 2.0]  -> saniye cinsinden muzik arasi
+
+## Water Beyond Earth | Dünya'nın Ötesinde Su
+EN: Everywhere we look on Earth, where there is liquid water, there is life.
+TR: Dünya'da nereye baksak, sıvı suyun olduğu yerde yaşam var.
+EN: From the deepest trenches to the driest deserts, water seems to be the one ingredient life cannot do without.
+TR: En derin çukurlardan en kurak çöllere kadar su, yaşamın vazgeçemediği tek bileşen gibi görünüyor.
+EN: So when astronomers search for life beyond our planet, they follow the water.
+TR: Bu yüzden gökbilimciler gezegenimizin ötesinde yaşam ararken suyun izini sürüyor.
+EN: For decades, that search focused on Mars, on dry riverbeds and ancient lakes.
+TR: Onlarca yıl boyunca bu arayış Mars'a, kurumuş nehir yataklarına ve eski göllere odaklandı.
+EN: But some of the most promising places are far colder and farther from the Sun.
+TR: Ama en umut verici yerlerden bazıları çok daha soğuk ve Güneş'ten çok daha uzakta.
+EN: They are small, frozen moons circling the giant planets Jupiter and Saturn.
+TR: Dev gezegenler Jüpiter ve Satürn'ün çevresinde dönen küçük, donmuş uydular.
+EN: Their surfaces are locked in ice as hard as rock.
+TR: Yüzeyleri kaya kadar sert bir buzla kaplı.
+EN: Yet beneath that ice, there may be oceans.
+TR: Ama o buzun altında okyanuslar olabilir.
+[ara 2.5]
+
+## A Moon Called Europa | Europa Adlı Bir Uydu
+EN: In January sixteen ten, Galileo Galilei pointed one of the first telescopes at Jupiter and noticed four little points of light beside it.
+TR: 1610'un Ocak ayında Galileo Galilei, ilk teleskoplardan birini Jüpiter'e çevirdi ve yanında dört küçük ışık noktası fark etti.
+EN: They were moons, and one of them was Europa.
+TR: Bunlar uydulardı ve biri Europa'ydı.
+EN: Europa is a little smaller than our own Moon, and it circles Jupiter once every three and a half days.
+TR: Europa bizim Ay'ımızdan biraz küçük ve Jüpiter'in çevresinde üç buçuk günde bir tur atıyor.
+EN: Its surface is a shell of water ice, bright and strangely smooth.
+TR: Yüzeyi, parlak ve tuhaf biçimde pürüzsüz bir su buzu kabuğundan oluşuyor.
+EN: There are very few craters, which tells us the surface is young, perhaps only a few tens of millions of years old.
+TR: Çok az krater var; bu da yüzeyin genç olduğunu, belki yalnızca birkaç on milyon yıllık olduğunu gösteriyor.
+EN: Something keeps renewing it.
+TR: Bir şey onu sürekli yeniliyor.
+EN: Long cracks and ridges cross the ice in every direction, as if the shell were broken and mended again and again.
+TR: Uzun çatlaklar ve sırtlar buzu her yönde kesiyor; sanki kabuk defalarca kırılıp yeniden onarılmış.
+EN: And in places, jumbled blocks of ice look like rafts that drifted apart and froze back together.
+TR: Bazı yerlerde karmakarışık buz blokları, birbirinden ayrılıp yeniden donmuş salları andırıyor.
+EN: Along many of those cracks, the ice is stained a reddish brown.
+TR: Bu çatlakların çoğunda buz kırmızımsı kahverengiyle lekelenmiş.
+EN: Scientists suspect the color comes from salts and other chemicals that have worked their way up from below.
+TR: Bilim insanları rengin, aşağıdan yukarı sızan tuzlardan ve diğer kimyasallardan geldiğinden şüpheleniyor.
+EN: Europa also orbits inside Jupiter's radiation belts, so its surface is constantly bombarded by high-energy particles.
+TR: Europa ayrıca Jüpiter'in radyasyon kuşaklarının içinde dönüyor; bu yüzden yüzeyi sürekli yüksek enerjili parçacıklarla bombalanıyor.
+[ara 2.0]
+
+## The Squeeze Inside | İçerideki Sıkıştırma
+EN: What could warm a world so far from the Sun?
+TR: Güneş'ten bu kadar uzak bir dünyayı ne ısıtabilir?
+EN: The answer is gravity.
+TR: Cevap kütle çekimi.
+EN: Europa does not travel in a perfect circle around Jupiter.
+TR: Europa, Jüpiter'in çevresinde mükemmel bir daire çizmiyor.
+EN: The neighboring moons Io and Ganymede tug on it in a steady rhythm, keeping its orbit slightly stretched.
+TR: Komşu uydular Io ve Ganymede onu düzenli bir ritimle çekiyor ve yörüngesini hafifçe gergin tutuyor.
+EN: So Europa sometimes swings closer to giant Jupiter, and sometimes a little farther away.
+TR: Böylece Europa bazen dev Jüpiter'e biraz yaklaşıyor, bazen biraz uzaklaşıyor.
+EN: Each time, Jupiter's gravity squeezes and stretches the moon, the way you warm a piece of clay by kneading it in your hands.
+TR: Her seferinde Jüpiter'in kütle çekimi uyduyu sıkıştırıp geriyor; tıpkı bir parça kili avuçlarınızda yoğurarak ısıtmanız gibi.
+EN: This flexing creates friction, and friction makes heat.
+TR: Bu esneme sürtünme yaratıyor, sürtünme de ısı üretiyor.
+EN: Deep inside Europa, that heat can keep water liquid, even though the surface is far colder than any freezer on Earth.
+TR: Europa'nın derinlerinde bu ısı, yüzey Dünya'daki herhangi bir dondurucudan çok daha soğuk olsa bile suyu sıvı tutabilir.
+[ara 2.0]
+
+## Proof Under the Ice | Buzun Altındaki Kanıt
+EN: In the nineteen nineties, NASA's Galileo spacecraft flew past Europa again and again.
+TR: 1990'larda NASA'nın Galileo uzay aracı Europa'nın yanından defalarca geçti.
+EN: Its instruments noticed something remarkable.
+TR: Aletleri olağanüstü bir şey fark etti.
+EN: Jupiter's powerful magnetic field seemed to be disturbed near the moon, as if something beneath the ice were conducting electricity.
+TR: Jüpiter'in güçlü manyetik alanı uydunun yakınında bozuluyordu; sanki buzun altındaki bir şey elektriği iletiyordu.
+EN: Salty water does exactly that.
+TR: Tuzlu su tam olarak bunu yapar.
+EN: Scientists concluded that Europa hides a global ocean of salty water beneath its icy shell.
+TR: Bilim insanları, Europa'nın buzlu kabuğunun altında tuzlu sudan oluşan küresel bir okyanus sakladığı sonucuna vardı.
+EN: That ocean may be sixty to one hundred and fifty kilometers deep, holding about twice as much water as all of Earth's oceans combined.
+SAY: That ocean may be sixty to one hundred and fifty kilometers deep, holding about twice as much water as all of Earth's oceans combined.
+TR: Bu okyanus altmış ile yüz elli kilometre derinliğinde olabilir ve Dünya'nın tüm okyanuslarının toplamının yaklaşık iki katı su barındırabilir.
+EN: Above it, the ice shell may be only ten to thirty kilometers thick.
+TR: Üzerindeki buz kabuğu ise belki yalnızca on ile otuz kilometre kalınlığında.
+EN: In twenty twenty three, NASA's James Webb Space Telescope found carbon dioxide on Europa's surface.
+SAY: In twenty twenty three, NASA's James Webb Space Telescope found carbon dioxide on Europa's surface.
+TR: 2023'te NASA'nın James Webb Uzay Teleskobu, Europa'nın yüzeyinde karbondioksit buldu.
+EN: It was concentrated in a region where the ice looks recently broken up, a hint that the carbon may have come from the ocean below.
+TR: Karbondioksit, buzun yakın zamanda parçalanmış göründüğü bir bölgede yoğunlaşmıştı; bu, karbonun alttaki okyanustan gelmiş olabileceğine dair bir ipucu.
+EN: The Hubble Space Telescope has even spotted hints of water vapor rising from Europa, though astronomers are still debating what it means.
+TR: Hubble Uzay Teleskobu, Europa'dan yükselen su buharına dair ipuçları bile yakaladı; ancak gökbilimciler bunun ne anlama geldiğini hâlâ tartışıyor.
+[ara 2.5]
+
+## What Lies Beneath | Altında Ne Var
+EN: Picture Europa cut in half like an apple.
+TR: Europa'yı bir elma gibi ikiye bölünmüş düşünün.
+EN: On the outside, a shell of ice, cold and hard as steel.
+TR: Dışta, çelik kadar soğuk ve sert bir buz kabuğu.
+EN: Beneath it, a deep, dark, salty ocean.
+TR: Altında derin, karanlık ve tuzlu bir okyanus.
+EN: Beneath the ocean, a floor of rock, and at the center of the moon, a core of metal.
+TR: Okyanusun altında bir kaya tabanı ve uydunun merkezinde metalden bir çekirdek.
+EN: That rocky seafloor matters enormously.
+TR: O kayalık deniz tabanı son derece önemli.
+EN: Where hot water meets rock, minerals dissolve, chemical reactions begin, and energy is released.
+TR: Sıcak suyun kayayla buluştuğu yerde mineraller çözünür, kimyasal tepkimeler başlar ve enerji açığa çıkar.
+EN: At the top, the radiation raining on the surface creates oxygen-rich chemicals in the ice.
+TR: Üstte, yüzeye yağan radyasyon buzda oksijence zengin kimyasallar üretiyor.
+EN: If cracks and slow motions carry them down into the ocean, they could mix with the chemistry below, a little like a battery with two poles.
+TR: Çatlaklar ve yavaş hareketler bunları okyanusa taşırsa, aşağıdaki kimyayla karışabilirler; iki kutuplu bir pile benzer biçimde.
+EN: Nobody knows yet whether this really happens.
+TR: Bunun gerçekten olup olmadığını henüz kimse bilmiyor.
+[ara 2.0]
+
+## The Shining Moon Enceladus | Işıldayan Uydu Enceladus
+EN: Now travel more than six hundred million kilometers farther out, to Saturn.
+TR: Şimdi altı yüz milyon kilometreden fazla daha öteye, Satürn'e gidelim.
+EN: Among its many moons is a tiny, dazzling world called Enceladus.
+TR: Çok sayıdaki uydusu arasında Enceladus adlı küçücük, göz kamaştırıcı bir dünya var.
+EN: It is only about five hundred kilometers across, small enough to fit inside the borders of a single country.
+TR: Çapı yalnızca yaklaşık beş yüz kilometre; tek bir ülkenin sınırları içine sığacak kadar küçük.
+EN: Yet it is one of the brightest objects in the entire Solar System, reflecting almost all the sunlight that falls on it.
+TR: Yine de tüm Güneş Sistemi'ndeki en parlak cisimlerden biri; üzerine düşen güneş ışığının neredeyse tamamını yansıtıyor.
+EN: Fresh, clean ice covers it, like snow that fell only yesterday.
+TR: Taptaze, temiz bir buz örtüsü onu kaplıyor; sanki karı daha dün yağmış.
+EN: Scientists once guessed it was simply a frozen, lifeless ball.
+TR: Bilim insanları bir zamanlar onun yalnızca donmuş, cansız bir top olduğunu sanıyordu.
+EN: Then a spacecraft named Cassini arrived at Saturn, and everything changed.
+TR: Sonra Cassini adlı bir uzay aracı Satürn'e ulaştı ve her şey değişti.
+[ara 2.0]
+
+## Geysers of the South | Güneyin Gayzerleri
+EN: In two thousand five, Cassini flew close to Enceladus and found something astonishing.
+TR: 2005'te Cassini, Enceladus'a yaklaşarak şaşırtıcı bir şey buldu.
+EN: Near the moon's south pole, long cracks nicknamed tiger stripes were glowing warmer than the ice around them.
+TR: Uydunun güney kutbunun yakınında, kaplan çizgileri denen uzun çatlaklar çevrelerindeki buzdan daha sıcak parlıyordu.
+EN: And from those cracks, jets of ice and vapor were blasting out into space.
+TR: Ve bu çatlaklardan uzaya buz ve buhar jetleri fışkırıyordu.
+EN: Dozens of geysers were shooting material hundreds of kilometers high.
+TR: Onlarca gayzer, maddeyi yüzlerce kilometre yüksekliğe fırlatıyordu.
+EN: This spray is so plentiful that it feeds one of Saturn's rings, a faint, wide band of ice particles called the E ring.
+TR: Bu püskürme o kadar bol ki Satürn'ün halkalarından birini, E halkası denen soluk ve geniş buz parçacığı kuşağını besliyor.
+EN: The water was coming from somewhere inside Enceladus.
+TR: Su, Enceladus'un içindeki bir yerden geliyordu.
+EN: Careful measurements of the moon's tiny wobble later showed that its icy shell is not frozen to the core.
+TR: Uydunun küçücük sallanmasının dikkatli ölçümleri, buzlu kabuğunun çekirdeğe kadar donmuş olmadığını sonradan gösterdi.
+EN: A global ocean lies beneath it.
+TR: Altında küresel bir okyanus var.
+EN: The heat pouring out of that region is far greater than a small, icy moon should be able to produce.
+TR: O bölgeden çıkan ısı, küçük ve buzlu bir uydunun üretebileceğinden çok daha fazla.
+EN: Enceladus is helped by a gravitational dance with its neighbor Dione, which keeps flexing its interior.
+TR: Enceladus'a, iç yapısını sürekli esneten komşusu Dione ile yaptığı kütle çekimi dansı yardım ediyor.
+EN: Scientists are still working out exactly how it stays so active.
+TR: Bilim insanları bu kadar aktif kalmasını tam olarak nasıl başardığını hâlâ çözmeye çalışıyor.
+[ara 2.0]
+
+## Tasting the Ocean | Okyanusun Tadına Bakmak
+EN: Cassini did something no spacecraft had done before.
+TR: Cassini, hiçbir uzay aracının daha önce yapmadığı bir şeyi yaptı.
+EN: It flew straight through the geysers and tasted the spray with its instruments.
+TR: Gayzerlerin içinden doğrudan geçti ve püskürmeyi aletleriyle tattı.
+EN: The plume contained water, of course, along with salts, just like seawater.
+TR: Püskürmede elbette su vardı, üstelik tıpkı deniz suyu gibi tuzlar da.
+EN: It also held carbon-based organic molecules, the building blocks of chemistry that life depends on.
+TR: İçinde ayrıca karbon bazlı organik moleküller de vardı; yaşamın dayandığı kimyanın yapı taşları.
+EN: Tiny grains of silica revealed that hot water is touching rock on the ocean floor, at temperatures of around ninety degrees Celsius or more.
+TR: Küçücük silika taneleri, okyanus tabanında sıcak suyun kayayla temas ettiğini, yaklaşık doksan derece ya da daha yüksek sıcaklıklarda olduğunu ortaya koydu.
+EN: Cassini also detected molecular hydrogen, a gas that microbes can use as food.
+TR: Cassini ayrıca mikropların besin olarak kullanabileceği bir gaz olan moleküler hidrojeni de saptadı.
+EN: And years later, scientists studying its data found phosphates, a form of phosphorus, another essential ingredient for life as we know it.
+TR: Yıllar sonra verilerini inceleyen bilim insanları, bildiğimiz yaşam için bir başka vazgeçilmez bileşen olan fosforun bir biçimi fosfatları da buldu.
+EN: A hidden ocean, warm rock, and the right chemistry, all on a moon the size of a small country.
+TR: Gizli bir okyanus, sıcak kaya ve doğru kimya; hepsi küçük bir ülke büyüklüğündeki bir uyduda.
+EN: In September twenty seventeen, after thirteen years at Saturn, Cassini ended its mission by plunging deliberately into the planet.
+TR: Eylül 2017'de, Satürn'de on üç yıl geçirdikten sonra Cassini, gezegene bilinçli olarak dalarak görevini bitirdi.
+EN: Engineers did this on purpose, so that the spacecraft could never crash into Enceladus and contaminate it with microbes from Earth.
+TR: Mühendisler bunu bilerek yaptı; böylece araç hiçbir zaman Enceladus'a çarpıp onu Dünya'dan gelen mikroplarla kirletemeyecekti.
+[ara 2.0]
+
+## Life Without Sunlight | Güneşsiz Yaşam
+EN: Could anything live in a dark ocean, under kilometers of ice, with no sunlight at all?
+TR: Kilometrelerce buzun altındaki, hiç güneş ışığı almayan karanlık bir okyanusta bir şey yaşayabilir mi?
+EN: On Earth, the answer is yes.
+TR: Dünya'da cevap evet.
+EN: In nineteen seventy seven, scientists exploring the deep sea found hot springs called hydrothermal vents.
+TR: 1977'de derin denizi keşfeden bilim insanları, hidrotermal bacalar denen sıcak su kaynakları buldu.
+EN: Around them, in total darkness, thrived crowds of worms, shrimp, and bacteria.
+TR: Çevrelerinde, tam karanlıkta, solucan, karides ve bakteri kalabalıkları gelişiyordu.
+EN: They do not live on sunlight.
+TR: Güneş ışığıyla yaşamıyorlar.
+EN: They live on chemical energy flowing out of the rock beneath them.
+TR: Altlarındaki kayadan akan kimyasal enerjiyle yaşıyorlar.
+EN: That discovery changed how we think about where life can exist.
+TR: Bu keşif, yaşamın nerede var olabileceğine dair düşüncemizi değiştirdi.
+EN: The oceans of Europa and Enceladus may have similar ingredients: liquid water, heat, and chemistry.
+TR: Europa ve Enceladus'un okyanuslarında da benzer bileşenler olabilir: sıvı su, ısı ve kimya.
+EN: But we must be honest. We have not found life there, and we do not know if it exists.
+TR: Ama dürüst olmalıyız. Orada yaşam bulmadık ve var olup olmadığını bilmiyoruz.
+[ara 2.0]
+
+## The Missions Ahead | Yoldaki Görevler
+EN: To find out more, we are going back.
+TR: Daha fazlasını öğrenmek için geri dönüyoruz.
+EN: In October twenty twenty four, NASA launched Europa Clipper, a spacecraft built to study Europa up close.
+TR: 2024 Ekim'inde NASA, Europa'yı yakından incelemek için yapılmış Europa Clipper'ı fırlattı.
+EN: It is expected to reach Jupiter in twenty thirty.
+TR: Aracın 2030'da Jüpiter'e ulaşması bekleniyor.
+EN: From there it will make about fifty close flybys of Europa.
+TR: Oradan Europa'nın yanından yaklaşık elli kez yakın geçiş yapacak.
+EN: It carries cameras, an ice-penetrating radar, and instruments to taste the thin atmosphere and any plumes.
+TR: Kameralar, buzu delip geçen bir radar ve ince atmosferi ile olası gayzerleri tadacak aletler taşıyor.
+EN: Jupiter's radiation is so fierce that Clipper's most sensitive electronics sit inside a thick vault of metal.
+TR: Jüpiter'in radyasyonu o kadar şiddetli ki Clipper'ın en hassas elektronikleri kalın bir metal kasanın içinde duruyor.
+EN: Each flyby will pass close to the surface, then swing back out of the worst of the radiation to send its data home.
+TR: Her geçiş yüzeye yakından olacak, ardından verilerini Dünya'ya göndermek için radyasyonun en kötü bölgesinden uzaklaşacak.
+EN: Europe's own mission, the European Space Agency's JUICE, is already on its way to the Jupiter system.
+TR: Avrupa'nın kendi görevi, Avrupa Uzay Ajansı'nın JUICE aracı, Jüpiter sistemine doğru yolda.
+EN: It will study Jupiter's icy moons, including Europa, and the largest of them all, Ganymede.
+TR: Europa dahil Jüpiter'in buzlu uydularını ve hepsinin en büyüğü olan Ganymede'yi inceleyecek.
+EN: None of these missions is designed to find life directly.
+TR: Bu görevlerin hiçbiri yaşamı doğrudan bulmak için tasarlanmadı.
+EN: Their job is to find out whether these oceans could be habitable.
+TR: Görevleri, bu okyanusların yaşanabilir olup olmadığını öğrenmek.
+[ara 2.0]
+
+## Are We Alone? | Yalnız mıyız?
+EN: Europa and Enceladus are not the only ocean worlds.
+TR: Europa ve Enceladus tek okyanus dünyaları değil.
+EN: Evidence suggests Ganymede and Callisto may hide oceans too, and Saturn's giant moon Titan may have one beneath its orange haze.
+TR: Veriler, Ganymede ve Callisto'nun da okyanus saklıyor olabileceğini, Satürn'ün dev uydusu Titan'ın ise turuncu sisinin altında bir okyanusa sahip olabileceğini gösteriyor.
+EN: If so, the Solar System may hold far more liquid water than anyone imagined.
+TR: Öyleyse Güneş Sistemi, kimsenin hayal ettiğinden çok daha fazla sıvı su barındırıyor olabilir.
+EN: Most of it would be hidden, in the dark, under the ice.
+TR: Bunun büyük kısmı gizli, karanlıkta, buzun altında olurdu.
+EN: The question of whether we are alone is one of the oldest questions we ask.
+TR: Yalnız olup olmadığımız sorusu, sorduğumuz en eski sorulardan biri.
+EN: For the first time in history, we have the tools to look for the answer, in places we once thought were frozen and dead.
+TR: Tarihte ilk kez, bir zamanlar donmuş ve ölü sandığımız yerlerde bu sorunun cevabını arayacak araçlara sahibiz.
+EN: Each answer we find will lead to new questions.
+TR: Bulacağımız her cevap yeni sorulara yol açacak.
+EN: Even if these oceans turn out to be empty, they would teach us how rare, or how common, the conditions for life really are.
+TR: Bu okyanuslar boş çıksa bile, yaşam koşullarının gerçekte ne kadar nadir ya da ne kadar yaygın olduğunu bize öğretirdi.
+EN: Somewhere out there, beneath the ice, an ocean may be waiting.
+TR: Orada bir yerlerde, buzun altında, bir okyanus bizi bekliyor olabilir.

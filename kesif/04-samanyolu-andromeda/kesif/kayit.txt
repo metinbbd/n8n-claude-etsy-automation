@@ -1,0 +1,111 @@
+25 benzersiz video bulundu
+SVS: 172 sonuc
+  ✓ JPL-20201001-WHATSUf-0001-Whats_Up_October_2020 210.1s kaynak=1920x1080  What's Up: October 2020 Skywatching Tips from NASA
+  ✓ ksc_082604_chandra 118.9s kaynak=320x212  KSC-04-S-00307
+  ✓ GSFC_20181129_FERMI_m13104_Starlight 113.1s kaynak=1920x1080  Tracing the History of Starlight with NASA's Fermi Mission
+  ✓ GSFC_20181002_SMBH_m13043_Simulation 133.5s kaynak=1920x1080  New Simulation Sheds Light on Spiraling Supermassive Black H
+  ✓ The Next Crew Headed to the Space Station on This Week at NASA – February 24, 2023 111.7s kaynak=1920x1080  The Next Crew Headed to the Space Station on This Week at NA
+  ✓ ARC-20200103-AAV3244-SOFIA-GalacticCenter-RptrPkg-NASAWeb 85.2s kaynak=1280x720  SOFIA Reveals New View of Milky Way’s Center
+  ✓ GSFC_20080520_HST_m10223_COS 193.9s kaynak=1280x720  Cosmic Origins Spectrograph: Large Scale Structure of the Un
+  ✓ JPL-20250529-WHATSUf-0001-Whats_Up_June_2025cc 237.5s kaynak=1920x1080  What's Up: June 2025 Skywatching Tips from NASA
+  ✓ ksc_030409_kepler_webcast1 611.9s kaynak=800x450  KSC-09-S-00022
+  ✓ JPL-20250130-SPHERX-0001-SPHEREx_Media_Reel 1666.1s kaynak=3840x2160  NASA’s SPHEREx Prelaunch Media Reel
+  ✓ ksc_061504_spitzer 75.7s kaynak=320x212  KSC-04-S-00196
+  ✓ ksc_062304_chandra 73.8s kaynak=320x212  KSC-04-S-00200
+  ✓ JPL-20210701-WHATSUf-0001-Whats-Up-July-2021 202.0s kaynak=1920x1080  What's Up: July 2021 Skywatching Tips from NASA 
+  ✓ GSFC_20120131_IBEX_m10906_Helio 182.0s kaynak=1280x720  NASA's IBEX Spacecraft Reveals New Observations of Interstel
+  ✓ JPL-20250409-NUSTARf-0001-Hunting_Hidden_Black_Holes_2160cc 152.8s kaynak=3840x2160  NuSTAR-Hunting Hidden Black Holes
+  ✓ JPL-20260901-WHATSUf-0001-Whats_Up_September_2026 191.8s kaynak=1920x1080  What's Up: September 2026 Skywatching Tips from NASA
+  ✓ JPL-20250313-SPHERXf-0001-SPHEREx_and_PUNCH_Launch 83.9s kaynak=1920x1080  NASA’s SPHEREX and PUNCH Missions Launch from Vandenberg Spa
+  ✗ svs15102: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs15101 [Produced Video] 90.0s kaynak=1920x1080  NASA’s OSIRIS-APEX Mission Will Explore Asteroid Apophis
+  ✗ svs15088: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs20416 [Animation] 37.1s kaynak=1920x1080  Roman Space Telescope 2026 Beauty Passes
+  ✓ svs5648 [Visualization] 100.0s kaynak=1920x1080  The Moon Passes In and Out of Earth's Magnetosphere
+  ✗ svs15016: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs31376 [Hyperwall Visual] 23.3s kaynak=1920x1080  SPHEREx All Sky Map 2025
+  ✓ svs14968 [Produced Video] 7.5s kaynak=1920x1080  XRISM Clocks Hot Wind of Galaxy M82
+  ✓ svs14992 [Animation] 14.9s kaynak=1920x1080  Lunar Near and Far Side Phases
+  ✓ svs14847 [Produced Video] 153.3s kaynak=1920x1080  100,000 Computer Simulations Reveal Milky Way's Fate
+  ✗ svs14825: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14762: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14265 [Produced Video] 15.0s kaynak=3840x2160  TESS 2022 Sky Views
+  ✓ svs13886 [Produced Video] 170.5s kaynak=1920x1080  NASA's Fermi Spots 'Fizzled' Burst from Collapsing Star
+  ✓ svs13710 [Produced Video] 9.0s kaynak=1920x1080  TESS's Northern Sky Vista
+  ✗ svs13653: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs13497: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs30955: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs11011 [Produced Video] 192.1s kaynak=960x540  A New Dawn
+  ✓ svs31188 [Hyperwall Visual] 18.5s kaynak=1920x1080  Webb's Science Mission Begins: First Light Images As Compare
+  ✓ svs14106 [Produced Video] 60.1s kaynak=1920x1080  Galaxy Collision Creates "Space Triangle" in New Hubble Imag
+  ✗ svs13792: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs13749 [Produced Video] 171.8s kaynak=1920x1080  Hubble Spots Giant Space ‘Pumpkin’
+  ✓ svs13412 [Produced Video] 75.4s kaynak=1920x1080  Hubble's Scary New Halloween Image
+  ✓ svs31019 [Hyperwall Visual] 90.0s kaynak=1920x1080  Stephan's Quintet
+  ✓ svs13104 [Produced Video] 113.0s kaynak=1920x1080  Tracing the History of Starlight with NASA's Fermi Mission
+  ✓ svs13043 [Produced Video] 52.8s kaynak=1920x1080  New Simulation Sheds Light on Spiraling Supermassive Black H
+  ✓ svs12949 [Produced Video] 42.4s kaynak=1280x720  Star Collision
+  ✓ svs13094 [Produced Video] 10.1s kaynak=1920x1080  Multimessenger Timeline Resources
+  ✗ svs12587: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs11922 [Produced Video] 26.9s kaynak=960x540  Black Hole or Mega Star?
+  ✓ svs10082 [Produced Video] 14.5s kaynak=1920x1080  Swift Probes Exotic Object: 'Kicked' Black Hole or Mega Star
+  ✓ svs11530 [Produced Video] 12.4s kaynak=1920x1080  Neutron Stars Rip Each Other Apart to Form Black Hole
+  ✓ svs12308 [Produced Video] 19.9s kaynak=1920x1080  Hubble vs Roman Space Telescope Image Size Comparisons
+  ✗ svs14504: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14917 [Infographic] 43.0s kaynak=3840x2160  Roman Galactic Plane Survey
+  ✓ svs14521 [Produced Video] 118.8s kaynak=1920x1080  Using Infrared to Survey Our Galaxy’s Far Side
+  ✓ svs14317 [Produced Video] 50.7s kaynak=1920x1080  NASA Missions Probe What May Be a 1-In-10,000-Year Gamma-ray
+  ✓ svs13897 [Produced Video] 49.8s kaynak=1920x1080  TESS Tunes into an All-sky ‘Symphony’ of Red Giants
+  ✓ svs13794 [Infographic] 118.8s kaynak=1280x720  NASA’s TESS Finds New Worlds in a River of Stars
+  ✓ svs4851 [Visualization] 120.0s kaynak=1920x1080  Deep Star Maps 2020
+  ✓ svs14891 [Produced Video] 60.1s kaynak=1920x1080  Far and Wide: Roman and Webb's Overlapping Roles in Understa
+  ✓ svs14935 [Infographic] 8.5s kaynak=1000x1000  Milky Way Anatomy
+  ✓ svs31344 [Animation] 65.0s kaynak=1920x1080  Herbig-Haro 49/50 Stellar Jets
+  ✓ svs31302 [Hyperwall Visual] 75.5s kaynak=1920x1080  NASA's Balloon Program
+  ✓ svs14576 [Visualization] 58.6s kaynak=1920x1080  NASA Black Hole Visualization Takes Viewers Beyond the Brink
+  ✓ svs14476 [Produced Video] 118.8s kaynak=1920x1080  Fermi Mission Detects Surprising Gamma-Ray Feature Beyond Ou
+  ✗ svs14924: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14957 [B-Roll] 120.5s kaynak=1920x1080  IMAP Arrives at L1
+  ✓ svs14942 [Produced Video] 34.7s kaynak=1920x1080  Roman and Webb Comparison Graphics from Far and Wide
+  ✗ svs14905: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14335 [Produced Video] 103.4s kaynak=1920x1080  NASA Animation Sizes Up the Universe’s Biggest Black Holes
+  ✓ svs11108 [Produced Video] 136.3s kaynak=1280x720  X-ray Nova Reveals a New Black Hole in Our Galaxy
+  ✓ svs14150 [Animation] 61.7s kaynak=1920x1080  The Webb Telescope Completes Alignment Phase
+  ✓ svs13742 [Produced Video] 204.1s kaynak=1920x1080  Hubble's Extraordinary ULLYSES Program
+  ✓ svs30119 [Hyperwall Visual] 197.1s kaynak=1280x720  Baby Bubbles
+  ✓ svs11342 [Produced Video] 10.0s kaynak=1000x1000  Fermi's Five-year View of the Gamma-ray Sky
+  ✓ svs11273 [Produced Video] 272.5s kaynak=960x540  Portrait In Ultraviolet
+  ✗ svs11293: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs3895 [Visualization] 120.0s kaynak=1920x1080  Deep Star Maps
+  ✓ svs5154 [Visualization] 31.0s kaynak=2048x1024  Nitrogen Oxides (NOx)
+  ✓ svs4948 [Visualization] 41.8s kaynak=1920x1080  Reforestation in Kigoma region of Tanzania: 2005 - 2014
+  ✓ svs13709 [Produced Video] 36.5s kaynak=1280x720  International Observe the Moon Night 2020 Trailer
+  ✓ svs12544 [Produced Video] 16.8s kaynak=1280x720  Landsat Lends Chimps a Hand
+  ✓ svs4483 [Visualization] 17.7s kaynak=1920x1080  Monitoring Chimpanzee Habitats in western Tanzania
+  ✓ svs30824 [Hyperwall Visual] 26.4s kaynak=1920x1080  Mosquito Spread and Health
+  ✓ svs31299 [Hyperwall Visual] 18.0s kaynak=1920x1080  The Penguin and the Egg (Interacting Galaxies Arp 142)
+  ✓ svs11307 [Produced Video] 185.9s kaynak=1280x720  What is a Sungrazing Comet?
+  ✓ svs14561 [Produced Video] 89.7s kaynak=1920x1080  NASA's Webb Probes an Extreme Starburst Galaxy
+  ✓ svs14498 [Produced Video] 11.0s kaynak=1920x1080  Finding A New Galactic 'Fossil'
+  ✓ svs14156 [Produced Video] 33.3s kaynak=1920x1080  Sonification of NGC 1569
+  ✓ svs14076 [Produced Video] 60.0s kaynak=1920x1080  HUBBLE FINDS A BLACK HOLE IGNITING STAR FORMATION IN A DWARF
+  ✓ svs30856 [Hyperwall Visual] 118.8s kaynak=1280x720  Starburst Galaxy Messier 82 from Hubble
+  ✓ svs14544 [Produced Video] 88.0s kaynak=1920x1080  Webb Captures New Views Of Star-Forming Region
+  ✓ svs14408 [Produced Video] 80.4s kaynak=1920x1080  Swift Spots a Snacking Black Hole Using a New Trick
+  ✓ svs14175 [Produced Video] 118.8s kaynak=1280x720  Expanding Our View (2022 STScI presentation)
+  ✓ svs11437 [Produced Video] 44.9s kaynak=1920x1080  First Gamma-ray Measurement of a Gravitational Lens
+  ✓ svs14916 [Produced Video] 55.5s kaynak=1920x1080  Black Hole Eats Star: The Longest GRB Ever Seen
+  ✓ svs14799 [Produced Video] 61.7s kaynak=1920x1080  Astrophysics: Observing the Universe Vertical Video
+  ✗ svs13834: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs12969 [Produced Video] 143.4s kaynak=1920x1080  Fermi Satellite Celebrates 10 Years of Discoveries
+  ✓ svs12539 [Produced Video] 183.1s kaynak=1920x1080  Hubble Detects a Rogue Supermassive Black Hole
+  ✓ svs11821 [Produced Video] 28.4s kaynak=1920x1080  Suzaku, Herschel Link a Black-hole 'Wind' to a Galactic Gush
+  ✓ svs11250 [Produced Video] 103.7s kaynak=1280x720  A Trio of Swift Bursts Form A New Class of GRBs
+  ✗ svs15041: onizleme dosyasi cok buyuk (>300 MB)
+  ✗ svs14457: onizleme dosyasi cok buyuk (>300 MB)
+  ✓ svs14138 [Produced Video] 203.6s kaynak=1920x1080  Hubble's 32nd Anniversary: An Eclectic Galaxy Grouping
+  ✓ svs13696 [Produced Video] 118.8s kaynak=1280x720  Young Active Galaxy with ‘TIE Fighter’ Shape
+  ✓ svs30972 [Hyperwall Visual] 24.0s kaynak=1920x1080  Zoo of Galaxies
+  ✓ svs14301 [Produced Video] 22.0s kaynak=1920x1080  Millions of Galaxies Emerge in New Simulated Images From NAS
+  ✓ svs14297 [Produced Video] 12.6s kaynak=800x800  How NASA's Roman Space Telescope Will Rewind the Universe
+[]

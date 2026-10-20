@@ -7,7 +7,7 @@
  "muzik": [
   "River of Io",
   "Undaunted",
-  "Ethernight Club"
+  "River of Io"
  ],
  "kaynaklar": {
   "BFW": {
@@ -507,7 +507,6 @@
   "Fireball imagery: NASA Meteoroid Environment Office  -  Near-Earth object statistics: NASA/JPL CNEOS (June 2023)",
   "Music: \"River of Io\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
   "Music: \"Undaunted\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
-  "Music: \"Ethernight Club\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
   "Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original."
  ],
  "kaynakca_ekran": [
@@ -538,10 +537,6 @@
   [
    "t",
    "\"Undaunted\" Kevin MacLeod (incompetech.com)"
-  ],
-  [
-   "t",
-   "\"Ethernight Club\" Kevin MacLeod (incompetech.com)"
   ],
   [
    "t",

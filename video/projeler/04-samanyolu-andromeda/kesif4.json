@@ -1,0 +1,11 @@
+{
+  "onceki": "/tmp/onceki/adaylar.json",
+  "svs_idler": [15047, 15102],
+  "svs_aramalari": ["red giant star", "planetary nebula", "white dwarf", "Sun evolution", "galactic habitable zone", "stellar evolution", "Hubble galaxies zoom", "Local Group galaxies", "Large Magellanic Cloud", "Milky Way panorama", "galaxy merger simulation Hubble", "cosmic neighbors"],
+  "svs_limit": 3,
+  "baslik_atla": "fulldome|toolkit|dome|interview|briefing|live shot|wallpaper|flash talk|everything you need",
+  "aramalar": ["Milky Way timelapse", "Andromeda galaxy Hubble", "galaxy merger simulation", "Antennae galaxies Chandra"],
+  "supheliler_dahil": false,
+  "tablo_limiti": 60,
+  "muzik_adaylari": []
+}

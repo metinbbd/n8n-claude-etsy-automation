@@ -1,0 +1,92 @@
+name: Video - altyazi gom
+# Yayindaki 1080p videonun yanina, Turkce altyazisi goruntuye yazilmis bir kopya ekler (<ad>-altyazili.mp4).
+# Orijinal dosyaya ve .srt dosyalarina dokunmaz. Videolar sirayla, tek tek islenir.
+on:
+  workflow_dispatch:
+    inputs:
+      yeniden:
+        description: "Altyazili kopya zaten varsa yeniden uret"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: video   # videolar tek tek: ayni anda tek video isi
+  cancel-in-progress: false
+
+jobs:
+  altyazi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      max-parallel: 1
+      fail-fast: false
+      matrix:
+        proje: [01-gunes-firtinasi, 02-asteroitler, 03-kara-delikler]
+    env:
+      PROJE: ${{ matrix.proje }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v5
+      - name: Altyazili kopya zaten var mi
+        id: var
+        run: |
+          if [ "${{ inputs.yeniden }}" != "true" ] && gh release view "$PROJE" --json assets --jq '.assets[].name' | grep -q -- '-altyazili\.mp4$'; then
+            echo "var=1" >> "$GITHUB_OUTPUT"
+            echo "$PROJE: altyazili kopya zaten var, atlandi."
+          fi
+      - name: ffmpeg kurulumu
+        if: steps.var.outputs.var != '1'
+        run: |
+          curl -sSL https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz | tar -xJ -C /tmp
+          echo /tmp/ffmpeg-master-latest-linux64-gpl/bin >> "$GITHUB_PATH"
+      - name: Video ve altyaziyi indir
+        if: steps.var.outputs.var != '1'
+        run: |
+          mkdir -p /tmp/girdi /tmp/cikti /tmp/kontrol
+          gh release download "$PROJE" --dir /tmp/girdi --pattern '*.mp4' --pattern 'altyazi_tr.srt'
+          ls -la /tmp/girdi
+      - name: Altyaziyi goruntuye yaz
+        if: steps.var.outputs.var != '1'
+        run: |
+          set -euo pipefail
+          cd /tmp/girdi
+          V=$(ls *.mp4 | grep -v -- '-altyazili\.mp4$' | head -1)
+          OUT="/tmp/cikti/${V%.mp4}-altyazili.mp4"
+          STYLE="FontName=DejaVu Sans,FontSize=14,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,BorderStyle=1,Outline=1.5,Shadow=0,MarginV=22"
+          ffmpeg -loglevel error -y -i "$V" -vf "subtitles=altyazi_tr.srt:force_style='$STYLE'" \
+            -c:v libx264 -preset fast -crf 19 -pix_fmt yuv420p -c:a copy -movflags +faststart "$OUT"
+          D1=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$V")
+          D2=$(ffprobe -v error -show_entries format=duration -of csv=p=0 "$OUT")
+          H=$(ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of csv=p=0 "$OUT")
+          echo "SURE orijinal=$D1 altyazili=$D2 cozunurluk=$H boyut=$(stat -c%s "$OUT")"
+          python3 -c "import sys; sys.exit(0 if abs(float('$D1')-float('$D2'))<0.5 else 1)"
+          echo "$OUT" > /tmp/cikti_yolu.txt
+      - name: Kontrol kareleri
+        if: steps.var.outputs.var != '1'
+        run: |
+          set -euo pipefail
+          OUT=$(cat /tmp/cikti_yolu.txt)
+          python3 - "$OUT" <<'PY'
+          import re, subprocess, sys
+          out = sys.argv[1]
+          t = open('/tmp/girdi/altyazi_tr.srt', encoding='utf-8').read()
+          cues = re.findall(r'(\d+):(\d+):(\d+),(\d+) --> (\d+):(\d+):(\d+),(\d+)', t)
+          sec = lambda h, m, s, ms: int(h) * 3600 + int(m) * 60 + int(s) + int(ms) / 1000
+          mid = [(sec(*c[:4]) + sec(*c[4:])) / 2 for c in cues]
+          for i in range(6):
+              ts = mid[int(i * (len(mid) - 1) / 5)]
+              subprocess.run(['ffmpeg', '-loglevel', 'error', '-y', '-ss', f'{ts:.2f}', '-i', out,
+                              '-frames:v', '1', '-vf', 'scale=960:540', f'/tmp/kontrol/k_{i}.jpg'], check=True)
+          PY
+          ffmpeg -loglevel error -y -i /tmp/kontrol/k_%d.jpg -filter_complex "tile=2x3" -frames:v 1 /tmp/kontrol/altyazi_kontrol.jpg
+          rm -f /tmp/kontrol/k_*.jpg
+          video/onizleme_kaydet.sh /tmp/kontrol "altyazi/$PROJE" "Altyazi kontrol - $PROJE"
+      - name: Yayina ekle
+        if: steps.var.outputs.var != '1'
+        run: |
+          OUT=$(cat /tmp/cikti_yolu.txt)
+          gh release upload "$PROJE" "$OUT" --clobber
+          gh release view "$PROJE" --json assets --jq '.assets[] | select(.name | endswith("-altyazili.mp4")) | "INDIR \(.name) \(.size) \(.url)"'

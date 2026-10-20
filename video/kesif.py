@@ -102,6 +102,22 @@ def svs_candidates(cfg):
                                                              r.get("description") or ""))[:400],
                         "sorgu": query,
                         "insan_suphesi": bool(PEOPLE.search(r["title"] + " " + (r.get("description") or "")))})
+    for sid in cfg.get("svs_idler", []):
+        if sid in seen:
+            continue
+        try:
+            d = get_json(f"{SVS}/{sid}")
+        except Exception as e:  # noqa: BLE001
+            print(f"  ✗ svs{sid}: ayrinti alinamadi {e}")
+            continue
+        seen.add(sid)
+        out.append({"id": f"svs{sid}", "svs": sid, "baslik": d.get("title", f"svs{sid}"),
+                    "tur": d.get("result_type") or d.get("type") or "?",
+                    "tarih": (d.get("release_date") or "")[:10],
+                    "aciklama": re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ",
+                                                          d.get("description") or ""))[:400],
+                    "sorgu": "id",
+                    "insan_suphesi": bool(PEOPLE.search(d.get("title", "") + " " + (d.get("description") or "")))})
     return out
 
 
@@ -163,13 +179,17 @@ def main(config_path, out_dir):
                     continue
                 tmp = "/tmp/kesif.mp4"
                 req = urllib.request.Request(small, headers={"User-Agent": "Mozilla/5.0"})
-                with urllib.request.urlopen(req, timeout=300) as r, open(tmp, "wb") as f:
-                    got = 0
-                    while chunk := r.read(1 << 20):
-                        f.write(chunk)
-                        got += len(chunk)
-                        if got > 300 << 20:
-                            raise RuntimeError("onizleme dosyasi cok buyuk (>300 MB)")
+                try:
+                    with urllib.request.urlopen(req, timeout=300) as r, open(tmp, "wb") as f:
+                        got = 0
+                        while chunk := r.read(1 << 20):
+                            f.write(chunk)
+                            got += len(chunk)
+                            if got > 300 << 20:
+                                raise RuntimeError("buyuk")
+                except RuntimeError:
+                    tmp = small  # cok buyuk: indirmeden ffmpeg dogrudan adresten okusun
+                    print(f"  (buyuk dosya, adresten okunuyor: {c['id']})", flush=True)
                 info = probe(tmp)
                 c["sure"] = info["sure"]
                 if info["sure"] < 3:

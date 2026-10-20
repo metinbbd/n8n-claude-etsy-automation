@@ -1,0 +1,214 @@
+# Bicim:
+#   ## Ingilizce bolum basligi | Turkce bolum basligi
+#   EN: anlatilan ve Ingilizce altyaziya yazilan cumle
+#   SAY: (istege bagli) seslendirme icin farkli yazim (sayilar, kisaltmalar)
+#   TR: Turkce altyazi
+#   [ara 2.0]  -> saniye cinsinden muzik arasi
+
+## Our Island of Stars | Yıldızlardan Adamız
+EN: Look up on a clear night, far from the lights of any city, and you will see a pale band of light arching across the sky.
+TR: Şehir ışıklarından uzak, açık bir gecede başınızı kaldırırsanız gökyüzüne yayılmış soluk bir ışık bandı görürsünüz.
+EN: That band is the Milky Way, the galaxy we call home.
+TR: O bant Samanyolu, yani evimiz olan galaksi.
+EN: It is a great spiral of stars, gas, and dust, held together by gravity, about one hundred thousand light-years across.
+TR: Kütle çekimiyle bir arada tutulan, yıldız, gaz ve tozdan oluşan dev bir sarmal; genişliği yaklaşık yüz bin ışık yılı.
+EN: Somewhere between one hundred billion and four hundred billion stars live inside it.
+TR: İçinde yüz milyar ile dört yüz milyar arasında yıldız var.
+EN: Our Sun is only one of them, tucked into a quiet spur between two spiral arms, about twenty-six thousand light-years from the center.
+TR: Güneş bunlardan yalnızca biri; merkezden yaklaşık yirmi altı bin ışık yılı uzakta, iki sarmal kolun arasındaki sakin bir çıkıntıda duruyor.
+EN: From there, we circle the galaxy once every two hundred and thirty million years or so.
+TR: Oradan, galaksinin çevresinde yaklaşık iki yüz otuz milyon yılda bir tur atıyoruz.
+EN: For most of human history, the Milky Way seemed to be the entire universe.
+TR: İnsanlık tarihinin büyük bölümünde Samanyolu, bütün evren gibi görünüyordu.
+EN: It is not. And one of its neighbors is heading our way.
+TR: Değil. Üstelik komşularından biri bize doğru geliyor.
+[ara 2.5]
+
+## The Galaxy Next Door | Yan Kapıdaki Galaksi
+EN: In the autumn sky, in the constellation Andromeda, a faint, fuzzy patch of light can be seen with the naked eye.
+TR: Sonbahar gökyüzünde, Andromeda takımyıldızında, çıplak gözle görülebilen soluk ve puslu bir ışık lekesi var.
+EN: For a long time, astronomers thought it was a cloud of gas inside our own galaxy.
+TR: Gökbilimciler uzun süre bunun kendi galaksimizin içindeki bir gaz bulutu olduğunu düşündü.
+EN: In the nineteen twenties, Edwin Hubble measured its distance and showed that it is a galaxy of its own.
+TR: 1920'lerde Edwin Hubble uzaklığını ölçtü ve bunun başlı başına bir galaksi olduğunu gösterdi.
+EN: Today we call it the Andromeda Galaxy, and it lies about two and a half million light-years away.
+TR: Bugün ona Andromeda Galaksisi diyoruz; yaklaşık iki buçuk milyon ışık yılı uzakta.
+EN: The light reaching your eyes left it two and a half million years ago, long before our species existed.
+TR: Gözünüze ulaşan ışık oradan iki buçuk milyon yıl önce yola çıktı; türümüz henüz yokken.
+EN: Andromeda is the largest galaxy in our local neighborhood of the universe, an estimated one trillion stars strong.
+TR: Andromeda, evrendeki yakın çevremizin en büyük galaksisi; tahminen bir trilyon yıldızı var.
+EN: In twenty fifteen, NASA's Hubble Space Telescope captured a giant panorama of Andromeda in which more than one hundred million individual stars can be seen.
+SAY: In twenty fifteen, NASA's Hubble Space Telescope captured a giant panorama of Andromeda in which more than one hundred million individual stars can be seen.
+TR: 2015'te NASA'nın Hubble Uzay Teleskobu, Andromeda'nın yüz milyondan fazla yıldızı tek tek seçilebilen dev bir panoramasını çekti.
+EN: Two enormous spirals, separated by a gulf of nearly empty space. And that gulf is slowly closing.
+TR: İki dev sarmal ve aralarında neredeyse bomboş bir uçurum. O uçurum da yavaş yavaş kapanıyor.
+[ara 2.0]
+
+## A Message in Blue | Maviye Kayan Bir Mesaj
+EN: How do we know that Andromeda is moving? We read its light.
+TR: Andromeda'nın hareket ettiğini nereden biliyoruz? Işığını okuyarak.
+EN: Light from something moving away is stretched toward the red end of the spectrum.
+TR: Uzaklaşan bir şeyden gelen ışık, tayfın kırmızı ucuna doğru uzar.
+EN: Light from something moving closer is squeezed toward the blue.
+TR: Yaklaşan bir şeyden gelen ışık ise maviye doğru sıkışır.
+EN: Almost every distant galaxy shows a redshift, because space itself is expanding and carrying them away from us.
+TR: Uzaktaki hemen her galaksi kırmızıya kayma gösterir; çünkü uzayın kendisi genişliyor ve onları bizden uzağa taşıyor.
+EN: Andromeda is a rare exception. In nineteen twelve, the astronomer Vesto Slipher found that its light is shifted toward the blue.
+TR: Andromeda nadir bir istisna. 1912'de gökbilimci Vesto Slipher, ışığının maviye kaydığını buldu.
+EN: Andromeda is coming toward us.
+TR: Andromeda bize doğru geliyor.
+EN: Relative to the Milky Way, it approaches at roughly one hundred and ten kilometers per second.
+TR: Samanyolu'na göre saniyede yaklaşık yüz on kilometre hızla yaklaşıyor.
+EN: That is fast enough to cross the distance from the Earth to the Moon in about an hour.
+TR: Bu hız, Dünya'dan Ay'a olan mesafeyi yaklaşık bir saatte aşmaya yeter.
+EN: And yet the gap between the two galaxies is so vast that, even at that speed, the journey takes billions of years.
+TR: Ama iki galaksi arasındaki mesafe o kadar büyük ki, bu hızla bile yolculuk milyarlarca yıl sürüyor.
+[ara 2.0]
+
+## Measuring the Unmeasurable | Ölçülemeyeni Ölçmek
+EN: Light tells us how fast a galaxy moves along our line of sight.
+TR: Işık, bir galaksinin bakış doğrultumuzda ne kadar hızlı hareket ettiğini söyler.
+EN: But it says nothing about sideways motion, and sideways motion decides whether two galaxies collide or pass each other by.
+TR: Ama yana doğru harekete dair hiçbir şey söylemez; iki galaksinin çarpışıp çarpışmayacağını ya da yan yana geçip geçmeyeceğini belirleyen de bu harekettir.
+EN: To measure it, astronomers have to watch the stars of Andromeda drift across the sky.
+TR: Bunu ölçmek için gökbilimcilerin Andromeda'nın yıldızlarının gökyüzünde kaymasını izlemesi gerekir.
+EN: The shift is astonishingly small, a tiny fraction of a single pixel in a Hubble image, even after years of waiting.
+TR: Kayma şaşırtıcı derecede küçük; yıllarca beklense bile bir Hubble görüntüsündeki tek bir pikselin ufacık bir kesri kadar.
+EN: In twenty twelve, astronomers compared Hubble images of Andromeda taken years apart, and measured that motion for the first time.
+TR: 2012'de gökbilimciler, yıllar arayla çekilmiş Hubble görüntülerini karşılaştırdı ve bu hareketi ilk kez ölçtü.
+EN: The result was clear: Andromeda is moving almost directly toward the Milky Way.
+TR: Sonuç netti: Andromeda neredeyse doğrudan Samanyolu'na doğru ilerliyor.
+EN: NASA announced that the two galaxies were likely to collide in about four billion years, and to merge into one around six billion years from now.
+TR: NASA, iki galaksinin yaklaşık dört milyar yıl sonra çarpışacağını, yaklaşık altı milyar yıl sonra da tek bir galaksiye dönüşeceğini açıkladı.
+EN: Newer measurements, including data from the European Space Agency's Gaia mission, have refined the picture.
+TR: Avrupa Uzay Ajansı'nın Gaia görevinin verileri de dahil, daha yeni ölçümler resmi netleştirdi.
+EN: And a twenty twenty five study, which included the pull of other nearby galaxies, suggests the odds of a merger within ten billion years may be closer to fifty-fifty.
+TR: Yakındaki diğer galaksilerin çekimini de hesaba katan 2025 tarihli bir çalışma ise, on milyar yıl içinde birleşme ihtimalinin yarı yarıya olabileceğini gösteriyor.
+EN: So the collision is not a certainty. Science is still working on the answer.
+TR: Yani çarpışma kesin değil. Bilim hâlâ cevabı arıyor.
+[ara 2.5]
+
+## Mostly Empty Space | Çoğu Boşluk
+EN: A collision between two galaxies sounds like a cosmic catastrophe. It will be nothing of the sort.
+TR: İki galaksinin çarpışması kozmik bir felaket gibi geliyor. Oysa hiç de öyle olmayacak.
+EN: Galaxies are mostly empty space, and the stars inside them are separated by distances that are hard to imagine.
+TR: Galaksilerin büyük kısmı boşluk; içlerindeki yıldızlar hayal etmesi zor mesafelerle birbirinden ayrılmış durumda.
+EN: Shrink the Sun to the size of a pea, and the nearest star would be about two hundred kilometers away.
+TR: Güneş'i bir bezelye tanesi kadar küçültseniz, en yakın yıldız yine de yaklaşık iki yüz kilometre ötede olurdu.
+EN: When two galaxies pass through each other, their stars slip by like two swarms of fireflies drifting through one another.
+TR: İki galaksi iç içe geçtiğinde yıldızları, birbirinin içinden geçen iki ateş böceği sürüsü gibi yan yana kayar.
+EN: The chance that any two stars will actually hit each other is vanishingly small.
+TR: Herhangi iki yıldızın gerçekten çarpışma ihtimali ihmal edilebilecek kadar düşük.
+EN: But gravity needs no contact. As the galaxies draw near, their pull will stretch and twist them.
+TR: Ama kütle çekimi temas gerektirmez. Galaksiler yaklaştıkça çekimleri onları gerecek ve burkacak.
+EN: Long streams of stars, called tidal tails, will be flung far out into space.
+TR: Gelgit kuyrukları denen uzun yıldız akıntıları uzaya savrulacak.
+EN: Gas is different. Vast clouds of gas and dust will crash into each other, compress, and collapse into new stars.
+TR: Gaz ise farklı. Devasa gaz ve toz bulutları birbirine çarpacak, sıkışacak ve çökerek yeni yıldızlar oluşturacak.
+EN: The calm spirals will become something wild, and beautiful.
+TR: Sakin sarmallar, vahşi ve güzel bir şeye dönüşecek.
+[ara 2.0]
+
+## Collisions Already Underway | Çoktan Başlamış Çarpışmalar
+EN: We know what is coming because we can watch it happening elsewhere in the universe.
+TR: Ne olacağını biliyoruz; çünkü evrenin başka yerlerinde olup bittiğini izleyebiliyoruz.
+EN: Tens of millions of light-years away, two galaxies called the Antennae are in the middle of a collision.
+TR: On milyonlarca ışık yılı ötede, Antenler adlı iki galaksi çarpışmanın tam ortasında.
+EN: Hubble, Chandra, and Spitzer have photographed them in detail.
+TR: Hubble, Chandra ve Spitzer onları ayrıntılı biçimde görüntüledi.
+EN: Their gas has ignited a burst of star formation, and a swarm of brilliant young star clusters now glows in the wreckage.
+TR: Gazları yıldız oluşumunda büyük bir patlama başlattı ve enkazın içinde şimdi parlak genç yıldız kümelerinden oluşan bir sürü ışıldıyor.
+EN: In fact, the Milky Way itself is a product of collisions.
+TR: Aslında Samanyolu'nun kendisi de çarpışmaların ürünü.
+EN: Astronomers using Gaia found the remains of a dwarf galaxy that merged with ours roughly ten billion years ago.
+TR: Gaia'yı kullanan gökbilimciler, yaklaşık on milyar yıl önce galaksimizle birleşen bir cüce galaksinin kalıntılarını buldu.
+EN: Right now, a small galaxy called Sagittarius is being torn apart by our gravity, its stars stretched into a long stream wrapping around the Milky Way.
+TR: Şu anda da Yay adlı küçük bir galaksi çekimimizle parçalanıyor; yıldızları Samanyolu'nu saran uzun bir akıntıya dönüşüyor.
+EN: Our galaxy has spent most of its life growing by consuming its neighbors.
+TR: Galaksimiz ömrünün büyük bölümünü komşularını yutarak büyümekle geçirdi.
+EN: The meeting with Andromeda would simply be the biggest one yet.
+TR: Andromeda ile buluşma ise bunların en büyüğü olacak.
+[ara 2.0]
+
+## The Black Holes Meet | Kara Delikler Buluşuyor
+EN: At the center of every large galaxy lies a supermassive black hole.
+TR: Her büyük galaksinin merkezinde süper kütleli bir kara delik bulunur.
+EN: Ours, Sagittarius A-star, weighs about four million times the mass of the Sun.
+SAY: Ours, Sagittarius A star, weighs about four million times the mass of the Sun.
+TR: Bizimki, Yay A*, Güneş'in yaklaşık dört milyon katı kütleye sahip.
+EN: Andromeda's is far heavier, at more than one hundred million solar masses.
+TR: Andromeda'nınki çok daha ağır; Güneş kütlesinin yüz milyon katından fazla.
+EN: As the galaxies merge, the two black holes will slowly sink toward the middle of the new galaxy, dragged by the gravity of the stars and gas around them.
+TR: Galaksiler birleşirken iki kara delik, çevrelerindeki yıldız ve gazın çekimiyle yavaşça yeni galaksinin ortasına doğru çökecek.
+EN: They will begin to orbit each other, closer and closer, over millions of years.
+TR: Milyonlarca yıl boyunca birbirlerinin çevresinde, giderek daha yakından dönmeye başlayacaklar.
+EN: Orbiting black holes shake spacetime itself, sending out gravitational waves that carry energy away and bring the pair closer still.
+TR: Birbirinin çevresinde dönen kara delikler uzayzamanı sarsar; enerjiyi taşıyıp götüren kütleçekim dalgaları yayar ve çifti daha da yaklaştırır.
+EN: In the end, the two will merge into a single, even larger black hole.
+TR: Sonunda ikisi birleşip tek ve daha da büyük bir kara delik oluşturacak.
+EN: Gas stirred up by the collision may feed it, making the heart of the new galaxy blaze brightly for a time.
+TR: Çarpışmayla karışan gaz onu besleyebilir ve yeni galaksinin kalbini bir süre parlak biçimde ışıldatabilir.
+EN: Waves from mergers like this are the target of future observatories, such as the planned LISA mission of the European Space Agency, with NASA as a partner.
+SAY: Waves from mergers like this are the target of future observatories, such as the planned Lisa mission of the European Space Agency, with NASA as a partner.
+TR: Böyle birleşmelerden gelen dalgalar, Avrupa Uzay Ajansı'nın NASA ortaklığıyla planlanan LISA görevi gibi gelecekteki gözlemevlerinin hedefi.
+[ara 2.0]
+
+## A Changed Night Sky | Değişen Gece Gökyüzü
+EN: What would this look like from Earth, if anyone were here to see it?
+TR: Biri bakıyor olsaydı bu manzara Dünya'dan nasıl görünürdü?
+EN: Scientists have worked it out, using the Hubble measurements.
+TR: Bilim insanları bunu, Hubble ölçümlerini kullanarak hesapladı.
+EN: Today, Andromeda is a faint smudge, though if our eyes could see all of it, it would span about six full Moons.
+TR: Bugün Andromeda soluk bir leke; ama gözlerimiz tamamını görebilseydi altı dolunay genişliğinde olurdu.
+EN: In roughly three to four billion years, it would begin to fill the sky.
+TR: Yaklaşık üç ila dört milyar yıl sonra gökyüzünü doldurmaya başlardı.
+EN: Its spiral arms would grow brighter and more distorted as the tides of gravity warp them.
+TR: Kütle çekiminin gelgitleri bozdukça sarmal kolları daha parlak ve daha çarpık hale gelirdi.
+EN: Then, as the two galaxies pass through each other, the night sky would fill with glowing gas, newborn stars, and tangled lanes of dust.
+TR: Sonra iki galaksi iç içe geçerken gece gökyüzü ışıldayan gazla, yeni doğmuş yıldızlarla ve birbirine dolanmış toz şeritleriyle dolardı.
+EN: Over time the display would settle, as the two systems blend into one.
+TR: Zamanla bu gösteri yatışır, iki sistem tek bir yapıda kaynaşırdı.
+EN: It would be the grandest sight any world has ever offered.
+TR: Bu, herhangi bir dünyanın sunduğu en görkemli manzara olurdu.
+[ara 2.0]
+
+## What Happens to the Sun | Güneş'e Ne Olacak
+EN: There is one comfort here, and one warning.
+TR: Burada bir teselli var, bir de uyarı.
+EN: The comfort is that stars are so far apart that the Solar System will almost certainly survive the merger intact.
+TR: Teselli şu: Yıldızlar birbirinden o kadar uzak ki Güneş Sistemi birleşmeden büyük olasılıkla sağ salim çıkacak.
+EN: Simulations suggest the Sun and its planets would be carried along, probably to a new orbit farther from the center of the merged galaxy.
+TR: Simülasyonlar, Güneş'in ve gezegenlerin yanında taşınacağını, büyük olasılıkla birleşmiş galaksinin merkezinden daha uzak yeni bir yörüngeye yerleşeceğini gösteriyor.
+EN: The warning is that the greatest threat to life on Earth is not Andromeda. It is the Sun.
+TR: Uyarı ise şu: Dünya'daki yaşam için en büyük tehdit Andromeda değil, Güneş.
+EN: The Sun is slowly growing brighter, by about ten percent every billion years.
+TR: Güneş her milyar yılda yaklaşık yüzde on parlayarak yavaş yavaş aydınlanıyor.
+EN: In about a billion years, that extra heat will begin to evaporate Earth's oceans.
+TR: Yaklaşık bir milyar yıl sonra bu ek ısı Dünya'nın okyanuslarını buharlaştırmaya başlayacak.
+EN: Long before Andromeda arrives, Earth as we know it will be gone.
+TR: Andromeda gelmeden çok önce, bildiğimiz Dünya ortadan kalkmış olacak.
+EN: And in about five billion years, the Sun will swell into a red giant, and end its life as a white dwarf.
+TR: Yaklaşık beş milyar yıl sonra da Güneş kırmızı bir devE dönüşüp ömrünü beyaz cüce olarak tamamlayacak.
+EN: If anyone is watching the great collision, they will be our very distant descendants, or someone else entirely.
+TR: Büyük çarpışmayı izleyen biri olursa, bunlar çok uzak torunlarımız ya da bambaşka biri olacak.
+[ara 2.0]
+
+## Milkomeda | Milkomeda
+EN: When the dust finally settles, billions of years later, the two spirals will be gone.
+TR: Toz sonunda yatıştığında, milyarlarca yıl sonra iki sarmal ortadan kalkmış olacak.
+EN: In their place will stand a single, enormous, smooth galaxy shaped like a ball, an elliptical.
+TR: Yerlerinde top biçiminde, tek ve devasa bir galaksi duracak: bir eliptik galaksi.
+EN: Astronomers have already given it a nickname: Milkomeda, a blend of Milky Way and Andromeda.
+TR: Gökbilimciler ona şimdiden bir takma ad bile taktı: Samanyolu ile Andromeda'nın karışımı olan Milkomeda.
+EN: The smaller Triangulum galaxy, the third largest in our group, may be pulled into the merger as well.
+TR: Grubumuzun üçüncü büyük galaksisi olan daha küçük Üçgen Galaksisi de bu birleşmeye çekilebilir.
+EN: The new galaxy will slowly run low on gas, and the birth of new stars will fade.
+TR: Yeni galaksinin gazı yavaş yavaş azalacak ve yeni yıldızların doğuşu sönecek.
+EN: Far in the future, as the expansion of the universe speeds up, almost every other galaxy will drift beyond our reach.
+TR: Çok uzak gelecekte, evrenin genişlemesi hızlandıkça, diğer hemen her galaksi erişimimizin ötesine sürüklenecek.
+EN: Only our own small family of galaxies will stay together.
+TR: Yalnızca kendi küçük galaksi ailemiz bir arada kalacak.
+EN: For the first time, a species on a small planet has measured the motion of a neighboring galaxy, and read its own galaxy's future.
+TR: İlk kez, küçük bir gezegendeki bir tür komşu galaksinin hareketini ölçtü ve kendi galaksisinin geleceğini okudu.
+EN: The universe is not a still picture. It is a story of motion, of collisions, and of new beginnings.
+TR: Evren durağan bir tablo değil. Hareketin, çarpışmaların ve yeni başlangıçların hikâyesi.

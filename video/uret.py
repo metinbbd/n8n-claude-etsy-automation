@@ -389,22 +389,42 @@ def music_bed(tracks, total, work):
         chain.append(f"[{prev}][{j}:a]acrossfade=d=6:c1=tri:c2=tri[m{j}]")
         prev = f"m{j}"
     chain.append(f"[{prev}]atrim=0:{total:.3f},afade=t=in:d=3,"
-                 f"afade=t=out:st={total - 8:.3f}:d=8,loudnorm=I=-24:TP=-3[out]")
+                 f"afade=t=out:st={total - 8:.3f}:d=8,loudnorm=I=-20:TP=-2[out]")
     out = f"{work}/muzik.wav"
     run(["ffmpeg", "-loglevel", "error", "-y", *inputs, "-filter_complex", ";".join(chain),
          "-map", "[out]", "-ar", "48000", "-ac", "2", out])
     return out
 
 
+def mix_report(vwav, dwav):
+    """Konusma sirasinda muzigin anlatimdan kac dB altta kaldigini olcer (hedef 9-12 dB)."""
+    v, sr = sf.read(vwav, dtype="float32")
+    d, _ = sf.read(dwav, dtype="float32")
+    n = min(len(v), len(d)) // sr * sr
+    fr = lambda x: 20 * np.log10(np.sqrt((x[:n, 0].reshape(-1, sr) ** 2).mean(axis=1)) + 1e-9)
+    vr, dr = fr(v), fr(d)
+    konusma = vr > -40
+    log(f"   muzik/anlatim: konusma sirasinda muzik anlatimdan "
+        f"{vr[konusma].mean() - dr[konusma].mean():.1f} dB altta; "
+        f"aralarda {vr[konusma].mean() - dr[~konusma].mean():.1f} dB altta")
+
+
 def mix_audio(narr, music, total, out):
+    # Muzik konusmanin altinda net duyulsun: ~10 dB altta; aralarda yukselsin.
     graph = ("[0:a]aresample=48000,loudnorm=I=-16:TP=-2,pan=stereo|c0=c0|c1=c0,"
-             "asplit=2[voice][sc];"
-             "[1:a][sc]sidechaincompress=threshold=0.02:ratio=6:attack=80:release=900[duck];"
+             "asplit=3[voice][sc][vv];"
+             "[1:a][sc]sidechaincompress=threshold=0.07:ratio=3.5:attack=60:release=800:makeup=1,"
+             "asplit=2[duck][dd];"
              "[voice][duck]amix=inputs=2:normalize=0:duration=longest,"
              f"atrim=0:{total:.3f}[mix]")
     tmp = out + ".tmp.wav"
+    vst, dst = out + ".voice.wav", out + ".duck.wav"
     run(["ffmpeg", "-loglevel", "error", "-y", "-i", narr, "-i", music, "-filter_complex", graph,
-         "-map", "[mix]", "-ar", "48000", tmp])
+         "-map", "[mix]", "-ar", "48000", tmp, "-map", "[vv]", "-ar", "48000", vst,
+         "-map", "[dd]", "-ar", "48000", dst])
+    mix_report(vst, dst)
+    os.remove(vst)
+    os.remove(dst)
     # iki gecisli loudness: YouTube -14 LUFS
     p = run(["ffmpeg", "-hide_banner", "-i", tmp, "-af",
              "loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json", "-f", "null", "-"])
@@ -583,6 +603,16 @@ def main(project, out_dir):
     run(["ffmpeg", "-loglevel", "error", "-y", "-i", f"{work}/goruntu.mp4", "-i",
          f"{work}/ses.wav", "-map", "0:v", "-map", "1:a", "-c:v", "copy", "-c:a", "aac",
          "-b:a", "320k", "-ar", "48000", "-shortest", "-movflags", "+faststart", final])
+
+    log("5b/6 Altyazili surum (Turkce altyazi goruntuye yazilir)")
+    style = ("FontName=DejaVu Sans,FontSize=14,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,"
+             "BorderStyle=1,Outline=1.5,Shadow=0,MarginV=22")
+    run(["ffmpeg", "-loglevel", "error", "-y", "-i", f"{work}/goruntu.mp4", "-i",
+         f"{work}/ses.wav", "-map", "0:v", "-map", "1:a", "-vf",
+         f"subtitles={out_dir}/altyazi_tr.srt:force_style='{style}'",
+         "-c:v", "libx264", "-preset", "fast", "-crf", "19", "-pix_fmt", "yuv420p",
+         "-c:a", "aac", "-b:a", "320k", "-ar", "48000", "-shortest", "-movflags", "+faststart",
+         f"{out_dir}/{cfg['dosya_adi']}-altyazili.mp4"])
 
     log("6/6 YouTube paketi")
     open(f"{out_dir}/youtube_aciklama.txt", "w", encoding="utf-8").write(

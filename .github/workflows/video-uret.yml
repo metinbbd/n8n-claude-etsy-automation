@@ -54,7 +54,7 @@ jobs:
         if: ${{ !inputs.sadece_kontrol && !inputs.segment_testi }}
         continue-on-error: true
         run: |
-          V=$(ls /tmp/cikti/*.mp4)
+          V=$(ls /tmp/cikti/*-altyazili.mp4)
           ffmpeg -loglevel error -i "$V" -vf "fps=1/2,scale=320:180,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='%{pts\:hms}':x=4:y=4:fontsize=15:fontcolor=yellow:box=1:boxcolor=black@0.6,tile=6x6" -fps_mode vfr /tmp/kontrol/kare_%02d.jpg
           ffmpeg -loglevel error -i "$V" -vf scale=854:480 -c:v libx264 -preset veryfast -crf 35 -c:a aac -b:a 80k -movflags +faststart /tmp/kontrol/onizleme_480p.mp4
           cp /tmp/cikti/*.srt /tmp/cikti/youtube_aciklama.txt /tmp/cikti/kapak.jpg /tmp/kontrol/
@@ -65,12 +65,16 @@ jobs:
           mkdir -p /tmp/kontrol
           cp /tmp/cikti/parca_kontrol_*.jpg /tmp/kontrol/ 2>/dev/null || true
           video/onizleme_kaydet.sh /tmp/kontrol "kontrol/$PROJE" "Kontrol - $PROJE"
-      - name: Taslak yayina yukle (sadece depo sahibi gorur)
+      - name: Yayina yukle (herkese acik indirme linki)
         if: ${{ !inputs.sadece_kontrol && !inputs.segment_testi }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release delete "$PROJE" -y --cleanup-tag 2>/dev/null || true
-          gh release create "$PROJE" --draft --title "Belgesel: $PROJE" \
-            --notes "YouTube'a yuklenecek dosyalar: video (mp4), altyazi_tr.srt, altyazi_en.srt, kapak.jpg ve youtube_aciklama.txt" \
-            /tmp/cikti/*
+          if gh release view "$PROJE" >/dev/null 2>&1; then
+            gh release upload "$PROJE" /tmp/cikti/* --clobber
+          else
+            gh release create "$PROJE" --latest=false --title "Belgesel: $PROJE" \
+              --notes "YouTube'a yuklenecek dosyalar: video (mp4), altyazili video (-altyazili.mp4), altyazi_tr.srt, altyazi_en.srt, kapak.jpg ve youtube_aciklama.txt" \
+              /tmp/cikti/*
+          fi
+          gh release view "$PROJE" --json assets --jq '.assets[] | "INDIR \(.name) \(.size) \(.url)"'

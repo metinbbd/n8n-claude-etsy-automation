@@ -1,0 +1,58 @@
+name: Video - parcala (sohbete gondermek icin)
+# Yayindaki 1080p altyazili videolari 29 MiB'lik parcalara boler ve gecici bir dala koyar.
+# (Sohbetten dosya gonderme siniri 30 MiB.) Is bitince dal silinir.
+on:
+  workflow_dispatch:
+    inputs:
+      islem:
+        description: "hazirla = parcala ve gecici dala koy, sil = gecici dali sil"
+        required: true
+        default: "hazirla"
+        type: choice
+        options: [hazirla, sil]
+
+permissions:
+  contents: write
+
+jobs:
+  parcala:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v5
+      - name: Gecici dali sil
+        if: ${{ inputs.islem == 'sil' }}
+        run: gh api -X DELETE "repos/$GITHUB_REPOSITORY/git/refs/heads/gecici-indirme" || echo "dal yok"
+      - name: Videolari indir ve parcala
+        if: ${{ inputs.islem == 'hazirla' }}
+        run: |
+          set -euo pipefail
+          mkdir -p /tmp/parca /tmp/indir
+          i=0
+          for TAG in 01-gunes-firtinasi 02-asteroitler 03-kara-delikler 04-samanyolu-andromeda; do
+            i=$((i+1))
+            gh release download "$TAG" --dir /tmp/indir --pattern '*-altyazili.mp4' --clobber
+            F=$(ls /tmp/indir/*-altyazili.mp4 | head -1)
+            split -b 29M -d -a 2 "$F" "/tmp/parca/${i}-${TAG#*-}.part"
+            rm -f "$F"
+            ls -la /tmp/parca | tail -n +2 | wc -l
+          done
+          ls -la /tmp/parca | head -80
+      - name: Gecici dala gonder
+        if: ${{ inputs.islem == 'hazirla' }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -q --orphan gecici-indirme
+          git rm -rq --cached . || true
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          for n in 1 2 3 4; do
+            cp /tmp/parca/${n}-*.part* .
+            git add -A
+            git commit -qm "Parcalar: video $n"
+            git push -q -f origin gecici-indirme
+            echo "video $n gonderildi"
+          done

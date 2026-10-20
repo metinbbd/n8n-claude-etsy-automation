@@ -1,32 +1,422 @@
 toplam parca: 1443
 aday sayisi: 583
-Cretaceous Dawn                    dosya_ayni=True  bpm=  96 olcum=  95.7 hareket=0.257 ritim=0.641 dinamik=  1.7 sure=245  g25 Action, Driving, Grooving | Drums, Shakers, Log Drums
 Sauropod Spotting                  dosya_ayni=True  bpm= 105 olcum=  69.8 hareket=0.253 ritim=0.525 dinamik=  1.2 sure=225  g25 Action, Driving, Grooving | Drums, Shakers, Marimba, Log Drums
+Cretaceous Dawn                    dosya_ayni=True  bpm=  96 olcum=  95.7 hareket=0.257 ritim=0.641 dinamik=  1.7 sure=245  g25 Action, Driving, Grooving | Drums, Shakers, Log Drums
 Dentaneosuchus Hunt                dosya_ayni=True  bpm= 114 olcum= 117.5 hareket=0.244 ritim=0.485 dinamik=  1.0 sure=246  g25 Action, Driving, Grooving | Drums, Shakers, Log Drums
-Morning                            dosya_ayni=True  bpm=  60 olcum= 117.5 hareket=0.106 ritim=0.549 dinamik=  1.2 sure=153  g5 Bright, Calming, Relaxed | Classical Guitar, Harp, Flutes
-Vibing Over Venus                  dosya_ayni=True  bpm=  94 olcum=  63.0 hareket=0.179 ritim=0.342 dinamik=  1.0 sure=411  g11 Calming, Grooving, Relaxed | Vibraphone, Bass, Drum Kit, Percussion, 
+That Zen Moment                    dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.139 ritim=0.659 dinamik=  2.1 sure=602  g25 Calming, Mystical, Relaxed | Strings, Bowl Drum
+Equatorial Complex                 dosya_ayni=True  bpm=   ? olcum=  80.7 hareket=0.164 ritim=0.793 dinamik=  9.4 sure=240  g7 Bright, Mystical, Relaxed | Synths, Vocal Pad
 Brain Dance                        dosya_ayni=True  bpm= 124 olcum=  61.5 hareket=0.246 ritim=0.807 dinamik=  0.8 sure=215  g7 Grooving, Driving | Synths, Percussion
-Traceback (most recent call last):
-  File "/home/runner/work/n8n-claude-etsy-automation/n8n-claude-etsy-automation/video/muzik_ara.py", line 127, in <module>
-    main(sys.argv[1])
-  File "/home/runner/work/n8n-claude-etsy-automation/n8n-claude-etsy-automation/video/muzik_ara.py", line 120, in main
-    sonuc = [r for r in ex.map(isle, adaylar[:420]) if r]
-            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 619, in result_iterator
-    yield _result_or_cancel(fs.pop())
-          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 317, in _result_or_cancel
-    return fut.result(timeout)
-           ^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 456, in result
-    return self.__get_result()
-           ^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
-    raise self._exception
-  File "/usr/lib/python3.12/concurrent/futures/thread.py", line 58, in run
-    result = self.fn(*self.args, **self.kwargs)
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/n8n-claude-etsy-automation/n8n-claude-etsy-automation/video/muzik_ara.py", line 88, in isle
-    satir = (f"{ad:34s} dosya_ayni={dosya == ad + '.mp3'!s:5s} bpm={p.get('bpm', '?'):>4s} "
-                                                                   ^^^^^^^^^^^^^^^^^^^^^^^
-TypeError: unsupported format string passed to NoneType.__format__
+Vibing Over Venus                  dosya_ayni=True  bpm=  94 olcum=  63.0 hareket=0.179 ritim=0.342 dinamik=  1.0 sure=411  g11 Calming, Grooving, Relaxed | Vibraphone, Bass, Drum Kit, Percussion, 
+Morning                            dosya_ayni=True  bpm=  60 olcum= 117.5 hareket=0.106 ritim=0.549 dinamik=  1.2 sure=153  g5 Bright, Calming, Relaxed | Classical Guitar, Harp, Flutes
+Evening                            dosya_ayni=True  bpm= 101 olcum= 129.2 hareket=0.100 ritim=0.481 dinamik=  1.0 sure=186  g5 Bright, Calming, Relaxed | Guitar, Cello, Oboe
+Journey To Ascend                  dosya_ayni=True  bpm= 116 olcum= 117.5 hareket=0.214 ritim=0.522 dinamik=  1.5 sure=219  g25 Driving, Grooving, Mystical | Tongue Drum, Percussion
+Space Jazz                         dosya_ayni=True  bpm=  89 olcum= 172.3 hareket=0.180 ritim=0.471 dinamik=  0.7 sure=369  g11 Bright, Grooving, Relaxed | Synths
+Grand Dark Waltz Trio Vivace       dosya_ayni=True  bpm= 140 olcum=  69.8 hareket=0.143 ritim=0.183 dinamik=  0.9 sure=172  g24 Relaxed, Calming, Grooving | Piano, Drum Kit, Bass
+Ethereal Relaxation                dosya_ayni=True  bpm=   ? olcum= 107.7 hareket=0.122 ritim=0.284 dinamik=  3.4 sure=1686  g25 Bright, Relaxed, Calming | Tongue Drum, Strings
+Grand Dark Waltz Trio Allegro      dosya_ayni=True  bpm= 124 olcum= 123.0 hareket=0.138 ritim=0.189 dinamik=  0.5 sure=195  g24 Relaxed, Calming, Grooving | Piano, Drum Kit, Bass
+Starting Out Waltz Vivace          dosya_ayni=True  bpm= 186 olcum= 136.0 hareket=0.117 ritim=0.364 dinamik=  0.3 sure=175  g5 Relaxed, Calming, Grooving | Piano, Bass, Drum Kit
+Starting Out Waltz Allegretto      dosya_ayni=True  bpm= 138 olcum=  95.7 hareket=0.075 ritim=0.389 dinamik=  0.6 sure=249  g5 Relaxed, Calming, Grooving | Piano, Bass, Drum Kit
+Grand Dark Waltz Allegro           dosya_ayni=True  bpm= 121 olcum= 123.0 hareket=0.149 ritim=0.114 dinamik=  0.9 sure=385  g24 Relaxed, Calming, Grooving | Piano, Cellos, Violas, Flute, Celesta, T
+Adventures in Adventureland        dosya_ayni=True  bpm= 135 olcum= 136.0 hareket=0.178 ritim=0.437 dinamik=  3.0 sure=261  g22 Action, Bright, Grooving | Harp, Bassoon, Glockenspiel, Percussion,
+Grand Dark Waltz Allegretto        dosya_ayni=True  bpm= 104 olcum= 103.4 hareket=0.144 ritim=0.144 dinamik=  0.9 sure=450  g24 Relaxed, Calming, Grooving | Piano, Cellos, Violas, Flute, Celesta, T
+Devonshire Waltz Allegretto        dosya_ayni=True  bpm= 104 olcum= 103.4 hareket=0.147 ritim=0.209 dinamik=  1.8 sure=313  g22 Relaxed, Calming, Grooving | Piano, Bass, Strings, French Horn, Trump
+Devonshire Waltz Moderato          dosya_ayni=True  bpm=  93 olcum=  92.3 hareket=0.145 ritim=0.243 dinamik=  1.8 sure=350  g22 Relaxed, Calming, Grooving | Piano, Bass, Strings, French Horn, Trump
+Devonshire Waltz Andante           dosya_ayni=True  bpm=  84 olcum=  83.4 hareket=0.139 ritim=0.249 dinamik=  2.1 sure=388  g22 Relaxed, Calming, Grooving | Piano, Bass, Strings, French Horn, Trump
+Grand Dark Waltz Moderato          dosya_ayni=True  bpm=  92 olcum=  92.3 hareket=0.140 ritim=0.139 dinamik=  1.1 sure=507  g24 Relaxed, Calming, Grooving | Piano, Cellos, Violas, Flute, Celesta, T
+Joey's Formal Waltz - Unscented    dosya_ayni=True  bpm=  80 olcum=  80.7 hareket=0.086 ritim=0.182 dinamik=  1.8 sure=301  g3 Grooving, Relaxed | Electric Piano, Guitar, Bass, Drum Kit
+Valse Gymnopedie                   dosya_ayni=True  bpm=  77 olcum=  76.0 hareket=0.143 ritim=0.393 dinamik=  2.2 sure=192  g4 Grooving, Relaxed | Piano, Drums
+Funky Boxstep                      dosya_ayni=False bpm=  95 olcum=  95.7 hareket=0.219 ritim=0.512 dinamik=  0.6 sure=316  g8 Grooving, Relaxed | Drum Kit, Bass, Organ, Guitar
+Ancient Mystery Waltz (Presto)     dosya_ayni=False bpm= 182 olcum=  61.5 hareket=0.234 ritim=0.600 dinamik=  1.4 sure=198  g25 Grooving, Mysterious | Marimba, Percussion, Choir, Voice
+Ancient Mystery Waltz (Vivace)     dosya_ayni=False bpm= 135 olcum=  89.1 hareket=0.232 ritim=0.423 dinamik=  1.5 sure=267  g25 Grooving, Mysterious | Marimba, Percussion, Choir, Voice
+Waltz Primordial                   dosya_ayni=False bpm= 107 olcum= 107.7 hareket=0.161 ritim=0.567 dinamik=  7.8 sure=280  g19 Grooving, Mysterious | Guitars, Drums, Bass
+Ancient Mystery Waltz (Allegro)    dosya_ayni=False bpm= 113 olcum=  76.0 hareket=0.230 ritim=0.431 dinamik=  1.4 sure=319  g25 Grooving, Mysterious | Marimba, Percussion, Choir, Voice
+Pleasant Porridge                  dosya_ayni=True  bpm= 119 olcum= 117.5 hareket=0.151 ritim=0.523 dinamik=  2.4 sure=171  g5 Calming, Grooving, Relaxed | Electric Piano, Guitar, Bass, Drums
+Ethernight Club                    dosya_ayni=True  bpm= 117 olcum= 117.5 hareket=0.239 ritim=0.805 dinamik=  1.8 sure=306  g7 Grooving, Driving, Mysterious | Marimba, Bells, Percussion, Synths
+Big Drumming                       dosya_ayni=True  bpm= 104 olcum= 107.7 hareket=0.226 ritim=0.295 dinamik=  1.6 sure=222  g25 Grooving, Driving, Intense | Percussion
+Newer Wave                         dosya_ayni=True  bpm= 110 olcum= 112.3 hareket=0.258 ritim=0.753 dinamik=  1.4 sure=175  g7 Grooving, Bright, Uplifting | Synths, Drums
+Neon Laser Horizon                 dosya_ayni=True  bpm= 160 olcum= 161.5 hareket=0.230 ritim=0.710 dinamik=  2.5 sure=179  g5 Grooving, Bright, Uplifting | Synths
+Ether Vox                          dosya_ayni=True  bpm=  60 olcum=  80.7 hareket=0.147 ritim=0.482 dinamik=  1.5 sure=206  g5 Calming, Mystical, Relaxed | Drums, Electric Piano, Guitar, Synths, V
+Bleeping Demo                      dosya_ayni=True  bpm=  74 olcum= 143.6 hareket=0.211 ritim=0.672 dinamik=  1.6 sure=214  g7 Bright, Grooving, Relaxed | Synths, Percussion
+On Hold for You                    dosya_ayni=True  bpm= 115 olcum= 112.3 hareket=0.168 ritim=0.203 dinamik=  0.9 sure=218  g11 Bright, Grooving, Relaxed | Tenor Sax, Electric Piano, Bass, Drums
+Canon In D Interstellar Mix        dosya_ayni=True  bpm=  96 olcum=  95.7 hareket=0.207 ritim=0.602 dinamik=  1.0 sure=288  g4 Bright, Calming, Relaxed | Synths, Percussion
+Late Night Radio                   dosya_ayni=True  bpm=  72 olcum= 143.6 hareket=0.110 ritim=0.240 dinamik=  3.1 sure=264  g5 Calming, Relaxed | Electric Piano, Bass, Drums, Synth
+Canon In D For 8 Bit Synths        dosya_ayni=True  bpm= 132 olcum=  66.3 hareket=0.075 ritim=0.887 dinamik=  0.2 sure=195  g4 Bright, Calming, Relaxed | Synths
+SCP-x7x (6th Floor)                dosya_ayni=False bpm= 124 olcum= 123.0 hareket=0.148 ritim=0.442 dinamik= 13.7 sure=162  g10 Dark, Mysterious | Piano
+Canon in D for Two Harps           dosya_ayni=True  bpm=  83 olcum=  83.4 hareket=0.132 ritim=0.535 dinamik=  3.0 sure=340  g4 Bright, Calming, Relaxed | Concert Harps
+Canon in D for Two Renaissance Harps dosya_ayni=True  bpm=  83 olcum=  83.4 hareket=0.153 ritim=0.448 dinamik=  5.2 sure=340  g4 Bright, Calming, Relaxed | Renaissance Harps
+SCP-x4x (Mind Leech)               dosya_ayni=False bpm=   ? olcum= 172.3 hareket=0.197 ritim=0.773 dinamik=  2.5 sure=336  g10 Dark, Eerie, Unnerving | Basses, Cellos, Violas
+SCP-x3x (I am Not OK)              dosya_ayni=False bpm=   ? olcum=  64.6 hareket=0.193 ritim=0.714 dinamik=  4.3 sure=280  g10 Dark, Eerie, Unnerving | Synths
+SCP-x2x (Unseen Presence)          dosya_ayni=False bpm=   ? olcum= 172.3 hareket=0.121 ritim=0.740 dinamik=  4.2 sure=293  g10 Dark, Eerie, Unnerving | Synths
+Tiki Bar Mixer                     dosya_ayni=True  bpm=  65 olcum=  64.6 hareket=0.195 ritim=0.548 dinamik=  1.2 sure=212  g25 Bright, Grooving, Relaxed | Steel Drum, Marimba, Percussion, Bass
+SCP-x1x (Gateway to Hell)          dosya_ayni=False bpm=  90 olcum=  89.1 hareket=0.152 ritim=0.699 dinamik=  2.8 sure=352  g10 Dark, Eerie, Unnerving | Synths
+Moonlight Beach                    dosya_ayni=True  bpm= 117 olcum= 117.5 hareket=0.194 ritim=0.435 dinamik=  0.7 sure=339  g25 Bright, Grooving, Relaxed | Steel Drum, Marimba, Bass, Percussion
+Trouble with Tribals               dosya_ayni=True  bpm= 135 olcum=  92.3 hareket=0.230 ritim=0.394 dinamik=  3.3 sure=170  g2 Action, Driving, Grooving | Percussion, Drone, Voices
+Canon in D for Autoharp            dosya_ayni=True  bpm=  83 olcum=  83.4 hareket=0.127 ritim=0.460 dinamik=  1.8 sure=340  g4 Bright, Calming, Relaxed | Concert Harps
+Night in Venice                    dosya_ayni=True  bpm= 114 olcum= 112.3 hareket=0.152 ritim=0.432 dinamik=  0.8 sure=218  g11 Calming, Grooving, Relaxed | Alto Sax, Electric Piano, Bass, Drums
+A Very Brady Special               dosya_ayni=True  bpm=  55 olcum=  61.5 hareket=0.122 ritim=0.304 dinamik=  1.7 sure=388  g22 Calming, Relaxed | Piano
+Screen Saver                       dosya_ayni=True  bpm= 120 olcum=  80.7 hareket=0.162 ritim=0.768 dinamik=  4.9 sure=182  g22 Calming, Grooving, Relaxed | Synths
+Limit 70                           dosya_ayni=True  bpm= 103 olcum= 103.4 hareket=0.207 ritim=0.751 dinamik=  1.3 sure=302  g7 Calming, Grooving, Relaxed | Electric Piano, Synths, Percussion
+Adding the Sun                     dosya_ayni=True  bpm=  90 olcum=  89.1 hareket=0.212 ritim=0.588 dinamik=  0.7 sure=176  g2 Calming, Grooving, Uplifting | Choir, Percussion, Bass
+Kalimba Relaxation Music           dosya_ayni=True  bpm=   ? olcum= 161.5 hareket=0.102 ritim=0.118 dinamik=  2.0 sure=428  g25 Calming, Relaxed | Kalimba, Synth
+Mana Two - Part 3                  dosya_ayni=True  bpm=   ? olcum=  99.4 hareket=0.100 ritim=0.365 dinamik=  7.6 sure=192  g22 Calming, Relaxed | Electric Piano
+Mana Two - Part 2                  dosya_ayni=True  bpm=   ? olcum= 107.7 hareket=0.070 ritim=0.177 dinamik=  2.8 sure=362  g22 Calming, Relaxed | Electric Piano
+Mana Two - Part 1                  dosya_ayni=True  bpm=   ? olcum= 117.5 hareket=0.084 ritim=0.126 dinamik=  4.0 sure=234  g22 Calming, Relaxed | Electric Piano
+Elf Meditation                     dosya_ayni=True  bpm=   ? olcum= 161.5 hareket=0.116 ritim=0.474 dinamik=  5.0 sure=3534  g25 Calming, Relaxed | Harp, Bass, Synths
+Deep Relaxation                    dosya_ayni=True  bpm=   ? olcum= 117.5 hareket=0.100 ritim=0.254 dinamik=  7.2 sure=3068  g22 Calming, Relaxed | Piano, Synth
+Del Rio Bravo                      dosya_ayni=True  bpm= 120 olcum=  80.7 hareket=0.173 ritim=0.563 dinamik=  0.6 sure=204  g12 Calming, Grooving, Bright | Accordion, Marimba, Bass, Percussion
+Study And Relax                    dosya_ayni=True  bpm=  72 olcum=  71.8 hareket=0.177 ritim=0.563 dinamik=  1.1 sure=223  g11 Calming, Grooving, Relaxed | Saxophones, Piano, Bass, Percussion
+Realizer                           dosya_ayni=True  bpm= 125 olcum=  63.0 hareket=0.233 ritim=0.712 dinamik=  0.6 sure=310  g6 Grooving, Bright, Driving | Synths, Drums
+Celebration                        dosya_ayni=True  bpm= 115 olcum= 117.5 hareket=0.249 ritim=0.486 dinamik=  0.7 sure=278  g8 Grooving, Relaxed | Drums, Saxophones, Trombones
+Wholesome                          dosya_ayni=True  bpm= 128 olcum= 129.2 hareket=0.212 ritim=0.797 dinamik=  0.2 sure=364  g22 Calming, Grooving, Relaxed | Cello, Viola, Marimba, Drums
+Ebbs and Flows                     dosya_ayni=True  bpm=   ? olcum= 117.5 hareket=0.135 ritim=0.600 dinamik=  4.9 sure=3534  g5 Calming, Relaxed | Piano, Synths
+Lotus                              dosya_ayni=True  bpm=  98 olcum=  64.6 hareket=0.294 ritim=0.459 dinamik=  0.2 sure=328  g25 Calming, Grooving, Relaxed | Drums
+Stay the Course                    dosya_ayni=True  bpm=  60 olcum= 107.7 hareket=0.157 ritim=0.439 dinamik=  4.8 sure=272  g22 Suspenseful, Dark, Calming | Synths, Percussion
+Sincerely                          dosya_ayni=True  bpm=  72 olcum=  71.8 hareket=0.092 ritim=0.401 dinamik=  0.8 sure=375  g5 Calming, Grooving, Relaxed | Synths, Percussion
+Deep and Dirty                     dosya_ayni=True  bpm= 140 olcum=  69.8 hareket=0.250 ritim=0.548 dinamik=  0.4 sure=442  g7 Driving, Grooving | Synths, Percussion
+Tyrant                             dosya_ayni=True  bpm=  72 olcum=  71.8 hareket=0.199 ritim=0.616 dinamik=  0.6 sure=342  g7 Dark, Driving, Calming | Synths, Percussion
+Almost Bliss                       dosya_ayni=True  bpm=  90 olcum=  89.1 hareket=0.157 ritim=0.472 dinamik=  6.1 sure=317  g5 Bright, Calming, Relaxed | Guitars, Percussion
+Raving Energy (faster)             dosya_ayni=True  bpm= 134 olcum= 136.0 hareket=0.260 ritim=0.803 dinamik=  0.6 sure=244  g7 Bright, Grooving, Driving | Synths, Percussion
+Rising Tide (faster)               dosya_ayni=True  bpm= 122 olcum= 123.0 hareket=0.300 ritim=0.786 dinamik=  0.5 sure=241  g7 Mysterious, Grooving, Driving | Synths, Percussion
+Rising Tide                        dosya_ayni=True  bpm= 106 olcum= 107.7 hareket=0.293 ritim=0.684 dinamik=  0.2 sure=277  g7 Mysterious, Grooving, Driving | Synths, Percussion
+Half Mystery                       dosya_ayni=True  bpm=  72 olcum=  71.8 hareket=0.223 ritim=0.730 dinamik=  0.1 sure=429  g7 Mysterious, Grooving, Driving | Synths, Percussion
+Raving Energy                      dosya_ayni=True  bpm= 122 olcum= 123.0 hareket=0.259 ritim=0.845 dinamik=  0.1 sure=268  g7 Bright, Grooving, Driving | Synths, Percussion
+Past Sadness                       dosya_ayni=True  bpm=  72 olcum=  71.8 hareket=0.164 ritim=0.229 dinamik=  0.1 sure=213  g11 Calming, Grooving, Relaxed | Electric Piano, Bass, Percussion
+Beauty Flow                        dosya_ayni=True  bpm= 108 olcum=  71.8 hareket=0.189 ritim=0.592 dinamik=  0.4 sure=433  g7 Calming, Grooving, Driving | Synths, Bass, Percussion
+Symmetry                           dosya_ayni=True  bpm=   ? olcum= 117.5 hareket=0.201 ritim=0.503 dinamik=  5.6 sure=366  g10 Eerie, Suspenseful, Unnerving | Synths
+Midnight Tale                      dosya_ayni=True  bpm=  73 olcum=  73.8 hareket=0.122 ritim=0.525 dinamik=  4.4 sure=162  g22 Calming, Relaxed | Guitar, Lute
+Magistar                           dosya_ayni=True  bpm=  79 olcum= 103.4 hareket=0.224 ritim=0.394 dinamik=  5.9 sure=192  g22 Driving, Epic, Mystical | Choir, Glockenspiel, Trumpets, Trombones
+River Flute                        dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.168 ritim=0.529 dinamik=  3.7 sure=1228  g25 Calming, Relaxed, Mystical | Synth, Flute, River
+Northern Glade                     dosya_ayni=False bpm=  78 olcum=  80.7 hareket=0.174 ritim=0.802 dinamik=  1.1 sure=315  g13 Bright, Calming, Relaxed | Synths
+Dream Catcher                      dosya_ayni=True  bpm=  70 olcum=  92.3 hareket=0.227 ritim=0.489 dinamik=  2.5 sure=377  g7 Mysterious, Relaxed, Grooving | Synths, Voices
+Farm                               dosya_ayni=False bpm=  78 olcum=  78.3 hareket=0.181 ritim=0.651 dinamik=  2.0 sure=292  g13 Bright, Calming, Relaxed | Synths
+Manor                              dosya_ayni=False bpm=  78 olcum=  78.3 hareket=0.170 ritim=0.884 dinamik=  2.0 sure=234  g13 Bright, Calming, Relaxed | Synths
+Cottages                           dosya_ayni=False bpm=  78 olcum=  78.3 hareket=0.169 ritim=0.583 dinamik=  1.8 sure=234  g13 Bright, Calming, Relaxed | Synths
+Morgana Rides                      dosya_ayni=True  bpm= 116 olcum= 117.5 hareket=0.174 ritim=0.350 dinamik=  1.2 sure=246  g22 Grooving, Driving, Mysterious | Zither, Drums, Strings, Synth
+Twisting                           dosya_ayni=True  bpm= 108 olcum= 107.7 hareket=0.190 ritim=0.196 dinamik=  2.2 sure=318  g22 Grooving, Driving, Mysterious | Guitar, Bass, Drums, Synth
+Almost New                         dosya_ayni=True  bpm=  80 olcum=  80.7 hareket=0.126 ritim=0.431 dinamik=  1.1 sure=203  g22 Bright, Calming, Mysterious | Piano, Basses
+Loopster                           dosya_ayni=True  bpm= 108 olcum= 107.7 hareket=0.231 ritim=0.339 dinamik=  0.7 sure=182  g8 Bright, Grooving, Driving | Bass, Electric Piano, Drums
+Fantasia Fantasia                  dosya_ayni=True  bpm= 118 olcum= 117.5 hareket=0.240 ritim=0.621 dinamik=  1.4 sure=152  g19 Bright, Grooving, Driving | Synths, Drums, Guitar
+Werq                               dosya_ayni=True  bpm= 125 olcum= 123.0 hareket=0.246 ritim=0.824 dinamik=  2.3 sure=162  g16 Bright, Grooving, Relaxed | Synths, Drums
+Getting it Done                    dosya_ayni=True  bpm= 135 olcum= 136.0 hareket=0.257 ritim=0.760 dinamik=  1.3 sure=210  g7 Bright, Grooving, Relaxed | Synths, Drums
+I Can Feel it Coming               dosya_ayni=True  bpm=  94 olcum=  95.7 hareket=0.182 ritim=0.626 dinamik=  3.2 sure=215  g22 Driving, Suspenseful, Mysterious | Guitar, Percussion, Synth
+Hot Pursuit                        dosya_ayni=True  bpm= 122 olcum=  61.5 hareket=0.243 ritim=0.573 dinamik=  2.0 sure=169  g22 Grooving, Driving, Action | Guitar, Percussion, Strings
+Outfoxing the Fox                  dosya_ayni=True  bpm= 160 olcum= 161.5 hareket=0.168 ritim=0.743 dinamik=  3.3 sure=175  g22 Grooving, Driving, Action | Synths, Percussion, Bass, Strings, Cello
+Mystery Sax                        dosya_ayni=True  bpm=  60 olcum= 161.5 hareket=0.185 ritim=0.700 dinamik=  2.8 sure=275  g22 Grooving, Mysterious, Action | Tenor Sax, Percussion, Synths
+Hiding Your Reality                dosya_ayni=True  bpm= 107 olcum= 107.7 hareket=0.177 ritim=0.793 dinamik=  2.8 sure=193  g22 Action, Driving, Epic | Percussion, Synths, Brass, Tuba, Euphoni
+Ancient Winds                      dosya_ayni=True  bpm=   ? olcum= 161.5 hareket=0.142 ritim=0.602 dinamik=  5.2 sure=3534  g22 Calming, Relaxed | Harp, Strings, Synths
+Jet Fueled Vixen                   dosya_ayni=True  bpm= 100 olcum=  99.4 hareket=0.198 ritim=0.574 dinamik=  1.1 sure=160  g22 Grooving, Action, Driving | Guitar, Synths, Percussion, Timbales
+Miami Nights - Extended Theme      dosya_ayni=True  bpm= 105 olcum= 103.4 hareket=0.224 ritim=0.536 dinamik=  6.5 sure=201  g22 Grooving, Action, Driving | Percussion, Synths, Tenor Sax, Trumpet, 
+Smooth Lovin                       dosya_ayni=True  bpm=  75 olcum=  76.0 hareket=0.156 ritim=0.428 dinamik=  0.7 sure=259  g11 Grooving, Calming, Relaxed | Bass, Guitar, Drums, Piano, Organ
+Hard Boiled                        dosya_ayni=True  bpm= 126 olcum= 123.0 hareket=0.173 ritim=0.361 dinamik=  1.4 sure=181  g11 Grooving, Mysterious, Relaxed | Bass, Piano, Drums
+Deuces                             dosya_ayni=True  bpm= 190 olcum=  95.7 hareket=0.188 ritim=0.442 dinamik=  1.5 sure=191  g11 Bright, Grooving, Relaxed | Organ, Drums, Piano, Bass
+Jazz Brunch                        dosya_ayni=True  bpm= 100 olcum=  66.3 hareket=0.195 ritim=0.320 dinamik=  1.9 sure=323  g11 Bright, Grooving, Relaxed | Electric Piano, Drums, Bass, Organ, Guit
+Samba Isobel                       dosya_ayni=True  bpm=  95 olcum=  95.7 hareket=0.196 ritim=0.387 dinamik=  1.2 sure=250  g11 Bright, Grooving, Relaxed | Bass, Drums, Piano
+Apero Hour                         dosya_ayni=True  bpm= 140 olcum=  69.8 hareket=0.190 ritim=0.521 dinamik=  1.2 sure=283  g11 Bright, Grooving, Relaxed | Guitar, Bass, Drums, Organ
+Crinoline Dreams                   dosya_ayni=True  bpm= 120 olcum= 117.5 hareket=0.149 ritim=0.317 dinamik=  0.5 sure=246  g11 Bright, Calming, Relaxed | Piano, Violin, Viola, Bass, Cello, Doubl
+Andreas Theme                      dosya_ayni=True  bpm=  90 olcum=  89.1 hareket=0.149 ritim=0.575 dinamik=  2.1 sure=217  g22 Grooving, Mysterious, Calming | Electric Piano, Drums, Bass, Gemshorn, O
+Jerry Five                         dosya_ayni=True  bpm=  90 olcum=  89.1 hareket=0.246 ritim=0.583 dinamik=  5.0 sure=160  g7 Driving, Grooving, Relaxed | Synths, Percussion
+Bossa Antigua                      dosya_ayni=True  bpm=  70 olcum=  69.8 hareket=0.190 ritim=0.353 dinamik=  0.8 sure=283  g11 Bright, Grooving, Relaxed | Guitar, Bass, Drums
+Backbay Lounge                     dosya_ayni=True  bpm= 120 olcum= 117.5 hareket=0.176 ritim=0.614 dinamik=  0.9 sure=267  g11 Bright, Grooving, Relaxed | Piano, Guitar, Drums, Bass
+Wind of the Rainforest             dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.150 ritim=0.553 dinamik=  3.7 sure=3534  g22 Calming, Relaxed | Electric Piano, Synths
+Truth in the Stones                dosya_ayni=True  bpm=  54 olcum= 107.7 hareket=0.164 ritim=0.435 dinamik=  1.5 sure=373  g25 Calming, Grooving, Mystical | Drums, Harp
+Silver Flame                       dosya_ayni=True  bpm=  54 olcum= 107.7 hareket=0.195 ritim=0.386 dinamik= 28.9 sure=396  g25 Calming, Grooving, Mystical | Marimba, Drums
+Spirit of the Girl                 dosya_ayni=True  bpm=  54 olcum=  71.8 hareket=0.268 ritim=0.457 dinamik= 10.0 sure=413  g25 Calming, Grooving, Mystical | Drums, Bells
+River Fire                         dosya_ayni=True  bpm=  54 olcum= 107.7 hareket=0.188 ritim=0.456 dinamik=  6.0 sure=400  g25 Calming, Grooving, Mystical | Drums, Hang Drum, Bells, Flute
+Darkling                           dosya_ayni=True  bpm= 140 olcum=  69.8 hareket=0.224 ritim=0.506 dinamik=  1.3 sure=170  g22 Action, Driving, Dark | Percussion, Violins, Violas, Cellos, Bas
+Death and Axes                     dosya_ayni=True  bpm= 140 olcum=  92.3 hareket=0.206 ritim=0.510 dinamik=  0.8 sure=168  g22 Action, Driving, Dark | Percussion, Trumpets, French Horns, Trom
+Nightdreams                        dosya_ayni=True  bpm=  54 olcum=  71.8 hareket=0.226 ritim=0.187 dinamik=  5.7 sure=396  g25 Calming, Grooving, Mystical | Drums, Hang Drum
+Nightmare Machine                  dosya_ayni=True  bpm= 140 olcum=  69.8 hareket=0.208 ritim=0.546 dinamik=  2.0 sure=226  g22 Action, Driving, Eerie | Percussion, Organ, Basses
+Eternal Terminal                   dosya_ayni=True  bpm= 140 olcum=  69.8 hareket=0.201 ritim=0.511 dinamik=  2.4 sure=197  g22 Dark, Driving, Epic | Percussion, Basses, Bass Clarinet, Tubas
+The Sky of our Ancestors           dosya_ayni=True  bpm=  54 olcum= 107.7 hareket=0.102 ritim=0.164 dinamik=  4.2 sure=431  g25 Calming, Grooving, Mystical | Drums, Flute
+Aggressor                          dosya_ayni=True  bpm= 150 olcum=  76.0 hareket=0.241 ritim=0.523 dinamik=  0.9 sure=239  g22 Action, Driving, Dark | Drums, Violins, Violas, Cellos, Basses, 
+Malicious                          dosya_ayni=True  bpm= 140 olcum= 143.6 hareket=0.208 ritim=0.640 dinamik=  3.0 sure=223  g22 Dark, Driving, Eerie | Percussion, Basses, Cellos, Violins, Flu
+Grim Idol                          dosya_ayni=True  bpm= 140 olcum=  69.8 hareket=0.209 ritim=0.461 dinamik=  1.7 sure=225  g22 Action, Dark, Grooving | Basses, Cellos, Violas, Violins, Flutes,
+Wretched Destroyer                 dosya_ayni=True  bpm= 140 olcum=  69.8 hareket=0.198 ritim=0.419 dinamik=  1.8 sure=198  g22 Eerie, Dark, Driving | Basses, Cellos, Bassoons, English Horn, 
+Shadowlands 7 - Codex              dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.210 ritim=0.803 dinamik=  2.1 sure=212  g10 Eerie, Intense, Unnerving | Basses, Cellos, Violins, Violas, Percuss
+Shadowlands 6 - The Pit            dosya_ayni=True  bpm=   ? olcum= 117.5 hareket=0.178 ritim=0.512 dinamik=  1.2 sure=206  g10 Eerie, Intense, Unnerving | Synths
+Shadowlands 4 - Breath             dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.183 ritim=0.650 dinamik=  3.7 sure=230  g10 Eerie, Intense, Unnerving | Synths
+Shadowlands 3 - Machine            dosya_ayni=True  bpm=   ? olcum= 161.5 hareket=0.199 ritim=0.440 dinamik=  3.5 sure=230  g10 Eerie, Intense, Unnerving | Synths
+Shadowlands 1 - Horizon            dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.164 ritim=0.283 dinamik=  1.3 sure=220  g10 Eerie, Intense, Somber | Synths
+Shadowlands 2 - Bridge             dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.140 ritim=0.517 dinamik=  2.3 sure=208  g10 Eerie, Intense, Unnerving | Synths, Prepared Piano
+Ever Mindful                       dosya_ayni=True  bpm=  40 olcum= 161.5 hareket=0.099 ritim=0.680 dinamik=  3.2 sure=1599  g22 Relaxed, Bright, Calming | Cellos, Basses, Violas, Violins, Choir, 
+Bummin on Tremelo                  dosya_ayni=True  bpm= 120 olcum=  80.7 hareket=0.198 ritim=0.460 dinamik=  4.2 sure=192  g16 Grooving, Relaxed, Bright | Guitar, Organ, Bass, Drums, Singers
+Shadowlands 5 - Antechamber        dosya_ayni=True  bpm=   ? olcum= 172.3 hareket=0.150 ritim=0.426 dinamik=  2.4 sure=178  g10 Eerie, Intense, Unnerving | Synths
+Return of the Mummy                dosya_ayni=True  bpm= 140 olcum= 143.6 hareket=0.211 ritim=0.429 dinamik=  1.6 sure=170  g22 Dark, Grooving, Mystical | Tar, Qanun, Choir, Percussion, Strings
+Crossing the Chasm                 dosya_ayni=True  bpm= 100 olcum=  99.4 hareket=0.215 ritim=0.327 dinamik=  1.1 sure=197  g22 Action, Dark, Driving | Drums, Basses, Cellos, Violas, Violins, 
+Cold Sober                         dosya_ayni=True  bpm=  80 olcum= 161.5 hareket=0.190 ritim=0.477 dinamik=  1.2 sure=201  g24 Bright, Grooving, Relaxed | Bass, Drums, Guitar, Electric Piano, Uil
+Angel Share                        dosya_ayni=True  bpm=  85 olcum= 172.3 hareket=0.113 ritim=0.550 dinamik=  7.5 sure=200  g5 Bright, Relaxed, Uplifting | Drums, Bass, Guitar, Choir
+Ave Marimba                        dosya_ayni=True  bpm=  70 olcum= 143.6 hareket=0.230 ritim=0.404 dinamik=  0.8 sure=170  g25 Bright, Grooving, Relaxed | Marimba, Drums
+Wepa                               dosya_ayni=True  bpm= 120 olcum=  80.7 hareket=0.245 ritim=0.381 dinamik=  0.5 sure=195  g12 Grooving, Bright, Action | Bass, Drums, Strings
+Laser Groove                       dosya_ayni=True  bpm= 140 olcum=  69.8 hareket=0.264 ritim=0.590 dinamik=  2.7 sure=168  g7 Grooving, Bright, Relaxed | Synths, Drums
+Miami Viceroy                      dosya_ayni=True  bpm= 124 olcum=  61.5 hareket=0.245 ritim=0.435 dinamik=  0.7 sure=268  g8 Grooving, Relaxed | Guitar, Bass, Drums, Synths
+Port Horizon                       dosya_ayni=True  bpm=  72 olcum=  71.8 hareket=0.145 ritim=0.440 dinamik=  5.5 sure=323  g24 Calming, Relaxed, Unnerving | Drums, Bass, Vibraphone, Guitar, Trumpet
+Poppers and Prosecco               dosya_ayni=True  bpm=  70 olcum=  69.8 hareket=0.184 ritim=0.411 dinamik=  0.9 sure=194  g11 Grooving, Bright, Relaxed | Trombone, Piano, Bass, Drums
+Mountain Emperor                   dosya_ayni=True  bpm= 120 olcum=  80.7 hareket=0.232 ritim=0.592 dinamik=  2.9 sure=200  g25 Action, Driving, Mystical | Taiko Drums, Gamelan
+Hidden Wonders                     dosya_ayni=True  bpm=  75 olcum= 152.0 hareket=0.203 ritim=0.485 dinamik=  1.1 sure=180  g25 Grooving, Dark, Mysterious | Santur, Strings, Tanpura, Percussion
+Mystery Bazaar                     dosya_ayni=True  bpm=  75 olcum=  76.0 hareket=0.165 ritim=0.351 dinamik=  2.3 sure=158  g25 Calming, Dark, Mysterious | Santur, Strings, Percussion
+Sunday Dub                         dosya_ayni=True  bpm= 102 olcum= 103.4 hareket=0.174 ritim=0.533 dinamik=  0.3 sure=209  g21 Grooving, Relaxed, Mysterious | Guitar, Drums, Bass, Organ
+Too Cool                           dosya_ayni=True  bpm=  80 olcum= 161.5 hareket=0.235 ritim=0.375 dinamik=  2.2 sure=182  g26 Grooving, Relaxed | Synths, Percussion
+River of Io                        dosya_ayni=True  bpm= 104 olcum= 103.4 hareket=0.199 ritim=0.541 dinamik=  2.5 sure=249  g22 Driving, Mysterious, Suspenseful | Flute, Clarinet, Strings, Percussion
+Ascending the Vale                 dosya_ayni=True  bpm=  90 olcum= 184.6 hareket=0.137 ritim=0.487 dinamik=  0.9 sure=248  g22 Relaxed, Calming, Mystical | Harp, Choir, Flute, Percussion, Anyafil 
+Shenyang                           dosya_ayni=True  bpm= 130 olcum=  64.6 hareket=0.215 ritim=0.608 dinamik=  1.1 sure=151  g22 Bright, Relaxed | Erhu, Pipa, Yangqin, Percussion
+Rainbows                           dosya_ayni=True  bpm= 110 olcum= 112.3 hareket=0.238 ritim=0.692 dinamik=  1.4 sure=219  g22 Bright, Calming, Grooving | Marimba, Ukulele, Cello, Drums, Percussi
+On My Way                          dosya_ayni=True  bpm= 126 olcum=  83.4 hareket=0.123 ritim=0.445 dinamik=  4.4 sure=253  g22 Bright, Calming, Grooving | Bass, Guitar, Flutes, Clarinets, Vibraph
+Dewdrop Fantasy                    dosya_ayni=True  bpm=  55 olcum=  73.8 hareket=0.103 ritim=0.335 dinamik=  3.3 sure=2098  g24 Bright, Calming, Relaxed | Synths, Rain
+Fearless First                     dosya_ayni=True  bpm=  92 olcum=  92.3 hareket=0.184 ritim=0.684 dinamik=  0.2 sure=196  g22 Driving, Grooving | Guitar, Bass, Drums, Flute
+Fireflies and Stardust             dosya_ayni=True  bpm= 170 olcum=  92.3 hareket=0.161 ritim=0.438 dinamik=  0.7 sure=255  g22 Bright, Calming, Relaxed | Banjo, Violins, Mandolin, Guitars, Bass,
+Delightful D                       dosya_ayni=True  bpm= 120 olcum= 152.0 hareket=0.214 ritim=0.778 dinamik=  1.2 sure=184  g7 Bright, Driving, Grooving | Synth, Percussion
+BossaBossa                         dosya_ayni=True  bpm=  77 olcum= 103.4 hareket=0.224 ritim=0.630 dinamik=  0.8 sure=167  g12 Calming, Grooving, Bright | Piano, Bass, Drums, Guitar
+Lobby Time                         dosya_ayni=True  bpm= 128 olcum=  64.6 hareket=0.156 ritim=0.574 dinamik=  1.2 sure=193  g11 Calming, Grooving, Relaxed | Vibraphone, Piano, Bass, Drums
+ZigZag                             dosya_ayni=True  bpm=  80 olcum=  80.7 hareket=0.211 ritim=0.385 dinamik=  1.0 sure=225  g8 Grooving, Relaxed | Bass, Drums, Guitar, Mellotron, Synth
+Vanishing                          dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.123 ritim=0.752 dinamik=  5.4 sure=235  g22 Dark, Eerie, Mysterious | Prepared Piano, Bass Clarinet, Cello, Cl
+Chill Wave                         dosya_ayni=True  bpm= 100 olcum=  99.4 hareket=0.150 ritim=0.527 dinamik=  4.4 sure=240  g8 Grooving, Relaxed | Synths, Bass, Drum, Guitar
+Industrial Cinematic               dosya_ayni=True  bpm= 110 olcum=  73.8 hareket=0.202 ritim=0.393 dinamik=  5.9 sure=244  g22 Driving, Suspenseful | Percussion, Synths
+Airship Serenity                   dosya_ayni=True  bpm=  74 olcum=  73.8 hareket=0.125 ritim=0.591 dinamik=  2.8 sure=240  g7 Calming, Uplifting | Synths
+Magic Forest                       dosya_ayni=True  bpm=   ? olcum= 161.5 hareket=0.109 ritim=0.626 dinamik=  2.3 sure=260  g22 Mystical, Dark, Mysterious | Cello, Violin, Synths
+Nonstop                            dosya_ayni=True  bpm= 128 olcum= 129.2 hareket=0.226 ritim=0.542 dinamik=  2.7 sure=191  g24 Driving, Grooving, Uplifting | Guitar, Percussion, Synths
+Voltaic                            dosya_ayni=True  bpm= 120 olcum= 117.5 hareket=0.265 ritim=0.448 dinamik=  1.6 sure=196  g7 Action, Driving, Grooving | Synth, Percussion
+Secret of Tiki Island              dosya_ayni=True  bpm= 120 olcum=  80.7 hareket=0.191 ritim=0.439 dinamik=  2.4 sure=196  g11 Eerie, Grooving, Mysterious, Calming | Bass, Piano, Percussion, Vibraphone, Gui
+Dreamer                            dosya_ayni=True  bpm= 100 olcum=  99.4 hareket=0.164 ritim=0.708 dinamik=  1.9 sure=204  g5 Calming, Relaxed | Piano, Percussion
+Giant Wyrm                         dosya_ayni=True  bpm=  80 olcum= 184.6 hareket=0.185 ritim=0.646 dinamik=  3.0 sure=259  g10 Eerie, Unnerving, Dark | Piano, Synths, Brass
+Soaring                            dosya_ayni=True  bpm=   ? olcum= 152.0 hareket=0.094 ritim=0.673 dinamik=  1.7 sure=380  g5 Mystical, Calming, Relaxed | Synths
+Master Disorder                    dosya_ayni=True  bpm=  80 olcum=  80.7 hareket=0.160 ritim=0.481 dinamik=  4.0 sure=237  g13 Dark, Grooving, Intense | Percussion, Dulcimer
+Deadly Roulette                    dosya_ayni=True  bpm= 104 olcum= 103.4 hareket=0.156 ritim=0.397 dinamik=  2.0 sure=159  g11 Dark, Grooving, Relaxed | Drums, Bass, Synth Bass, Guitar, Vibraph
+Super Power Cool Dude              dosya_ayni=True  bpm= 110 olcum=  73.8 hareket=0.224 ritim=0.633 dinamik=  0.4 sure=236  g5 Action, Driving, Uplifting | Synths, Drums
+Eternity                           dosya_ayni=True  bpm= 100 olcum=  66.3 hareket=0.123 ritim=0.408 dinamik=  0.2 sure=198  g7 Relaxed, Grooving | Guitar, Bass, Drums, Electric Piano, Syn
+Chillin Hard                       dosya_ayni=True  bpm=  80 olcum=  80.7 hareket=0.132 ritim=0.538 dinamik=  3.6 sure=234  g24 Relaxed, Grooving | Drums, Bass, Choir
+Killers                            dosya_ayni=True  bpm= 105 olcum=  69.8 hareket=0.220 ritim=0.710 dinamik=  4.3 sure=305  g22 Action, Epic, Intense | Guitar, Choir, Percussion, Basses, Cello
+Furious Freak                      dosya_ayni=True  bpm= 160 olcum= 129.2 hareket=0.195 ritim=0.859 dinamik=  7.9 sure=187  g7 Driving, Intense, Bright | Electric Piano, Synths, Percussion
+Inspired                           dosya_ayni=True  bpm= 120 olcum= 117.5 hareket=0.204 ritim=0.770 dinamik=  1.4 sure=286  g7 Bright, Relaxed, Calming, Uplifting | Guitar, Synths, Percussion
+Thief in the Night                 dosya_ayni=True  bpm=  65 olcum= 129.2 hareket=0.194 ritim=0.270 dinamik=  0.3 sure=185  g18 Grooving, Relaxed | Guitar, Bass, Drums, Organ
+Floating Cities                    dosya_ayni=True  bpm= 120 olcum= 117.5 hareket=0.152 ritim=0.540 dinamik=  1.1 sure=184  g22 Somber, Relaxed, Mystical, Calming | Synths, Percussion
+Rynos Theme                        dosya_ayni=True  bpm= 128 olcum=  64.6 hareket=0.173 ritim=0.746 dinamik=  6.1 sure=186  g22 Action, Epic, Intense, Suspenseful | Violins, Violas, Cellos, Basses, Flutes,
+Slow Jam                           dosya_ayni=True  bpm=  75 olcum= 152.0 hareket=0.123 ritim=0.384 dinamik=  5.5 sure=266  g24 Grooving, Relaxed | Electric Piano, Piano, Synths, Percussio
+Curse of the Scarab                dosya_ayni=True  bpm= 190 olcum= 184.6 hareket=0.206 ritim=0.508 dinamik=  2.5 sure=327  g22 Dark, Epic, Action, Driving | Xylophone, English Horn, Oboe, Bass Clar
+Crypto                             dosya_ayni=True  bpm=  80 olcum=  80.7 hareket=0.154 ritim=0.721 dinamik=  1.9 sure=204  g22 Dark, Eerie, Unnerving, Suspenseful | Flute, Percussion, Synths
+Overworld                          dosya_ayni=True  bpm= 200 olcum=  66.3 hareket=0.249 ritim=0.805 dinamik=  1.0 sure=173  g7 Eerie, Mysterious, Driving | Synths
+Myst on the Moor                   dosya_ayni=True  bpm=  87 olcum= 172.3 hareket=0.180 ritim=0.304 dinamik=  1.3 sure=229  g22 Dark, Eerie, Mystical | Percussion, Glass Marimba, Synths, Flute
+Cuban Sandwich                     dosya_ayni=True  bpm=  80 olcum= 161.5 hareket=0.236 ritim=0.601 dinamik=  2.0 sure=195  g12 Grooving, Relaxed | Piano, Percussion, Bass
+Final Battle of the Dark Wizards   dosya_ayni=True  bpm= 112 olcum= 112.3 hareket=0.186 ritim=0.518 dinamik=  2.8 sure=272  g22 Dark, Intense, Unnerving, Epic, Mystical | Synths, Choir, Percussion, French Horns,
+OctoBlues                          dosya_ayni=True  bpm= 120 olcum=  61.5 hareket=0.188 ritim=0.404 dinamik=  1.2 sure=256  g3 Grooving, Relaxed | Drums, Bass, Guitar, Organ
+Christmas Rap                      dosya_ayni=True  bpm=  90 olcum=  89.1 hareket=0.245 ritim=0.334 dinamik=  1.1 sure=187  g9 Bright, Uplifting | Chimes, Sleigh Bells, Drums, Synths
+Concentration                      dosya_ayni=True  bpm=   ? olcum= 117.5 hareket=0.057 ritim=0.096 dinamik=  3.7 sure=1793  g22 Calming, Relaxed | Synths, Electric Piano
+Baba Yaga                          dosya_ayni=True  bpm=  70 olcum=  69.8 hareket=0.213 ritim=0.627 dinamik=  2.7 sure=252  g24 Dark, Eerie, Mystical | Percussion, Synths, Piano, Voice
+Suave Standpipe                    dosya_ayni=True  bpm=  75 olcum=  76.0 hareket=0.135 ritim=0.533 dinamik=  0.6 sure=219  g5 Grooving, Relaxed | Bass, Accordion, Drums, Electric Piano, 
+Leopard Print Elevator             dosya_ayni=True  bpm= 100 olcum=  80.7 hareket=0.198 ritim=0.397 dinamik=  1.2 sure=328  g5 Grooving, Relaxed | Synths, Percussion, Bass
+Fresh Air                          dosya_ayni=True  bpm=  44 olcum= 172.3 hareket=0.065 ritim=0.362 dinamik=  3.4 sure=294  g5 Calming, Relaxed | Piano
+Fretless                           dosya_ayni=True  bpm= 100 olcum=  99.4 hareket=0.209 ritim=0.640 dinamik=  1.2 sure=336  g5 Bright, Relaxed, Uplifting | Guitar, Ukulele, Drums, Bass, Glockenspi
+What Is Love                       dosya_ayni=True  bpm=  58 olcum=  78.3 hareket=0.158 ritim=0.430 dinamik=  1.2 sure=208  g7 Calming, Relaxed | Synths, Percussion, Strings
+Relaxing Piano Music               dosya_ayni=True  bpm=   ? olcum= 136.0 hareket=0.075 ritim=0.370 dinamik=  2.3 sure=1494  g5 Relaxed, Calming | Piano, Synths
+The Lift                           dosya_ayni=True  bpm= 133 olcum=  66.3 hareket=0.235 ritim=0.718 dinamik=  3.2 sure=467  g7 Driving, Suspenseful | Synths, Percussion
+Crowd Hammer                       dosya_ayni=True  bpm=  79 olcum= 152.0 hareket=0.195 ritim=0.387 dinamik=  0.6 sure=207  g22 Dark, Eerie, Relaxed | Guitar, Percussion, Diddley Bow, Flute, 
+Spellbound                         dosya_ayni=True  bpm=  70 olcum=  92.3 hareket=0.219 ritim=0.315 dinamik=  1.9 sure=230  g7 Mystical, Eerie, Mysterious, Calming, Dark | Synths, Voice, Percussion
+Spy Glass                          dosya_ayni=True  bpm= 110 olcum= 112.3 hareket=0.172 ritim=0.313 dinamik=  1.9 sure=227  g11 Grooving, Mysterious | Piano, Bass, Drums, Vibraphone, Saxes, T
+Mystic Force                       dosya_ayni=True  bpm= 118 olcum= 161.5 hareket=0.196 ritim=0.366 dinamik=  2.2 sure=224  g25 Mystical, Eerie, Mysterious, Calming, Dark | Gamelan, Helicon, Percussion
+Welcome to HorrorLand              dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.203 ritim=0.790 dinamik=  4.9 sure=250  g10 Dark, Eerie, Intense, Unnerving | Piano, Strings, Synths, Percussion
+This House                         dosya_ayni=True  bpm=  74 olcum= 161.5 hareket=0.140 ritim=0.758 dinamik=  2.6 sure=269  g10 Dark, Eerie, Unnerving | Violins, Violas, Cellos, Basses, Piano, 
+Funky Chunk                        dosya_ayni=True  bpm= 115 olcum=  76.0 hareket=0.223 ritim=0.483 dinamik=  0.6 sure=239  g8 Bright, Grooving, Uplifting | Bass, Electric Piano, Drums, Guitar, Syn
+Ossuary 6 - Air                    dosya_ayni=True  bpm=  50 olcum= 103.4 hareket=0.101 ritim=0.636 dinamik=  5.5 sure=250  g24 Dark, Eerie, Mysterious, Unnerving | Synths
+Ossuary 5 - Rest                   dosya_ayni=True  bpm=  50 olcum= 184.6 hareket=0.096 ritim=0.800 dinamik=  5.5 sure=236  g24 Calming, Dark, Eerie, Relaxed | Synths
+Ossuary 4 - Animate                dosya_ayni=True  bpm= 102 olcum=  68.0 hareket=0.231 ritim=0.538 dinamik=  2.7 sure=196  g24 Action, Dark, Intense, Mysterious | Synths, Percussion
+Ossuary 3 - Words                  dosya_ayni=True  bpm=  74 olcum=  99.4 hareket=0.189 ritim=0.407 dinamik=  1.6 sure=237  g24 Dark, Eerie, Mysterious | Synths, Percussion
+Ossuary 2 - Turn                   dosya_ayni=True  bpm=  80 olcum= 161.5 hareket=0.209 ritim=0.396 dinamik=  3.5 sure=288  g24 Dark, Relaxed, Calming, Eerie, Mysterious | Synths, Percussion
+Ossuary 1 - A Beginning            dosya_ayni=True  bpm=  54 olcum= 172.3 hareket=0.154 ritim=0.657 dinamik=  2.1 sure=188  g24 Dark, Relaxed, Calming, Eerie | Synths
+In Your Arms                       dosya_ayni=True  bpm=  98 olcum=  99.4 hareket=0.111 ritim=0.329 dinamik=  0.8 sure=169  g11 Bright, Relaxed | Trumpets, Trombones, Saxophones, Bass, D
+Disco Medusae                      dosya_ayni=True  bpm= 115 olcum= 117.5 hareket=0.222 ritim=0.460 dinamik=  0.9 sure=221  g6 Bright, Grooving | Percussion, Bass, Synths, Clavinet, Guit
+Rhinoceros                         dosya_ayni=True  bpm= 126 olcum=  63.0 hareket=0.243 ritim=0.759 dinamik=  1.1 sure=204  g7 Intense, Action | Synths, Percussion
+Pyro Flow                          dosya_ayni=True  bpm=  84 olcum=  83.4 hareket=0.256 ritim=0.409 dinamik=  1.3 sure=234  g16 Grooving, Driving | Drums, Piano, Bass, Synth
+Ossuary 7 - Resolve                dosya_ayni=True  bpm=  90 olcum= 184.6 hareket=0.162 ritim=0.508 dinamik=  1.9 sure=258  g24 Mysterious, Relaxed, Suspenseful | Synths, Percussion
+Phantom from Space                 dosya_ayni=True  bpm= 109 olcum= 107.7 hareket=0.222 ritim=0.392 dinamik=  1.7 sure=156  g22 Eerie, Mysterious | Piano, Percussion, Synth
+Universal                          dosya_ayni=True  bpm=  80 olcum=  80.7 hareket=0.146 ritim=0.546 dinamik=  3.1 sure=270  g5 Relaxed, Mystical | Piano, Bass, Drums, Synths, Mellotron
+Unwritten Return                   dosya_ayni=True  bpm=  80 olcum=  80.7 hareket=0.196 ritim=0.587 dinamik=  2.0 sure=309  g7 Grooving, Mysterious | Piano, Synths, Clavinet, Percussion
+Motherlode                         dosya_ayni=True  bpm=  90 olcum=  89.1 hareket=0.195 ritim=0.574 dinamik=  0.8 sure=237  g19 Driving | Guitars, Bass, Drums, French Horn, Trump
+Exit the Premises                  dosya_ayni=True  bpm= 128 olcum= 172.3 hareket=0.237 ritim=0.498 dinamik=  1.4 sure=210  g7 Driving, Intense | Synths, Percussion
+Bumba Crossing                     dosya_ayni=True  bpm=  92 olcum= 123.0 hareket=0.202 ritim=0.456 dinamik=  1.0 sure=277  g2 Bright, Calming | Drums, Bass, Marimba, Choir, Flute
+Jellyfish in Space                 dosya_ayni=True  bpm= 100 olcum= 136.0 hareket=0.139 ritim=0.490 dinamik=  3.3 sure=391  g24 Relaxed, Calming | Guitar, Ocarina, Electric Piano, Bass, S
+Carnivale Intrigue                 dosya_ayni=True  bpm=  95 olcum=  95.7 hareket=0.235 ritim=0.562 dinamik=  1.5 sure=200  g12 Grooving | Percussion, Bass, Organ, Horns
+EDM Detection Mode                 dosya_ayni=True  bpm= 128 olcum= 129.2 hareket=0.249 ritim=0.751 dinamik=  4.2 sure=366  g7 Driving | Synths, Percussion
+Level Up                           dosya_ayni=True  bpm= 114 olcum=  76.0 hareket=0.225 ritim=0.669 dinamik=  1.2 sure=219  g7 Dark, Intense | Synths
+Garden Music                       dosya_ayni=True  bpm=   ? olcum= 112.3 hareket=0.082 ritim=0.483 dinamik=  3.6 sure=2477  g24 Relaxed, Calming, Mystical | Synths, Piano
+Drankin Song                       dosya_ayni=True  bpm=  56 olcum= 112.3 hareket=0.135 ritim=0.666 dinamik=  0.8 sure=246  g24 Relaxed | Violin, Bass, Guitar, Diddley Bow, Drums
+Maccary Bay                        dosya_ayni=True  bpm=  80 olcum= 161.5 hareket=0.214 ritim=0.572 dinamik=  1.8 sure=240  g18 Grooving, Relaxed | Guitar, Bass, Percussion, Organ, Piano
+Ultralounge                        dosya_ayni=True  bpm= 100 olcum= 136.0 hareket=0.205 ritim=0.477 dinamik=  1.0 sure=317  g11 Grooving, Relaxed | Piano, Bass, Synths, Percussion, Drums, 
+Mary Celeste                       dosya_ayni=True  bpm=  50 olcum= 184.6 hareket=0.139 ritim=0.794 dinamik=  2.5 sure=162  g10 Dark, Mysterious, Intense | Tuba, Bass Clarinet, French Horns, Contr
+Secrets of the Schoolyard          dosya_ayni=True  bpm= 100 olcum=  99.4 hareket=0.252 ritim=0.629 dinamik=  0.6 sure=178  g7 Dark, Mysterious | Synths, Percussion
+Hep Cats                           dosya_ayni=True  bpm=  90 olcum= 184.6 hareket=0.178 ritim=0.423 dinamik=  0.8 sure=251  g11 Grooving | Organ, Bass, Percussion, Flute, Electric
+Odyssey                            dosya_ayni=True  bpm=  80 olcum= 161.5 hareket=0.154 ritim=0.768 dinamik=  2.2 sure=306  g22 Bright, Uplifting, Mystical | Synths
+Your Call                          dosya_ayni=True  bpm= 120 olcum= 117.5 hareket=0.230 ritim=0.720 dinamik=  0.2 sure=224  g8 Grooving | Bass, Guitar, Strings, Synth, Percussion
+Infinite Perspective               dosya_ayni=True  bpm=  80 olcum= 123.0 hareket=0.120 ritim=0.351 dinamik=  0.8 sure=345  g5 Calming, Bright | Synths, Voices, Piano, Harp, English Hor
+Urban Gauntlet                     dosya_ayni=True  bpm= 116 olcum= 117.5 hareket=0.236 ritim=0.161 dinamik=  1.9 sure=209  g22 Epic, Intense | Percussion, Synths, Strings
+Anamalie                           dosya_ayni=True  bpm=  59 olcum= 117.5 hareket=0.153 ritim=0.511 dinamik=  0.7 sure=208  g5 Dark, Calming, Mysterious | Guitar, Bass, Piano, Percussion, Clarine
+Metaphysik                         dosya_ayni=True  bpm=  48 olcum= 184.6 hareket=0.115 ritim=0.597 dinamik=  1.9 sure=278  g10 Dark, Mysterious, Unnerving | Violins, Violas, Cellos, Basses, Piano, 
+Sardana                            dosya_ayni=True  bpm=  75 olcum= 152.0 hareket=0.141 ritim=0.290 dinamik=  2.7 sure=192  g25 Mysterious, Intense | Guitar
+Destiny Day                        dosya_ayni=True  bpm= 120 olcum=  80.7 hareket=0.154 ritim=0.592 dinamik=  0.2 sure=192  g24 Bright, Mystical | Synths, Percussion
+Life of Riley                      dosya_ayni=True  bpm= 102 olcum= 103.4 hareket=0.167 ritim=0.655 dinamik=  1.4 sure=235  g16 Bright, Relaxed, Uplifting | Glockenspiel, Ukulele, Guitar, Percussio
+Naraina                            dosya_ayni=True  bpm=  81 olcum=  64.6 hareket=0.265 ritim=0.689 dinamik=  2.2 sure=210  g25 Driving, Mystical, Grooving | Bass, Percussion, Brass, Woodwind
+Vadodora Chill Mix                 dosya_ayni=True  bpm=  97 olcum=  64.6 hareket=0.236 ritim=0.455 dinamik=  2.0 sure=223  g25 Intense, Grooving | Sitar, Percussion, Synth, Tambura, Bansu
+Vadodora                           dosya_ayni=True  bpm=  97 olcum=  64.6 hareket=0.235 ritim=0.456 dinamik=  2.1 sure=223  g25 Intense, Grooving | Sitar, Percussion, Synth, Tambura, Bansu
+Twisted                            dosya_ayni=True  bpm= 118 olcum= 117.5 hareket=0.170 ritim=0.589 dinamik=  0.6 sure=187  g19 Driving, Grooving | Bass, Guitar, Electric Piano, Percussion
+Unseen Horrors                     dosya_ayni=True  bpm=   ? olcum= 172.3 hareket=0.197 ritim=0.718 dinamik=  1.6 sure=251  g10 Dark, Eerie, Unnerving | Strings, Basses, Cellos, Violins, Brass,
+Crossing the Divide                dosya_ayni=True  bpm=  71 olcum=  71.8 hareket=0.103 ritim=0.734 dinamik=  7.7 sure=193  g22 Relaxed | Piano, Trumpet, French Horn, Basses, Cel
+The Escalation                     dosya_ayni=True  bpm=  96 olcum= 123.0 hareket=0.231 ritim=0.542 dinamik=  7.2 sure=327  g10 Dark, Driving, Action, Intense | Percussion, Basses, Strings
+Pepper's Theme                     dosya_ayni=False bpm=  76 olcum=  78.3 hareket=0.089 ritim=0.296 dinamik=  4.0 sure=239  g22 Relaxed | Piano, Guitar, Bass, Flutes
+On the Ground                      dosya_ayni=True  bpm= 106 olcum= 107.7 hareket=0.064 ritim=0.353 dinamik=  1.1 sure=159  g11 Grooving, Mysterious | Bass, Electric Piano, Drums
+Lord of the Land                   dosya_ayni=True  bpm= 112 olcum= 112.3 hareket=0.205 ritim=0.529 dinamik=  0.8 sure=186  g25 Mysterious, Mystical, Suspenseful | Percussion, Lute, Flute
+Undaunted                          dosya_ayni=True  bpm=  95 olcum=  95.7 hareket=0.232 ritim=0.486 dinamik=  2.3 sure=212  g22 Driving, Epic, Action, Intense | Percussion, Piano, Synths
+Drums of the Deep                  dosya_ayni=True  bpm=  77 olcum=  76.0 hareket=0.233 ritim=0.595 dinamik=  2.5 sure=174  g25 Dark, Suspenseful, Unnerving | Percussion, Strings
+Jalandhar                          dosya_ayni=True  bpm=  81 olcum=  80.7 hareket=0.215 ritim=0.608 dinamik=  2.3 sure=249  g25 Mysterious, Mystical, Grooving | Bass, Percussion, Sitar
+Reawakening                        dosya_ayni=True  bpm=  56 olcum= 143.6 hareket=0.097 ritim=0.242 dinamik=  4.6 sure=214  g22 Calming, Relaxed, Uplifting | Piano, Cello
+Unity                              dosya_ayni=True  bpm= 140 olcum=  69.8 hareket=0.238 ritim=0.445 dinamik=  6.8 sure=264  g22 Action, Driving, Intense | Piano, Percussion
+Broken Reality                     dosya_ayni=True  bpm= 132 olcum=  66.3 hareket=0.209 ritim=0.542 dinamik=  1.6 sure=218  g19 Calming, Relaxed | Percussion, Bass, Synth
+Gonna Start v2                     dosya_ayni=True  bpm=  90 olcum= 184.6 hareket=0.183 ritim=0.519 dinamik=  4.8 sure=155  g18 Bouncy, Driving, Uplifting | Piano, Drums, Bass, Organ, Guitar
+Dhaka                              dosya_ayni=True  bpm=   ? olcum= 103.4 hareket=0.164 ritim=0.248 dinamik=  2.9 sure=248  g25 Mysterious, Mystical | Sarod, Dilruba, Drone
+Music for Manatees                 dosya_ayni=True  bpm=   ? olcum=  73.8 hareket=0.109 ritim=0.349 dinamik=  3.3 sure=1056  g5 Calming, Relaxed | Piano, Electric Piano, Strings, Synth
+Gonna Start                        dosya_ayni=True  bpm=  73 olcum= 143.6 hareket=0.177 ritim=0.536 dinamik=  6.3 sure=191  g18 Bouncy, Humorous, Calming, Uplifting | Piano, Drums, Bass, Organ, Guitar
+Dream Culture                      dosya_ayni=True  bpm=  70 olcum=  69.8 hareket=0.182 ritim=0.611 dinamik=  3.2 sure=214  g5 Calming, Relaxed, Uplifting | Piano, Percussion
+Night of Chaos                     dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.166 ritim=0.670 dinamik=  3.9 sure=210  g10 Dark, Eerie, Mysterious, Unnerving | Guitar, Synths, Strings
+Evening of Chaos                   dosya_ayni=True  bpm=   ? olcum= 143.6 hareket=0.210 ritim=0.468 dinamik=  4.3 sure=282  g10 Dark, Eerie, Mysterious, Suspenseful, Unnerv | Piano, Percussion, Synths, Strings, Bras
+Day of Chaos                       dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.195 ritim=0.519 dinamik=  5.9 sure=250  g10 Dark, Eerie, Mysterious, Suspenseful, Unnerv | Piano, Percussion, Synths, Strings, Bras
+Lost Frontier                      dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.146 ritim=0.674 dinamik=  2.6 sure=265  g22 Eerie, Mysterious, Somber, Suspenseful | Violins, Cellos, Basses, Choir, French H
+Clean Soul                         dosya_ayni=True  bpm=   ? olcum= 161.5 hareket=0.046 ritim=0.194 dinamik=  3.2 sure=307  g5 Calming, Mysterious, Relaxed | Electric Piano, Bass
+Echoes of Time v2                  dosya_ayni=True  bpm=   ? olcum= 143.6 hareket=0.109 ritim=0.641 dinamik=  5.5 sure=285  g10 Dark, Mysterious, Unnerving | Synths
+Ghost Story                        dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.114 ritim=0.453 dinamik=  7.0 sure=320  g10 Calming, Mysterious, Relaxed | Vibraphone, Waterphone, Piano, Percussio
+White Lotus                        dosya_ayni=True  bpm=   ? olcum= 152.0 hareket=0.081 ritim=0.229 dinamik=  8.7 sure=2072  g5 Calming, Relaxed | Metals, Synths, Psaltery, Piano
+Echoes of Time                     dosya_ayni=True  bpm=   ? olcum= 143.6 hareket=0.107 ritim=0.546 dinamik=  4.3 sure=285  g10 Dark, Mysterious, Unnerving | Synths
+Perspectives                       dosya_ayni=True  bpm=  59 olcum= 117.5 hareket=0.130 ritim=0.452 dinamik=  0.9 sure=718  g5 Calming, Relaxed, Uplifting | Percussion, Synths, Piano, Flute
+Hitman                             dosya_ayni=True  bpm=  76 olcum= 152.0 hareket=0.227 ritim=0.540 dinamik=  4.0 sure=201  g22 Action, Dark, Driving, Epic, Intense | Basses, Violins, Choir, Percussion
+Inner Light                        dosya_ayni=True  bpm= 105 olcum= 103.4 hareket=0.163 ritim=0.193 dinamik=  1.4 sure=576  g5 Calming, Uplifting, Relaxed | Glockenspiel, Dulcimer, Bass, Drum Kit, 
+String Impromptu Number 1          dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.161 ritim=0.849 dinamik=  2.9 sure=374  g4 Calming, Intense, Relaxed | Violins, Violas, Cellos, Basses
+Space 1990-B                       dosya_ayni=True  bpm=  82 olcum= 112.3 hareket=0.178 ritim=0.433 dinamik=  1.6 sure=179  g5 Bright, Calming, Grooving | Synths, Drum Kit, Bells
+Space 1990                         dosya_ayni=True  bpm=  56 olcum=  73.8 hareket=0.162 ritim=0.409 dinamik=  2.3 sure=266  g5 Calming, Grooving, Relaxed | Synths, Drum Kit, Bells
+Inexorable                         dosya_ayni=True  bpm=   ? olcum= 117.5 hareket=0.167 ritim=0.842 dinamik=  5.0 sure=389  g13 Dark, Eerie, Mysterious, Mystical, Unnerving | Various
+Moonlight Hall                     dosya_ayni=True  bpm= 136 olcum= 143.6 hareket=0.180 ritim=0.640 dinamik=  3.0 sure=198  g22 Humorous, Mysterious, Mystical, Dark | Celesta, Tuba, Choir, Oboe, Bassoon, Vio
+Penumbra                           dosya_ayni=True  bpm=   ? olcum= 152.0 hareket=0.193 ritim=0.446 dinamik=  3.1 sure=296  g10 Dark, Eerie, Mysterious | Piano, Synths
+The Descent                        dosya_ayni=True  bpm= 103 olcum= 103.4 hareket=0.176 ritim=0.614 dinamik=  4.5 sure=192  g22 Action, Dark, Driving, Epic, Intense | French Horns, Trombones, Tuba, Violins, 
+Americana                          dosya_ayni=True  bpm= 104 olcum= 184.6 hareket=0.132 ritim=0.748 dinamik=  3.7 sure=202  g22 Epic, Uplifting | Cellos, Bass Clarinet, Alto Flute, Engli
+Peace of Mind                      dosya_ayni=True  bpm=   ? olcum= 107.7 hareket=0.108 ritim=0.463 dinamik=  3.0 sure=2158  g5 Calming, Relaxed | Piano, Synth, Strings
+Mining by Moonlight                dosya_ayni=True  bpm= 160 olcum=  80.7 hareket=0.175 ritim=0.420 dinamik=  5.0 sure=204  g11 Bouncy, Bright, Grooving, Relaxed | Electric Piano, Bass, Drum Kit
+Bent and Broken                    dosya_ayni=True  bpm=   ? olcum= 161.5 hareket=0.151 ritim=0.739 dinamik=  4.9 sure=267  g10 Dark, Eerie, Intense, Mysterious, Unnerving | Modified Piano, Percussion
+Dama-May                           dosya_ayni=True  bpm= 100 olcum=  99.4 hareket=0.196 ritim=0.350 dinamik=  1.5 sure=314  g24 Mysterious, Mystical, Suspenseful, Unnerving | Autoharp, Percussion, Basses
+Moon Lounge Omicron Prime          dosya_ayni=True  bpm= 124 olcum=  63.0 hareket=0.216 ritim=0.444 dinamik=  0.8 sure=224  g5 Bouncy, Humorous | Synths, Percussion, Organ, Guitar
+Summer Day                         dosya_ayni=True  bpm=  60 olcum= 123.0 hareket=0.082 ritim=0.333 dinamik=  1.0 sure=198  g5 Calming, Relaxed | Guitar, Electric Piano, Bass, Drum Kit
+Wisps of Whorls                    dosya_ayni=True  bpm=   ? olcum= 117.5 hareket=0.036 ritim=0.097 dinamik=  3.7 sure=856  g5 Calming, Relaxed | Electric Piano, Synths
+Digya                              dosya_ayni=True  bpm=  94 olcum= 184.6 hareket=0.256 ritim=0.624 dinamik=  2.4 sure=167  g2 Grooving, Mystical | Percussion, Marimba, Stringed
+Who Likes to Party                 dosya_ayni=True  bpm= 117 olcum= 117.5 hareket=0.245 ritim=0.758 dinamik=  1.0 sure=257  g6 Action, Bright, Grooving, Intense, Uplifting | Synths, Drum Kit, Strings, Guitar, Horns
+Hall of the Mountain King          dosya_ayni=True  bpm= 160 olcum=  86.1 hareket=0.218 ritim=0.744 dinamik=  6.9 sure=153  g4 Dark, Driving, Epic, Intense | Orchestra
+Bass Walker                        dosya_ayni=True  bpm= 112 olcum= 112.3 hareket=0.141 ritim=0.572 dinamik=  1.4 sure=161  g11 Dark, Grooving, Mysterious | Bass
+8bit Dungeon Level                 dosya_ayni=True  bpm= 106 olcum= 107.7 hareket=0.287 ritim=0.440 dinamik=  1.7 sure=217  g7 Dark, Suspenseful | Synths
+Thunder Dreams                     dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.170 ritim=0.671 dinamik=  4.6 sure=230  g10 Dark, Mysterious, Suspenseful, Unnerving | Synths
+Static Motion                      dosya_ayni=True  bpm=   ? olcum= 172.3 hareket=0.205 ritim=0.563 dinamik=  2.3 sure=189  g10 Dark, Eerie, Mysterious, Suspenseful, Unnerv | Synths
+Ice Demon                          dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.153 ritim=0.773 dinamik=  3.8 sure=265  g10 Dark, Eerie, Mysterious, Unnerving | Synths
+Controlled Chaos - no percussion   dosya_ayni=True  bpm=   ? olcum= 172.3 hareket=0.217 ritim=0.879 dinamik=  5.7 sure=351  g10 Dark, Mysterious, Mystical, Suspenseful, Unn | Synths
+Controlled Chaos                   dosya_ayni=True  bpm=  80 olcum= 161.5 hareket=0.224 ritim=0.801 dinamik=  4.1 sure=352  g10 Dark, Eerie, Intense, Mysterious, Suspensefu | Synths, Percussion
+Satiate - only percussion          dosya_ayni=False bpm=  90 olcum= 184.6 hareket=0.202 ritim=0.481 dinamik=  1.9 sure=193  g22 Dark, Mysterious, Unnerving | Percussion
+Satiate - only strings             dosya_ayni=False bpm=  90 olcum= 184.6 hareket=0.131 ritim=0.750 dinamik=  3.2 sure=192  g22 Dark, Intense, Suspenseful, Unnerving | Strings
+Satiate                            dosya_ayni=True  bpm=  90 olcum= 184.6 hareket=0.177 ritim=0.465 dinamik=  1.9 sure=192  g22 Dark, Intense, Relaxed, Suspenseful, Unnervi | Strings, Percussion
+Groove Grove                       dosya_ayni=True  bpm=  70 olcum=  92.3 hareket=0.101 ritim=0.434 dinamik=  4.2 sure=206  g11 Calming, Grooving, Mysterious, Relaxed | Percussion, Electric Piano, Synth
+Minima                             dosya_ayni=True  bpm= 165 olcum= 161.5 hareket=0.199 ritim=0.791 dinamik=  1.9 sure=214  g22 Driving, Epic, Intense, Mysterious, Suspense | Trumpets, Trombones, Horns, Clarinet, Fl
+Healing                            dosya_ayni=True  bpm=   ? olcum= 161.5 hareket=0.122 ritim=0.369 dinamik=  2.5 sure=520  g5 Calming, Mystical, Relaxed | Flute, Guitar, Percussion, Strings
+Brittle Rille                      dosya_ayni=True  bpm=  88 olcum=  86.1 hareket=0.120 ritim=0.275 dinamik=  0.6 sure=229  g5 Bright, Calming, Mysterious | Bass, Music Box, Cello
+Dub Eastern                        dosya_ayni=True  bpm=  69 olcum=  69.8 hareket=0.194 ritim=0.376 dinamik=  1.0 sure=233  g18 Calming, Dark, Grooving, Mystical, Relaxed | Bass, Drum Kit, Piano, Guitar, Synth
+Dub Feral                          dosya_ayni=True  bpm=  69 olcum=  69.8 hareket=0.202 ritim=0.420 dinamik=  1.2 sure=233  g18 Calming, Dark, Grooving, Relaxed | Bass, Drum Kit, Piano, Guitar, Synth
+Drone in D                         dosya_ayni=True  bpm=   ? olcum= 107.7 hareket=0.090 ritim=0.295 dinamik=  1.9 sure=1282  g5 Calming, Relaxed | Piano, Synth
+Unanswered Questions               dosya_ayni=True  bpm=  84 olcum= 117.5 hareket=0.122 ritim=0.174 dinamik=  2.3 sure=166  g22 Grooving, Suspenseful | Kora
+Simplex                            dosya_ayni=True  bpm= 138 olcum=  78.3 hareket=0.188 ritim=0.253 dinamik=  2.0 sure=183  g22 Dark, Suspenseful, Unnerving | Percussion, Synth, Guitar
+Stormfront                         dosya_ayni=True  bpm= 120 olcum=  80.7 hareket=0.214 ritim=0.493 dinamik=  3.4 sure=334  g22 Dark, Epic, Intense, Suspenseful, Unnerving | Percussion, Synths
+Light Thought var 1                dosya_ayni=True  bpm= 133 olcum=  66.3 hareket=0.050 ritim=0.317 dinamik=  2.3 sure=162  g5 Bright, Calming, Relaxed | Electric Piano
+Angels We Have Heard on High       dosya_ayni=False bpm=  94 olcum=  95.7 hareket=0.113 ritim=0.422 dinamik=  5.4 sure=244  g9 Relaxed, Uplifting | Piano
+Noble Race                         dosya_ayni=True  bpm=   ? olcum= 103.4 hareket=0.175 ritim=0.719 dinamik=  5.8 sure=316  g22 Intense, Action, Epic, Driving, Mysterious | Full Orchestra
+Hit the Streets v2                 dosya_ayni=True  bpm= 125 olcum=  71.8 hareket=0.239 ritim=0.355 dinamik=  0.8 sure=200  g22 Grooving, Intense | Percussion
+Hit the Streets                    dosya_ayni=True  bpm= 112 olcum= 112.3 hareket=0.240 ritim=0.375 dinamik=  1.1 sure=223  g22 Grooving | Percussion
+Wood and Metal and Water           dosya_ayni=True  bpm=   ? olcum= 161.5 hareket=0.109 ritim=0.380 dinamik=  7.3 sure=2916  g24 Calming, Relaxed | Strings, Bells, Piano, Chimes
+Mirage                             dosya_ayni=True  bpm=   ? olcum= 161.5 hareket=0.143 ritim=0.631 dinamik=  4.6 sure=240  g24 Calming, Eerie, Mysterious, Relaxed | Synths
+The Path of the Goblin King v2     dosya_ayni=True  bpm= 103 olcum=  68.0 hareket=0.186 ritim=0.635 dinamik=  2.2 sure=178  g22 Dark, Intense, Mysterious | Strings, Flute, Clarinet, Oboe, Celesta,
+The Path of the Goblin King        dosya_ayni=True  bpm=  89 olcum= 172.3 hareket=0.187 ritim=0.504 dinamik=  2.5 sure=206  g22 Mysterious, Relaxed | Strings, Flute, Clarinet, Oboe, Celesta,
+The Snow Queen                     dosya_ayni=True  bpm=  96 olcum=  95.7 hareket=0.186 ritim=0.678 dinamik=  3.1 sure=220  g22 Mysterious, Mystical | Strings, Bassoon, Bass Clarinet, Flute, 
+Over Under                         dosya_ayni=True  bpm= 118 olcum= 117.5 hareket=0.107 ritim=0.169 dinamik=  3.0 sure=250  g5 Calming | Bass
+Wet Riffs                          dosya_ayni=True  bpm=  41 olcum= 129.2 hareket=0.081 ritim=0.355 dinamik=  4.2 sure=253  g5 Calming, Relaxed | Bass
+Suvaco do Cristo                   dosya_ayni=True  bpm= 112 olcum=  73.8 hareket=0.229 ritim=0.355 dinamik=  2.5 sure=156  g25 Driving, Grooving | Percussion
+Cool Vibes                         dosya_ayni=True  bpm=  83 olcum=  83.4 hareket=0.143 ritim=0.377 dinamik=  1.1 sure=218  g11 Calming, Relaxed | Vibraphone, Bass, Drum Kit
+Facile                             dosya_ayni=True  bpm=  59 olcum=  63.0 hareket=0.107 ritim=0.128 dinamik=  6.9 sure=212  g5 Calming, Relaxed | Piano
+Chee Zee Caves V2                  dosya_ayni=True  bpm= 116 olcum=  78.3 hareket=0.223 ritim=0.382 dinamik=  0.3 sure=232  g22 Intense, Suspenseful | Percussion, Strings
+Gathering Darkness                 dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.186 ritim=0.735 dinamik=  5.0 sure=265  g10 Dark, Eerie, Mysterious, Unnerving | Synths
+Invariance                         dosya_ayni=True  bpm= 108 olcum= 107.7 hareket=0.165 ritim=0.237 dinamik=  1.9 sure=217  g22 Dark, Driving, Mysterious, Suspenseful | Marimba, Xylophone, Percussion, Basses
+I Feel You                         dosya_ayni=True  bpm= 120 olcum=  80.7 hareket=0.175 ritim=0.424 dinamik=  3.0 sure=188  g19 Driving, Grooving | Guitar, Bass, Drum Kit, Piano
+Cipher                             dosya_ayni=False bpm= 150 olcum=  76.0 hareket=0.172 ritim=0.418 dinamik=  5.1 sure=231  g7 Bright, Grooving, Uplifting | Synths, Electric Piano, Percussion, Stri
+Quasi Motion                       dosya_ayni=True  bpm= 100 olcum=  99.4 hareket=0.251 ritim=0.661 dinamik=  1.2 sure=152  g25 Bright, Grooving | Percussion, Stringed Instruments, Flute
+Slow Heat                          dosya_ayni=True  bpm=  58 olcum=  61.5 hareket=0.273 ritim=0.110 dinamik=  1.8 sure=222  g2 Bright, Calming, Relaxed | Percussion, Marimba
+Dubakupado                         dosya_ayni=True  bpm= 115 olcum=  76.0 hareket=0.260 ritim=0.513 dinamik=  1.4 sure=213  g2 Grooving | Percussion, Marimba
+Firebrand                          dosya_ayni=True  bpm= 164 olcum=  83.4 hareket=0.261 ritim=0.700 dinamik=  0.6 sure=359  g25 Action, Driving, Grooving, Intense | Percussion
+Rite of Passage                    dosya_ayni=True  bpm= 126 olcum=  63.0 hareket=0.284 ritim=0.707 dinamik=  1.8 sure=281  g25 Grooving, Mystical, Relaxed | Percussion
+StompDance                         dosya_ayni=True  bpm=  80 olcum= 103.4 hareket=0.289 ritim=0.293 dinamik=  2.4 sure=222  g25 Dark, Driving, Intense | Percussion
+Tikopia                            dosya_ayni=True  bpm= 133 olcum=  66.3 hareket=0.272 ritim=0.783 dinamik=  3.4 sure=228  g25 Dark, Driving, Grooving | Percussion
+Arcane                             dosya_ayni=True  bpm=  93 olcum= 184.6 hareket=0.267 ritim=0.605 dinamik=  2.5 sure=323  g25 Bright, Epic, Intense | Percussion
+Melodie Victoria                   dosya_ayni=True  bpm=  89 olcum=  89.1 hareket=0.079 ritim=0.307 dinamik=  1.3 sure=241  g22 Bright, Calming, Mystical | Music Box
+Tabuk                              dosya_ayni=True  bpm= 125 olcum=  64.6 hareket=0.201 ritim=0.427 dinamik=  1.3 sure=158  g25 Calming, Epic, Mysterious | Strings, Percussion, Flute
+Cortosis                           dosya_ayni=True  bpm= 126 olcum=  86.1 hareket=0.185 ritim=0.454 dinamik=  3.2 sure=153  g22 Action, Driving, Intense | Timpani, Basses, Trumpets, Trombones, Tu
+Mandeville                         dosya_ayni=True  bpm=  72 olcum=  71.8 hareket=0.207 ritim=0.646 dinamik=  1.0 sure=217  g18 Dark, Grooving | Bass, Guitar, Drum Kit, Organ
+Yallahs                            dosya_ayni=True  bpm=  67 olcum=  68.0 hareket=0.215 ritim=0.584 dinamik=  0.8 sure=228  g18 Dark, Grooving | Bass, Guitar, Drum Kit, Organ
+Enchanted Journey                  dosya_ayni=True  bpm=  62 olcum=  95.7 hareket=0.131 ritim=0.192 dinamik=  3.6 sure=270  g5 Bright, Calming, Mystical, Uplifting | Harp
+Faster Does It                     dosya_ayni=True  bpm= 135 olcum= 136.0 hareket=0.197 ritim=0.399 dinamik=  1.9 sure=182  g11 Grooving, Intense | Bass, Drum Kit
+Gymnopedie No. 2                   dosya_ayni=False bpm=  77 olcum=  76.0 hareket=0.091 ritim=0.474 dinamik=  2.8 sure=159  g4 Calming, Relaxed, Uplifting | Piano
+Gymnopedie No. 1                   dosya_ayni=False bpm=  77 olcum=  76.0 hareket=0.100 ritim=0.531 dinamik=  2.5 sure=187  g4 Calming, Relaxed, Uplifting | Piano
+Darkest Child var A                dosya_ayni=True  bpm= 156 olcum=  78.3 hareket=0.115 ritim=0.445 dinamik=  1.5 sure=197  g22 Dark, Eerie, Unnerving | Harp, Celesta, Cellos, Basses
+Darkest Child                      dosya_ayni=True  bpm= 128 olcum= 129.2 hareket=0.113 ritim=0.515 dinamik=  1.6 sure=239  g22 Dark, Eerie, Unnerving | Harp, Celesta, Cellos, Basses
+Enter the Maze                     dosya_ayni=True  bpm=  93 olcum=  61.5 hareket=0.170 ritim=0.428 dinamik=  2.5 sure=178  g24 Intense, Mysterious, Suspenseful | Percussion, Horn, Misc
+Scissors                           dosya_ayni=True  bpm= 103 olcum= 103.4 hareket=0.198 ritim=0.544 dinamik=  4.7 sure=208  g24 Intense, Mysterious, Suspenseful | Percussion, Synths, Misc
+Autumn Day                         dosya_ayni=True  bpm= 126 olcum=  83.4 hareket=0.120 ritim=0.457 dinamik=  2.1 sure=185  g5 Bright, Calming | Guitar, Bass, Drum Kit, Strings, Piano, 
+Organic Meditations One            dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.128 ritim=0.360 dinamik=  1.2 sure=988  g5 Calming, Relaxed | Strings, Bells, Percussion
+Organic Meditations Three          dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.102 ritim=0.065 dinamik=  1.2 sure=967  g5 Calming, Relaxed | Piano, Strings
+Windswept                          dosya_ayni=True  bpm=  79 olcum= 161.5 hareket=0.121 ritim=0.440 dinamik=  1.4 sure=208  g5 Calming, Relaxed | Guitar, Strings
+Rising                             dosya_ayni=True  bpm=  84 olcum= 172.3 hareket=0.241 ritim=0.495 dinamik=  2.0 sure=151  g13 Grooving, Intense, Suspenseful | Synths, Choir, Percussion
+Gone Beyond                        dosya_ayni=True  bpm= 118 olcum= 117.5 hareket=0.094 ritim=0.570 dinamik=  2.0 sure=161  g22 Calming, Unnerving | Music Box, Choir
+Procession of the King             dosya_ayni=True  bpm=  56 olcum= 184.6 hareket=0.138 ritim=0.767 dinamik=  1.9 sure=184  g22 Intense, Uplifting | Strings
+Organic Meditations Two            dosya_ayni=True  bpm=   ? olcum= 172.3 hareket=0.072 ritim=0.317 dinamik=  0.9 sure=955  g5 Calming, Relaxed | Tuba, French Horns, Marimba
+The Other Side of the Door         dosya_ayni=True  bpm=  95 olcum= 143.6 hareket=0.154 ritim=0.580 dinamik=  1.8 sure=168  g22 Driving, Mysterious, Mystical | Harp, Oboe, Flute, Strings
+Court of the Queen                 dosya_ayni=True  bpm=  95 olcum=  95.7 hareket=0.151 ritim=0.744 dinamik=  4.0 sure=200  g24 Bright, Relaxed | Strings, Brass, Percussion, Celesta
+Eastminster                        dosya_ayni=True  bpm=  51 olcum= 107.7 hareket=0.156 ritim=0.191 dinamik=  2.5 sure=405  g5 Calming, Relaxed | Plucked Strings, Synths
+Silver Blue Light                  dosya_ayni=True  bpm=  47 olcum=  89.1 hareket=0.103 ritim=0.127 dinamik=  2.1 sure=350  g5 Bright, Calming, Relaxed | Guitar, Synths
+Porch Swing Days - faster          dosya_ayni=True  bpm= 130 olcum=  64.6 hareket=0.150 ritim=0.602 dinamik=  1.2 sure=185  g5 Bright, Calming, Relaxed, Uplifting | Guitars, Bass, Drum Kit, Percussion, Voi
+Porch Swing Days - slower          dosya_ayni=True  bpm= 110 olcum= 112.3 hareket=0.146 ritim=0.574 dinamik=  1.2 sure=216  g5 Bright, Calming, Relaxed, Uplifting | Guitars, Bass, Drum Kit, Percussion, Voi
+Redletter                          dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.163 ritim=0.885 dinamik=  3.9 sure=268  g10 Dark, Eerie, Intense, Suspenseful, Unnerving | Strings, Synths
+The Hive                           dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.181 ritim=0.831 dinamik=  4.2 sure=252  g10 Dark, Unnerving | Synths
+Right Behind You                   dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.183 ritim=0.908 dinamik=  2.1 sure=262  g10 Eerie, Mysterious, Unnerving | Synths, Cymbals, Voice
+The House of Leaves                dosya_ayni=True  bpm=   ? olcum= 103.4 hareket=0.213 ritim=0.635 dinamik=  7.6 sure=206  g10 Dark, Eerie, Intense, Suspenseful, Unnerving | Harp, Violins, Percussion, Synths
+Finding the Balance                dosya_ayni=True  bpm=  75 olcum= 152.0 hareket=0.198 ritim=0.448 dinamik=  2.5 sure=208  g13 Bright, Grooving, Intense | Bass, Percussion, Synths, Voice
+Ibn Al-Noor                        dosya_ayni=True  bpm= 100 olcum= 107.7 hareket=0.204 ritim=0.379 dinamik=  1.2 sure=218  g25 Action, Eerie, Suspenseful | Plucked Strings, Bow strings, Percussion
+For Originz                        dosya_ayni=True  bpm=  55 olcum= 107.7 hareket=0.147 ritim=0.282 dinamik=  1.2 sure=219  g5 Bright, Calming, Mystical, Relaxed | Strings, Choir, Percussion
+Nerves                             dosya_ayni=True  bpm= 135 olcum=  92.3 hareket=0.205 ritim=0.670 dinamik=  6.5 sure=172  g22 Action, Dark, Eerie, Epic, Intense, Suspense | Brass, Percussion, Strings, Synths
+Orion 300XB                        dosya_ayni=True  bpm=  91 olcum=  61.5 hareket=0.175 ritim=0.370 dinamik=  2.7 sure=223  g24 Calming, Eerie, Mysterious, Mystical | Synths, Percussion, Voice
+Ripples                            dosya_ayni=True  bpm=  57 olcum= 117.5 hareket=0.126 ritim=0.220 dinamik=  2.4 sure=205  g25 Calming, Mystical, Relaxed | Koto
+Prelude in C (BWV 846)             dosya_ayni=False bpm=  49 olcum=  99.4 hareket=0.106 ritim=0.572 dinamik=  0.9 sure=179  g4 Calming | Piano
+Eastern Thought                    dosya_ayni=True  bpm=  98 olcum=  99.4 hareket=0.183 ritim=0.496 dinamik=  4.0 sure=262  g25 Mystical, Relaxed | Strings, Metals, Percussion
+New Direction                      dosya_ayni=True  bpm=   ? olcum= 107.7 hareket=0.060 ritim=0.374 dinamik=  3.7 sure=679  g24 Calming | Synths
+Tenebrous Brothers Carnival - Mermaid dosya_ayni=True  bpm=   ? olcum= 172.3 hareket=0.163 ritim=0.530 dinamik=  6.2 sure=267  g24 Eerie, Intense, Mysterious, Mystical, Relaxe | Harps, Voice, Exotic Organ, Waterphone, 
+Tenebrous Brothers Carnival - Snake Lady dosya_ayni=True  bpm=   ? olcum= 152.0 hareket=0.160 ritim=0.338 dinamik=  3.4 sure=202  g24 Eerie, Epic, Mysterious, Mystical, Unnerving | Percussion, Duduk
+Ghostpocalypse - 2 The Call        dosya_ayni=True  bpm=   ? olcum= 161.5 hareket=0.202 ritim=0.527 dinamik=  4.1 sure=168  g22 Eerie, Intense, Unnerving | Synths, Percussion, Piano
+Habanera                           dosya_ayni=True  bpm= 110 olcum= 112.3 hareket=0.226 ritim=0.409 dinamik=  3.0 sure=248  g4 Bright, Epic | Solo Female Voice, Clarinet, Strings, Br
+Spacial Harvest                    dosya_ayni=True  bpm=   ? olcum= 184.6 hareket=0.110 ritim=0.500 dinamik=  1.3 sure=654  g7 Dark, Eerie, Mysterious, Mystical, Unnerving | Synths
+Tenebrous Brothers Carnival - Act One dosya_ayni=True  bpm=  70 olcum=  71.8 hareket=0.204 ritim=0.585 dinamik=  3.0 sure=237  g24 Dark, Eerie, Mysterious, Mystical, Unnerving | Organ, Percussion, Glockenspiel, Voice, 
+Tenebrous Brothers Carnival - Prelude dosya_ayni=True  bpm=  70 olcum= 136.0 hareket=0.224 ritim=0.581 dinamik=  6.9 sure=435  g24 Eerie, Mysterious, Mystical, Unnerving | Percussion, Synths
+World Vice                         dosya_ayni=True  bpm= 134 olcum= 136.0 hareket=0.249 ritim=0.407 dinamik=  1.5 sure=204  g25 Action, Grooving | Percussion, Marimba, Stringed Instrument
+Hypnothis                          dosya_ayni=True  bpm= 104 olcum=  69.8 hareket=0.166 ritim=0.511 dinamik=  0.8 sure=283  g7 Calming, Grooving, Relaxed | Synths, Percussion, Choir
+Ambiment                           dosya_ayni=True  bpm=   ? olcum= 161.5 hareket=0.073 ritim=0.186 dinamik=  2.9 sure=1373  g24 Calming, Mystical, Relaxed | Piano, Synths
+Sunshine (version 2)               dosya_ayni=False bpm=  79 olcum=  78.3 hareket=0.157 ritim=0.545 dinamik=  0.7 sure=225  g16 Bright, Calming, Relaxed | Guitar, Bass, Drum Kit, Piano
+Clear Air                          dosya_ayni=True  bpm=  68 olcum=  68.0 hareket=0.146 ritim=0.391 dinamik=  3.4 sure=184  g16 Bright, Calming, Relaxed | Guitar, Piano
+Impact Allegretto                  dosya_ayni=True  bpm= 120 olcum=  80.7 hareket=0.212 ritim=0.610 dinamik=  4.9 sure=182  g24 Action, Bright, Driving | Percussion, Guitar, Synths
+Impact Andante                     dosya_ayni=True  bpm=  91 olcum= 184.6 hareket=0.183 ritim=0.538 dinamik=  3.2 sure=169  g24 Calming, Mystical, Relaxed | Synths, Guitar, Percussion, Choir
+Impact Lento                       dosya_ayni=True  bpm=  60 olcum= 161.5 hareket=0.111 ritim=0.799 dinamik=  5.5 sure=211  g24 Epic, Mysterious, Relaxed | Synths, Choir
+Impact Prelude                     dosya_ayni=True  bpm=  80 olcum= 161.5 hareket=0.184 ritim=0.557 dinamik=  2.8 sure=203  g24 Calming, Grooving, Mysterious | Percussion, Guitar, Synths
+Mind Scrape                        dosya_ayni=True  bpm=   ? olcum=  92.3 hareket=0.174 ritim=0.582 dinamik=  4.7 sure=168  g24 Dark, Mystical | Synths, Bells, Percussion
+Last Kiss Goodnight                dosya_ayni=True  bpm=  60 olcum= 184.6 hareket=0.134 ritim=0.432 dinamik=  0.9 sure=186  g19 Calming, Relaxed | Guitar, Bass, Drum Kit, Strings, Piano
+Tranquility Base                   dosya_ayni=True  bpm=   ? olcum= 112.3 hareket=0.103 ritim=0.249 dinamik=  5.1 sure=1109  g25 Mystical, Relaxed | Synths, Bells, Percussion
+Nile's Blues                       dosya_ayni=False bpm=  88 olcum= 172.3 hareket=0.192 ritim=0.368 dinamik=  0.8 sure=153  g3 Grooving, Relaxed | Organ, Guitar, Bass, Drum Kit
+Slow Burn                          dosya_ayni=True  bpm=  84 olcum=  86.1 hareket=0.200 ritim=0.609 dinamik=  2.1 sure=229  g3 Bright, Dark, Grooving | Guitar, Organ, Bass, Drum Kit
+Disco Lounge                       dosya_ayni=True  bpm= 109 olcum=  73.8 hareket=0.246 ritim=0.527 dinamik=  1.7 sure=253  g6 Grooving, Relaxed | Synths, Drum Kit, Vibraphone, Strings
+Symbiosis                          dosya_ayni=True  bpm=   ? olcum=  80.7 hareket=0.160 ritim=0.565 dinamik=  8.6 sure=259  g24 Calming, Dark | Piano, Percussion
+Kool Kats                          dosya_ayni=True  bpm= 113 olcum= 112.3 hareket=0.239 ritim=0.733 dinamik=  1.7 sure=201  g11 Grooving, Mysterious | Piano, Drum Kit, Guitar, Organs
+Birch Run                          dosya_ayni=True  bpm=  88 olcum=  89.1 hareket=0.207 ritim=0.433 dinamik=  0.2 sure=267  g25 Dark, Eerie, Mystical | Drums, Rattles
+Firesong                           dosya_ayni=True  bpm=  93 olcum= 184.6 hareket=0.249 ritim=0.422 dinamik=  0.9 sure=213  g25 Dark, Driving, Epic, Mysterious, Mystical | Drums, Rattles
+Night of the Owl                   dosya_ayni=True  bpm=  68 olcum=  68.0 hareket=0.220 ritim=0.603 dinamik=  2.3 sure=233  g25 Dark, Mystical | Drums, Flute
+Black Bird                         dosya_ayni=True  bpm= 108 olcum= 107.7 hareket=0.230 ritim=0.324 dinamik=  0.4 sure=174  g25 Dark, Mystical | Drums, Rattles, Clapping
+Thunderhead                        dosya_ayni=True  bpm=  83 olcum= 172.3 hareket=0.265 ritim=0.459 dinamik=  2.2 sure=175  g25 Dark, Mystical | Rattles, Shakers, Drums

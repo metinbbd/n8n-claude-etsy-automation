@@ -1,6 +1,6 @@
 {
  "baslangic_bakiye": 200.0,
- "bakiye": 169.70313656267075,
+ "bakiye": 169.6930538869848,
  "pozisyonlar": {
   "DOGE": {
    "yon": "SHORT",
@@ -12,7 +12,19 @@
    "likidasyon": 0.10505788333333332,
    "acilis": 1792303200000,
    "ucret": 0.025455,
-   "fonlama": 0.015189963080035403
+   "fonlama": 0.030547287394107978
+  },
+  "XRP": {
+   "yon": "SHORT",
+   "giris": 1.302,
+   "miktar": 39.07834101382488,
+   "teminat": 16.96,
+   "stop": 1.4275941599720217,
+   "hedef": 1.050811680055957,
+   "likidasyon": 1.7294900000000002,
+   "acilis": 1792476000000,
+   "ucret": 0.02544,
+   "fonlama": 0.0
   }
  },
  "hareketler": [
@@ -215,6 +227,14 @@
    "islem": "SHORT açıldı",
    "fiyat": 0.07909,
    "teminat": 16.97
+  },
+  {
+   "gun": "2026-10-20",
+   "ts": 1792476000000,
+   "coin": "XRP",
+   "islem": "SHORT açıldı",
+   "fiyat": 1.302,
+   "teminat": 16.96
   }
  ],
  "islemler": [
@@ -399,7 +419,11 @@
   {
    "gun": "2026-10-19",
    "deger": 169.3105
+  },
+  {
+   "gun": "2026-10-20",
+   "deger": 169.5901
   }
  ],
- "son_kontrol": 1792389600000
+ "son_kontrol": 1792476000000
 }

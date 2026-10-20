@@ -1,0 +1,14 @@
+{
+  "svs_aramalari": [
+    "Europa", "Europa Clipper", "Enceladus", "Enceladus plumes", "Cassini Enceladus", "Cassini Saturn",
+    "Jupiter moons", "Galilean moons", "Laplace resonance", "Europa ocean", "Europa surface", "ocean worlds",
+    "Titan", "Ganymede", "Saturn rings", "Jupiter", "tidal heating", "Webb Europa", "Hubble Europa plume",
+    "icy moons", "Juno Jupiter", "Io volcano"
+  ],
+  "svs_limit": 6,
+  "baslik_atla": "fulldome|toolkit|dome|interview|briefing|live shot|wallpaper|flash talk|everything you need",
+  "aramalar": ["Europa moon", "Enceladus plume", "Europa Clipper", "Cassini Enceladus flyby", "Galileo Europa", "hydrothermal vents", "Saturn Cassini"],
+  "supheliler_dahil": false,
+  "tablo_limiti": 120,
+  "muzik_adaylari": []
+}

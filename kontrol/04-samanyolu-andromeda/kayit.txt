@@ -1,6 +1,5 @@
   indiriliyor: A
   indiriliyor: AN
-  indiriliyor: CG
   indiriliyor: CI
   indiriliyor: GC
   indiriliyor: JC
@@ -11,8 +10,7 @@
   indiriliyor: S13239
   indiriliyor: S13831
   indiriliyor: S20367
-  indiriliyor: S31281
-  indiriliyor: S5586
+  indiriliyor: S31375
   indiriliyor: SB
   indiriliyor: SK
   indiriliyor: SQ

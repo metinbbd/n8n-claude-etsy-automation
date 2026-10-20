@@ -1,0 +1,473 @@
+[
+ {
+  "id": "JPL-20210701-WHATSUf-0001-Whats-Up-July-2021",
+  "baslik": "What's Up: July 2021 Skywatching Tips from NASA ",
+  "merkez": "JPL",
+  "tarih": "2021-07-01",
+  "aciklama": "What are some skywatching highlights in July 2021? Venus blazes as the \"Evening Star\" following sunset, with a much fainter planet Mars nearby. Catch their super close pairing on July 12. Plus, if you can find your way to dark skies, this is the best time of year to enjoy the magic of the Milky Way. ",
+  "insan_suphesi": false,
+  "sorgu": "Milky Way timelapse",
+  "href": "https://images-assets.nasa.gov/video/JPL-20210701-WHATSUf-0001-Whats-Up-July-2021/collection.json"
+ },
+ {
+  "id": "GSFC_20181002_SMBH_m13043_Simulation",
+  "baslik": "New Simulation Sheds Light on Spiraling Supermassive Black Holes",
+  "merkez": "GSFC",
+  "tarih": "2018-10-02",
+  "aciklama": "A new model is bringing scientists a step closer to understanding the kinds of light signals produced when two supermassive black holes, which are millions to billions of times the mass of the Sun, spiral toward a collision. For the first time, a new computer simulation that fully incorporates the physical effects of Einstein’s general theory of relativity shows that gas in such systems will glow ",
+  "insan_suphesi": true,
+  "sorgu": "galaxy merger simulation",
+  "href": "https://images-assets.nasa.gov/video/GSFC_20181002_SMBH_m13043_Simulation/collection.json"
+ },
+ {
+  "id": "ksc_082604_chandra",
+  "baslik": "KSC-04-S-00307",
+  "merkez": "KSC",
+  "tarih": "2004-08-27",
+  "aciklama": "A new era in stellar astronomy began five years ago when the Chandra X-ray Observatory first opened its sunshade to focus on former supernova Cassiopeia A. Sensitive to invisible x-ray light, Chandra can see the heat given off by massive stellar objects regardless of their distance. This ability to peer into the overwhelming darkness of space has revealed a hidden thermal universe previously veile",
+  "insan_suphesi": false,
+  "sorgu": "Antennae galaxies Chandra",
+  "href": "https://images-assets.nasa.gov/video/ksc_082604_chandra/collection.json"
+ },
+ {
+  "id": "svs15099",
+  "svs": 15099,
+  "baslik": "NASA-JAXA XRISM Mission Sees Pulsar Accreting Companion's 'Wind'",
+  "tur": "Produced Video",
+  "tarih": "2026-09-18",
+  "aciklama": "This artist’s concept of the BP Crucis system follows the pulsar on a passage through the dense stream of plasma flowing from its companion, a blue hypergiant 40 times the Sun’s mass. During each four-day passage, the pulsar’s X-ray brightness flares as it pulls in some of the gas. At first, the gas forms a messy, turbulent accretion disk around the pulsar, and plasma spirals down to it. But as th",
+  "sorgu": "red giant star",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Producer: ",
+   "Animator: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a015000/a015099/XRISM2.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 61.9,
+  "tablo": "tablolar/svs15099.jpg"
+ },
+ {
+  "id": "svs15098",
+  "svs": 15098,
+  "baslik": "NASA, Partners Prepare EXCITE for Antarctic Flight",
+  "tur": "Produced Video",
+  "tarih": "2026-09-15",
+  "aciklama": "The EXCITE (EXoplanet Climate Infrared TElescope) payload hangs inside the Integration and Testing complex at NASA’s Goddard Space Flight Center in Greenbelt, Md., on June 11, 2026. The team, including Principal Investigator Peter Nagler, seen at lower right, prepared EXCITE for shipment to NASA’s CSBF (Columbia Scientific Balloon Facility) in Palestine, Texas. Credit: NASA/Scott Wiessinger Alt te",
+  "sorgu": "red giant star",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Scientist: ",
+   "Photographer: "
+  ]
+ },
+ {
+  "id": "svs14859",
+  "svs": 14859,
+  "baslik": "Webb Stellarium",
+  "tur": "Produced Video",
+  "tarih": "2025-06-21",
+  "aciklama": "Stellarium is an installation video designed for the Goddard Space Flight Center visitor center. It is playing temporarily in the room designed for Solarium, and installation built around Sun footage from the Solar Dynamics Observatory (SDO). Stellarium sources James Webb Space Telescope imagery processed and provided by the Space Telescope Science Institute and available here. ",
+  "sorgu": "planetary nebula",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Editor: ",
+   "Project support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014800/a014859/WEBB_Stellarium_1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 4,
+  "sure": 644.7,
+  "tablo": "tablolar/svs14859.jpg"
+ },
+ {
+  "id": "svs31346",
+  "svs": 31346,
+  "baslik": "Planetary Nebula NGC 1514: WISE vs Webb Images",
+  "tur": "Hyperwall Visual",
+  "tarih": "2025-05-13",
+  "aciklama": "Two infrared views of NGC 1514. Starting with an observation from NASA’s Wide-field Infrared Survey Explorer (WISE). Ending with a more refined image from NASA's James Webb Space Telescope.",
+  "sorgu": "planetary nebula",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a031300/a031346/WIES-Webb_crossfade compare-1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 5,
+  "sure": 60.0,
+  "tablo": "tablolar/svs31346.jpg"
+ },
+ {
+  "id": "svs14645",
+  "svs": 14645,
+  "baslik": "Hubble’s Inside the Image: Cat's Eye Nebula",
+  "tur": "Produced Video",
+  "tarih": "2024-08-08",
+  "aciklama": "NASA's Hubble Space Telescope has captured a stunning image of the Cat's Eye Nebula, one of the most complex planetary nebulae known, with its intricate structure of concentric rings and high-density knots.In this video, Dr. Ken Carpenter delves into the beauty of this cosmic jewel and discusses the critical role Hubble plays in unraveling the secrets of stellar evolution and the lifecycle of star",
+  "sorgu": "planetary nebula",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014600/a014645/14645_CAT_WIDE_MP4.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 2
+ },
+ {
+  "id": "svs15102",
+  "svs": 15102,
+  "baslik": "Dying Star Creates Brand New Planet",
+  "tur": "Produced Video",
+  "tarih": "2026-10-05",
+  "aciklama": "What if a star’s death could give rise to an entirely new planet?Astronomers revisiting decades-old observations from NASA’s Hubble Space Telescope found an unexpected chemical clue around a white dwarf: niobium, a heavy element forged during the final stages of a star’s life. Combined with observations from other NASA missions, the evidence points to an intriguing possibility: a Jupiter-sized wor",
+  "sorgu": "white dwarf",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a015100/a015102/15102_SECONDGEN_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 148.5,
+  "tablo": "tablolar/svs15102.jpg"
+ },
+ {
+  "id": "svs5648",
+  "svs": 5648,
+  "baslik": "The Moon Passes In and Out of Earth's Magnetosphere",
+  "tur": "Visualization",
+  "tarih": "2026-07-02",
+  "aciklama": "The Moon orbits Earth at a distance of more than 200,000 miles. Earth's magnetosphere, the protective magnetic bubble that surrounds us, is shaped like a tadpole. The Sun-facing side of the magnetosphere does not reach the distance of the Moon's orbit, but the tail extends far beyond it. This visualization shows how the Moon moves in and out of the magnetosphere.",
+  "sorgu": "white dwarf",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs15046",
+  "svs": 15046,
+  "baslik": "Swift Multitool Infographic",
+  "tur": "Infographic",
+  "tarih": "2026-06-05",
+  "aciklama": "This infographic highlights some of the achievements of NASA’s Neil Gehrels Swift Observatory, which has become the agency’s astrophysics multitool since launching in 2004. The spacecraft studies a wide range of objects, from those near Earth, to stars, black holes, and gamma-ray bursts — the most powerful explosions in the cosmos. Credit: NASA’s Goddard Space Flight CenterAlt text: Infographic of",
+  "sorgu": "white dwarf",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Graphic designer: ",
+   "Science writer: "
+  ]
+ },
+ {
+  "id": "svs5681",
+  "svs": 5681,
+  "baslik": "Hurricane Polo Makes Landfall in Baja California",
+  "tur": "Visualization",
+  "tarih": "2026-10-01",
+  "aciklama": "Hurricane Polo became a Tropical Storm on September 20, 2026. On September 27, 2026 GPM flew over the hurricane and captured a 3D image of it. This version has the dates burned into the video. || Polo_v07_stutter_with_dates.01500_print.jpg (1024x576) [128.3 KB] || Polo_v07_stutter_with_dates.mp4 (1920x1080) [185.1 MB] || ",
+  "sorgu": "Sun evolution",
+  "insan_suphesi": false,
+  "krediler": [
+   "Data visualizer: ",
+   "Scientist: ",
+   "Writer: ",
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a000000/a005600/a005681/Polo_v07_date_overlay.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 103.4,
+  "tablo": "tablolar/svs5681.jpg"
+ },
+ {
+  "id": "svs31400",
+  "svs": 31400,
+  "baslik": "Simulating Solar Flows",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-06-24",
+  "aciklama": "Beneath the Sun’s surface, a roiling layer of super-heated plasma churns. To understand more about where this movement comes from and how it influences space weather and life on Earth, scientists use advanced computational models to simulate the Sun’s active interior.",
+  "sorgu": "Sun evolution",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs15047",
+  "svs": 15047,
+  "baslik": "Milky Way Habitable Zone",
+  "tur": "Produced Video",
+  "tarih": "2026-05-28",
+  "aciklama": "This infographic features artist's concept views of our Milky Way galaxy: face-on at the left and edge-on at the right. It highlights different galactic environments that could influence the development of planets and potentially life. The center of the galaxy is rich in the elements that form planets (like silicon, oxygen, and magnesium), which are forged by multiple generations of stars and supe",
+  "sorgu": "galactic habitable zone",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Animator: ",
+   "Graphic designer: "
+  ]
+ },
+ {
+  "id": "svs14438",
+  "svs": 14438,
+  "baslik": "Why NASA's Roman Mission Will Study Milky Way's Flickering Lights",
+  "tur": "Produced Video",
+  "tarih": "2023-10-24",
+  "aciklama": "Watch this video to learn about time-domain astronomy and how time will be a key element in the Nancy Grace Roman Space Telescope's galactic bulge survey.Music: \"Elapsing Time\" and \"Beyond Truth\" from Universal Production MusicWatch this video on the NASA Goddard YouTube channel.Complete transcript available. || Roman_TDA-GBS_Still.jpg (1920x1080) [716.0 KB] || Roman_TDA-GBS_Still_print.jpg (1024x",
+  "sorgu": "galactic habitable zone",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Science writer: ",
+   "Writer: ",
+   "Narrator: ",
+   "Animator: ",
+   "Graphics: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014400/a014438/Roman_Galactic_Bulge_Survey_60s.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 10,
+  "sure": 59.8,
+  "tablo": "tablolar/svs14438.jpg"
+ },
+ {
+  "id": "svs15053",
+  "svs": 15053,
+  "baslik": "NASA’s Fermi Mission Reveals Related Supernova Remnants",
+  "tur": "Produced Video",
+  "tarih": "2026-06-17",
+  "aciklama": "This multiwavelength scene shows the Jellyfish Nebula supernova remnant (right), the interstellar cloud it’s interacting with, and a distinctive curving filament to its upper left. The filament, which is shown here both in optical and ultraviolet (UV) light, is the visible part of an overlapping supernova remnant, G189.6+3.3, that is more prominent in radio and X-rays. Data inlcudes NASA’s Neil Ge",
+  "sorgu": "stellar evolution",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Scientist: "
+  ]
+ },
+ {
+  "id": "svs31393",
+  "svs": 31393,
+  "baslik": "Messier 101",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-05-05",
+  "aciklama": "A stunning view of M101, also known as the Pinwheel galaxy, one of the largest images Hubble has captured of a spiral galaxy. Assembled from 51 exposures taken over nearly ten years, this infrared and visible-light image measures 16,000 by 12,000 pixels. Ground-based images were used to fill in the portions of the galaxy. The heart of Messier 101, or the Pinwheel Galaxy, shines in this image that ",
+  "sorgu": "stellar evolution",
+  "insan_suphesi": false,
+  "krediler": [
+   "Editor: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a031300/a031393/Messier-101_1920-HD.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 61.0,
+  "tablo": "tablolar/svs31393.jpg"
+ },
+ {
+  "id": "svs14799",
+  "svs": 14799,
+  "baslik": "Astrophysics: Observing the Universe Vertical Video",
+  "tur": "Produced Video",
+  "tarih": "2025-05-27",
+  "aciklama": "This page contains vertically-formatted Astrophysics videos related to general astrophysical imagery.",
+  "sorgu": "Hubble galaxies zoom",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14749",
+  "svs": 14749,
+  "baslik": "OpenUniverse: Simulated Universe Views for Roman",
+  "tur": "Produced Video",
+  "tarih": "2025-01-14",
+  "aciklama": "This video begins with a tiny one-square-degree portion of the full OpenUniverse simulation area (about 70 square degrees, equivalent to an area of sky covered by more than 300 full moons). It spirals in toward a particularly galaxy-dense region, zooming by a factor of 75. This simulation showcases the cosmos as NASA’s Nancy Grace Roman Space Telescope could see it, allowing scientists to preview ",
+  "sorgu": "Hubble galaxies zoom",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs31299",
+  "svs": 31299,
+  "baslik": "The Penguin and the Egg (Interacting Galaxies Arp 142)",
+  "tur": "Hyperwall Visual",
+  "tarih": "2024-07-24",
+  "aciklama": "ARP 142 as seen by Hubble vs. Webb || penguin-and-the-egg_print.jpg (1024x576) [59.0 KB] || penguin-and-the-egg.png (3840x2160) [4.6 MB] || penguin-and-the-egg_searchweb.png (320x180) [30.6 KB] || penguin-and-the-egg_thm.png (80x40) [2.5 KB] || penguin-and-the-egg_1080p.mp4 (1920x1080) [10.1 MB] || penguin-and-the-egg_1080p.webm (1920x1080) [1.5 MB] || penguin-and-the-egg_4k.mp4 (3840x2160) [31.2 ",
+  "sorgu": "Hubble galaxies zoom",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14798",
+  "svs": 14798,
+  "baslik": "Astrophysics Multiwavelength Vertical Video",
+  "tur": "Produced Video",
+  "tarih": "2025-05-27",
+  "aciklama": "This page contains vertically-formatted Astrophysics videos that show multiwavelength content.",
+  "sorgu": "Local Group galaxies",
+  "insan_suphesi": false,
+  "krediler": [
+   "Social Media Producer: ",
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014700/a014798/reel_crab_v4.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 5
+ },
+ {
+  "id": "svs31027",
+  "svs": 31027,
+  "baslik": "Triangulum Galaxy Mosaic",
+  "tur": "Hyperwall Visual",
+  "tarih": "2019-03-25",
+  "aciklama": "Full Hubble mosaic image of the Triangulum galaxy (M33), composed of 54 Hubble fields of view stitched together. The borders of individual Hubble images trace the jagged edge of the mosaic, which spans 19,400 light-years across. || STSCI-H-p1901a-f-32073x41147_print.jpg (1024x1313) [262.9 KB] || STSCI-H-p1901a-q-8019x10287.png (8019x10287) [134.5 MB] || STSCI-H-p1901a-h-16307x20574.png (16037x2057",
+  "sorgu": "Local Group galaxies",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Image processing: ",
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs30955",
+  "svs": 30955,
+  "baslik": "Crash of the Titans: Milky Way & Andromeda Collision",
+  "tur": "Hyperwall Visual",
+  "tarih": "2018-05-23",
+  "aciklama": "This scientific visualization of a computer simulation depicts the joint evolution of the Milky Way and Andromeda galaxies over the next several billion years and features the inevitable massive collision. || mw_m31_m33_a-example_frame2-1920x1080.png (1920x1080) [224.3 KB] || mw_m31_m33_a-example_frame2-1920x1080_print.jpg (1024x576) [40.3 KB] || mw_m31_m33_a-example_frame2-1920x1080_searchweb.png",
+  "sorgu": "Local Group galaxies",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030955/mw_m31_m33_a-b-3840x2160.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 1,
+  "sure": 76.7,
+  "tablo": "tablolar/svs30955.jpg"
+ },
+ {
+  "id": "svs15101",
+  "svs": 15101,
+  "baslik": "NASA’s OSIRIS-APEX Mission Will Explore Asteroid Apophis",
+  "tur": "Produced Video",
+  "tarih": "2026-09-23",
+  "aciklama": "NASA’s OSIRIS-APEX mission will rendezvous with Apophis in mid-2029, following the asteroid’s historically close flyby of Earth.",
+  "sorgu": "Large Magellanic Cloud",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14985",
+  "svs": 14985,
+  "baslik": "TESS Reveals Dazzling Night Sky",
+  "tur": "Produced Video",
+  "tarih": "2026-05-13",
+  "aciklama": "This view of the whole sky was constructed from 96 TESS sectors. By the end of September 2025, when the last image of this mosaic was captured, TESS had discovered 679 exoplanets (blue dots) and 5,165 candidates (orange dots). The glowing arc running through the center is the plane of the Milky Way. The Large Magellanic Cloud can be seen along the bottom edge just left of center. Black areas withi",
+  "sorgu": "Large Magellanic Cloud",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Project support: "
+  ]
+ },
+ {
+  "id": "svs13710",
+  "svs": 13710,
+  "baslik": "TESS's Northern Sky Vista",
+  "tur": "Produced Video",
+  "tarih": "2020-10-05",
+  "aciklama": "NASA’s Transiting Exoplanet Survey Satellite (TESS) spent nearly a year imaging the northern sky in its search for worlds beyond our solar system. Explore this panorama to see what TESS has found so far.Credit: NASA's Goddard Space Flight CenterMusic: \"Strolling\" from Above and Below. Written and produced by Lars LeonhardWatch this video on the NASA Goddard YouTube channel.Complete transcript avai",
+  "sorgu": "Milky Way panorama",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14793",
+  "svs": 14793,
+  "baslik": "Black Holes Vertical Video",
+  "tur": "Produced Video",
+  "tarih": "2025-05-27",
+  "aciklama": "This page collects Astrophysics vertical videos with black-hole-related content",
+  "sorgu": "galaxy merger simulation Hubble",
+  "insan_suphesi": false,
+  "krediler": [
+   "Social Media Producer: ",
+   "Producer: ",
+   "Science writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014500/a014574/BHW_2024_Hitchcock_Teaser_Reel.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 19
+ },
+ {
+  "id": "svs11011",
+  "svs": 11011,
+  "baslik": "A New Dawn",
+  "tur": "Produced Video",
+  "tarih": "2012-07-12",
+  "aciklama": "The fate of the Milky Way is certain: Six billion years from now it will merge with the Andromeda galaxy. The prediction is based on images taken by NASA's Hubble Space Telescope. By examining the position of stars in Andromeda—located 2.5 million light-years away—scientists were able to calculate its movement through space. Traveling at 250,000 mph, the neighboring giant spiral is scheduled to ma",
+  "sorgu": "galaxy merger simulation Hubble",
+  "insan_suphesi": true
+ },
+ {
+  "id": "svs12880",
+  "svs": 12880,
+  "baslik": "Cosmic Designs and The Planets",
+  "tur": "Produced Video",
+  "tarih": "2018-03-05",
+  "aciklama": "Greetings and welcome to “Cosmic Designs” a performance by the National Philharmonic presented in partnership with NASA’s Goddard Space Flight Center.“Cosmic Designs” is a voyage that blends together science and art. The pursuit of knowledge and the creative drive for artistic expression are inherent to the human condition. The melding of NASA imagery and symphonic music we present here showcases ",
+  "sorgu": "cosmic neighbors",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Animator: ",
+   "Science writer: ",
+   "Project support: ",
+   "Editor: ",
+   "Visualizer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012800/a012880/11.Neptune.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 13,
+  "sure": 30.0,
+  "tablo": "tablolar/svs12880.jpg"
+ }
+]

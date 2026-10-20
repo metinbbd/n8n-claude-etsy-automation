@@ -27,9 +27,8 @@ Black hole visualizations and simulations: NASA's Goddard Space Flight Center / 
 First image of a black hole (M87*): Event Horizon Telescope Collaboration
 Multiwavelength M87 imagery: ALMA, Hubble, Chandra, NuSTAR, Swift, Fermi, H.E.S.S., MAGIC, VERITAS, NRAO, EVN
 Galactic center: NASA/SOFIA, Spitzer, Herschel, Hubble, Chandra  -  Gravitational waves: LIGO, NASA/Goddard
-Music: "Dark Fog" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
-Music: "Floating Cities" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
-Music: "Long Note Four" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Half Mystery" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Tyrant" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
 Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
 
 Bilgi kaynakları:
@@ -64,9 +63,8 @@ Black hole visualizations and simulations: NASA's Goddard Space Flight Center / 
 First image of a black hole (M87*): Event Horizon Telescope Collaboration
 Multiwavelength M87 imagery: ALMA, Hubble, Chandra, NuSTAR, Swift, Fermi, H.E.S.S., MAGIC, VERITAS, NRAO, EVN
 Galactic center: NASA/SOFIA, Spitzer, Herschel, Hubble, Chandra  -  Gravitational waves: LIGO, NASA/Goddard
-Music: "Dark Fog" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
-Music: "Floating Cities" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
-Music: "Long Note Four" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Half Mystery" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Tyrant" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
 Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
 
 Sources:

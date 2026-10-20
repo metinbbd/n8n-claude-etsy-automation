@@ -1,0 +1,500 @@
+[
+ {
+  "id": "svs15070",
+  "svs": 15070,
+  "baslik": "Roman and Hubble Scale Graphic with Andromeda Galaxy and Moon",
+  "tur": "Produced Video",
+  "tarih": "2026-07-31",
+  "aciklama": "This ground-based image of the Andromeda Galaxy highlights the large field of view of NASA's soon-to-launch Nancy Grace Roman Space Telescope, with Hubble's field of view and a full moon shown for comparison.Credit: Background image: Digitized Sky Survey and R. Gendler; Moon image: NASA’s Goddard Space Flight Center and Arizona State UniversityAlt text: An image of a spiral galaxy seen from a down",
+  "sorgu": "Andromeda",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Producer: "
+  ]
+ },
+ {
+  "id": "svs14985",
+  "svs": 14985,
+  "baslik": "TESS Reveals Dazzling Night Sky",
+  "tur": "Produced Video",
+  "tarih": "2026-05-13",
+  "aciklama": "This view of the whole sky was constructed from 96 TESS sectors. By the end of September 2025, when the last image of this mosaic was captured, TESS had discovered 679 exoplanets (blue dots) and 5,165 candidates (orange dots). The glowing arc running through the center is the plane of the Milky Way. The Large Magellanic Cloud can be seen along the bottom edge just left of center. Black areas withi",
+  "sorgu": "Andromeda",
+  "insan_suphesi": false,
+  "krediler": [
+   "Science writer: ",
+   "Project support: "
+  ]
+ },
+ {
+  "id": "svs31347",
+  "svs": 31347,
+  "baslik": "Astronaut Don Pettit’s Photos from Space",
+  "tur": "Hyperwall Visual",
+  "tarih": "2026-03-03",
+  "aciklama": "hyperwall hwshows for photos from https://www.nasa.gov/gallery/astronaut-don-pettits-photos-from-space/",
+  "sorgu": "Andromeda",
+  "insan_suphesi": true,
+  "krediler": [
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs15041",
+  "svs": 15041,
+  "baslik": "NASA's Fermi Spies a Supercharged Supernova",
+  "tur": "Produced Video",
+  "tarih": "2026-05-20",
+  "aciklama": "Gamma rays detected by NASA’s Fermi Gamma-ray Space Telescope gave scientists a look under the hood of a rare supernova that produced much more light than normal.Credit: NASA’s Goddard Space Flight CenterMusic credits:\"Granular Game\" by John Bisset \"In The Zone\" by Daniel Migdal, Jonas Pomo\"Ornaments\" by Lisa Van Hal || Fermi_Spies_a_Supercharged_Supernova_Thumbnail.jpg (1280x720) [231.5 KB] || 15",
+  "sorgu": "Gaia",
+  "insan_suphesi": true,
+  "krediler": [
+   "Science writer: ",
+   "Scientist: ",
+   "Producer: ",
+   "Animator: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a015000/a015041/15041-_Fermi_Spies_a_Supercharged_Supernova.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 1,
+  "sure": 106.2,
+  "tablo": "tablolar/svs15041.jpg"
+ },
+ {
+  "id": "svs14917",
+  "svs": 14917,
+  "baslik": "Roman Galactic Plane Survey",
+  "tur": "Infographic",
+  "tarih": "2025-12-12",
+  "aciklama": "No description available.",
+  "sorgu": "Gaia",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14928",
+  "svs": 14928,
+  "baslik": "TESS Triples Size of Pleiades Star Cluster",
+  "tur": "Produced Video",
+  "tarih": "2025-11-20",
+  "aciklama": "These young, hot blue stars are members of the Pleiades open star cluster and reside about 430 light-years away in the northern constellation Taurus. The brightest stars are visible to the unaided eye during evenings from October to April. A new study finds the cluster to be triple the size previously thought — and shows that its stars are scattered across the night sky. The Schmidt telescope at t",
+  "sorgu": "Gaia",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Science writer: "
+  ]
+ },
+ {
+  "id": "svs14847",
+  "svs": 14847,
+  "baslik": "100,000 Computer Simulations Reveal Milky Way's Fate",
+  "tur": "Produced Video",
+  "tarih": "2025-06-02",
+  "aciklama": "For decades, astronomers believed that one thing was as certain as death and taxes: the Milky Way and our neighboring Andromeda galaxy were on a crash course… destined to collide in less than 5 billion years.That galactic smash-up would spark massive star formation, scatter stars like cosmic billiard balls, and possibly throw our Sun into a whole new orbit.But now… that future may not be so certai",
+  "sorgu": "Milky Way simulation",
+  "insan_suphesi": false
+ },
+ {
+  "id": "svs14793",
+  "svs": 14793,
+  "baslik": "Black Holes Vertical Video",
+  "tur": "Produced Video",
+  "tarih": "2025-05-27",
+  "aciklama": "This page collects Astrophysics vertical videos with black-hole-related content",
+  "sorgu": "Milky Way simulation",
+  "insan_suphesi": false,
+  "krediler": [
+   "Social Media Producer: ",
+   "Producer: ",
+   "Science writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014500/a014574/BHW_2024_Hitchcock_Teaser_Reel.mp4",
+   "w": 1080,
+   "h": 1920
+  },
+  "dosya_sayisi": 19
+ },
+ {
+  "id": "svs14749",
+  "svs": 14749,
+  "baslik": "OpenUniverse: Simulated Universe Views for Roman",
+  "tur": "Produced Video",
+  "tarih": "2025-01-14",
+  "aciklama": "This video begins with a tiny one-square-degree portion of the full OpenUniverse simulation area (about 70 square degrees, equivalent to an area of sky covered by more than 300 full moons). It spirals in toward a particularly galaxy-dense region, zooming by a factor of 75. This simulation showcases the cosmos as NASA’s Nancy Grace Roman Space Telescope could see it, allowing scientists to preview ",
+  "sorgu": "Milky Way simulation",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Visualizer: ",
+   "Science writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014700/a014749/OpenUniverseFullZoom_4k_Good.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 4,
+  "sure": 42.4,
+  "tablo": "tablolar/svs14749.jpg"
+ },
+ {
+  "id": "svs14924",
+  "svs": 14924,
+  "baslik": "\"Dark Galaxy\" Identified by Hubble",
+  "tur": "Produced Video",
+  "tarih": "2026-02-18",
+  "aciklama": "Master VersionHorizontal version. This is for use on any YouTube or non-YouTube platform where you want to display the video horizontally. || 14924_DARK_WIDE_PRINT.jpg (1920x1080) [759.2 KB] || 14924_DARK_WIDE_THUMB.jpg (1920x1080) [759.2 KB] || 14924_DARK_WIDE_SEARCH.jpg (320x180) [32.1 KB] || 14924_DARK_WIDE_MP4.mp4 (1920x1080) [239.9 MB] || 14924_DARK_WIDE_MP4.en_US.srt [3.6 KB] || 14924_DARK_W",
+  "sorgu": "galaxy formation simulation",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014900/a014924/14924_DARK_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 2,
+  "sure": 156.1,
+  "tablo": "tablolar/svs14924.jpg"
+ },
+ {
+  "id": "svs14331",
+  "svs": 14331,
+  "baslik": "Hubble Catches Possible Runaway Black Hole",
+  "tur": "Produced Video",
+  "tarih": "2023-04-06",
+  "aciklama": "There’s an invisible monster on the loose! It’s barreling through intergalactic space fast enough to travel from Earth to the Moon in 14 minutes. But don’t worry, luckily this beast is very, very far away!This potential supermassive black hole, weighing as much as 20 million Suns, has left behind a never-before-seen 200,000 light-year-long trail of newborn stars. The streamer is twice the diameter",
+  "sorgu": "galaxy formation simulation",
+  "insan_suphesi": true,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014300/a014331/14331_RUN_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 116.7,
+  "tablo": "tablolar/svs14331.jpg"
+ },
+ {
+  "id": "svs30955",
+  "svs": 30955,
+  "baslik": "Crash of the Titans: Milky Way & Andromeda Collision",
+  "tur": "?",
+  "tarih": "2018-05-23",
+  "aciklama": "This scientific visualization of a computer simulation depicts the joint evolution of the Milky Way and Andromeda galaxies over the next several billion years and features the inevitable massive collision. || mw_m31_m33_a-example_frame2-1920x1080.png (1920x1080) [224.3 KB] || mw_m31_m33_a-example_frame2-1920x1080_print.jpg (1024x576) [40.3 KB] || mw_m31_m33_a-example_frame2-1920x1080_searchweb.png",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030955/mw_m31_m33_a-b-3840x2160.mp4",
+   "w": 3840,
+   "h": 2160
+  },
+  "dosya_sayisi": 1,
+  "sure": 76.7,
+  "tablo": "tablolar/svs30955.jpg"
+ },
+ {
+  "id": "svs10687",
+  "svs": 10687,
+  "baslik": "JWST Science Simulation: Galaxy Collision",
+  "tur": "?",
+  "tarih": "2010-10-29",
+  "aciklama": "The Advanced Visualization Laboratory (AVL) at the National Center for Supercomputing Applications (NCSA) collaborated with NASA and Drs. Brant Robertson and Lars Hernquist to visualize two colliding galaxies that interact and merge into a single elliptical galaxy over a period spanning two billion years of evolution. The scientific theoretical model and the computational data output were develope",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Producer: ",
+   "Scientist: "
+  ]
+ },
+ {
+  "id": "svs10658",
+  "svs": 10658,
+  "baslik": "Webb Science Feature - Colliding Galaxies",
+  "tur": "?",
+  "tarih": "2010-10-28",
+  "aciklama": "Deep surveys by the James Webb Space Telescope will capture the full panorama of galaxy evolution, from the earliest dwarf galaxies that formed to the familiar galaxies we see today. The Webb Telescope will help us understand how the shape, structure and chemical content of galaxies change over the sweep of cosmic history. || ",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Animator: ",
+   "Video editor: ",
+   "Narrator: ",
+   "Producer: ",
+   "Writer: "
+  ]
+ },
+ {
+  "id": "svs30468",
+  "svs": 30468,
+  "baslik": "Colliding Galaxies",
+  "tur": "?",
+  "tarih": "2013-11-01",
+  "aciklama": "This NASA Hubble Space Telescope image illustrates that close encounters between galaxies are messy business. This interacting galaxy duo contains the disturbed, star-forming spiral galaxy NGC 2936—which looks like the profile of a celestial bird—along with its elliptical companion, NGC 2937 at lower left. Once a normal, flat, spiral-disk galaxy, NGC 2936’s appearance and the orbits of its stars h",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Project support: ",
+   "Writer: "
+  ]
+ },
+ {
+  "id": "svs30941",
+  "svs": 30941,
+  "baslik": "Colliding Galaxies (NGC 2207)",
+  "tur": "?",
+  "tarih": "2018-04-23",
+  "aciklama": "This animation shows the interacting galaxy pair NGC 2207, first in optical light, then in infrared, in X-ray, and finally in combination. || STScI-H-NGC2207_1x-1920x1080.00001_print.jpg (1024x576) [157.8 KB] || STScI-H-NGC2207_1x-1920x1080.00001_searchweb.png (320x180) [92.0 KB] || STScI-H-NGC2207_1x-1920x1080.00001_thm.png (80x40) [6.5 KB] || STScI-H-NGC2207_1x-1280x720.mp4 (1280x720) [4.5 MB] |",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Image processing: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030941/STScI-H-NGC2207_2x-1920x1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 10,
+  "sure": 48.0,
+  "tablo": "tablolar/svs30941.jpg"
+ },
+ {
+  "id": "svs30472",
+  "svs": 30472,
+  "baslik": "Dwarf Galaxy Caught Ramming into a Large Spiral",
+  "tur": "?",
+  "tarih": "2013-11-01",
+  "aciklama": "Shown here, observations from NASA's Chandra X-ray telescope reveal a massive cloud of multimillion-degree gas in a galaxy about 60 million light years from Earth. The hot gas cloud is likely caused by a collision between a dwarf galaxy [bottom left] and a much larger galaxy called NGC 1232 [center]. The image, which combines X-rays and optical light, shows the scene of the collision. Chandra X-ra",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Project support: ",
+   "Writer: "
+  ]
+ },
+ {
+  "id": "svs30990",
+  "svs": 30990,
+  "baslik": "Andromeda Galaxy in Visible and Infrared",
+  "tur": "?",
+  "tarih": "2018-09-10",
+  "aciklama": "While Andromeda is a spiral galaxy, its dust falls largely in a huge ring structure, possibly caused by gravitational interactions with its smaller satellite galaxies. || STScI-J-Andromeda_1x-1920x1080.00001_print.jpg (1024x576) [193.1 KB] || STScI-J-Andromeda_1x-1920x1080.00001_searchweb.png (320x180) [107.5 KB] || STScI-J-Andromeda_1x-1920x1080.00001_thm.png (80x40) [5.8 KB] || STScI-J-Andromeda",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Image processing: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030990/STScI-J-Andromeda_2x-1920x1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 10,
+  "sure": 24.0,
+  "tablo": "tablolar/svs30990.jpg"
+ },
+ {
+  "id": "svs30961",
+  "svs": 30961,
+  "baslik": "Milky Way Center in Multiple Wavelengths",
+  "tur": "?",
+  "tarih": "2018-06-04",
+  "aciklama": "This animation reveals the center of our Milky Way galaxy, first in near-infrared, then mid-infrared, then X-ray light, and then all three in combination. || STScI-H-MWC_1x-1920x1080.00001_print.jpg (1024x576) [153.0 KB] || STScI-H-MWC_1x-1920x1080.00001_searchweb.png (320x180) [94.5 KB] || STScI-H-MWC_1x-1920x1080.00001_thm.png (80x40) [5.5 KB] || STScI-H-MWC_1x-1280x720.mp4 (1280x720) [8.4 MB] |",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030961/STScI-H-MWC_2x-1920x1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 10,
+  "sure": 48.0,
+  "tablo": "tablolar/svs30961.jpg"
+ },
+ {
+  "id": "svs31027",
+  "svs": 31027,
+  "baslik": "Triangulum Galaxy Mosaic",
+  "tur": "?",
+  "tarih": "2019-03-25",
+  "aciklama": "Full Hubble mosaic image of the Triangulum galaxy (M33), composed of 54 Hubble fields of view stitched together. The borders of individual Hubble images trace the jagged edge of the mosaic, which spans 19,400 light-years across. || STSCI-H-p1901a-f-32073x41147_print.jpg (1024x1313) [262.9 KB] || STSCI-H-p1901a-q-8019x10287.png (8019x10287) [134.5 MB] || STSCI-H-p1901a-h-16307x20574.png (16037x2057",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Image processing: ",
+   "Technical support: "
+  ]
+ },
+ {
+  "id": "svs30857",
+  "svs": 30857,
+  "baslik": "Interacting Galaxies Arp 273 from Hubble",
+  "tur": "?",
+  "tarih": "2017-02-27",
+  "aciklama": "The galaxies of Arp 273 have recently interacted via gravity to make a shape resembling a cosmic rose. || arp273-hst-3197x3240_print.jpg (1024x1037) [133.5 KB] || arp273-hst-3197x3240.png (3197x3240) [14.8 MB] || arp273-hst-3197x3240_searchweb.png (320x180) [67.6 KB] || arp273-hst-3197x3240_thm.png (80x40) [5.0 KB] || arp273-hst-30857.key [478.1 KB] || arp273-hst-30857.pptx [219.7 KB] || interacti",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Project support: "
+  ]
+ },
+ {
+  "id": "svs14504",
+  "svs": 14504,
+  "baslik": "Hubble's Inside the Image: Antennae Galaxies",
+  "tur": "?",
+  "tarih": "2024-01-29",
+  "aciklama": "The Hubble Space Telescope has taken over 1.5 million observations over the years. One of them is the incredible image of the Antennae Galaxies.The Antennae Galaxies, officially designated as NGC 4038 and NGC 4039, present a celestial ballet within the vast cosmic theater. Located approximately 68 million light-years away in the Corvus constellation, these interacting galaxies are entangled in a c",
+  "sorgu": "id",
+  "insan_suphesi": true,
+  "krediler": [
+   "Technical support: ",
+   "Producer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014500/a014504/14504_ANTENNAE_WIDE_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 171.5,
+  "tablo": "tablolar/svs14504.jpg"
+ },
+ {
+  "id": "svs14762",
+  "svs": 14762,
+  "baslik": "2.5 Billion Pixel Image of Galaxy Shot by Hubble",
+  "tur": "?",
+  "tarih": "2025-01-16",
+  "aciklama": "The Andromeda galaxy holds over 1 trillion stars and has been a key to unlocking the secrets of the universe. Thanks to NASA’s Hubble Space Telescope, we’re now seeing Andromeda in stunning new detail, revealing its dynamic history and unique structure.Recent Hubble surveys mapped the galaxy’s entire disk—an effort spanning a decade and over 1,000 orbits—showing everything from young stars to remn",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Producer: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014700/a014762/14762_ANDROMEDA_WIDE_1080_MP4.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 3,
+  "sure": 158.8,
+  "tablo": "tablolar/svs14762.jpg"
+ },
+ {
+  "id": "svs10555",
+  "svs": 10555,
+  "baslik": "Massive Merger of Galaxies is Most Powerful on Record",
+  "tur": "?",
+  "tarih": "2010-01-26",
+  "aciklama": "In 2004, an international team of scientists, led by a NASA-funded researcher, observed a nearby head-on collision of two galaxy clusters. The clusters smashed together thousands of galaxies and trillions of stars. It is one of the most powerful events ever witnessed. Such collisions are second only to the Big Bang in total energy output.The event was captured with the European Space Agency's XMM-",
+  "sorgu": "id",
+  "insan_suphesi": true,
+  "krediler": [
+   "Animator: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a010500/a010555/Embedded_Galaxies.mp4",
+   "w": 720,
+   "h": 486
+  },
+  "dosya_sayisi": 4,
+  "sure": 18.0,
+  "tablo": "tablolar/svs10555.jpg"
+ },
+ {
+  "id": "svs12233",
+  "svs": 12233,
+  "baslik": "Galaxy Clusters",
+  "tur": "?",
+  "tarih": "2016-05-03",
+  "aciklama": "Explore how individual galaxies assemble into colossal cosmic communities. || c-1024.jpg (1024x576) [124.4 KB] || c-1280.jpg (1280x720) [170.2 KB] || c-1920.jpg (1920x1080) [247.3 KB] || c-1024_print.jpg (1024x576) [135.9 KB] || c-1024_searchweb.png (320x180) [82.3 KB] || c-1024_web.png (320x180) [82.3 KB] || c-1024_thm.png (80x40) [14.9 KB] || ",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Writer: ",
+   "Scientist: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a000000/a001700/a001703/4559_Kepler_Neptune_Twitter_720.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 1,
+  "sure": 118.8,
+  "tablo": "tablolar/svs12233.jpg"
+ },
+ {
+  "id": "svs30969",
+  "svs": 30969,
+  "baslik": "M101 (Pinwheel Galaxy)",
+  "tur": "?",
+  "tarih": "2018-06-18",
+  "aciklama": "This animation shows the Messier 101 (Pinwheel) Galaxy, with simulated rotation, in visible, then infrared, then X-ray, and finally all three combined. || STScI-H-M101_1x-1920x1080.00001_print.jpg (1024x576) [150.4 KB] || STScI-H-M101_1x-1920x1080.00001_searchweb.png (320x180) [99.4 KB] || STScI-H-M101_1x-1920x1080.00001_thm.png (80x40) [6.3 KB] || STScI-H-M101_1x-1280x720.mp4 (1280x720) [18.1 MB]",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Visualizer: ",
+   "Image processing: ",
+   "Technical support: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030969/STScI-H-M101_2x-1920x1080.mp4",
+   "w": 1920,
+   "h": 1080
+  },
+  "dosya_sayisi": 10,
+  "sure": 48.0,
+  "tablo": "tablolar/svs30969.jpg"
+ },
+ {
+  "id": "svs14715",
+  "svs": 14715,
+  "baslik": "COBE Celebrates 35th Launch Anniversary",
+  "tur": "?",
+  "tarih": "2024-11-18",
+  "aciklama": "Technicians work on the COBE (Cosmic Background Explorer) spacecraft in a clean room at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. The mission launched into an Earth orbit in 1989 to make an all-sky map of the cosmic microwave background, the oldest light in the universe. The conical silver shield protects the scientific instruments from direct radiation from the Sun and Earth, iso",
+  "sorgu": "id",
+  "insan_suphesi": false,
+  "krediler": [
+   "Scientist: ",
+   "Science writer: "
+  ],
+  "kaynak": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014700/a014715/G1999-005_COBE_Launch.mp4",
+   "w": 1280,
+   "h": 720
+  },
+  "dosya_sayisi": 1,
+  "sure": 247.0,
+  "tablo": "tablolar/svs14715.jpg"
+ }
+]

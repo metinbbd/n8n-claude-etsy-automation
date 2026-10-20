@@ -529,10 +529,20 @@ def check_segments(cfg, paths, out_dir):
 
 
 def main(project, out_dir):
-    cfg = json.load(open(f"{project}/kurgu.json"))
+    kurgu = f"{project}/kurgu.json"
+    cfg = json.load(open(kurgu)) if os.path.exists(kurgu) else {}
     work = "/tmp/uretim"
     os.makedirs(work, exist_ok=True)
     os.makedirs(out_dir, exist_ok=True)
+    if os.environ.get("SADECE_SES"):
+        # Yalniz seslendirme: bolum surelerini olcer (kurgu planlamak icin).
+        chapters = parse_script(f"{project}/metin.txt")
+        synthesize(chapters, f"{work}/tts")
+        total = timeline(chapters)
+        sureler = [round(c["end"] - c["start"], 1) for c in chapters]
+        log(f"   anlatim + aralar: {total / 60:.2f} dk; kaynakca ile {(total + CREDITS) / 60:.2f} dk")
+        log("   BOLUM_SURELERI " + json.dumps(sureler))
+        return
     if os.environ.get("SEGMENT_TEST"):
         paths = fetch_sources(cfg, f"{work}/kaynak")
         sure = cfg["bolum_sureleri"]

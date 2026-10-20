@@ -14,6 +14,10 @@ on:
         description: "Bolumleri uret ve sureleri olc (ses/muzik yok, hizli)"
         type: boolean
         default: false
+      sadece_ses:
+        description: "Sadece seslendirme: bolum surelerini olc (video uretme)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -30,6 +34,7 @@ jobs:
       PROJE: ${{ inputs.proje }}
       SADECE_KONTROL: ${{ inputs.sadece_kontrol && '1' || '' }}
       SEGMENT_TEST: ${{ inputs.segment_testi && '1' || '' }}
+      SADECE_SES: ${{ inputs.sadece_ses && '1' || '' }}
     steps:
       - uses: actions/checkout@v5
       - uses: actions/cache@v4
@@ -51,7 +56,7 @@ jobs:
           mkdir -p /tmp/cikti /tmp/kontrol
           python3 video/uret.py "video/projeler/$PROJE" /tmp/cikti 2>&1 | tee /tmp/kontrol/kayit.txt
       - name: Kontrol kareleri ve onizleme
-        if: ${{ !inputs.sadece_kontrol && !inputs.segment_testi }}
+        if: ${{ !inputs.sadece_kontrol && !inputs.segment_testi && !inputs.sadece_ses }}
         continue-on-error: true
         run: |
           V=$(ls /tmp/cikti/*-altyazili.mp4)
@@ -66,7 +71,7 @@ jobs:
           cp /tmp/cikti/parca_kontrol_*.jpg /tmp/kontrol/ 2>/dev/null || true
           video/onizleme_kaydet.sh /tmp/kontrol "kontrol/$PROJE" "Kontrol - $PROJE"
       - name: Yayina yukle (herkese acik indirme linki)
-        if: ${{ !inputs.sadece_kontrol && !inputs.segment_testi }}
+        if: ${{ !inputs.sadece_kontrol && !inputs.segment_testi && !inputs.sadece_ses }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

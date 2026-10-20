@@ -13,7 +13,7 @@ concurrency:
 jobs:
   muzik:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v5
       - name: ffmpeg ve numpy

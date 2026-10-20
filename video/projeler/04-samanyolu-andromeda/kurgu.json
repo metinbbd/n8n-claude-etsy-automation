@@ -1,0 +1,581 @@
+{
+ "baslik": "THE GREAT COLLISION",
+ "alt_baslik": "When the Milky Way meets Andromeda",
+ "dosya_adi": "great-collision-samanyolu-andromeda",
+ "kapak_yazisi": "GALAXY COLLISION",
+ "kapak_an": 300,
+ "muzik": [
+  "Odyssey",
+  "Limit 70",
+  "Canon In D Interstellar Mix"
+ ],
+ "kaynaklar": {
+  "A": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20150630_SDO_m11908_ArchingEruption/GSFC_20150630_SDO_m11908_ArchingEruption~orig.mp4",
+   "id": "GSFC_20150630_SDO_m11908_ArchingEruption"
+  },
+  "AN": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030990/STScI-J-Andromeda_2x-1920x1080.mp4",
+   "id": "svs30990"
+  },
+  "CG": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a010600/a010658/JWST-Colliding_Galaxies_youtube_hq.mov",
+   "id": "svs10658"
+  },
+  "CI": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a031300/a031362/Circinus-Galaxy-Zoom_1080.mp4",
+   "id": "svs31362"
+  },
+  "GC": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030961/STScI-H-MWC_2x-1920x1080.mp4",
+   "id": "svs30961"
+  },
+  "JC": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a010600/a010687/Galaxy_Collision-1080p.mov",
+   "id": "svs10687"
+  },
+  "M1": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030969/STScI-H-M101_2x-1920x1080.mp4",
+   "id": "svs30969"
+  },
+  "NG": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030941/STScI-H-NGC2207_2x-1920x1080.mp4",
+   "id": "svs30941"
+  },
+  "PN": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a031300/a031346/WIES-Webb_crossfade%20compare-1080.mp4",
+   "id": "svs31346"
+  },
+  "S13043": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013000/a013043/13043_SMBH_Simulation_NO_TEXT.mp4",
+   "id": "svs13043"
+  },
+  "S13239": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013200/a013239/M87_zoom_final_no_text_LQ.mp4",
+   "id": "svs13239"
+  },
+  "S13831": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013800/a013831/13831_BlackHoleBinary_Simulation_1080.mp4",
+   "id": "svs13831"
+  },
+  "S20367": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020367/A_Gravitational_Wave_h264.mp4",
+   "id": "svs20367"
+  },
+  "S31281": {
+   "url": "https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031281/ISS067_20220817_aurora_1080p25.mp4",
+   "id": "svs31281"
+  },
+  "S5586": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a000000/a005500/a005586/zoom_whirl_windows3_HD.mp4",
+   "id": "svs5586"
+  },
+  "SB": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030995/STScI-H-Sombrero_2x-1920x1080.mp4",
+   "id": "svs30995"
+  },
+  "SK": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a031300/a031376/spherex-all-sky-swipe-3.27a-1080p.mp4",
+   "id": "svs31376"
+  },
+  "SQ": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a031000/a031019/STScI-H-StephansQuintet_1920x1080.mp4",
+   "id": "svs31019"
+  },
+  "T": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a030000/a030900/a030955/mw_m31_m33_a-b-3840x2160.mp4",
+   "id": "svs30955"
+  },
+  "Y5": {
+   "url": "https://images-assets.nasa.gov/video/GSFC_20150211_SDO_m11762_5Years/GSFC_20150211_SDO_m11762_5Years~orig.mp4",
+   "id": "GSFC_20150211_SDO_m11762_5Years"
+  }
+ },
+ "bolumler": [
+  [
+   [
+    "T",
+    0,
+    8
+   ],
+   [
+    "SK",
+    8.5,
+    19.5,
+    {
+     "kirp": [
+      0,
+      0.08,
+      1,
+      0.92
+     ]
+    }
+   ],
+   [
+    "GC",
+    0,
+    10,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ],
+   [
+    "GC",
+    12,
+    22,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ],
+   [
+    "GC",
+    24,
+    34,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ],
+   [
+    "GC",
+    36,
+    46,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ]
+  ],
+  [
+   [
+    "CI",
+    4.5,
+    22.5
+   ],
+   [
+    "AN",
+    0,
+    10,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ],
+   [
+    "AN",
+    11,
+    23.5,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ],
+   [
+    "T",
+    8,
+    20
+   ]
+  ],
+  [
+   [
+    "SB",
+    0,
+    12,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ],
+   [
+    "SB",
+    12,
+    24,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ],
+   [
+    "M1",
+    0,
+    10,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ],
+   [
+    "T",
+    20,
+    34
+   ]
+  ],
+  [
+   [
+    "SQ",
+    0,
+    15
+   ],
+   [
+    "SQ",
+    15,
+    30
+   ],
+   [
+    "T",
+    34,
+    44
+   ],
+   [
+    "SQ",
+    30,
+    45
+   ],
+   [
+    "JC",
+    0,
+    20
+   ]
+  ],
+  [
+   [
+    "T",
+    42,
+    58
+   ],
+   [
+    "CG",
+    0,
+    15
+   ],
+   [
+    "JC",
+    20,
+    40
+   ],
+   [
+    "T",
+    50,
+    62
+   ]
+  ],
+  [
+   [
+    "NG",
+    0,
+    10,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ],
+   [
+    "NG",
+    12,
+    22,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ],
+   [
+    "NG",
+    24,
+    34,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ],
+   [
+    "NG",
+    36,
+    46,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ],
+   [
+    "SQ",
+    45,
+    62
+   ]
+  ],
+  [
+   [
+    "S13043",
+    0,
+    20
+   ],
+   [
+    "S13831",
+    70,
+    85
+   ],
+   [
+    "S5586",
+    0,
+    24
+   ],
+   [
+    "S20367",
+    0,
+    17
+   ]
+  ],
+  [
+   [
+    "T",
+    44,
+    56
+   ],
+   [
+    "SK",
+    9,
+    20,
+    {
+     "kirp": [
+      0,
+      0.08,
+      1,
+      0.92
+     ]
+    }
+   ],
+   [
+    "M1",
+    36,
+    46,
+    {
+     "kirp": [
+      0,
+      0,
+      1,
+      0.9
+     ]
+    }
+   ]
+  ],
+  [
+   [
+    "A",
+    0,
+    12
+   ],
+   [
+    "Y5",
+    0,
+    12
+   ],
+   [
+    "S31281",
+    0,
+    12
+   ],
+   [
+    "PN",
+    0,
+    6
+   ],
+   [
+    "PN",
+    15,
+    32,
+    {
+     "kirp": [
+      0,
+      0.08,
+      1,
+      0.92
+     ]
+    }
+   ]
+  ],
+  [
+   [
+    "T",
+    56,
+    76
+   ],
+   [
+    "SQ",
+    60,
+    88
+   ],
+   [
+    "S13239",
+    0,
+    16
+   ],
+   [
+    "S13239",
+    40,
+    56
+   ]
+  ]
+ ],
+ "bolum_sureleri": [
+  61.6,
+  65.3,
+  57.1,
+  81.7,
+  63.2,
+  61.5,
+  69.3,
+  48.9,
+  61.6,
+  66.6
+ ],
+ "kaynakca": [
+  "Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS)",
+  "Milky Way - Andromeda collision simulation (\"Crash of the Titans\"): NASA/Goddard SVS, NASA/ESA/STScI",
+  "Galaxy imagery: NASA, ESA, STScI (Hubble)  -  NASA/JPL-Caltech (Spitzer, SPHEREx, WISE)  -  NASA/CXC (Chandra)  -  NASA, ESA, CSA, STScI (Webb)",
+  "Black hole visualizations and gravitational waves: NASA's Goddard Space Flight Center, LIGO",
+  "Solar imagery: NASA/SDO  -  Earth imagery: NASA Johnson Space Center (ISS)",
+  "Music: \"Odyssey\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Music: \"Limit 70\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Music: \"Canon In D Interstellar Mix\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original."
+ ],
+ "kaynakca_ekran": [
+  [
+   "h",
+   "Footage"
+  ],
+  [
+   "t",
+   "NASA / Goddard Space Flight Center - Scientific Visualization Studio"
+  ],
+  [
+   "t",
+   "NASA, ESA, STScI (Hubble)  -  NASA/JPL-Caltech (Spitzer, SPHEREx, WISE)  -  NASA/CXC (Chandra)"
+  ],
+  [
+   "t",
+   "NASA, ESA, CSA, STScI (Webb)  -  LIGO  -  NASA/SDO  -  NASA Johnson Space Center (ISS)"
+  ],
+  [
+   "h",
+   "Music"
+  ],
+  [
+   "t",
+   "\"Odyssey\" Kevin MacLeod (incompetech.com)"
+  ],
+  [
+   "t",
+   "\"Limit 70\" Kevin MacLeod (incompetech.com)"
+  ],
+  [
+   "t",
+   "\"Canon In D Interstellar Mix\" Kevin MacLeod (incompetech.com)"
+  ],
+  [
+   "t",
+   "Licensed under Creative Commons: By Attribution 4.0 - creativecommons.org/licenses/by/4.0/"
+  ],
+  [
+   "h",
+   "Narration"
+  ],
+  [
+   "t",
+   "Synthetic voice (Kokoro TTS)"
+  ]
+ ],
+ "bilgi_kaynaklari": [
+  "https://svs.gsfc.nasa.gov/30955/",
+  "https://svs.gsfc.nasa.gov/30990/",
+  "https://svs.gsfc.nasa.gov/30961/",
+  "https://svs.gsfc.nasa.gov/30941/",
+  "https://svs.gsfc.nasa.gov/31019/",
+  "https://svs.gsfc.nasa.gov/31346/",
+  "https://svs.gsfc.nasa.gov/31376/",
+  "https://science.nasa.gov/mission/hubble/",
+  "https://www.esa.int/Science_Exploration/Space_Science/Gaia",
+  "Sawala et al., \"No certainty of a Milky Way-Andromeda collision\", Nature Astronomy (2025)"
+ ],
+ "youtube": {
+  "tr": {
+   "baslik": "Samanyolu ve Andromeda Çarpışıyor: Galaksimizin Geleceği | Gerçek NASA Görüntüleriyle Uzay Belgeseli",
+   "aciklama": "Samanyolu ile komşumuz Andromeda Galaksisi gerçekten çarpışacak mı? Bu belgeselde Andromeda'nın bize doğru yaklaşmasını, Hubble'ın yana kayma ölçümlerini, çarpışmanın nasıl olacağını, merkezlerdeki süper kütleli kara deliklerin buluşmasını, Güneş'in ve Dünya'nın kaderini ve ortaya çıkacak 'Milkomeda' galaksisini gerçek NASA görüntüleri ve simülasyonlarıyla anlatıyoruz."
+  },
+  "en": {
+   "baslik": "The Great Collision: When the Milky Way Meets Andromeda | Space Documentary with Real NASA Footage",
+   "aciklama": "Will the Milky Way really collide with the Andromeda Galaxy? This documentary explores Andromeda's approach, Hubble's sideways-motion measurements, how the collision would unfold, the meeting of the two supermassive black holes, the fate of the Sun and Earth, and the galaxy astronomers call Milkomeda, using real NASA imagery and simulations."
+  },
+  "etiketler": [
+   "Milky Way",
+   "Andromeda",
+   "galaxy collision",
+   "Samanyolu",
+   "Andromeda galaksisi",
+   "galaksi çarpışması",
+   "Milkomeda",
+   "space documentary",
+   "uzay belgeseli",
+   "NASA",
+   "Hubble",
+   "Gaia",
+   "supermassive black hole",
+   "future of the Milky Way",
+   "Local Group",
+   "galaxy merger"
+  ]
+ }
+}

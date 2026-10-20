@@ -5,9 +5,9 @@
  "kapak_yazisi": "ASTEROIDS",
  "kapak_an": 300,
  "muzik": [
-  "Dreams Become Real",
-  "Eternal Hope",
-  "Clean Soul"
+  "River of Io",
+  "Undaunted",
+  "Ethernight Club"
  ],
  "kaynaklar": {
   "BFW": {
@@ -505,9 +505,9 @@
   "Dawn (Vesta, Ceres): NASA/JPL-Caltech/UCLA/MPS/DLR/IDA",
   "DART: NASA/Johns Hopkins APL  -  Lucy: NASA/Goddard/SwRI  -  Psyche: NASA/JPL-Caltech/ASU",
   "Fireball imagery: NASA Meteoroid Environment Office  -  Near-Earth object statistics: NASA/JPL CNEOS (June 2023)",
-  "Music: \"Dreams Become Real\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
-  "Music: \"Eternal Hope\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
-  "Music: \"Clean Soul\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Music: \"River of Io\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Music: \"Undaunted\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
+  "Music: \"Ethernight Club\" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/",
   "Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original."
  ],
  "kaynakca_ekran": [
@@ -533,15 +533,15 @@
   ],
   [
    "t",
-   "\"Dreams Become Real\" Kevin MacLeod (incompetech.com)"
+   "\"River of Io\" Kevin MacLeod (incompetech.com)"
   ],
   [
    "t",
-   "\"Eternal Hope\" Kevin MacLeod (incompetech.com)"
+   "\"Undaunted\" Kevin MacLeod (incompetech.com)"
   ],
   [
    "t",
-   "\"Clean Soul\" Kevin MacLeod (incompetech.com)"
+   "\"Ethernight Club\" Kevin MacLeod (incompetech.com)"
   ],
   [
    "t",

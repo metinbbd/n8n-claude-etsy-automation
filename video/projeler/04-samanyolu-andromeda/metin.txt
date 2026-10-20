@@ -69,7 +69,7 @@ TR: Ama iki galaksi arasındaki mesafe o kadar büyük ki, bu hızla bile yolcul
 EN: Light tells us how fast a galaxy moves along our line of sight.
 TR: Işık, bir galaksinin bakış doğrultumuzda ne kadar hızlı hareket ettiğini söyler.
 EN: But it says nothing about sideways motion, and sideways motion decides whether two galaxies collide or pass each other by.
-TR: Ama yana doğru harekete dair hiçbir şey söylemez; iki galaksinin çarpışıp çarpışmayacağını ya da yan yana geçip geçmeyeceğini belirleyen de bu harekettir.
+TR: Ama yana doğru harekete dair bir şey söylemez. İki galaksinin çarpışıp çarpışmayacağını ise bu hareket belirler.
 EN: To measure it, astronomers have to watch the stars of Andromeda drift across the sky.
 TR: Bunu ölçmek için gökbilimcilerin Andromeda'nın yıldızlarının gökyüzünde kaymasını izlemesi gerekir.
 EN: The shift is astonishingly small, a tiny fraction of a single pixel in a Hubble image, even after years of waiting.
@@ -83,7 +83,7 @@ TR: NASA, iki galaksinin yaklaşık dört milyar yıl sonra çarpışacağını,
 EN: Newer measurements, including data from the European Space Agency's Gaia mission, have refined the picture.
 TR: Avrupa Uzay Ajansı'nın Gaia görevinin verileri de dahil, daha yeni ölçümler resmi netleştirdi.
 EN: And a twenty twenty five study, which included the pull of other nearby galaxies, suggests the odds of a merger within ten billion years may be closer to fifty-fifty.
-TR: Yakındaki diğer galaksilerin çekimini de hesaba katan 2025 tarihli bir çalışma ise, on milyar yıl içinde birleşme ihtimalinin yarı yarıya olabileceğini gösteriyor.
+TR: Yakındaki diğer galaksilerin çekimini de hesaba katan 2025 tarihli bir çalışma, on milyar yıl içinde birleşme ihtimalinin yarı yarıya olabileceğini söylüyor.
 EN: So the collision is not a certainty. Science is still working on the answer.
 TR: Yani çarpışma kesin değil. Bilim hâlâ cevabı arıyor.
 [ara 2.5]
@@ -178,7 +178,7 @@ TR: Burada bir teselli var, bir de uyarı.
 EN: The comfort is that stars are so far apart that the Solar System will almost certainly survive the merger intact.
 TR: Teselli şu: Yıldızlar birbirinden o kadar uzak ki Güneş Sistemi birleşmeden büyük olasılıkla sağ salim çıkacak.
 EN: Simulations suggest the Sun and its planets would be carried along, probably to a new orbit farther from the center of the merged galaxy.
-TR: Simülasyonlar, Güneş'in ve gezegenlerin yanında taşınacağını, büyük olasılıkla birleşmiş galaksinin merkezinden daha uzak yeni bir yörüngeye yerleşeceğini gösteriyor.
+TR: Simülasyonlara göre Güneş ve gezegenler de sürüklenecek; büyük olasılıkla birleşmiş galaksinin merkezinden daha uzakta, yeni bir yörüngeye yerleşecek.
 EN: The warning is that the greatest threat to life on Earth is not Andromeda. It is the Sun.
 TR: Uyarı ise şu: Dünya'daki yaşam için en büyük tehdit Andromeda değil, Güneş.
 EN: The Sun is slowly growing brighter, by about ten percent every billion years.
@@ -188,7 +188,7 @@ TR: Yaklaşık bir milyar yıl sonra bu ek ısı Dünya'nın okyanuslarını buh
 EN: Long before Andromeda arrives, Earth as we know it will be gone.
 TR: Andromeda gelmeden çok önce, bildiğimiz Dünya ortadan kalkmış olacak.
 EN: And in about five billion years, the Sun will swell into a red giant, and end its life as a white dwarf.
-TR: Yaklaşık beş milyar yıl sonra da Güneş kırmızı bir devE dönüşüp ömrünü beyaz cüce olarak tamamlayacak.
+TR: Yaklaşık beş milyar yıl sonra da Güneş kırmızı bir dev yıldıza dönüşüp ömrünü beyaz cüce olarak tamamlayacak.
 EN: If anyone is watching the great collision, they will be our very distant descendants, or someone else entirely.
 TR: Büyük çarpışmayı izleyen biri olursa, bunlar çok uzak torunlarımız ya da bambaşka biri olacak.
 [ara 2.0]

@@ -1,0 +1,709 @@
+1
+00:00:06,000 --> 00:00:09,742
+Look up on a clear night,
+far from the lights of any city,
+
+2
+00:00:09,822 --> 00:00:14,213
+and you will see a pale band of
+light arching across the sky.
+
+3
+00:00:14,293 --> 00:00:18,489
+That band is the Milky Way,
+the galaxy we call home.
+
+4
+00:00:18,569 --> 00:00:23,721
+It is a great spiral of stars, gas,
+and dust, held together by gravity,
+
+5
+00:00:23,801 --> 00:00:27,560
+about one hundred thousand
+light-years across.
+
+6
+00:00:27,640 --> 00:00:33,789
+Somewhere between one hundred billion and
+four hundred billion stars live inside it.
+
+7
+00:00:33,869 --> 00:00:39,101
+Our Sun is only one of them, tucked into
+a quiet spur between two spiral arms,
+
+8
+00:00:39,181 --> 00:00:43,229
+about twenty-six thousand
+light-years from the center.
+
+9
+00:00:43,308 --> 00:00:46,229
+From there, we circle
+the galaxy once every
+
+10
+00:00:46,309 --> 00:00:49,680
+two hundred and thirty
+million years or so.
+
+11
+00:00:49,760 --> 00:00:55,197
+For most of human history, the Milky
+Way seemed to be the entire universe.
+
+12
+00:00:55,277 --> 00:00:59,312
+It is not. And one of its
+neighbors is heading our way.
+
+13
+00:01:01,662 --> 00:01:05,707
+In the autumn sky, in the
+constellation Andromeda, a faint,
+
+14
+00:01:05,787 --> 00:01:09,793
+fuzzy patch of light can
+be seen with the naked eye.
+
+15
+00:01:09,873 --> 00:01:15,935
+For a long time, astronomers thought it
+was a cloud of gas inside our own galaxy.
+
+16
+00:01:16,015 --> 00:01:19,260
+In the nineteen twenties,
+Edwin Hubble measured its
+
+17
+00:01:19,340 --> 00:01:23,034
+distance and showed that
+it is a galaxy of its own.
+
+18
+00:01:23,114 --> 00:01:25,564
+Today we call it the Andromeda Galaxy,
+
+19
+00:01:25,644 --> 00:01:29,877
+and it lies about two and a
+half million light-years away.
+
+20
+00:01:29,957 --> 00:01:33,208
+The light reaching your
+eyes left it two and a half
+
+21
+00:01:33,288 --> 00:01:36,990
+million years ago,
+long before our species existed.
+
+22
+00:01:37,070 --> 00:01:42,150
+Andromeda is the largest galaxy in our
+local neighborhood of the universe,
+
+23
+00:01:42,230 --> 00:01:45,319
+an estimated one trillion stars strong.
+
+24
+00:01:45,399 --> 00:01:50,869
+In twenty fifteen, NASA's Hubble Space
+Telescope captured a giant panorama of
+
+25
+00:01:50,949 --> 00:01:56,942
+Andromeda in which more than one hundred
+million individual stars can be seen.
+
+26
+00:01:57,022 --> 00:02:00,958
+Two enormous spirals,
+separated by a gulf of nearly
+
+27
+00:02:01,038 --> 00:02:05,181
+empty space. And that
+gulf is slowly closing.
+
+28
+00:02:07,031 --> 00:02:11,311
+How do we know that Andromeda
+is moving? We read its light.
+
+29
+00:02:11,391 --> 00:02:13,403
+Light from something moving away is
+
+30
+00:02:13,483 --> 00:02:16,541
+stretched toward the
+red end of the spectrum.
+
+31
+00:02:16,621 --> 00:02:20,671
+Light from something moving closer
+is squeezed toward the blue.
+
+32
+00:02:20,751 --> 00:02:23,896
+Almost every distant
+galaxy shows a redshift,
+
+33
+00:02:23,976 --> 00:02:29,003
+because space itself is expanding
+and carrying them away from us.
+
+34
+00:02:29,083 --> 00:02:32,470
+Andromeda is a rare
+exception. In nineteen twelve,
+
+35
+00:02:32,550 --> 00:02:38,258
+the astronomer Vesto Slipher found that
+its light is shifted toward the blue.
+
+36
+00:02:38,338 --> 00:02:41,106
+Andromeda is coming toward us.
+
+37
+00:02:41,256 --> 00:02:42,864
+Relative to the Milky Way,
+
+38
+00:02:42,944 --> 00:02:47,663
+it approaches at roughly one hundred
+and ten kilometers per second.
+
+39
+00:02:47,743 --> 00:02:50,239
+That is fast enough to cross the distance
+
+40
+00:02:50,319 --> 00:02:53,455
+from the Earth to the
+Moon in about an hour.
+
+41
+00:02:53,535 --> 00:02:57,560
+And yet the gap between the
+two galaxies is so vast that,
+
+42
+00:02:57,640 --> 00:03:02,273
+even at that speed,
+the journey takes billions of years.
+
+43
+00:03:04,123 --> 00:03:08,426
+Light tells us how fast a galaxy
+moves along our line of sight.
+
+44
+00:03:08,506 --> 00:03:11,333
+But it says nothing about sideways motion,
+
+45
+00:03:11,413 --> 00:03:17,250
+and sideways motion decides whether two
+galaxies collide or pass each other by.
+
+46
+00:03:17,330 --> 00:03:19,936
+To measure it, astronomers have to watch
+
+47
+00:03:20,016 --> 00:03:23,342
+the stars of Andromeda
+drift across the sky.
+
+48
+00:03:23,422 --> 00:03:27,393
+The shift is astonishingly
+small, a tiny fraction of a
+
+49
+00:03:27,473 --> 00:03:32,344
+single pixel in a Hubble image,
+even after years of waiting.
+
+50
+00:03:32,424 --> 00:03:36,889
+In twenty twelve, astronomers
+compared Hubble images of Andromeda
+
+51
+00:03:36,969 --> 00:03:41,745
+taken years apart, and measured
+that motion for the first time.
+
+52
+00:03:41,825 --> 00:03:47,588
+The result was clear: Andromeda is moving
+almost directly toward the Milky Way.
+
+53
+00:03:47,668 --> 00:03:52,582
+NASA announced that the two galaxies
+were likely to collide in about four
+
+54
+00:03:52,662 --> 00:03:57,890
+billion years, and to merge into one
+around six billion years from now.
+
+55
+00:03:57,970 --> 00:04:01,387
+Newer measurements,
+including data from the European
+
+56
+00:04:01,467 --> 00:04:05,469
+Space Agency's Gaia mission,
+have refined the picture.
+
+57
+00:04:05,549 --> 00:04:07,764
+And a twenty twenty five study,
+
+58
+00:04:07,844 --> 00:04:11,393
+which included the pull
+of other nearby galaxies,
+
+59
+00:04:11,473 --> 00:04:14,355
+suggests the odds of a merger within ten
+
+60
+00:04:14,435 --> 00:04:17,989
+billion years may be
+closer to fifty-fifty.
+
+61
+00:04:18,069 --> 00:04:23,456
+So the collision is not a certainty.
+Science is still working on the answer.
+
+62
+00:04:25,806 --> 00:04:28,750
+A collision between two
+galaxies sounds like a
+
+63
+00:04:28,830 --> 00:04:32,554
+cosmic catastrophe. It will
+be nothing of the sort.
+
+64
+00:04:32,634 --> 00:04:36,522
+Galaxies are mostly empty
+space, and the stars inside
+
+65
+00:04:36,602 --> 00:04:41,240
+them are separated by distances
+that are hard to imagine.
+
+66
+00:04:41,320 --> 00:04:43,463
+Shrink the Sun to the size of a pea,
+
+67
+00:04:43,543 --> 00:04:47,864
+and the nearest star would be
+about two hundred kilometers away.
+
+68
+00:04:47,944 --> 00:04:50,459
+When two galaxies pass through each other,
+
+69
+00:04:50,539 --> 00:04:55,729
+their stars slip by like two swarms of
+fireflies drifting through one another.
+
+70
+00:04:55,809 --> 00:04:58,564
+The chance that any
+two stars will actually
+
+71
+00:04:58,644 --> 00:05:01,388
+hit each other is vanishingly small.
+
+72
+00:05:01,468 --> 00:05:05,213
+But gravity needs no contact.
+As the galaxies draw near,
+
+73
+00:05:05,293 --> 00:05:08,326
+their pull will stretch and twist them.
+
+74
+00:05:08,406 --> 00:05:14,127
+Long streams of stars, called tidal tails,
+will be flung far out into space.
+
+75
+00:05:14,207 --> 00:05:19,500
+Gas is different. Vast clouds of gas
+and dust will crash into each other,
+
+76
+00:05:19,580 --> 00:05:22,746
+compress, and collapse into new stars.
+
+77
+00:05:22,826 --> 00:05:27,176
+The calm spirals will become
+something wild, and beautiful.
+
+78
+00:05:29,026 --> 00:05:31,582
+We know what is coming
+because we can watch
+
+79
+00:05:31,662 --> 00:05:34,423
+it happening elsewhere in the universe.
+
+80
+00:05:34,503 --> 00:05:36,739
+Tens of millions of light-years away,
+
+81
+00:05:36,819 --> 00:05:41,320
+two galaxies called the Antennae
+are in the middle of a collision.
+
+82
+00:05:41,400 --> 00:05:45,720
+Hubble, Chandra, and Spitzer
+have photographed them in detail.
+
+83
+00:05:45,800 --> 00:05:49,072
+Their gas has ignited a
+burst of star formation,
+
+84
+00:05:49,152 --> 00:05:54,479
+and a swarm of brilliant young star
+clusters now glows in the wreckage.
+
+85
+00:05:54,559 --> 00:05:59,003
+In fact, the Milky Way itself
+is a product of collisions.
+
+86
+00:05:59,083 --> 00:06:03,407
+Astronomers using Gaia found
+the remains of a dwarf galaxy
+
+87
+00:06:03,487 --> 00:06:07,806
+that merged with ours roughly
+ten billion years ago.
+
+88
+00:06:07,886 --> 00:06:10,922
+Right now, a small
+galaxy called Sagittarius
+
+89
+00:06:11,002 --> 00:06:13,401
+is being torn apart by our gravity,
+
+90
+00:06:13,481 --> 00:06:18,738
+its stars stretched into a long
+stream wrapping around the Milky Way.
+
+91
+00:06:18,818 --> 00:06:24,085
+Our galaxy has spent most of its life
+growing by consuming its neighbors.
+
+92
+00:06:24,165 --> 00:06:28,712
+The meeting with Andromeda would
+simply be the biggest one yet.
+
+93
+00:06:30,562 --> 00:06:35,750
+At the center of every large galaxy
+lies a supermassive black hole.
+
+94
+00:06:35,830 --> 00:06:41,847
+Ours, Sagittarius A-star, weighs about
+four million times the mass of the Sun.
+
+95
+00:06:41,927 --> 00:06:47,579
+Andromeda's is far heavier, at more
+than one hundred million solar masses.
+
+96
+00:06:47,659 --> 00:06:52,859
+As the galaxies merge, the two black
+holes will slowly sink toward the middle
+
+97
+00:06:52,939 --> 00:06:58,452
+of the new galaxy, dragged by the
+gravity of the stars and gas around them.
+
+98
+00:06:58,532 --> 00:07:04,146
+They will begin to orbit each other,
+closer and closer, over millions of years.
+
+99
+00:07:04,226 --> 00:07:07,262
+Orbiting black holes
+shake spacetime itself,
+
+100
+00:07:07,342 --> 00:07:10,236
+sending out gravitational waves that carry
+
+101
+00:07:10,316 --> 00:07:13,802
+energy away and bring
+the pair closer still.
+
+102
+00:07:13,882 --> 00:07:18,863
+In the end, the two will merge into
+a single, even larger black hole.
+
+103
+00:07:18,943 --> 00:07:21,694
+Gas stirred up by the
+collision may feed it,
+
+104
+00:07:21,774 --> 00:07:26,068
+making the heart of the new
+galaxy blaze brightly for a time.
+
+105
+00:07:26,148 --> 00:07:31,063
+Waves from mergers like this are
+the target of future observatories,
+
+106
+00:07:31,143 --> 00:07:35,618
+such as the planned LISA mission
+of the European Space Agency,
+
+107
+00:07:35,698 --> 00:07:37,987
+with NASA as a partner.
+
+108
+00:07:39,837 --> 00:07:44,212
+What would this look like from Earth,
+if anyone were here to see it?
+
+109
+00:07:44,412 --> 00:07:48,470
+Scientists have worked it out,
+using the Hubble measurements.
+
+110
+00:07:48,550 --> 00:07:52,125
+Today, Andromeda is a faint
+smudge, though if our eyes
+
+111
+00:07:52,205 --> 00:07:56,366
+could see all of it, it would
+span about six full Moons.
+
+112
+00:07:56,446 --> 00:08:01,525
+In roughly three to four billion years,
+it would begin to fill the sky.
+
+113
+00:08:01,605 --> 00:08:04,420
+Its spiral arms would
+grow brighter and more
+
+114
+00:08:04,500 --> 00:08:07,765
+distorted as the tides
+of gravity warp them.
+
+115
+00:08:07,845 --> 00:08:11,284
+Then, as the two galaxies
+pass through each other,
+
+116
+00:08:11,364 --> 00:08:17,646
+the night sky would fill with glowing gas,
+newborn stars, and tangled lanes of dust.
+
+117
+00:08:17,726 --> 00:08:22,788
+Over time the display would settle,
+as the two systems blend into one.
+
+118
+00:08:22,868 --> 00:08:26,856
+It would be the grandest sight
+any world has ever offered.
+
+119
+00:08:28,706 --> 00:08:31,781
+There is one comfort here,
+and one warning.
+
+120
+00:08:31,861 --> 00:08:35,627
+The comfort is that stars are
+so far apart that the Solar
+
+121
+00:08:35,707 --> 00:08:39,788
+System will almost certainly
+survive the merger intact.
+
+122
+00:08:39,868 --> 00:08:44,554
+Simulations suggest the Sun and
+its planets would be carried along,
+
+123
+00:08:44,634 --> 00:08:49,913
+probably to a new orbit farther from
+the center of the merged galaxy.
+
+124
+00:08:49,993 --> 00:08:52,567
+The warning is that the greatest threat to
+
+125
+00:08:52,647 --> 00:08:55,924
+life on Earth is not
+Andromeda. It is the Sun.
+
+126
+00:08:56,004 --> 00:09:01,601
+The Sun is slowly growing brighter,
+by about ten percent every billion years.
+
+127
+00:09:01,681 --> 00:09:07,632
+In about a billion years, that extra heat
+will begin to evaporate Earth's oceans.
+
+128
+00:09:07,712 --> 00:09:12,244
+Long before Andromeda arrives,
+Earth as we know it will be gone.
+
+129
+00:09:12,324 --> 00:09:17,271
+And in about five billion years,
+the Sun will swell into a red giant,
+
+130
+00:09:17,351 --> 00:09:20,198
+and end its life as a white dwarf.
+
+131
+00:09:20,278 --> 00:09:23,103
+If anyone is watching the great collision,
+
+132
+00:09:23,183 --> 00:09:28,487
+they will be our very distant descendants,
+or someone else entirely.
+
+133
+00:09:30,337 --> 00:09:36,372
+When the dust finally settles, billions of
+years later, the two spirals will be gone.
+
+134
+00:09:36,452 --> 00:09:39,487
+In their place will
+stand a single, enormous,
+
+135
+00:09:39,567 --> 00:09:43,259
+smooth galaxy shaped like
+a ball, an elliptical.
+
+136
+00:09:43,339 --> 00:09:46,637
+Astronomers have already
+given it a nickname:
+
+137
+00:09:46,717 --> 00:09:50,539
+Milkomeda, a blend of
+Milky Way and Andromeda.
+
+138
+00:09:50,619 --> 00:09:54,955
+The smaller Triangulum galaxy,
+the third largest in our group,
+
+139
+00:09:55,035 --> 00:09:58,111
+may be pulled into the merger as well.
+
+140
+00:09:58,191 --> 00:10:04,133
+The new galaxy will slowly run low on gas,
+and the birth of new stars will fade.
+
+141
+00:10:04,213 --> 00:10:08,531
+Far in the future, as the expansion
+of the universe speeds up,
+
+142
+00:10:08,611 --> 00:10:12,812
+almost every other galaxy
+will drift beyond our reach.
+
+143
+00:10:12,892 --> 00:10:16,922
+Only our own small family of
+galaxies will stay together.
+
+144
+00:10:17,002 --> 00:10:21,528
+For the first time, a species on
+a small planet has measured the
+
+145
+00:10:21,608 --> 00:10:26,655
+motion of a neighboring galaxy,
+and read its own galaxy's future.
+
+146
+00:10:26,735 --> 00:10:30,924
+The universe is not a still
+picture. It is a story of motion,
+
+147
+00:10:31,004 --> 00:10:34,193
+of collisions, and of new beginnings.

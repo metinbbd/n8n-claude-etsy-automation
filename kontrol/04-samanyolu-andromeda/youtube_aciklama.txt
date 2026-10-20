@@ -1,0 +1,96 @@
+=== BASLIK (Turkce) ===
+Samanyolu ve Andromeda Çarpışıyor: Galaksimizin Geleceği | Gerçek NASA Görüntüleriyle Uzay Belgeseli
+
+=== BASLIK (English) ===
+The Great Collision: When the Milky Way Meets Andromeda | Space Documentary with Real NASA Footage
+
+=== ACIKLAMA (Turkce kanal icin) ===
+Samanyolu ile komşumuz Andromeda Galaksisi gerçekten çarpışacak mı? Bu belgeselde Andromeda'nın bize doğru yaklaşmasını, Hubble'ın yana kayma ölçümlerini, çarpışmanın nasıl olacağını, merkezlerdeki süper kütleli kara deliklerin buluşmasını, Güneş'in ve Dünya'nın kaderini ve ortaya çıkacak 'Milkomeda' galaksisini gerçek NASA görüntüleri ve simülasyonlarıyla anlatıyoruz.
+
+Bölümler:
+00:00 Yıldızlardan Adamız
+01:01 Yan Kapıdaki Galaksi
+02:07 Maviye Kayan Bir Mesaj
+03:04 Ölçülemeyeni Ölçmek
+04:25 Çoğu Boşluk
+05:29 Çoktan Başlamış Çarpışmalar
+06:30 Kara Delikler Buluşuyor
+07:39 Değişen Gece Gökyüzü
+08:28 Güneş'e Ne Olacak
+09:30 Milkomeda
+
+Türkçe altyazı mevcuttur (CC).
+
+Kaynaklar ve lisanslar:
+Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS)
+Milky Way - Andromeda collision simulation ("Crash of the Titans"): NASA/Goddard SVS, NASA/ESA/STScI
+Galaxy imagery: NASA, ESA, STScI (Hubble)  -  NASA/JPL-Caltech (Spitzer, SPHEREx, WISE)  -  NASA/CXC (Chandra)  -  NASA, ESA, CSA, STScI (Webb)
+Black hole visualizations and gravitational waves: NASA's Goddard Space Flight Center, LIGO
+Solar imagery: NASA/SDO  -  Earth imagery: NASA Johnson Space Center (ISS)
+Music: "Odyssey" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Limit 70" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Canon In D Interstellar Mix" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
+
+Bilgi kaynakları:
+https://svs.gsfc.nasa.gov/30955/
+https://svs.gsfc.nasa.gov/30990/
+https://svs.gsfc.nasa.gov/30961/
+https://svs.gsfc.nasa.gov/30941/
+https://svs.gsfc.nasa.gov/31019/
+https://svs.gsfc.nasa.gov/31346/
+https://svs.gsfc.nasa.gov/31376/
+https://science.nasa.gov/mission/hubble/
+https://www.esa.int/Science_Exploration/Space_Science/Gaia
+Sawala et al., "No certainty of a Milky Way-Andromeda collision", Nature Astronomy (2025)
+
+=== DESCRIPTION (English channel) ===
+Will the Milky Way really collide with the Andromeda Galaxy? This documentary explores Andromeda's approach, Hubble's sideways-motion measurements, how the collision would unfold, the meeting of the two supermassive black holes, the fate of the Sun and Earth, and the galaxy astronomers call Milkomeda, using real NASA imagery and simulations.
+
+Chapters:
+00:00 Our Island of Stars
+01:01 The Galaxy Next Door
+02:07 A Message in Blue
+03:04 Measuring the Unmeasurable
+04:25 Mostly Empty Space
+05:29 Collisions Already Underway
+06:30 The Black Holes Meet
+07:39 A Changed Night Sky
+08:28 What Happens to the Sun
+09:30 Milkomeda
+
+Credits & licenses:
+Footage: NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS)
+Milky Way - Andromeda collision simulation ("Crash of the Titans"): NASA/Goddard SVS, NASA/ESA/STScI
+Galaxy imagery: NASA, ESA, STScI (Hubble)  -  NASA/JPL-Caltech (Spitzer, SPHEREx, WISE)  -  NASA/CXC (Chandra)  -  NASA, ESA, CSA, STScI (Webb)
+Black hole visualizations and gravitational waves: NASA's Goddard Space Flight Center, LIGO
+Solar imagery: NASA/SDO  -  Earth imagery: NASA Johnson Space Center (ISS)
+Music: "Odyssey" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Limit 70" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Canon In D Interstellar Mix" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
+
+Sources:
+https://svs.gsfc.nasa.gov/30955/
+https://svs.gsfc.nasa.gov/30990/
+https://svs.gsfc.nasa.gov/30961/
+https://svs.gsfc.nasa.gov/30941/
+https://svs.gsfc.nasa.gov/31019/
+https://svs.gsfc.nasa.gov/31346/
+https://svs.gsfc.nasa.gov/31376/
+https://science.nasa.gov/mission/hubble/
+https://www.esa.int/Science_Exploration/Space_Science/Gaia
+Sawala et al., "No certainty of a Milky Way-Andromeda collision", Nature Astronomy (2025)
+
+=== ETIKETLER / TAGS ===
+Milky Way, Andromeda, galaxy collision, Samanyolu, Andromeda galaksisi, galaksi çarpışması, Milkomeda, space documentary, uzay belgeseli, NASA, Hubble, Gaia, supermassive black hole, future of the Milky Way, Local Group, galaxy merger
+
+=== YOUTUBE AYARLARI ===
+- Video dili: English
+- Altyazi: altyazi_tr.srt -> Turkce, altyazi_en.srt -> English
+- "Altered or synthetic content" sorusu: YouTube bunu gercek kisi/olay sanilabilecek sahte
+  goruntu ve sesler icin istiyor. Bu videoda gorseller gercek NASA kayitlari, anlatici kimseyi
+  taklit etmiyor; bu yuzden "Hayir" uygundur. Bu etiket para kazanmayi etkilemez.
+- Para kazanma icin: videolari aralikli yukleyin (or. haftada 1-2), her videoda kendi basliginizi
+  ve aciklamanizi kisisellestirin, yorumlara cevap verin.
+- Sure: 10:51

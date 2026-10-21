@@ -1,0 +1,91 @@
+{
+ "svs_aramalari": [],
+ "aramalar": [],
+ "supheliler_dahil": true,
+ "tablo_limiti": 0,
+ "urller": {
+  "e13692": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013600/a013692/Enceladus_13692.mp4"
+  },
+  "t13692": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013600/a013692/Titan_13692.mp4"
+  },
+  "s20384_geyser": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020384/EnceladusGeyser_web.mp4"
+  },
+  "s20384_ice": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020384/IceLayerPan_web.mp4"
+  },
+  "s20384_webb": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020384/EnceladusToWebb_web.mp4"
+  },
+  "s20384_asm": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a020000/a020300/a020384/AssemblyCut_webm.mp4"
+  },
+  "s13163": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a013100/a013163/13163_WaterVaporEuropa_YouTubeHD.mp4"
+  },
+  "s12585": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012500/a012585/Hubble_Europa_04-2017.mp4"
+  },
+  "s12375a": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012300/a012375/Hubble_Europa_30_second.mp4"
+  },
+  "s12375b": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012300/a012375/STScI-H-v1633a-1920x1080.mp4"
+  },
+  "ca0": {
+   "lib": "JPL-20220310-CLIPPRf-0001-Europa Clipper Mission Animations",
+   "bas": 0,
+   "son": 123
+  },
+  "ca1": {
+   "lib": "JPL-20220310-CLIPPRf-0001-Europa Clipper Mission Animations",
+   "bas": 123,
+   "son": 246
+  },
+  "ca2": {
+   "lib": "JPL-20220310-CLIPPRf-0001-Europa Clipper Mission Animations",
+   "bas": 246,
+   "son": 369
+  },
+  "ca3": {
+   "lib": "JPL-20220310-CLIPPRf-0001-Europa Clipper Mission Animations",
+   "bas": 369,
+   "son": 492
+  },
+  "ca4": {
+   "lib": "JPL-20220310-CLIPPRf-0001-Europa Clipper Mission Animations",
+   "bas": 492,
+   "son": 615
+  },
+  "so0": {
+   "lib": "JPL-20240515-CLIPPRf-0001-Europa Clipper Science Overview Video",
+   "bas": 0,
+   "son": 150
+  },
+  "so1": {
+   "lib": "JPL-20240515-CLIPPRf-0001-Europa Clipper Science Overview Video",
+   "bas": 150,
+   "son": 300
+  },
+  "lw": {
+   "lib": "JPL-20241014-CLIPPRf-0002-Europa Launch Wrap Video"
+  },
+  "mo": {
+   "lib": "JPL-20240916-CLIPPRf-0001-Europa Clipper Mission Overview"
+  },
+  "tr": {
+   "lib": "Europa Clipper - NASA’s Mission to Jupiter's Ocean Moon - Mission Trailer"
+  },
+  "pot": {
+   "lib": "Is There Potential for Life on Europa? - Horizontal"
+  },
+  "h1": {
+   "lib": "2022-H1_V_EuropaClipper-4"
+  },
+  "srch": {
+   "lib": "The_Search_for_Life_H264"
+  }
+ }
+}

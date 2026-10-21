@@ -236,7 +236,14 @@ def main(config_path, out_dir):
     # urller: {"ad": {"url": ..., "bas": 0, "son": 120, "kare": 24}} -> tablolar/<ad>.jpg
     for ad, u in (cfg.get("urller") or {}).items():
         try:
-            u = {"url": u} if isinstance(u, str) else u
+            u = {"url": u} if isinstance(u, str) else dict(u)
+            if not u.get("url") and u.get("lib"):  # NASA kutuphanesi kimligi -> large/medium/orig.mp4
+                href = f"https://images-assets.nasa.gov/video/{u['lib']}/collection.json"
+                files = get_json(urllib.parse.quote(href, safe=":/~%"))
+                hed = {f.rsplit("~", 1)[-1]: f for f in files if f.endswith(".mp4")}
+                secim = next((hed[k] for k in ("large.mp4", "medium.mp4", "orig.mp4") if k in hed), None)
+                u["url"] = urllib.parse.quote(secim.replace("http://", "https://"), safe=":/~%")
+                print(f"  {ad}: {u['url']}", flush=True)
             info = probe(u["url"])
             bas = float(u.get("bas", 0))
             son = min(float(u.get("son", info["sure"])), info["sure"])

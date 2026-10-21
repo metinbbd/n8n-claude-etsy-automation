@@ -1,0 +1,39 @@
+0 benzersiz video bulundu
+SVS: 0 sonuc
+  ✓ e13692 0-29s kaynak=1920x1080 30000/1001 sure=28.7
+  ✓ t13692 0-28s kaynak=1920x1080 30000/1001 sure=28.4
+  ✓ s20384_geyser 0-14s kaynak=1920x1080 24/1 sure=14.2
+  ✓ s20384_ice 0-4s kaynak=1920x1080 30000/1001 sure=3.7
+  ✓ s20384_webb 0-32s kaynak=1920x1080 30000/1001 sure=32.1
+  ✓ s20384_asm 0-62s kaynak=1920x1080 30000/1001 sure=61.6
+  ✓ s13163 0-106s kaynak=1920x1080 30/1 sure=106.3
+  ✓ s12585 0-135s kaynak=1920x1080 30000/1001 sure=135.1
+  ✓ s12375a 0-30s kaynak=1920x1080 30000/1001 sure=29.6
+  ✓ s12375b 0-10s kaynak=1920x1080 60/1 sure=10.0
+  ca0: https://images-assets.nasa.gov/video/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations~large.mp4
+  ✓ ca0 0-123s kaynak=1920x1080 30/1 sure=614.0
+  ca1: https://images-assets.nasa.gov/video/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations~large.mp4
+  ✓ ca1 123-246s kaynak=1920x1080 30/1 sure=614.0
+  ca2: https://images-assets.nasa.gov/video/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations~large.mp4
+  ✓ ca2 246-369s kaynak=1920x1080 30/1 sure=614.0
+  ca3: https://images-assets.nasa.gov/video/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations~large.mp4
+  ✓ ca3 369-492s kaynak=1920x1080 30/1 sure=614.0
+  ca4: https://images-assets.nasa.gov/video/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations~large.mp4
+  ✓ ca4 492-614s kaynak=1920x1080 30/1 sure=614.0
+  so0: https://images-assets.nasa.gov/video/JPL-20240515-CLIPPRf-0001-Europa%20Clipper%20Science%20Overview%20Video/JPL-20240515-CLIPPRf-0001-Europa%20Clipper%20Science%20Overview%20Video~large.mp4
+  ✓ so0 0-150s kaynak=1920x1080 30/1 sure=298.7
+  so1: https://images-assets.nasa.gov/video/JPL-20240515-CLIPPRf-0001-Europa%20Clipper%20Science%20Overview%20Video/JPL-20240515-CLIPPRf-0001-Europa%20Clipper%20Science%20Overview%20Video~large.mp4
+  ✓ so1 150-299s kaynak=1920x1080 30/1 sure=298.7
+  lw: https://images-assets.nasa.gov/video/JPL-20241014-CLIPPRf-0002-Europa%20Launch%20Wrap%20Video/JPL-20241014-CLIPPRf-0002-Europa%20Launch%20Wrap%20Video~large.mp4
+  ✓ lw 0-87s kaynak=1920x1080 30/1 sure=86.6
+  mo: https://images-assets.nasa.gov/video/JPL-20240916-CLIPPRf-0001-Europa%20Clipper%20Mission%20Overview/JPL-20240916-CLIPPRf-0001-Europa%20Clipper%20Mission%20Overview~large.mp4
+  ✓ mo 0-265s kaynak=1920x1080 30/1 sure=265.3
+  tr: https://images-assets.nasa.gov/video/Europa%20Clipper%20-%20NASA%E2%80%99s%20Mission%20to%20Jupiter%27s%20Ocean%20Moon%20-%20Mission%20Trailer/Europa%20Clipper%20-%20NASA%E2%80%99s%20Mission%20to%20Jupiter%27s%20Ocean%20Moon%20-%20Mission%20Trailer~large.mp4
+  ✓ tr 0-75s kaynak=1920x1080 30/1 sure=74.9
+  pot: https://images-assets.nasa.gov/video/Is%20There%20Potential%20for%20Life%20on%20Europa%3F%20-%20Horizontal/Is%20There%20Potential%20for%20Life%20on%20Europa%3F%20-%20Horizontal~large.mp4
+  ✓ pot 0-96s kaynak=1920x1080 30/1 sure=95.7
+  h1: https://images-assets.nasa.gov/video/2022-H1_V_EuropaClipper-4/2022-H1_V_EuropaClipper-4~large.mp4
+  ✓ h1 0-199s kaynak=1920x1080 30/1 sure=199.4
+  srch: https://images-assets.nasa.gov/video/The_Search_for_Life_H264/The_Search_for_Life_H264~large.mp4
+  ✓ srch 0-140s kaynak=1920x1080 30/1 sure=140.3
+[]

@@ -12,6 +12,7 @@ import re
 import subprocess
 import sys
 import textwrap
+import urllib.parse
 import urllib.request
 
 import numpy as np
@@ -29,6 +30,7 @@ XFADE = 0.8              # klipler arasi gecis (sn)
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 FONT_B = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 X264 = ["-c:v", "libx264", "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p"]
+STILL = (".jpg", ".jpeg", ".png", ".tif", ".tiff")   # fotograf kaynaklari (yavas yaklasma ile kullanilir)
 
 
 def run(cmd):
@@ -289,7 +291,8 @@ def fetch_sources(edit, src_dir):
     os.makedirs(src_dir, exist_ok=True)
     paths = {}
     for key, src in edit["kaynaklar"].items():
-        path = f"{src_dir}/{key}.mp4"
+        ext = os.path.splitext(urllib.parse.urlparse(src["url"]).path)[1].lower()
+        path = f"{src_dir}/{key}{ext if ext in STILL else '.mp4'}"
         if not os.path.exists(path):
             log(f"  indiriliyor: {key}")
             urllib.request.urlretrieve(src["url"], path)
@@ -311,7 +314,20 @@ def crop_filter(kirp):
     return f"crop=iw*{w:.5f}:ih*{h:.5f}:iw*{x:.5f}:ih*{y:.5f},"
 
 
+def render_still(src, dur, zoom, out, kirp=None):
+    """Durağan fotoğraf: dur saniye boyunca yavaş yaklaşma (gerçek NASA fotoğrafı, kurgu parçası olarak)."""
+    frames = max(int(dur * FPS), 2)
+    z1 = zoom * 1.10
+    vf = (f"{crop_filter(kirp)}scale={2 * W}:{2 * H}:force_original_aspect_ratio=increase,"
+          f"crop={2 * W}:{2 * H},zoompan=z='{zoom:.4f}+({z1 - zoom:.4f})*on/{frames}':"
+          f"x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s={W}x{H}:fps={FPS},format=yuv420p")
+    run(["ffmpeg", "-loglevel", "error", "-y", "-i", src, "-vf", vf, "-frames:v", str(frames),
+         "-an", *X264, out])
+
+
 def render_segment(src, start, length, dur, zoom, out, kirp=None):
+    if src.lower().endswith(STILL):
+        return render_still(src, dur, zoom, out, kirp)
     k = dur / length  # >1 yavaslatma
     vf = (f"{crop_filter(kirp)}setpts={k:.5f}*(PTS-STARTPTS),"
           f"scale={int(W * zoom)}:{int(H * zoom)}:force_original_aspect_ratio=increase,"
@@ -499,6 +515,9 @@ def check_segments(cfg, paths, out_dir):
     """Kurgudaki her parcanin bas/orta/son karesini gercek kaynaktan cikarir."""
     durs = {}
     for key, path in paths.items():
+        if path.lower().endswith(STILL):
+            durs[key] = 1e9
+            continue
         durs[key] = float(json.loads(run(["ffprobe", "-v", "error", "-show_entries",
                                           "format=duration", "-of", "json", path]).stdout)
                           ["format"]["duration"])
@@ -509,13 +528,14 @@ def check_segments(cfg, paths, out_dir):
             d = ImageDraw.Draw(row)
             d.text((970, 20), f"{i}.{j} {key}", font=font(FONT_B, 22), fill=(255, 220, 0))
             d.text((970, 60), f"{a:.1f}-{b:.1f}s", font=font(FONT, 20), fill=(255, 255, 255))
-            warn = "KAYNAK KISA!" if b > durs[key] else f"kaynak {durs[key]:.0f}s"
+            warn = "KAYNAK KISA!" if b > durs[key] else ("fotograf" if durs[key] > 1e8 else f"kaynak {durs[key]:.0f}s")
             d.text((970, 95), warn, font=font(FONT, 20),
                    fill=(255, 80, 80) if "KISA" in warn else (180, 180, 180))
             for m, t in enumerate((a + 0.3, (a + b) / 2, b - 0.3)):
                 tmp = f"/tmp/kare_{m}.png"
                 o = opt[0] if opt else {}
-                run(["ffmpeg", "-loglevel", "error", "-y", "-ss", f"{min(t, durs[key] - 0.1):.2f}",
+                seek = [] if paths[key].lower().endswith(STILL) else ["-ss", f"{min(t, durs[key] - 0.1):.2f}"]
+                run(["ffmpeg", "-loglevel", "error", "-y", *seek,
                      "-i", paths[key], "-frames:v", "1", "-vf",
                      f"{crop_filter(o.get('kirp'))}scale=320:180:force_original_aspect_ratio=increase,"
                      "crop=320:180", tmp])

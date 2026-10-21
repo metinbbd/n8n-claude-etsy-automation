@@ -245,6 +245,12 @@ def main(config_path, out_dir):
                 u["url"] = urllib.parse.quote(secim.replace("http://", "https://"), safe=":/~%")
                 print(f"  {ad}: {u['url']}", flush=True)
             info = probe(u["url"])
+            try:  # dosya boyutu (indirme suresi icin fikir)
+                req = urllib.request.Request(u["url"], method="HEAD", headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=60) as r:
+                    print(f"  {ad}: dosya boyutu {int(r.headers.get('Content-Length') or 0) / 1e6:.0f} MB", flush=True)
+            except Exception:  # noqa: BLE001
+                pass
             bas = float(u.get("bas", 0))
             son = min(float(u.get("son", info["sure"])), info["sure"])
             sheet(u["url"], f"{out_dir}/tablolar/{ad}.jpg", son - bas, u.get("kare", 24), bas)

@@ -1,0 +1,73 @@
+{
+ "svs_aramalari": [],
+ "aramalar": [],
+ "supheliler_dahil": true,
+ "tablo_limiti": 0,
+ "urller": {
+  "sat_a": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012800/a012880/9.Saturn.mp4",
+   "bas": 0,
+   "son": 120
+  },
+  "sat_b": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012800/a012880/9.Saturn.mp4",
+   "bas": 165,
+   "son": 235
+  },
+  "sat_c": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012800/a012880/9.Saturn.mp4",
+   "bas": 235,
+   "son": 305
+  },
+  "sat_d": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012800/a012880/9.Saturn.mp4",
+   "bas": 305,
+   "son": 425
+  },
+  "sat_e": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012800/a012880/9.Saturn.mp4",
+   "bas": 425,
+   "son": 563
+  },
+  "jup_a": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012800/a012880/8.Jupiter.mp4",
+   "bas": 0,
+   "son": 125
+  },
+  "jup_b": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012800/a012880/8.Jupiter.mp4",
+   "bas": 180,
+   "son": 270
+  },
+  "cf_a": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012700/a012735/CASSINIS_GRAND_FINALE_Film_ProRes_422_HQ-002_high.mp4",
+   "bas": 0,
+   "son": 110
+  },
+  "cf_b": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a012700/a012735/CASSINIS_GRAND_FINALE_Film_ProRes_422_HQ-002_high.mp4",
+   "bas": 110,
+   "son": 220
+  },
+  "titan_a": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014800/a014843/14843_Webb_Titan_Climate_1080.mp4",
+   "bas": 30,
+   "son": 90
+  },
+  "titan_b": {
+   "url": "http://svs.gsfc.nasa.gov/vis/a010000/a014800/a014843/14843_Webb_Titan_Climate_1080.mp4",
+   "bas": 230,
+   "son": 285
+  },
+  "mo_a": {
+   "url": "https://images-assets.nasa.gov/video/JPL-20240916-CLIPPRf-0001-Europa%20Clipper%20Mission%20Overview/JPL-20240916-CLIPPRf-0001-Europa%20Clipper%20Mission%20Overview~large.mp4",
+   "bas": 0,
+   "son": 90
+  },
+  "mo_b": {
+   "url": "https://images-assets.nasa.gov/video/JPL-20240916-CLIPPRf-0001-Europa%20Clipper%20Mission%20Overview/JPL-20240916-CLIPPRf-0001-Europa%20Clipper%20Mission%20Overview~large.mp4",
+   "bas": 90,
+   "son": 180
+  }
+ }
+}

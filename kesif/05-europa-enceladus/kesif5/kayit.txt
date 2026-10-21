@@ -1,0 +1,29 @@
+0 benzersiz video bulundu
+SVS: 0 sonuc
+  sat_a: dosya boyutu 700 MB
+  ✓ sat_a 0-120s kaynak=1920x1080 60000/1001 sure=562.7
+  sat_b: dosya boyutu 700 MB
+  ✓ sat_b 165-235s kaynak=1920x1080 60000/1001 sure=562.7
+  sat_c: dosya boyutu 700 MB
+  ✓ sat_c 235-305s kaynak=1920x1080 60000/1001 sure=562.7
+  sat_d: dosya boyutu 700 MB
+  ✓ sat_d 305-425s kaynak=1920x1080 60000/1001 sure=562.7
+  sat_e: dosya boyutu 700 MB
+  ✓ sat_e 425-563s kaynak=1920x1080 60000/1001 sure=562.7
+  jup_a: dosya boyutu 634 MB
+  ✓ jup_a 0-125s kaynak=1920x1080 60000/1001 sure=500.7
+  jup_b: dosya boyutu 634 MB
+  ✓ jup_b 180-270s kaynak=1920x1080 60000/1001 sure=500.7
+  cf_a: dosya boyutu 85 MB
+  ✓ cf_a 0-110s kaynak=1280x720 30/1 sure=220.0
+  cf_b: dosya boyutu 85 MB
+  ✓ cf_b 110-220s kaynak=1280x720 30/1 sure=220.0
+  titan_a: dosya boyutu 452 MB
+  ✓ titan_a 30-90s kaynak=1920x1080 60/1 sure=296.6
+  titan_b: dosya boyutu 452 MB
+  ✓ titan_b 230-285s kaynak=1920x1080 60/1 sure=296.6
+  mo_a: dosya boyutu 169 MB
+  ✓ mo_a 0-90s kaynak=1920x1080 30/1 sure=265.3
+  mo_b: dosya boyutu 169 MB
+  ✓ mo_b 90-180s kaynak=1920x1080 30/1 sure=265.3
+[]

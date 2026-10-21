@@ -1,0 +1,98 @@
+=== BASLIK (Turkce) ===
+Europa ve Enceladus: Buzun Altındaki Okyanuslar | Gerçek NASA Görüntüleriyle Uzay Belgeseli
+
+=== BASLIK (English) ===
+Europa and Enceladus: Oceans Beneath the Ice | Space Documentary with Real NASA Footage
+
+=== ACIKLAMA (Turkce kanal icin) ===
+Güneş Sistemi'nde yaşam arayışı bizi donmuş uyduların buzlu kabuğunun altına götürüyor. Bu belgeselde Jüpiter'in uydusu Europa'nın ve Satürn'ün uydusu Enceladus'un gizli okyanuslarını, Cassini'nin gayzerlerden aldığı örnekleri, hidrotermal bacaların yaşam için ne anlama geldiğini ve Europa Clipper ile JUICE görevlerinin neyi araştıracağını gerçek NASA görüntüleri ve animasyonlarıyla anlatıyoruz.
+
+Bölümler:
+00:00 Dünya'nın Ötesinde Su
+00:50 Europa Adlı Bir Uydu
+02:04 İçerideki Sıkıştırma
+02:51 Buzun Altındaki Kanıt
+04:04 Altında Ne Var
+04:52 Işıldayan Uydu Enceladus
+05:35 Güneyin Gayzerleri
+06:43 Okyanusun Tadına Bakmak
+08:00 Güneşsiz Yaşam
+08:50 Yoldaki Görevler
+09:58 Yalnız mıyız?
+
+Türkçe altyazı mevcuttur (CC).
+
+Kaynaklar ve lisanslar:
+Footage: NASA/JPL-Caltech (Europa Clipper animations and visuals, NASA Image and Video Library)  -  NASA Kennedy Space Center (launch)
+NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS): Enceladus and Europa animations, Saturn and Jupiter films, Webb and Titan visualizations
+Cassini imagery: NASA/JPL-Caltech/Space Science Institute  -  Juno imagery: NASA/JPL-Caltech/SwRI/MSSS  -  Hubble: NASA, ESA, STScI
+Deep-sea hydrothermal vent footage: NOAA Ocean Exploration
+Music: "Ethernight Club" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Equatorial Complex" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Inspired" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
+
+Bilgi kaynakları:
+https://science.nasa.gov/jupiter/moons/europa/
+https://europa.nasa.gov/
+https://science.nasa.gov/saturn/moons/enceladus/
+https://science.nasa.gov/mission/cassini/
+https://svs.gsfc.nasa.gov/12880/
+https://svs.gsfc.nasa.gov/20384/
+https://svs.gsfc.nasa.gov/13163/
+Kivelson et al., "Galileo magnetometer measurements: a stronger case for a subsurface ocean at Europa", Science (2000)
+Villanueva et al., "Endogenous CO2 ice mixture on the surface of Europa", Science (2023)
+Hsu et al., "Ongoing hydrothermal activities within Enceladus", Nature (2015)
+Postberg et al., "Detection of phosphates originating from Enceladus's ocean", Nature (2023)
+
+=== DESCRIPTION (English channel) ===
+The search for life in our Solar System leads beneath the ice of frozen moons. This documentary explores the hidden oceans of Jupiter's moon Europa and Saturn's moon Enceladus, the samples Cassini tasted from the geysers, what hydrothermal vents mean for the search for life, and what NASA's Europa Clipper and ESA's JUICE will study, using real NASA footage and animations.
+
+Chapters:
+00:00 Water Beyond Earth
+00:50 A Moon Called Europa
+02:04 The Squeeze Inside
+02:51 Proof Under the Ice
+04:04 What Lies Beneath
+04:52 The Shining Moon Enceladus
+05:35 Geysers of the South
+06:43 Tasting the Ocean
+08:00 Life Without Sunlight
+08:50 The Missions Ahead
+09:58 Are We Alone?
+
+Credits & licenses:
+Footage: NASA/JPL-Caltech (Europa Clipper animations and visuals, NASA Image and Video Library)  -  NASA Kennedy Space Center (launch)
+NASA/Goddard Space Flight Center, Scientific Visualization Studio (SVS): Enceladus and Europa animations, Saturn and Jupiter films, Webb and Titan visualizations
+Cassini imagery: NASA/JPL-Caltech/Space Science Institute  -  Juno imagery: NASA/JPL-Caltech/SwRI/MSSS  -  Hubble: NASA, ESA, STScI
+Deep-sea hydrothermal vent footage: NOAA Ocean Exploration
+Music: "Ethernight Club" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Equatorial Complex" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Music: "Inspired" Kevin MacLeod (incompetech.com) - Licensed under Creative Commons: By Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0/
+Narration: synthetic English voice (Kokoro TTS, Apache 2.0). Script, research, translation and editing are original.
+
+Sources:
+https://science.nasa.gov/jupiter/moons/europa/
+https://europa.nasa.gov/
+https://science.nasa.gov/saturn/moons/enceladus/
+https://science.nasa.gov/mission/cassini/
+https://svs.gsfc.nasa.gov/12880/
+https://svs.gsfc.nasa.gov/20384/
+https://svs.gsfc.nasa.gov/13163/
+Kivelson et al., "Galileo magnetometer measurements: a stronger case for a subsurface ocean at Europa", Science (2000)
+Villanueva et al., "Endogenous CO2 ice mixture on the surface of Europa", Science (2023)
+Hsu et al., "Ongoing hydrothermal activities within Enceladus", Nature (2015)
+Postberg et al., "Detection of phosphates originating from Enceladus's ocean", Nature (2023)
+
+=== ETIKETLER / TAGS ===
+Europa, Enceladus, ocean worlds, Europa Clipper, Cassini, Jupiter moon, Saturn moon, icy moons, search for life, alien life, hydrothermal vents, space documentary, uzay belgeseli, Europa uydusu, Enceladus uydusu, Jüpiter, Satürn, NASA, JUICE, Titan
+
+=== YOUTUBE AYARLARI ===
+- Video dili: English
+- Altyazi: altyazi_tr.srt -> Turkce, altyazi_en.srt -> English
+- "Altered or synthetic content" sorusu: YouTube bunu gercek kisi/olay sanilabilecek sahte
+  goruntu ve sesler icin istiyor. Bu videoda gorseller gercek NASA kayitlari, anlatici kimseyi
+  taklit etmiyor; bu yuzden "Hayir" uygundur. Bu etiket para kazanmayi etkilemez.
+- Para kazanma icin: videolari aralikli yukleyin (or. haftada 1-2), her videoda kendi basliginizi
+  ve aciklamanizi kisisellestirin, yorumlara cevap verin.
+- Sure: 11:09

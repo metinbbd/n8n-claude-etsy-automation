@@ -1,0 +1,750 @@
+1
+00:00:06,000 --> 00:00:10,558
+Dünya'da nereye baksak,
+sıvı suyun olduğu yerde yaşam var.
+
+2
+00:00:10,638 --> 00:00:14,141
+En derin çukurlardan en
+kurak çöllere kadar su,
+
+3
+00:00:14,221 --> 00:00:18,326
+yaşamın vazgeçemediği tek
+bileşen gibi görünüyor.
+
+4
+00:00:18,406 --> 00:00:20,511
+Bu yüzden gökbilimciler gezegenimizin
+
+5
+00:00:20,591 --> 00:00:23,501
+ötesinde yaşam ararken
+suyun izini sürüyor.
+
+6
+00:00:23,581 --> 00:00:25,810
+Onlarca yıl boyunca bu arayış Mars'a,
+
+7
+00:00:25,890 --> 00:00:29,505
+kurumuş nehir yataklarına
+ve eski göllere odaklandı.
+
+8
+00:00:29,585 --> 00:00:34,717
+Ama en umut verici yerlerden bazıları çok
+daha soğuk ve Güneş'ten çok daha uzakta.
+
+9
+00:00:34,797 --> 00:00:40,367
+Dev gezegenler Jüpiter ve Satürn'ün
+çevresinde dönen küçük, donmuş uydular.
+
+10
+00:00:40,447 --> 00:00:44,301
+Yüzeyleri kaya kadar sert bir buzla kaplı.
+
+11
+00:00:44,381 --> 00:00:47,889
+Ama o buzun altında okyanuslar olabilir.
+
+12
+00:00:50,239 --> 00:00:54,887
+1610'un Ocak ayında Galileo Galilei,
+ilk teleskoplardan birini
+
+13
+00:00:54,967 --> 00:01:00,142
+Jüpiter'e çevirdi ve yanında dört
+küçük ışık noktası fark etti.
+
+14
+00:01:00,222 --> 00:01:03,290
+Bunlar uydulardı ve biri Europa'ydı.
+
+15
+00:01:03,370 --> 00:01:07,004
+Europa bizim Ay'ımızdan
+biraz küçük ve Jüpiter'in
+
+16
+00:01:07,084 --> 00:01:10,562
+çevresinde üç buçuk günde bir tur atıyor.
+
+17
+00:01:10,642 --> 00:01:15,334
+Yüzeyi, parlak ve tuhaf biçimde pürüzsüz
+bir su buzu kabuğundan oluşuyor.
+
+18
+00:01:15,414 --> 00:01:18,711
+Çok az krater var;
+bu da yüzeyin genç olduğunu,
+
+19
+00:01:18,791 --> 00:01:23,401
+belki yalnızca birkaç on milyon
+yıllık olduğunu gösteriyor.
+
+20
+00:01:23,481 --> 00:01:25,573
+Bir şey onu sürekli yeniliyor.
+
+21
+00:01:25,723 --> 00:01:29,516
+Uzun çatlaklar ve sırtlar
+buzu her yönde kesiyor;
+
+22
+00:01:29,596 --> 00:01:33,760
+sanki kabuk defalarca
+kırılıp yeniden onarılmış.
+
+23
+00:01:33,840 --> 00:01:36,543
+Bazı yerlerde karmakarışık buz blokları,
+
+24
+00:01:36,623 --> 00:01:40,681
+birbirinden ayrılıp yeniden
+donmuş salları andırıyor.
+
+25
+00:01:40,761 --> 00:01:45,041
+Bu çatlakların çoğunda buz
+kırmızımsı kahverengiyle lekelenmiş.
+
+26
+00:01:45,121 --> 00:01:48,624
+Bilim insanları rengin,
+aşağıdan yukarı sızan tuzlardan
+
+27
+00:01:48,704 --> 00:01:52,266
+ve diğer kimyasallardan
+geldiğinden şüpheleniyor.
+
+28
+00:01:52,346 --> 00:01:56,748
+Europa ayrıca Jüpiter'in radyasyon
+kuşaklarının içinde dönüyor;
+
+29
+00:01:56,828 --> 00:02:02,266
+bu yüzden yüzeyi sürekli yüksek
+enerjili parçacıklarla bombalanıyor.
+
+30
+00:02:04,116 --> 00:02:07,235
+Güneş'ten bu kadar uzak
+bir dünyayı ne ısıtabilir?
+
+31
+00:02:07,435 --> 00:02:09,709
+Cevap kütle çekimi.
+
+32
+00:02:09,859 --> 00:02:14,389
+Europa, Jüpiter'in çevresinde
+mükemmel bir daire çizmiyor.
+
+33
+00:02:14,469 --> 00:02:18,036
+Komşu uydular Io ve Ganymede
+onu düzenli bir ritimle
+
+34
+00:02:18,116 --> 00:02:21,712
+çekiyor ve yörüngesini
+hafifçe gergin tutuyor.
+
+35
+00:02:21,792 --> 00:02:28,313
+Böylece Europa bazen dev Jüpiter'e biraz
+yaklaşıyor, bazen biraz uzaklaşıyor.
+
+36
+00:02:28,393 --> 00:02:32,559
+Her seferinde Jüpiter'in kütle
+çekimi uyduyu sıkıştırıp geriyor;
+
+37
+00:02:32,639 --> 00:02:36,989
+tıpkı bir parça kili avuçlarınızda
+yoğurarak ısıtmanız gibi.
+
+38
+00:02:37,069 --> 00:02:40,754
+Bu esneme sürtünme yaratıyor,
+sürtünme de ısı üretiyor.
+
+39
+00:02:40,834 --> 00:02:45,058
+Europa'nın derinlerinde bu ısı,
+yüzey Dünya'daki herhangi bir
+
+40
+00:02:45,138 --> 00:02:49,830
+dondurucudan çok daha soğuk
+olsa bile suyu sıvı tutabilir.
+
+41
+00:02:51,680 --> 00:02:57,999
+1990'larda NASA'nın Galileo uzay aracı
+Europa'nın yanından defalarca geçti.
+
+42
+00:02:58,079 --> 00:03:01,387
+Aletleri olağanüstü bir şey fark etti.
+
+43
+00:03:01,537 --> 00:03:06,201
+Jüpiter'in güçlü manyetik alanı
+uydunun yakınında bozuluyordu;
+
+44
+00:03:06,281 --> 00:03:10,553
+sanki buzun altındaki bir
+şey elektriği iletiyordu.
+
+45
+00:03:10,633 --> 00:03:13,337
+Tuzlu su tam olarak bunu yapar.
+
+46
+00:03:13,487 --> 00:03:16,649
+Bilim insanları, Europa'nın
+buzlu kabuğunun altında tuzlu
+
+47
+00:03:16,729 --> 00:03:20,397
+sudan oluşan küresel bir okyanus
+sakladığı sonucuna vardı.
+
+48
+00:03:20,477 --> 00:03:25,442
+Bu okyanus altmış ile yüz elli kilometre
+derinliğinde olabilir ve Dünya'nın
+
+49
+00:03:25,522 --> 00:03:30,331
+tüm okyanuslarının toplamının
+yaklaşık iki katı su barındırabilir.
+
+50
+00:03:30,411 --> 00:03:34,940
+Üzerindeki buz kabuğu ise belki yalnızca
+on ile otuz kilometre kalınlığında.
+
+51
+00:03:35,020 --> 00:03:38,663
+2023'te NASA'nın James
+Webb Uzay Teleskobu,
+
+52
+00:03:38,743 --> 00:03:42,663
+Europa'nın yüzeyinde karbondioksit buldu.
+
+53
+00:03:42,743 --> 00:03:45,337
+Karbondioksit, buzun
+yakın zamanda parçalanmış
+
+54
+00:03:45,417 --> 00:03:47,430
+göründüğü bir bölgede yoğunlaşmıştı;
+
+55
+00:03:47,510 --> 00:03:51,833
+bu, karbonun alttaki okyanustan
+gelmiş olabileceğine dair bir ipucu.
+
+56
+00:03:51,913 --> 00:03:57,146
+Hubble Uzay Teleskobu, Europa'dan yükselen
+su buharına dair ipuçları bile yakaladı;
+
+57
+00:03:57,226 --> 00:04:01,795
+ancak gökbilimciler bunun ne
+anlama geldiğini hâlâ tartışıyor.
+
+58
+00:04:04,145 --> 00:04:07,184
+Europa'yı bir elma gibi
+ikiye bölünmüş düşünün.
+
+59
+00:04:07,264 --> 00:04:11,590
+Dışta, çelik kadar soğuk
+ve sert bir buz kabuğu.
+
+60
+00:04:11,670 --> 00:04:14,570
+Altında derin, karanlık
+ve tuzlu bir okyanus.
+
+61
+00:04:14,650 --> 00:04:20,094
+Okyanusun altında bir kaya tabanı ve
+uydunun merkezinde metalden bir çekirdek.
+
+62
+00:04:20,174 --> 00:04:23,320
+O kayalık deniz tabanı son derece önemli.
+
+63
+00:04:23,470 --> 00:04:27,062
+Sıcak suyun kayayla buluştuğu
+yerde mineraller çözünür,
+
+64
+00:04:27,142 --> 00:04:30,783
+kimyasal tepkimeler başlar
+ve enerji açığa çıkar.
+
+65
+00:04:30,863 --> 00:04:37,414
+Üstte, yüzeye yağan radyasyon buzda
+oksijence zengin kimyasallar üretiyor.
+
+66
+00:04:37,494 --> 00:04:41,368
+Çatlaklar ve yavaş hareketler
+bunları okyanusa taşırsa,
+
+67
+00:04:41,448 --> 00:04:46,923
+aşağıdaki kimyayla karışabilirler;
+iki kutuplu bir pile benzer biçimde.
+
+68
+00:04:47,003 --> 00:04:50,781
+Bunun gerçekten olup olmadığını
+henüz kimse bilmiyor.
+
+69
+00:04:52,631 --> 00:04:57,861
+Şimdi altı yüz milyon kilometreden
+fazla daha öteye, Satürn'e gidelim.
+
+70
+00:04:57,941 --> 00:05:00,933
+Çok sayıdaki uydusu arasında
+Enceladus adlı küçücük,
+
+71
+00:05:01,013 --> 00:05:03,156
+göz kamaştırıcı bir dünya var.
+
+72
+00:05:03,236 --> 00:05:06,391
+Çapı yalnızca yaklaşık beş yüz kilometre;
+
+73
+00:05:06,471 --> 00:05:10,944
+tek bir ülkenin sınırları
+içine sığacak kadar küçük.
+
+74
+00:05:11,024 --> 00:05:14,742
+Yine de tüm Güneş Sistemi'ndeki
+en parlak cisimlerden biri;
+
+75
+00:05:14,822 --> 00:05:18,990
+üzerine düşen güneş ışığının
+neredeyse tamamını yansıtıyor.
+
+76
+00:05:19,070 --> 00:05:23,867
+Taptaze, temiz bir buz örtüsü onu
+kaplıyor; sanki karı daha dün yağmış.
+
+77
+00:05:23,947 --> 00:05:28,212
+Bilim insanları bir zamanlar onun yalnızca
+donmuş, cansız bir top olduğunu sanıyordu.
+
+78
+00:05:28,292 --> 00:05:33,873
+Sonra Cassini adlı bir uzay aracı
+Satürn'e ulaştı ve her şey değişti.
+
+79
+00:05:35,723 --> 00:05:41,850
+2005'te Cassini, Enceladus'a
+yaklaşarak şaşırtıcı bir şey buldu.
+
+80
+00:05:41,930 --> 00:05:45,282
+Uydunun güney kutbunun yakınında,
+kaplan çizgileri denen
+
+81
+00:05:45,362 --> 00:05:49,349
+uzun çatlaklar çevrelerindeki
+buzdan daha sıcak parlıyordu.
+
+82
+00:05:49,429 --> 00:05:54,715
+Ve bu çatlaklardan uzaya buz
+ve buhar jetleri fışkırıyordu.
+
+83
+00:05:54,795 --> 00:05:59,799
+Onlarca gayzer, maddeyi yüzlerce
+kilometre yüksekliğe fırlatıyordu.
+
+84
+00:05:59,879 --> 00:06:03,864
+Bu püskürme o kadar bol ki
+Satürn'ün halkalarından birini,
+
+85
+00:06:03,944 --> 00:06:08,729
+E halkası denen soluk ve geniş
+buz parçacığı kuşağını besliyor.
+
+86
+00:06:08,809 --> 00:06:12,846
+Su, Enceladus'un içindeki
+bir yerden geliyordu.
+
+87
+00:06:12,926 --> 00:06:15,731
+Uydunun küçücük sallanmasının
+dikkatli ölçümleri,
+
+88
+00:06:15,811 --> 00:06:20,183
+buzlu kabuğunun çekirdeğe kadar
+donmuş olmadığını sonradan gösterdi.
+
+89
+00:06:20,263 --> 00:06:22,818
+Altında küresel bir okyanus var.
+
+90
+00:06:22,968 --> 00:06:29,996
+O bölgeden çıkan ısı, küçük ve buzlu bir
+uydunun üretebileceğinden çok daha fazla.
+
+91
+00:06:30,076 --> 00:06:33,349
+Enceladus'a, iç yapısını
+sürekli esneten komşusu
+
+92
+00:06:33,429 --> 00:06:37,361
+Dione ile yaptığı kütle
+çekimi dansı yardım ediyor.
+
+93
+00:06:37,441 --> 00:06:39,191
+Bilim insanları bu kadar
+aktif kalmasını tam
+
+94
+00:06:39,271 --> 00:06:41,868
+olarak nasıl başardığını
+hâlâ çözmeye çalışıyor.
+
+95
+00:06:43,718 --> 00:06:47,398
+Cassini, hiçbir uzay aracının daha
+önce yapmadığı bir şeyi yaptı.
+
+96
+00:06:47,478 --> 00:06:52,487
+Gayzerlerin içinden doğrudan geçti
+ve püskürmeyi aletleriyle tattı.
+
+97
+00:06:52,567 --> 00:06:57,869
+Püskürmede elbette su vardı,
+üstelik tıpkı deniz suyu gibi tuzlar da.
+
+98
+00:06:57,949 --> 00:07:01,843
+İçinde ayrıca karbon bazlı
+organik moleküller de vardı;
+
+99
+00:07:01,923 --> 00:07:05,183
+yaşamın dayandığı kimyanın yapı taşları.
+
+100
+00:07:05,263 --> 00:07:10,094
+Küçücük silika taneleri, okyanus tabanında
+sıcak suyun kayayla temas ettiğini,
+
+101
+00:07:10,174 --> 00:07:15,392
+yaklaşık doksan derece ya da daha yüksek
+sıcaklıklarda olduğunu ortaya koydu.
+
+102
+00:07:15,472 --> 00:07:18,883
+Cassini ayrıca mikropların
+besin olarak kullanabileceği
+
+103
+00:07:18,963 --> 00:07:22,126
+bir gaz olan moleküler
+hidrojeni de saptadı.
+
+104
+00:07:22,206 --> 00:07:26,875
+Yıllar sonra verilerini inceleyen
+bilim insanları, bildiğimiz yaşam için
+
+105
+00:07:26,955 --> 00:07:32,272
+bir başka vazgeçilmez bileşen olan
+fosforun bir biçimi fosfatları da buldu.
+
+106
+00:07:32,352 --> 00:07:35,430
+Gizli bir okyanus,
+sıcak kaya ve doğru kimya;
+
+107
+00:07:35,510 --> 00:07:39,179
+hepsi küçük bir ülke
+büyüklüğündeki bir uyduda.
+
+108
+00:07:39,259 --> 00:07:44,170
+Eylül 2017'de, Satürn'de on üç
+yıl geçirdikten sonra Cassini,
+
+109
+00:07:44,250 --> 00:07:48,711
+gezegene bilinçli olarak
+dalarak görevini bitirdi.
+
+110
+00:07:48,791 --> 00:07:52,894
+Mühendisler bunu bilerek yaptı;
+böylece araç hiçbir zaman
+
+111
+00:07:52,974 --> 00:07:58,564
+Enceladus'a çarpıp onu Dünya'dan
+gelen mikroplarla kirletemeyecekti.
+
+112
+00:08:00,414 --> 00:08:02,177
+Kilometrelerce buzun altındaki,
+
+113
+00:08:02,257 --> 00:08:07,018
+hiç güneş ışığı almayan karanlık bir
+okyanusta bir şey yaşayabilir mi?
+
+114
+00:08:07,218 --> 00:08:09,649
+Dünya'da cevap evet.
+
+115
+00:08:09,799 --> 00:08:13,124
+1977'de derin denizi
+keşfeden bilim insanları,
+
+116
+00:08:13,204 --> 00:08:17,423
+hidrotermal bacalar denen
+sıcak su kaynakları buldu.
+
+117
+00:08:17,503 --> 00:08:19,923
+Çevrelerinde, tam karanlıkta, solucan,
+
+118
+00:08:20,003 --> 00:08:23,334
+karides ve bakteri
+kalabalıkları gelişiyordu.
+
+119
+00:08:23,414 --> 00:08:25,676
+Güneş ışığıyla yaşamıyorlar.
+
+120
+00:08:25,826 --> 00:08:30,228
+Altlarındaki kayadan akan
+kimyasal enerjiyle yaşıyorlar.
+
+121
+00:08:30,308 --> 00:08:34,712
+Bu keşif, yaşamın nerede var
+olabileceğine dair düşüncemizi değiştirdi.
+
+122
+00:08:34,792 --> 00:08:38,375
+Europa ve Enceladus'un
+okyanuslarında da benzer
+
+123
+00:08:38,455 --> 00:08:42,177
+bileşenler olabilir:
+sıvı su, ısı ve kimya.
+
+124
+00:08:42,257 --> 00:08:48,224
+Ama dürüst olmalıyız. Orada yaşam bulmadık
+ve var olup olmadığını bilmiyoruz.
+
+125
+00:08:50,074 --> 00:08:52,783
+Daha fazlasını öğrenmek
+için geri dönüyoruz.
+
+126
+00:08:52,863 --> 00:08:57,156
+2024 Ekim'inde NASA,
+Europa'yı yakından incelemek
+
+127
+00:08:57,236 --> 00:09:01,176
+için yapılmış Europa Clipper'ı fırlattı.
+
+128
+00:09:01,256 --> 00:09:04,595
+Aracın 2030'da Jüpiter'e
+ulaşması bekleniyor.
+
+129
+00:09:04,675 --> 00:09:08,847
+Oradan Europa'nın yanından yaklaşık
+elli kez yakın geçiş yapacak.
+
+130
+00:09:08,927 --> 00:09:12,200
+Kameralar, buzu delip
+geçen bir radar ve ince
+
+131
+00:09:12,280 --> 00:09:16,749
+atmosferi ile olası gayzerleri
+tadacak aletler taşıyor.
+
+132
+00:09:16,829 --> 00:09:20,492
+Jüpiter'in radyasyonu o kadar
+şiddetli ki Clipper'ın en
+
+133
+00:09:20,572 --> 00:09:25,094
+hassas elektronikleri kalın bir
+metal kasanın içinde duruyor.
+
+134
+00:09:25,174 --> 00:09:29,075
+Her geçiş yüzeye yakından olacak,
+ardından verilerini Dünya'ya
+
+135
+00:09:29,155 --> 00:09:33,313
+göndermek için radyasyonun en
+kötü bölgesinden uzaklaşacak.
+
+136
+00:09:33,393 --> 00:09:38,165
+Avrupa'nın kendi görevi,
+Avrupa Uzay Ajansı'nın JUICE aracı,
+
+137
+00:09:38,245 --> 00:09:41,042
+Jüpiter sistemine doğru yolda.
+
+138
+00:09:41,122 --> 00:09:43,952
+Europa dahil Jüpiter'in
+buzlu uydularını ve
+
+139
+00:09:44,032 --> 00:09:47,652
+hepsinin en büyüğü olan
+Ganymede'yi inceleyecek.
+
+140
+00:09:47,732 --> 00:09:51,809
+Bu görevlerin hiçbiri yaşamı
+doğrudan bulmak için tasarlanmadı.
+
+141
+00:09:51,889 --> 00:09:56,495
+Görevleri, bu okyanusların
+yaşanabilir olup olmadığını öğrenmek.
+
+142
+00:09:58,345 --> 00:10:02,654
+Europa ve Enceladus tek
+okyanus dünyaları değil.
+
+143
+00:10:02,734 --> 00:10:06,379
+Veriler, Ganymede ve Callisto'nun
+da okyanus saklıyor olabileceğini,
+
+144
+00:10:06,459 --> 00:10:09,063
+Satürn'ün dev uydusu
+Titan'ın ise turuncu sisinin
+
+145
+00:10:09,143 --> 00:10:12,361
+altında bir okyanusa sahip
+olabileceğini gösteriyor.
+
+146
+00:10:12,441 --> 00:10:15,220
+Öyleyse Güneş Sistemi,
+kimsenin hayal ettiğinden
+
+147
+00:10:15,300 --> 00:10:18,349
+çok daha fazla sıvı su
+barındırıyor olabilir.
+
+148
+00:10:18,429 --> 00:10:22,107
+Bunun büyük kısmı gizli,
+karanlıkta, buzun altında olurdu.
+
+149
+00:10:22,187 --> 00:10:27,468
+Yalnız olup olmadığımız sorusu,
+sorduğumuz en eski sorulardan biri.
+
+150
+00:10:27,548 --> 00:10:31,275
+Tarihte ilk kez, bir zamanlar
+donmuş ve ölü sandığımız
+
+151
+00:10:31,355 --> 00:10:35,602
+yerlerde bu sorunun cevabını
+arayacak araçlara sahibiz.
+
+152
+00:10:35,682 --> 00:10:39,005
+Bulacağımız her cevap
+yeni sorulara yol açacak.
+
+153
+00:10:39,085 --> 00:10:43,296
+Bu okyanuslar boş çıksa bile,
+yaşam koşullarının gerçekte ne
+
+154
+00:10:43,376 --> 00:10:47,894
+kadar nadir ya da ne kadar
+yaygın olduğunu bize öğretirdi.
+
+155
+00:10:47,974 --> 00:10:52,468
+Orada bir yerlerde, buzun altında,
+bir okyanus bizi bekliyor olabilir.

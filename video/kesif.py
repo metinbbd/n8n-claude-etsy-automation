@@ -58,13 +58,15 @@ def probe(path_or_url):
             "sure": round(float(d.get("format", {}).get("duration") or 0), 1)}
 
 
-def sheet(video, dest, duration, n=24):
+def sheet(video, dest, duration, n=24, bas=0.0):
+    """bas > 0: yalniz [bas, bas+duration] penceresinden kare alir; damgalar mutlak zamandir."""
     step = max(duration / n, 0.5)
     vf = (f"fps=1/{step:.3f},scale=320:180:force_original_aspect_ratio=decrease,"
           "pad=320:180:(ow-iw)/2:(oh-ih)/2,"
-          f"drawtext=fontfile={FONT}:text='%{{pts\\:hms}}':x=4:y=4:fontsize=16:"
+          f"drawtext=fontfile={FONT}:text='%{{pts\\:hms\\:{bas:.3f}}}':x=4:y=4:fontsize=16:"
           "fontcolor=yellow:box=1:boxcolor=black@0.6,tile=6x4")
-    run(["ffmpeg", "-loglevel", "error", "-y", "-i", video, "-vf", vf, "-frames:v", "1",
+    seek = ["-ss", f"{bas:.3f}", "-t", f"{duration:.3f}"] if bas else []
+    run(["ffmpeg", "-loglevel", "error", "-y", *seek, "-i", video, "-vf", vf, "-frames:v", "1",
          "-q:v", "5", dest])
 
 
@@ -148,6 +150,8 @@ def main(config_path, out_dir):
             if nid in seen:
                 continue
             seen.add(nid)
+            if cfg.get("baslik_atla") and re.search(cfg["baslik_atla"], d.get("title", ""), re.I):
+                continue
             text = f"{d.get('title', '')} {d.get('description', '')}"
             cands.append({"id": nid, "baslik": d.get("title", ""), "merkez": d.get("center"),
                           "tarih": (d.get("date_created") or "")[:10],
@@ -228,6 +232,19 @@ def main(config_path, out_dir):
         except Exception as e:  # noqa: BLE001  tek klip hatasi kesfi durdurmasin
             print(f"  ✗ {c['id']}: {e}")
     json.dump(cands, open(f"{out_dir}/adaylar.json", "w"), ensure_ascii=False, indent=1)
+
+    # urller: {"ad": {"url": ..., "bas": 0, "son": 120, "kare": 24}} -> tablolar/<ad>.jpg
+    for ad, u in (cfg.get("urller") or {}).items():
+        try:
+            u = {"url": u} if isinstance(u, str) else u
+            info = probe(u["url"])
+            bas = float(u.get("bas", 0))
+            son = min(float(u.get("son", info["sure"])), info["sure"])
+            sheet(u["url"], f"{out_dir}/tablolar/{ad}.jpg", son - bas, u.get("kare", 24), bas)
+            print(f"  ✓ {ad} {bas:.0f}-{son:.0f}s kaynak={info['w']}x{info['h']} {info['fps']} sure={info['sure']}",
+                  flush=True)
+        except Exception as e:  # noqa: BLE001
+            print(f"  ✗ {ad}: {e}")
 
     music = []
     os.makedirs("/tmp/muzik", exist_ok=True)

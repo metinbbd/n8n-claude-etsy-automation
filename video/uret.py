@@ -395,7 +395,8 @@ def render_chapter(idx, segs, D, paths, work, overlay=None, label=None):
 
 # -------------------------------------------------------------------- ses
 
-def music_bed(tracks, total, work):
+def music_bed(tracks, total, work, extra_db=0.0):
+    """extra_db: muzigi bu kadar dB yuksek verir (kurgu.json "muzik_artir_db")."""
     files = []
     for t in tracks:
         path = f"{work}/{t}.mp3"
@@ -410,7 +411,7 @@ def music_bed(tracks, total, work):
         chain.append(f"[{prev}][{j}:a]acrossfade=d=6:c1=tri:c2=tri[m{j}]")
         prev = f"m{j}"
     chain.append(f"[{prev}]atrim=0:{total:.3f},afade=t=in:d=3,"
-                 f"afade=t=out:st={total - 8:.3f}:d=8,loudnorm=I=-20:TP=-2[out]")
+                 f"afade=t=out:st={total - 8:.3f}:d=8,loudnorm=I={-20 + extra_db:.1f}:TP=-2[out]")
     out = f"{work}/muzik.wav"
     run(["ffmpeg", "-loglevel", "error", "-y", *inputs, "-filter_complex", ";".join(chain),
          "-map", "[out]", "-ar", "48000", "-ac", "2", out])
@@ -630,7 +631,7 @@ def main(project, out_dir):
          f"{work}/liste.txt", "-c", "copy", f"{work}/goruntu.mp4"])
 
     log("4/6 Muzik ve ses karisimi")
-    music = music_bed(cfg["muzik"], total + CREDITS, work)
+    music = music_bed(cfg["muzik"], total + CREDITS, work, cfg.get("muzik_artir_db", 0.0))
     mix_audio(f"{work}/anlatim.wav", music, total + CREDITS, f"{work}/ses.wav")
 
     log("5/6 Birlestirme")

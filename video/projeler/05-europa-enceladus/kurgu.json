@@ -9,6 +9,7 @@
   "Equatorial Complex",
   "Inspired"
  ],
+ "muzik_artir_db": 2.0,
  "kaynaklar": {
   "CA": {
    "url": "https://images-assets.nasa.gov/video/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations/JPL-20220310-CLIPPRf-0001-Europa%20Clipper%20Mission%20Animations~large.mp4",
@@ -561,7 +562,7 @@
    [
     "SO",
     217.5,
-    222.2,
+    221.8,
     {
      "kirp": [
       0,
@@ -574,7 +575,7 @@
    [
     "SO",
     43.5,
-    55,
+    54.0,
     {
      "kirp": [
       0,

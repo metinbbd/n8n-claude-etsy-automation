@@ -325,11 +325,16 @@ def render_still(src, dur, zoom, out, kirp=None):
          "-an", *X264, out])
 
 
-def render_segment(src, start, length, dur, zoom, out, kirp=None):
+def eq_filter(eq):
+    """eq = "gamma=1.6:brightness=0.03" gibi; cok karanlik kaynaklari aydinlatmak icin."""
+    return f"eq={eq}," if eq else ""
+
+
+def render_segment(src, start, length, dur, zoom, out, kirp=None, eq=None):
     if src.lower().endswith(STILL):
         return render_still(src, dur, zoom, out, kirp)
     k = dur / length  # >1 yavaslatma
-    vf = (f"{crop_filter(kirp)}setpts={k:.5f}*(PTS-STARTPTS),"
+    vf = (f"{crop_filter(kirp)}{eq_filter(eq)}setpts={k:.5f}*(PTS-STARTPTS),"
           f"scale={int(W * zoom)}:{int(H * zoom)}:force_original_aspect_ratio=increase,"
           f"crop={W}:{H},fps={FPS},format=yuv420p")
     run(["ffmpeg", "-loglevel", "error", "-y", "-ss", f"{start:.3f}", "-t", f"{length:.3f}",
@@ -348,7 +353,7 @@ def render_chapter(idx, segs, D, paths, work, overlay=None, label=None):
     for j, (key, a, b, *opt) in enumerate(segs):
         o = opt[0] if opt else {}
         out = f"{work}/b{idx:02d}_{j:02d}.mp4"
-        render_segment(paths[key], a, b - a, (b - a) * k, o.get("zoom", 1.0), out, o.get("kirp"))
+        render_segment(paths[key], a, b - a, (b - a) * k, o.get("zoom", 1.0), out, o.get("kirp"), o.get("eq"))
         files.append(out)
         d = media_duration(out)
         real.append(d)
@@ -537,7 +542,7 @@ def check_segments(cfg, paths, out_dir):
                 seek = [] if paths[key].lower().endswith(STILL) else ["-ss", f"{min(t, durs[key] - 0.1):.2f}"]
                 run(["ffmpeg", "-loglevel", "error", "-y", *seek,
                      "-i", paths[key], "-frames:v", "1", "-vf",
-                     f"{crop_filter(o.get('kirp'))}scale=320:180:force_original_aspect_ratio=increase,"
+                     f"{crop_filter(o.get('kirp'))}{eq_filter(o.get('eq'))}scale=320:180:force_original_aspect_ratio=increase,"
                      "crop=320:180", tmp])
                 row.paste(Image.open(tmp).convert("RGB"), (m * 320, 0))
             rows.append(row)

@@ -1,0 +1,20 @@
+0 benzersiz video bulundu
+SVS: 0 sonuc
+  ✓ s11688_jets 0-31s kaynak=960x540 30/1 sure=31.0
+  ✓ s11688_viz 0-30s kaynak=960x540 30/1 sure=29.5
+  ✓ s12385 0-125s kaynak=960x540 30/1 sure=125.2
+  ✓ s11176 0-200s kaynak=960x540 30/1 sure=199.6
+  ✓ s11173 0-33s kaynak=960x540 30/1 sure=33.3
+  ✓ s3616a 0-28s kaynak=1440x720 30/1 sure=27.7
+  ✓ s3616io 0-28s kaynak=1440x720 30/1 sure=27.7
+  ✓ s3617a 0-7s kaynak=1440x720 30/1 sure=7.4
+  ✓ s3617p 0-19s kaynak=1440x720 30/1 sure=19.3
+  ✓ s12880_jup 0-501s kaynak=1920x1080 60000/1001 sure=500.7
+  ✓ s12880_sat 0-563s kaynak=1920x1080 60000/1001 sure=562.7
+  ✓ s12880_title 0-30s kaynak=1920x1080 60000/1001 sure=30.0
+  ✓ s14321a 0-756s kaynak=1920x1080 30000/1001 sure=756.2
+  ✓ s14321b 0-756s kaynak=1920x1080 30000/1001 sure=756.2
+  ✓ s13007 0-60s kaynak=1920x1080 30000/1001 sure=60.1
+  ✓ s14843 0-297s kaynak=1920x1080 60/1 sure=296.6
+  ✓ s14022 0-214s kaynak=1920x1080 30000/1001 sure=213.7
+[]

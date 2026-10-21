@@ -8,8 +8,8 @@
   indiriliyor: JU
   indiriliyor: LW
   indiriliyor: MO
-  indiriliyor: O1
   indiriliyor: O2
+  indiriliyor: O3
   indiriliyor: PO
   indiriliyor: SA
   indiriliyor: SO

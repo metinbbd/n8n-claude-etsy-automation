@@ -51,7 +51,8 @@ if os.path.exists(ARA):
                 for r in cek(f"https://svs.gsfc.nasa.gov/api/search/?{q}").get("results", []):
                     print(f"  {r['id']} | {r.get('result_type')} | {(r.get('release_date') or '')[:10]} | {r['title'][:90]}")
             else:
-                q = urllib.parse.urlencode({"q": sorgu, "media_type": "video", "page_size": 60})
+                tur = "image" if kaynak == "libimg" else "video"
+                q = urllib.parse.urlencode({"q": sorgu, "media_type": tur, "page_size": 60})
                 for it in cek(f"https://images-api.nasa.gov/search?{q}")["collection"]["items"]:
                     d = it["data"][0]
                     print(f"  {d['nasa_id'][:70]} | {(d.get('date_created') or '')[:10]} | {d.get('title', '')[:80]}")

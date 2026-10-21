@@ -3,6 +3,11 @@ name: Video - paylas (GitHub disinda indirme linki)
 # ve indirme sayfasi linklerini loga yazar. Dosyalar tek parca kalir.
 on:
   workflow_dispatch:
+    inputs:
+      etiketler:
+        description: "Yuklenecek yayin etiketleri (bosluk ile ayrilmis)"
+        required: true
+        default: "05-europa-enceladus"
 
 permissions:
   contents: read
@@ -13,12 +18,13 @@ jobs:
     timeout-minutes: 120
     env:
       GH_TOKEN: ${{ github.token }}
+      ETIKETLER: ${{ inputs.etiketler }}
     steps:
       - name: Videolari indir ve yukle
         run: |
           set -uo pipefail
           mkdir -p /tmp/indir
-          for TAG in 01-gunes-firtinasi 02-asteroitler 03-kara-delikler 04-samanyolu-andromeda; do
+          for TAG in $ETIKETLER; do
             rm -f /tmp/indir/*
             gh release download "$TAG" -R "$GITHUB_REPOSITORY" --dir /tmp/indir --pattern '*-altyazili.mp4'
             F=$(ls /tmp/indir/*-altyazili.mp4 | head -1)

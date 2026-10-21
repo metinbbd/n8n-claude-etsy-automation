@@ -26,10 +26,7 @@ jobs:
             LINK=""
             for DENEME in 1 2 3; do
               YANIT=$(curl -s --max-time 3000 -F "file=@$F" https://upload.gofile.io/uploadfile || true)
-              LINK=$(echo "$YANIT" | python3 -c "import sys,json
-try:
-    d=json.load(sys.stdin); print(d['data']['downloadPage'])
-except Exception: print('')")
+              LINK=$(echo "$YANIT" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('data',{}).get('downloadPage',''))" 2>/dev/null || true)
               [ -n "$LINK" ] && break
               echo "gofile deneme $DENEME basarisiz: ${YANIT:0:200}"
               sleep 10

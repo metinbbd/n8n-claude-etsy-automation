@@ -1,9 +1,20 @@
-Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-/home/runner/.local/lib/python3.12/site-packages/torch/nn/modules/rnn.py:1011: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
-  super().__init__("LSTM", *args, **kwargs)
-/home/runner/.local/lib/python3.12/site-packages/torch/nn/utils/weight_norm.py:145: FutureWarning: `torch.nn.utils.weight_norm` is deprecated in favor of `torch.nn.utils.parametrizations.weight_norm`.
-  WeightNorm.apply(module, name, dim)
-/home/runner/.local/lib/python3.12/site-packages/torch/jit/_script.py:1491: FutureWarning: `torch.jit.script` is deprecated. Please switch to `torch.compile` or `torch.export`.
-  warnings.warn(
-   anlatim + aralar: 10.92 dk; kaynakca ile 11.16 dk
-   BOLUM_SURELERI [50.2, 73.9, 47.5, 72.5, 48.5, 43.1, 68.0, 76.7, 49.7, 68.3, 57.0]
+  indiriliyor: CA
+  indiriliyor: CF
+  indiriliyor: EN
+  indiriliyor: EU
+  indiriliyor: EW
+  indiriliyor: GY
+  indiriliyor: J2
+  indiriliyor: JU
+  indiriliyor: LW
+  indiriliyor: MO
+  indiriliyor: O1
+  indiriliyor: O2
+  indiriliyor: PO
+  indiriliyor: SA
+  indiriliyor: SO
+  indiriliyor: TI
+  indiriliyor: VT
+  indiriliyor: WB
+  indiriliyor: WV
+Parca kontrol tablolari hazir.

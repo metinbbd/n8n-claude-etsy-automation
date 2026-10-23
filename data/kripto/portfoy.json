@@ -1,6 +1,6 @@
 {
  "baslangic_bakiye": 200.0,
- "bakiye": 169.69054937198052,
+ "bakiye": 169.33513379030256,
  "pozisyonlar": {
   "DOGE": {
    "yon": "SHORT",
@@ -12,7 +12,7 @@
    "likidasyon": 0.10505788333333332,
    "acilis": 1792303200000,
    "ucret": 0.025455,
-   "fonlama": 0.06204145315463397
+   "fonlama": 0.07734020103679354
   },
   "XRP": {
    "yon": "SHORT",
@@ -24,31 +24,7 @@
    "likidasyon": 1.7294900000000002,
    "acilis": 1792476000000,
    "ucret": 0.02544,
-   "fonlama": 0.031449858064516126
-  },
-  "BTC": {
-   "yon": "LONG",
-   "giris": 82672.0,
-   "miktar": 0.0006060092897232436,
-   "teminat": 16.7,
-   "stop": 78513.12053443643,
-   "hedef": 90989.75893112713,
-   "likidasyon": 55528.026666666665,
-   "acilis": 1792562400000,
-   "ucret": 0.02505,
-   "fonlama": -0.015258538829349718
-  },
-  "BNB": {
-   "yon": "LONG",
-   "giris": 739.38,
-   "miktar": 0.06800292136655035,
-   "teminat": 16.76,
-   "stop": 699.2446778632361,
-   "hedef": 819.6506442735279,
-   "likidasyon": 496.6169,
-   "acilis": 1792648800000,
-   "ucret": 0.025140000000000003,
-   "fonlama": 0.0
+   "fonlama": 0.04697021198156681
   }
  },
  "hareketler": [
@@ -275,6 +251,22 @@
    "islem": "LONG açıldı",
    "fiyat": 739.38,
    "teminat": 16.76
+  },
+  {
+   "gun": "2026-10-23",
+   "ts": 1792735200000,
+   "coin": "BTC",
+   "islem": "LONG kapandı (trend bozuldu)",
+   "fiyat": 81850.0,
+   "net": -0.5781167698192858
+  },
+  {
+   "gun": "2026-10-23",
+   "ts": 1792735200000,
+   "coin": "BNB",
+   "islem": "LONG kapandı (trend bozuldu)",
+   "fiyat": 742.2,
+   "net": 0.12643354751278438
   }
  ],
  "islemler": [
@@ -409,6 +401,28 @@
    "neden": "trend",
    "net": -3.554808519966013,
    "teminat": 17.33
+  },
+  {
+   "coin": "BTC",
+   "yon": "LONG",
+   "giris": 82672.0,
+   "cikis": 81850.0,
+   "acilis": 1792562400000,
+   "kapanis": 1792735200000,
+   "neden": "trend",
+   "net": -0.5781167698192858,
+   "teminat": 16.7
+  },
+  {
+   "coin": "BNB",
+   "yon": "LONG",
+   "giris": 739.38,
+   "cikis": 742.2,
+   "acilis": 1792648800000,
+   "kapanis": 1792735200000,
+   "neden": "trend",
+   "net": 0.12643354751278438,
+   "teminat": 16.76
   }
  ],
  "gecmis": [
@@ -471,7 +485,11 @@
   {
    "gun": "2026-10-22",
    "deger": 167.5959
+  },
+  {
+   "gun": "2026-10-23",
+   "deger": 167.886
   }
  ],
- "son_kontrol": 1792648800000
+ "son_kontrol": 1792735200000
 }

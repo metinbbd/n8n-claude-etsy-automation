@@ -1,4 +1,4 @@
-# Kripto sanal portföy – 25.10.2026
+# Kripto sanal portföy – 26.10.2026
 
 ⚠️ SAHTE PARA ile simülasyon. Borsa hesabı yok, gerçek emir verilmedi. Fiyatlar Binance halka açık verisi.
 
@@ -6,41 +6,42 @@
 
 | Coin | İşlem | Fiyat | Teminat / Sonuç |
 |---|---|---|---|
-| ETH | SHORT açıldı | 2.353,45 | 17,07 USDT teminat |
+| ADA | SHORT açıldı | 0,20460 | 17,15 USDT teminat |
 
 ## Portföy
 
 |   |   |
 |---|---|
 | Başlangıç | 200,00 USDT |
-| Toplam değer | 170,71 USDT (-14,6%) |
-| Cüzdan bakiyesi | 169,37 USDT |
-| Açık pozisyon kâr/zarar | +1,34 USDT |
-| Kullanılan teminat | 51,00 USDT |
-| Son 7 gün | +1,03 USDT |
+| Toplam değer | 171,49 USDT (-14,3%) |
+| Cüzdan bakiyesi | 169,39 USDT |
+| Açık pozisyon kâr/zarar | +2,10 USDT |
+| Kullanılan teminat | 68,15 USDT |
+| Son 7 gün | +2,18 USDT |
 
 ## Açık pozisyonlar
 
 | Coin | Yön | Giriş | Şimdi | Stop | Hedef | Likidasyon | Kâr/Zarar |
 |---|---|---|---|---|---|---|---|
-| DOGE | SHORT 3x | 0,07909 | 0,07710 | 0,08830 | 0,06068 | 0,10506 | +1,28 USDT (+7,5%) |
-| ETH | SHORT 3x | 2.353,45 | 2.353,45 | 2.544,56 | 1.971,23 | 3.126,17 | -0,00 USDT (-0,0%) |
-| XRP | SHORT 3x | 1,3020 | 1,3004 | 1,4276 | 1,0508 | 1,7295 | +0,06 USDT (+0,4%) |
+| ADA | SHORT 3x | 0,20460 | 0,20460 | 0,23236 | 0,14908 | 0,27178 | -0,00 USDT (-0,0%) |
+| DOGE | SHORT 3x | 0,07909 | 0,07731 | 0,08830 | 0,06068 | 0,10506 | +1,15 USDT (+6,8%) |
+| ETH | SHORT 3x | 2.353,45 | 2.327,46 | 2.544,56 | 1.971,23 | 3.126,17 | +0,57 USDT (+3,3%) |
+| XRP | SHORT 3x | 1,3020 | 1,2921 | 1,4276 | 1,0508 | 1,7295 | +0,39 USDT (+2,3%) |
 
 ## Günlük sinyaller
 
 | Coin | Fiyat | Dünkü değişim | Trend | RSI | Sinyal | Durum |
 |---|---|---|---|---|---|---|
-| BTC | 80.607,65 | -0,4% | yukarı | 44 | BEKLE | — |
-| ETH | 2.353,45 | -1,2% | aşağı | 36 | SHORT | SHORT açık |
-| SOL | 101,96 | -0,5% | yukarı | 38 | BEKLE | — |
-| BNB | 743,83 | +0,1% | yukarı | 49 | BEKLE | — |
-| XRP | 1,3004 | +0,4% | aşağı | 40 | SHORT | SHORT açık |
-| ADA | 0,20630 | -1,3% | yukarı | 37 | BEKLE | — |
-| DOGE | 0,07710 | -1,2% | aşağı | 35 | SHORT | SHORT açık |
-| AVAX | 8,8800 | -0,7% | yukarı | 37 | BEKLE | — |
-| LINK | 11,4480 | -1,7% | yukarı | 38 | BEKLE | — |
-| DOT | 1,0360 | -3,6% | yukarı | 39 | BEKLE | — |
+| BTC | 80.263,32 | -0,9% | yukarı | 42 | BEKLE | — |
+| ETH | 2.327,46 | -1,2% | aşağı | 34 | SHORT | SHORT açık |
+| SOL | 101,46 | -1,0% | yukarı | 36 | BEKLE | — |
+| BNB | 742,00 | -0,2% | yukarı | 48 | BEKLE | — |
+| XRP | 1,2921 | -0,3% | aşağı | 39 | SHORT | SHORT açık |
+| ADA | 0,20460 | -1,9% | aşağı | 35 | SHORT | SHORT açık |
+| DOGE | 0,07731 | -0,9% | aşağı | 34 | SHORT | SHORT açık |
+| AVAX | 8,9100 | -0,7% | yukarı | 36 | BEKLE | — |
+| LINK | 11,4640 | -1,5% | yukarı | 36 | BEKLE | — |
+| DOT | 1,0160 | -1,8% | yukarı | 38 | BEKLE | — |
 
 ## Kapanan işlemler (tümü)
 

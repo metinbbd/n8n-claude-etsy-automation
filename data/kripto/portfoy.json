@@ -1,6 +1,6 @@
 {
  "baslangic_bakiye": 200.0,
- "bakiye": 167.1747427728348,
+ "bakiye": 166.2125953189804,
  "pozisyonlar": {
   "DOGE": {
    "yon": "SHORT",
@@ -12,31 +12,7 @@
    "likidasyon": 0.10505788333333332,
    "acilis": 1792303200000,
    "ucret": 0.025455,
-   "fonlama": 0.260532520419775
-  },
-  "XRP": {
-   "yon": "SHORT",
-   "giris": 1.302,
-   "miktar": 39.07834101382488,
-   "teminat": 16.96,
-   "stop": 1.4275941599720217,
-   "hedef": 1.050811680055957,
-   "likidasyon": 1.7294900000000002,
-   "acilis": 1792476000000,
-   "ucret": 0.02544,
-   "fonlama": 0.23231761105990778
-  },
-  "ETH": {
-   "yon": "SHORT",
-   "giris": 2353.45,
-   "miktar": 0.0217595444985022,
-   "teminat": 17.07,
-   "stop": 2544.5603061992624,
-   "hedef": 1971.2293876014749,
-   "likidasyon": 3126.166083333333,
-   "acilis": 1792908000000,
-   "ucret": 0.025605,
-   "fonlama": 0.15496209755465387
+   "fonlama": 0.27539162321405997
   },
   "ADA": {
    "yon": "SHORT",
@@ -48,7 +24,7 @@
    "likidasyon": 0.271777,
    "acilis": 1792994400000,
    "ucret": 0.025724999999999998,
-   "fonlama": 0.13856546187683288
+   "fonlama": 0.15346232404692087
   },
   "LINK": {
    "yon": "SHORT",
@@ -60,7 +36,31 @@
    "likidasyon": 14.69668,
    "acilis": 1793340000000,
    "ucret": 0.026369999999999998,
-   "fonlama": 0.08633219577006508
+   "fonlama": 0.10281487581344903
+  },
+  "DOT": {
+   "yon": "SHORT",
+   "giris": 0.941,
+   "miktar": 53.84697130712009,
+   "teminat": 16.89,
+   "stop": 1.081632639702741,
+   "hedef": 0.6597347205945182,
+   "likidasyon": 1.2499616666666666,
+   "acilis": 1793887200000,
+   "ucret": 0.025335,
+   "fonlama": 0.0
+  },
+  "SOL": {
+   "yon": "SHORT",
+   "giris": 95.37,
+   "miktar": 0.5312991506763133,
+   "teminat": 16.89,
+   "stop": 104.39677942792524,
+   "hedef": 77.31644114414954,
+   "likidasyon": 126.68315000000001,
+   "acilis": 1793887200000,
+   "ucret": 0.025335,
+   "fonlama": 0.0
   }
  },
  "hareketler": [
@@ -343,6 +343,38 @@
    "islem": "SHORT açıldı",
    "fiyat": 11.064,
    "teminat": 17.58
+  },
+  {
+   "gun": "2026-11-05",
+   "ts": 1793887200000,
+   "coin": "XRP",
+   "islem": "SHORT kapandı (trend bozuldu)",
+   "fiyat": 1.307,
+   "net": 0.001325928110603225
+  },
+  {
+   "gun": "2026-11-05",
+   "ts": 1793887200000,
+   "coin": "ETH",
+   "islem": "SHORT kapandı (trend bozuldu)",
+   "fiyat": 2387.55,
+   "net": -0.6228073183581629
+  },
+  {
+   "gun": "2026-11-05",
+   "ts": 1793887200000,
+   "coin": "DOT",
+   "islem": "SHORT açıldı",
+   "fiyat": 0.941,
+   "teminat": 16.89
+  },
+  {
+   "gun": "2026-11-05",
+   "ts": 1793887200000,
+   "coin": "SOL",
+   "islem": "SHORT açıldı",
+   "fiyat": 95.37,
+   "teminat": 16.89
   }
  ],
  "islemler": [
@@ -510,6 +542,28 @@
    "neden": "stop",
    "net": -2.831090491130635,
    "teminat": 17.12
+  },
+  {
+   "coin": "XRP",
+   "yon": "SHORT",
+   "giris": 1.302,
+   "cikis": 1.307,
+   "acilis": 1792476000000,
+   "kapanis": 1793887200000,
+   "neden": "trend",
+   "net": 0.001325928110603225,
+   "teminat": 16.96
+  },
+  {
+   "coin": "ETH",
+   "yon": "SHORT",
+   "giris": 2353.45,
+   "cikis": 2387.55,
+   "acilis": 1792908000000,
+   "kapanis": 1793887200000,
+   "neden": "trend",
+   "net": -0.6228073183581629,
+   "teminat": 17.07
   }
  ],
  "gecmis": [
@@ -624,7 +678,11 @@
   {
    "gun": "2026-11-04",
    "deger": 174.7091
+  },
+  {
+   "gun": "2026-11-05",
+   "deger": 168.8951
   }
  ],
- "son_kontrol": 1793800800000
+ "son_kontrol": 1793887200000
 }
